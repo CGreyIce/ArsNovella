@@ -175,11 +175,11 @@ He counted, without meaning to.
 
 Thirty-four winters, here. Thirty-four years of snow on this lake, or lakes like it. Thirty-four years since he'd opened his eyes as a baby in a commoner's house and thought, in a language nobody around him spoke, *where am I?*
 
-And for them, three.
+And for them?
 
-Three winters, in a world where the fan still clicked on every third turn in an empty room in Malacca, and his father had probably remarried, and somewhere a group chat had gone quiet one night and never quite started up again. Three years. They'd come here missing someone they'd lost three years ago, and he'd been gone for thirty-four.
+He didn't know. He'd never let himself work it out. They'd come through the floor looking exactly the way he remembered them, but that proved nothing: most of them wore faces they'd drawn for themselves, and drawn faces don't age. Thirty-four years, then, probably, back there too. A world that had gone on without him. The fan in the empty room in Malacca long since thrown away. His father old by now, or gone. A group chat that had gone quiet one night and never started up again, and every one of them grown up and grown older and come here carrying someone they'd lost half a lifetime ago.
 
-He'd thought, once, that the difference would be unbearable. That it would always stand between them like a wall.
+He'd thought, once, that all those years would be unbearable. That they would always stand between them like a wall.
 
 Standing on the jetty in the snow, with his daughter asleep in the cabin behind him and a girl he'd once watched on a screen holding her first flame on the hill, he didn't think it was a wall anymore.
 
