@@ -1,6 +1,6 @@
 # ArsNovella
 
-**Three Years Late**, an isekai web novel, published at https://cgreyice.github.io/ArsNovella/
+***The Fisherman of Lake Ilse*** (*I Got Isekaied, Became the Hero, and Retired to a Slow Life, Except 35 of My Friends Just Transmigrated to Slay the Demon King*), an isekai web novel, published at https://cgreyice.github.io/ArsNovella/
 
 ## Adding a chapter
 
@@ -11,6 +11,6 @@
 ## Reader features
 
 - Reader settings (saved in the browser): theme (Dark, Light, Sepia, Lake, or custom colours), font, size, line and paragraph spacing, text width.
-- **Listen:** read-aloud with the browser's own voices (Web Speech API). It highlights and follows the paragraph being read, has a speed and voice choice, and can carry on into the next chapter. Tap any paragraph to read from there.
-- Plain, semantic chapter HTML, so browser reader views and read-aloud tools (Firefox, Safari, Edge Immersive Reader) work too.
+- Plain, semantic chapter HTML, so browser reader views (Firefox, Safari, Edge Immersive Reader) work too.
+- Status windows: a paragraph written as `[ Name · Tier 0: Initiate ]` renders as a status-window box.
 - Previous / next chapter, a chapter jump menu, the ← → keys, fullscreen, a progress bar, and "Continue" from where you stopped.

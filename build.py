@@ -31,15 +31,10 @@ WPM = 230
 ICONS = {
     "book": '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',
     "list": '<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>',
-    "listen": '<path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/>',
     "settings": '<path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/>',
     "full": '<path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/>',
     "prev": '<path d="M15 18l-6-6 6-6"/>',
     "next": '<path d="M9 18l6-6-6-6"/>',
-    "play": '<path d="M7 4.5l12 7.5-12 7.5z" fill="currentColor"/>',
-    "pause": '<path d="M7 4h3v16H7zM14 4h3v16h-3z" fill="currentColor"/>',
-    "back": '<path d="M19 20L9 12l10-8v16z" fill="currentColor"/><path d="M5 19V5"/>',
-    "fwd": '<path d="M5 4l10 8-10 8V4z" fill="currentColor"/><path d="M19 5v14"/>',
     "close": '<path d="M18 6L6 18M6 6l12 12"/>',
 }
 
@@ -86,7 +81,8 @@ def parse_chapter(path):
             parts.append('<hr class="scene">')
             continue
         line = " ".join(l.strip() for l in b.splitlines())
-        parts.append(f"<p>{inline(line)}</p>")
+        cls = ' class="status-window"' if re.fullmatch(r"\[.*\]", line) else ""  # [ Name · Tier 0 ... ]
+        parts.append(f"<p{cls}>{inline(line)}</p>")
         clean = re.sub(r"\*+", "", line)
         words += len(clean.split())
         plain.append(clean)
@@ -157,14 +153,7 @@ def settings_drawer():
       {rng("ps", "Paragraph spacing", 0, 3, 0.1, "em")}
       {rng("width", "Text width", 40, 100, 1, "%")}
     </section>
-    <section class="tts-settings"><h3>Read aloud</h3>
-      <p class="note" data-tts-unsupported hidden>Your browser doesn't support read-aloud. Try Chrome, Edge or Safari.</p>
-      <label class="row"><span class="lbl">Voice</span><select data-setting="voice"><option value="">Browser default</option></select></label>
-      {rng("rate", "Speed", 0.5, 2, 0.1, "×")}
-      <label class="check"><input type="checkbox" data-setting="autoscroll"> Follow along (scroll to the paragraph being read)</label>
-      <label class="check"><input type="checkbox" data-setting="autonext"> Keep going into the next chapter</label>
-    </section>
-    <p class="note">You can also use your browser's own reader view or read-aloud tool: the chapter text is plain, semantic HTML. <kbd>←</kbd> <kbd>→</kbd> change chapter.</p>
+    <p class="note">Chapters are plain, semantic HTML, so your browser's own reader view works too. <kbd>←</kbd> <kbd>→</kbd> change chapter.</p>
     <button type="button" class="btn ghost" data-reset>Reset to defaults</button>
   </div>
 </aside>"""
@@ -177,7 +166,8 @@ def chapter_page(novel, chapters, i):
     next_c = chapters[i + 1] if i + 1 < len(chapters) else None
     href = lambda ch: f'{root}read/{ch["n"]}/'
     vol = novel["volumes"].get(str(c["volume"]), f'Volume {c["volume"]}')
-    page_title = f'{c["label"]}: {c["title"]} | {novel["title"]}' if c["title"] else f'{c["label"]} | {novel["title"]}'
+    short = novel["short_title"]
+    page_title = f'{c["label"]}: {c["title"]} | {short}' if c["title"] else f'{c["label"]} | {short}'
     links = ""
     if prev_c:
         links += f'<link rel="prev" href="{href(prev_c)}">\n'
@@ -198,10 +188,9 @@ def chapter_page(novel, chapters, i):
     return head(page_title, c["summary"], root, links) + f"""<body class="reader" data-root="{root}" data-n="{c["n"]}" data-label="{esc(c["label"])}" data-title="{esc(c["title"])}" data-prev="{href(prev_c) if prev_c else ""}" data-next="{href(next_c) if next_c else ""}">
 <a class="skip" href="#chapter">Skip to the chapter</a>
 <header class="topbar">
-  <a class="brand" href="{root}" title="Series details">{icon("book")}<span>{esc(novel["title"])}</span></a>
+  <a class="brand" href="{root}" title="Series details">{icon("book")}<span>{esc(short)}</span></a>
   <div class="tools">
     <a class="tool" href="{root}#chapters" title="All chapters">{icon("list")}<span>Chapters</span></a>
-    <button type="button" class="tool" data-listen title="Listen (read aloud)">{icon("listen")}<span>Listen</span></button>
     <button type="button" class="tool" data-open-settings title="Reader settings">{icon("settings")}<span>Settings</span></button>
     <button type="button" class="tool" data-fullscreen title="Fullscreen">{icon("full")}<span>Fullscreen</span></button>
   </div>
@@ -211,7 +200,7 @@ def chapter_page(novel, chapters, i):
   {nav("top")}
   <article class="chapter" id="chapter">
     <header class="chapter-head">
-      <p class="kicker"><a href="{root}">{esc(novel["title"])}</a> · {esc(vol)}</p>
+      <p class="kicker"><a href="{root}">{esc(short)}</a> · {esc(vol)}</p>
       <p class="label">{esc(c["label"])}</p>
       <h1>{esc(c["title"] or c["label"])}</h1>
       <p class="meta">{c["words"]:,} words · {c["minutes"]} min read</p>
@@ -223,13 +212,6 @@ def chapter_page(novel, chapters, i):
   {end_note}
   {nav("bottom")}
 </main>
-<div class="tts-bar" id="tts" hidden role="region" aria-label="Read aloud controls">
-  <button type="button" class="icon-btn" data-tts="back" aria-label="Previous paragraph">{icon("back")}</button>
-  <button type="button" class="icon-btn play" data-tts="toggle" aria-label="Play">{icon("play")}{icon("pause")}</button>
-  <button type="button" class="icon-btn" data-tts="fwd" aria-label="Next paragraph">{icon("fwd")}</button>
-  <span class="tts-status" data-tts-status aria-live="polite">Ready</span>
-  <button type="button" class="icon-btn" data-tts="close" aria-label="Stop and close">{icon("close")}</button>
-</div>
 {settings_drawer()}
 </body>
 </html>
@@ -253,8 +235,8 @@ COVER = """<svg class="cover-art" viewBox="0 0 300 420" role="img" aria-label="C
   <path d="M160 240 v-14 m0 -2 a4 4 0 1 1 0.1 0" stroke="#081119" stroke-width="4" fill="#081119"/>
   <path d="M162 228 Q 196 186 232 176" stroke="#081119" stroke-width="1.6" fill="none"/>
   <path d="M232 176 Q 238 220 236 262" stroke="#cfd8df" stroke-width=".7" fill="none" opacity=".7"/>
-  <text x="150" y="350" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="27" letter-spacing="3">THREE YEARS</text>
-  <text x="150" y="384" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="27" letter-spacing="3">LATE</text>
+  <text x="150" y="342" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="14" letter-spacing="5">THE FISHERMAN</text>
+  <text x="150" y="380" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="30" letter-spacing="2">OF LAKE ILSE</text>
   <text x="150" y="408" text-anchor="middle" fill="#8fd3c9" font-family="Inter, sans-serif" font-size="11" letter-spacing="4">ICE</text>
 </svg>"""
 
@@ -276,9 +258,9 @@ def series_page(novel, chapters):
             for c in chs)
         lists += f'<section class="volume"><h3>{esc(novel["volumes"].get(v, "Volume " + v))}</h3><ol class="chapter-list">{rows}</ol></section>'
     first = f'read/{chapters[0]["n"]}/' if chapters else "#"
-    return head(f'{novel["title"]}', novel["tagline"], root) + f"""<body class="series">
+    return head(f'{novel["short_title"]} | {novel["title"]}', novel["tagline"], root) + f"""<body class="series">
 <header class="topbar">
-  <a class="brand" href="./">{icon("book")}<span>{esc(novel["title"])}</span></a>
+  <a class="brand" href="./">{icon("book")}<span>{esc(novel["short_title"])}</span></a>
   <div class="tools">
     <button type="button" class="tool" data-open-settings title="Reader settings">{icon("settings")}<span>Settings</span></button>
   </div>
@@ -287,6 +269,7 @@ def series_page(novel, chapters):
   <section class="hero">
     <div class="cover">{COVER}</div>
     <div class="info">
+      <p class="eyebrow">{esc(novel["short_title"])}</p>
       <h1>{esc(novel["title"])}</h1>
       <p class="tagline">{esc(novel["tagline"])}</p>
       <p class="byline">by {esc(novel["author"])}</p>
