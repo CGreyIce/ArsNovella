@@ -23,6 +23,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SRC = ROOT / "src"
+SITE = "https://cgreyice.github.io/ArsNovella/"
 OUT = ROOT / "docs"
 FONTS = ("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400"
          "&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap")
@@ -114,6 +115,8 @@ def head(title, desc, root, extra=""):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="book">
+<meta property="og:image" content="{SITE}assets/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#15181d">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -245,6 +248,14 @@ COVER = """<svg class="cover-art" viewBox="0 0 300 420" role="img" aria-label="C
 </svg>"""
 
 
+def cover_html():
+    """The cover image if src/cover.jpg exists, else the drawn SVG placeholder."""
+    if (SRC / "cover.jpg").exists():
+        return ('<img class="cover-art" src="assets/cover.jpg" width="800" height="1200" '
+                'alt="Cover: The Fisherman of Lake Ilse, a fisherman on a jetty at dusk">')
+    return COVER
+
+
 def series_page(novel, chapters):
     root = ""
     total_words = sum(c["words"] for c in chapters)
@@ -271,7 +282,7 @@ def series_page(novel, chapters):
 </header>
 <main class="wrap series-wrap">
   <section class="hero">
-    <div class="cover">{COVER}</div>
+    <div class="cover">{cover_html()}</div>
     <div class="info">
       <p class="eyebrow">{esc(novel["short_title"])}</p>
       <h1>{esc(novel["title"])}</h1>
@@ -316,6 +327,11 @@ def main():
 
     for f in ("reader.css", "reader.js"):
         write(f"assets/{f}", (SRC / f).read_text(encoding="utf-8"))
+    if (SRC / "cover.jpg").exists():
+        p = OUT / "assets/cover.jpg"
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_bytes((SRC / "cover.jpg").read_bytes())
+        written.add(p.resolve())
     write(".nojekyll", "")
     write("index.html", series_page(novel, chapters))
     for i, c in enumerate(chapters):
