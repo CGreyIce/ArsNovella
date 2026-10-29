@@ -121,7 +121,7 @@ Because they started telling stories. Not on purpose. Just the way you do, when 
 
 One by one, they nodded.
 
-Gigichi didn't say anything for a while. Then she said, "He sent me a message once. When I'd gone quiet for a month and nobody else noticed. He just said *you okay?* I never answered." She looked at the table. "I should have answered."
+Gigichi didn't say anything for a while. Then she said, "He gifted me subs. Even when I was barely streaming anymore. Like he was keeping a seat warm for me." She pulled at a loose thread on her sleeve. "He sent me a message once. When I'd gone quiet for a month and nobody else noticed. He just said *you okay?* I never answered." She looked at the table. "I should have answered."
 
 The fire popped. Nobody said anything for a moment.
 
