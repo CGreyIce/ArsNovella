@@ -39,6 +39,8 @@ Gigichi didn't shriek. She wasn't a shrieker. She sat where she was and watched 
 
 She didn't say anything. She just reached across the table and squeezed Higu's hand once, briefly, the way you'd tap someone's shoulder in a game to say *I see you*. And Higu looked at her, and something in her face eased, very slightly.
 
+Six years, they'd been friends, she and Higu. Longer than Gigichi had been friends with almost anyone. You learned somebody's face in six years, even through a screen. You learned what the calm was covering.
+
 "Rule three," said Higu. "Good news loudly." And she opened her window and wrote it in the channel, and three seconds later Maigo, on the other side of the kingdom, had replied in capitals so large Gigichi could practically hear them:
 
 [ Maigo: THIRD

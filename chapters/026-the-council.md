@@ -179,7 +179,7 @@ Yan's letter was careful and slow, like Yan. He'd met Salty and Wendy and Maigo 
 
 Kei's letter said much the same, in a different shape, with three rude comments from Hisui in the margins.
 
-Higu's was the longest. Five girls, all met through Xola, lines like spokes into a hub. And then, scattered through it, as if she hadn't quite meant to put it in: a friend who'd modded her chat. Who'd raided Thea. Who'd played word games with PenguChi. Who'd sent Gigichi a message nobody else had thought to send.
+Higu's was the longest. Five girls, all met through Xola, lines like spokes into a hub, and one short line across the rim that didn't go through the middle: Higu to Gigichi, six years. And then, scattered through it, as if she hadn't quite meant to put it in: a friend who'd modded her chat. Who'd raided Thea. Who'd played word games with PenguChi. Who'd sent Gigichi a message nobody else had thought to send.
 
 Higu didn't say *he's the one we all knew.* She didn't draw that line. But she'd written his name four times in three pages, and Aleaka read it aloud four times, and by the fourth time her voice had started to shake.
 

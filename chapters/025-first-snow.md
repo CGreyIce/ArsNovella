@@ -105,6 +105,10 @@ It was easy at first. They all knew how *they'd* met.
 
 Higu drew the lines. They all ran into Xola, in the middle of the page, like spokes into a hub. Xola beamed at it.
 
+Then Higu drew one more, without saying anything. A short one, across the rim of the wheel, that didn't go through the middle at all: from her own name to Gigichi's. Six years, that line. Longer than most of the spokes.
+
+Gigichi looked at it, and looked away, and didn't say anything either. But she didn't look annoyed.
+
 "Okay," said Higu. "That's us. Now: anyone outside the group. Anyone in the other groups, or anyone who isn't here, who connects to more than one of us. Anyone we all knew."
 
 And that was where it got strange.
