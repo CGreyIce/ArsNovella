@@ -11,7 +11,7 @@ Not the whole of it. Not like holding a hand. More like the end of a thread: a s
 
 He'd found it out by accident, in the first week, at the grave. He'd stood beside the healer's cairn on the Redmarch and felt the old grief worn into the ground there, deep and smooth, like a step worn by a thousand feet. And under it, something else. Something cold, that had been *done* to someone. He'd pulled back from it so fast he'd nearly fallen over. But a little of it had come with him, caught on him like a burr on a sleeve. And it had never quite come off.
 
-He could still feel it now, if he wanted to. Ten months later, half a day's walk away, sitting on the wall of Cinderhold with his eyes closed. A small cold knot, far out in the red, under the flowers. Waiting.
+He could still feel it now, if he wanted to. Ten months later, an hour's walk away, sitting on the wall of Cinderhold with his eyes closed. A small cold knot, far out in the red, under the flowers. Waiting.
 
 He didn't tell anyone about that. He'd told Aldous about the cold under the grave, in the autumn, and watched Aldous's face, and decided that was enough. Some things you turned over on your own for a long time before you set them down in front of anyone else.
 

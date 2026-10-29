@@ -309,4 +309,4 @@ But she lay there in the dark, turning the little star on its chain between her 
 
 *Six days*, she thought.
 
-Out on the red, two days' walk away, a ring of white and blue flowers and a young green tree were waiting by a grave for a sword that, though none of them knew it yet, would not come back to it the way any of them expected.
+Out on the red, an hour's walk away, a ring of white and blue flowers and a young green tree were waiting by a grave for a sword that, though none of them knew it yet, would not come back to it the way any of them expected.
