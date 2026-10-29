@@ -113,11 +113,13 @@ Because they started telling stories. Not on purpose. Just the way you do, when 
 
 "He modded my chat," said Higu. "Two years. That's how I met half the people in the other groups, honestly. Through his friends."
 
-"He was in my chat all the time," said Xola. "Every stream. Being *so* annoying."
+"He was in my chat all the time," said Xola. "Every stream. Being *so* annoying. And gifting subs like it was nothing, every single time I went live."
 
 "He was in mine," said PenguChi. "Word games. He always won."
 
-"He used to raid me," said Thea quietly. "When I was small. Before anyone else did."
+"He used to raid me," said Thea quietly. "When I was small. Before anyone else did. And gift subs, when nobody else was." She looked round the table. "He raided all of us. Didn't he? Every one of us, at some point."
+
+One by one, they nodded.
 
 Gigichi didn't say anything for a while. Then she said, "He sent me a message once. When I'd gone quiet for a month and nobody else noticed. He just said *you okay?* I never answered." She looked at the table. "I should have answered."
 
