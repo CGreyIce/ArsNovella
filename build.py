@@ -244,7 +244,7 @@ COVER = """<svg class="cover-art" viewBox="0 0 300 420" role="img" aria-label="C
   <path d="M232 176 Q 238 220 236 262" stroke="#cfd8df" stroke-width=".7" fill="none" opacity=".7"/>
   <text x="150" y="342" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="14" letter-spacing="5">THE FISHERMAN</text>
   <text x="150" y="380" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="30" letter-spacing="2">OF LAKE ILSE</text>
-  <text x="150" y="408" text-anchor="middle" fill="#8fd3c9" font-family="Inter, sans-serif" font-size="11" letter-spacing="4">ICE</text>
+  <text x="150" y="408" text-anchor="middle" fill="#8fd3c9" font-family="Inter, sans-serif" font-size="11" letter-spacing="4">CGREYICE</text>
 </svg>"""
 
 
