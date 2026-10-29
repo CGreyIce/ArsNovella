@@ -69,7 +69,7 @@ def inline(s):
 
 
 def parse_chapter(path):
-    text = path.read_text(encoding="utf-8")
+    text = path.read_text(encoding="utf-8").replace("\r\n", "\n")  # git may check out CRLF
     m = re.match(r"---\n(.*?)\n---\n(.*)", text, re.S)
     if not m:
         raise SystemExit(f"{path.name}: missing front matter")
