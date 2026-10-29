@@ -167,7 +167,7 @@ Thea read them over twice. Then she looked at Higu with an odd expression.
 
 She'd thought about Ice all afternoon. She couldn't help it.
 
-He'd modded her chat. That was how she'd known him. A name in the mod list, always there, always green, at every hour of the night. Entertaining the chat when she went quiet. Timing out the trolls before she even saw them. Making jokes she'd laugh at on stream without knowing which of the hundreds of names they'd come from, until she started recognising the rhythm.
+He'd modded her chat. That was how she'd known him. A name in her chat with the little green sword beside it, always there, at every hour of the night. Entertaining the chat when she went quiet. Timing out the trolls before she even saw them. Making jokes she'd laugh at on stream without knowing which of the hundreds of names they'd come from, until she started recognising the rhythm.
 
 He'd once banned a man for being horrible about her, and then, in the ban reason, which only the man and the mods would ever see, he'd written an apology. Not to Higu. To the man. A whole little poem, four lines, rhyming, very sincere, about how he was sorry that the man was clearly having such a bad day that he'd come into a stranger's chat to be cruel, and that he hoped tomorrow would be better, and that he was still banned. *Trust.*
 
@@ -252,9 +252,9 @@ It came up so fast that Higu couldn't keep up with it. Line after line, from eve
 Jared: we are SO back
 Winter: this is insane
 Bee: Finally.
-Mashi: i can see it twice
-Mashi: no wait just once
-Mashi: ok
+Nikorasu: i can see it twice
+Nikorasu: no wait just once
+Nikorasu: ok
 PenguChi: hi everyone ☺
 Rachael: hi!!!!!!!!!
 Calvin: does this cost anything to use
@@ -481,7 +481,7 @@ He looked at the list of names along the edge of the panel. Thirty-five. All of 
 
 There'd been a word for that, in the old world. For the one person in a server who could see every channel and wasn't in any of them.
 
-He'd been that, for Higu, once. A green name in a mod list, at three in the morning.
+He'd been that, for Higu, once. A name with a little green sword beside it, at three in the morning.
 
 He supposed he still was.
 
