@@ -7,13 +7,15 @@ date: 2026-10-30
 
 RX was fast.
 
-He'd always been fast. He talked fast; his mother used to say he talked like a man who'd been told the world was ending at noon. He thought fast. He'd played osu! for six years at a level that made other people stop and watch over his shoulder: circles coming up on the screen to the beat of a song, hundreds of them, a thousand, and you had to click each one exactly when the ring closed round it, and RX could do it at speeds that made Declan put his headset down on the desk and say *that's not human. That's a medical condition.*
+He'd always been fast. He talked fast; his mother used to say he talked like a man who'd been told the world was ending at noon. He thought fast. He'd played osu! for six years at a level that made other people stop and watch over his shoulder: circles coming up on the screen to the beat of a song, hundreds of them, a thousand, and you had to click each one exactly when the ring closed round it, and RX could do it at speeds that made people in poly put their headsets down on the desk and say *that's not human. That's a medical condition.*
 
-Declan had been terrible at osu!.
+And Declan had been better.
 
-Truly terrible. Not funny-terrible, the way he'd been at Apex, dying loudly and narrating it. Just bad. Slow. Late on every circle. He'd never once got past the easy songs. And he'd played it anyway, for years, every week, on a call with RX at midnight, because RX liked it. Because RX had said once, in poly, that it was the only game where he ever felt like his hands were going as fast as his head. And Declan had said *show me*, and been bad at it for six years, on purpose, so that RX would have someone to play it with.
+That was the thing nobody outside the two of them ever quite believed. Declan, who died loudly in Apex and narrated it, who whiffed AWP shots and blamed the server. At osu! he'd been the best of all of them. Not a little better. Better in a way RX could see and couldn't touch. He played Hidden on everything: the mod that takes the circles away before you click them, so that you're hitting empty air where something used to be, on rhythm and memory and nothing else. He'd play a map RX couldn't pass on normal, with Hidden on, half asleep, at two in the morning, talking the whole time, and full combo it.
 
-RX hadn't understood that until after. Until three years after, in another world, writing it down in the channel for Hako's book: *He was so bad at osu. He kept playing it anyway because I liked it.* He'd written it, and read it back, and had to go and stand in the yard for a while.
+RX had chased his scores for six years. Every week, on a call at midnight, the two of them. He'd never once caught him.
+
+He'd written it in the channel, in the summer, for Hako's book: *He was the best of all of us at osu. I chased his scores for six years and never caught him.* He'd read it back and had to go and stand in the yard for a while. Because it was the only game in the world where RX's hands had ever felt as fast as his head, and the one person who'd been faster had spent six years on a call at midnight, every week, showing him how.
 
 They'd drifted, at the end. That was the other thing. Declan had moved to Malacca, and the midnight calls had gone from every week to every month to sometimes, the way things do, and nobody had decided it. RX had meant to fix it. He'd meant to fly up for Declan's birthday. He'd had the date in his phone. He'd had it in his phone for two years.
 
@@ -219,11 +221,13 @@ He crouched down. He let the aura come up. And he thought, for some reason, abou
 
 ***
 
-About the last song he'd ever played with Declan.
+About the last map he'd ever played with Declan.
 
-He didn't know why he thought about it. It just came up, the way things came up when you were very tired. A midnight call, a year before. Before they'd drifted the rest of the way. An easy song, the kind Declan could almost do. And Declan, halfway through it, missing every third circle as usual, saying on the call, quite seriously, *you know what the secret is? The secret is you don't click the circle. You wait till the circle isn't there anymore. And then it's already clicked.*
+He didn't know why he thought about it. It just came up, the way things came up when you were very tired. A midnight call, a year before. Before they'd drifted the rest of the way. A hard map, with Hidden on, the kind RX had been failing for a month: the circles fading out of the screen before he could get to them, so he was clicking at nothing, late, guessing, losing the rhythm and the combo and his temper. And Declan, on the call, playing the same map at the same time and not missing anything, saying quite seriously, *you know what the secret is? You don't click the circle. You wait till the circle isn't there anymore. And then it's already clicked.*
 
-It was the stupidest thing anyone had ever said about osu!. It was completely wrong. RX had laughed so hard he'd failed the song.
+It had sounded like the stupidest thing anyone had ever said about osu!. RX had laughed so hard he'd failed the map.
+
+Then he'd played it again, and stopped looking for the circles, and let them go, and hit the empty air where they'd been, on the beat, without seeing anything at all. And passed it. For the first time. Declan had said *told you* on the call, and *trust*, and RX had never forgotten it.
 
 He thought about it now, crouched behind the water butt in another world, with his aura folded up in a box, humming.
 
@@ -279,7 +283,7 @@ The slot wasn't silver anymore. It wasn't grey. It was just a word, like any oth
 
 The eleventh. Of thirty-five.
 
-He started talking. He couldn't help it. "I didn't fold it. That's the thing. You said get rid of the box and I never knew what that meant, I thought it meant fold it smaller, and it doesn't, it means *don't*, you just *don't*, you let it go and you don't put it anywhere, and he said, Declan said, years ago, about osu!, he said you don't click the circle you wait till it isn't there, and it was so *stupid*, it was the stupidest thing he ever—"
+He started talking. He couldn't help it. "I didn't fold it. That's the thing. You said get rid of the box and I never knew what that meant, I thought it meant fold it smaller, and it doesn't, it means *don't*, you just *don't*, you let it go and you don't put it anywhere, and he said, Declan said, years ago, about osu!, about Hidden, he said you don't click the circle you wait till it isn't there, and it sounded so *stupid*, and it was *right*, it was right the whole time—"
 
 "RX," said Petra.
 
@@ -325,9 +329,9 @@ RX sat on the wall for a long time after that.
 
 He thought about a date in his phone. Two years. A birthday he'd meant to fly up for, and kept meaning to, and kept saying *next month*, the way you do, because there was always going to be a next month.
 
-He thought about a man who'd played a game he was terrible at, every week, for six years, because RX liked it.
+He thought about a man who'd been faster than him at the one thing he was fastest at, and had spent six years on a call at midnight, every week, teaching him to catch up.
 
-"Spring," he said, to the river. Out loud. Fast, the way he said everything. "I'm coming in the spring. Not next month. Not sometime. Spring. You'd better be there." He stopped. "And you'd better have got better at osu!, because I'm going to make you play."
+"Spring," he said, to the river. Out loud. Fast, the way he said everything. "I'm coming in the spring. Not next month. Not sometime. Spring. You'd better be there." He stopped. "And you'd better not have got rusty at osu!, because I'm going to beat you this time. With Hidden on."
 
 The river ran north in the dark, toward the lakes.
 

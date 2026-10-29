@@ -118,7 +118,7 @@ Malcolm: He and I used to talk to everyone. Every single person in our class. We
 Malcolm: I kept saying I'd visit next year. ]
 
 [ John: I was on his facecam streams. Every single one. He'd make me hold things up to the camera. A banana. A cat. Once, my own shoe.
-RX: osu. He was so bad at osu. He kept playing it anyway because I liked it.
+RX: osu. He was the best of all of us at osu. I chased his scores for six years and never caught him. He played Hidden on everything like it was nothing.
 RX: I was going to go up for his birthday.
 Azac: He was always our tank. Every MMO. First in, last out. When he was gone there was a hole at the front of the party and none of us knew how to stand in it. ]
 
