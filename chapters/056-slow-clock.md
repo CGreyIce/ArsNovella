@@ -227,9 +227,9 @@ The books. Group 2's books, that came down from the north, the books Higu had wr
 
 The Latin on the sword. *Ad astra per aspera.* And Gabe and Deston and Xav and John: *Declan loved Latin. Every status. Every Steam group.*
 
-The windows. Written in English, all the way down, from the very first one. A first window that was still running. That everyone's had been copied from. That the channel was hooked into.
+The windows. Written in English, all the way down. Every one of them, theirs and the natives' alike, written by someone who'd thought like a gamer and spoken their language.
 
-The Hero of the Redmarch, who'd had a window before anyone. Who'd taught it to the Advisor. Who'd given the kingdom its words for it. *Status. Inventory. Skills.*
+The Hero's words. *Status. Inventory. Skills.* English, in every native mouth in the kingdom, for as long as anyone could remember.
 
 It lay there on the table between them, all of it, in the candlelight, like the pieces of a puzzle they'd been carrying around in separate pockets for a year.
 
@@ -275,36 +275,6 @@ Thea looked at her.
 
 ***
 
-And then Thea understood the other thing.
-
-It came all at once, the way the first thought had come: up from underneath, quietly, and then suddenly there. She felt the blood go out of her face.
-
-"Oh," she said. "Oh, no."
-
-"What?" said Higu.
-
-"The channel." Thea's hands were shaking so badly she had to put the candle down. "It's hooked into the first window. I told everyone. The first night. *Whoever that was, wherever they are, technically they can read this too.*" She looked at Higu. "Gu. It's *his* window. The first one. The one everything's copied from."
-
-Higu had gone very still.
-
-"He can read it," said Thea. "He can read *all of it*. He's been reading it since the first night. Every line. I built a chat for thirty-five people, and there were thirty-six." She laughed, a horrible shaky laugh. "*Hi, whoever you are. Thanks for the windows.* I said *hi* to him. I said *thanks*."
-
-"The night Hako asked," said Higu, very quietly. "What he was like."
-
-They all went still.
-
-Thirty-four people, telling a boy in Valcrest what their dead friend had been like. The kettle. The choir. The ban poem. *I'm answering now.* *It was the right answer.* *You're cute when you're bossy.* All of it, in the channel, one line after another, all night.
-
-And at the end of a jetty on a lake, a mile below them, a man reading every word.
-
-"He read all of it," whispered Xola. "He *read* it. All of us. Saying all those things." She put her face in her hands. "Oh, he read all of it."
-
-PenguChi was crying now. Quietly. The first time Thea had seen her cry all year.
-
-"I hope he did," PenguChi said softly. "I hope he read every single one."
-
-***
-
 It was Higu who saw the last thing. Of course it was.
 
 "Thea," she said. "The slow clock."
@@ -331,17 +301,19 @@ They looked at her.
 
 "She's never told him," said Higu.
 
-"That's why," said Thea slowly. "Rule five. *Don't write my name in the channel.* That's why she went pale. It wasn't about her name. Or not only." She looked at the window. At the lake, grey now, under the coming dawn. "She knew he'd be reading. And she knew that if any of us ever put the three years in the channel, he'd find out. From a list of forty lines. From strangers. At two in the morning."
+"That's why," said Thea slowly. "Rule five. *Don't write my name in the channel. Not my dad. Not the fish.*" She looked at the window. At the lake, grey now, under the coming dawn. "She's been standing in front of him. All year. Every single day, coming up the hill with that basket. Standing between him and all of us."
 
-"Like Leaka nearly did," said Higu softly.
+"And carrying that," said Higu softly. "On her own."
 
 The room was very quiet.
 
-"If I post the slow clock," said Thea, "he reads it."
+"If I post the slow clock," said Thea, "everyone does the sum."
 
 Nobody answered.
 
-"Everyone needs to know," said Thea. "Everyone's families. Everyone's mums. A month, not a year. They *need* to know." Her voice cracked. "And the second I write it, he finds out that his dad's alive. From *me*. In a chat. And Alea doesn't get to be the one who tells him."
+"Everyone needs to know," said Thea. "Everyone's families. Everyone's mums. A month, not a year. They *need* to know." Her voice cracked. "But the moment I write it, thirty people are going to sit down and do exactly what Gu just did. Three years, times eleven. And Gabe and Deston and Xav and Aleaka are going to look at that number, and at the books, and at the Latin, and they're going to know he's alive." She swallowed. "And then they're going to want to know *where*."
+
+"And somebody has to tell *him*," said PenguChi quietly. "About his dad. That it's only been three years." She looked down at Waddles, asleep on her feet. "And it shouldn't be us. It should be her."
 
 ***
 
@@ -375,7 +347,7 @@ Thea wrote the letter that morning, at the table in the common room, while the o
 
 She sealed it with a blue strip, and gave it to Bram to take down to the king's rider.
 
-She didn't write anything else. She didn't write *I think I know where he is*. She didn't write *he's been reading every word we wrote*. She didn't write *his dad*.
+She didn't write anything else. She didn't write *I think I know where he is*. She didn't write *he brought us fish for a year*. She didn't write *his dad*.
 
 She just sat there, afterwards, at the window, and looked down the long slope of the fields to the lake.
 
