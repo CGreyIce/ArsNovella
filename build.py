@@ -80,9 +80,13 @@ def parse_chapter(path):
         if re.fullmatch(r"(\*\s*){3,}", b):
             parts.append('<hr class="scene">')
             continue
-        line = " ".join(l.strip() for l in b.splitlines())
-        cls = ' class="status-window"' if re.fullmatch(r"\[.*\]", line) else ""  # [ Name · Tier 0 ... ]
-        parts.append(f"<p{cls}>{inline(line)}</p>")
+        rows = [l.strip() for l in b.splitlines()]
+        line = " ".join(rows)
+        if len(rows) > 1 and re.fullmatch(r"\[.*\]", line):  # a multi-line box (chat log): keep one row per line
+            parts.append('<p class="status-window">' + "<br>".join(inline(r) for r in rows) + "</p>")
+        else:
+            cls = ' class="status-window"' if re.fullmatch(r"\[.*\]", line) else ""  # [ Name · Tier 0 ... ]
+            parts.append(f"<p{cls}>{inline(line)}</p>")
         clean = re.sub(r"\*+", "", line)
         words += len(clean.split())
         plain.append(clean)

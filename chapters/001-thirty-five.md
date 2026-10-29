@@ -197,13 +197,13 @@ She sat where she'd woken, a fluffy purple tail curled around her ankles (she ha
 
 She watched the soldiers, and who they looked at for orders: the grey man on the dais. He was studying every face in the hall, one by one, as if he were counting them. As if he were committing them to memory. He stopped on the girl with golden horns, the one crying at the ceiling, and stayed there a long time.
 
-"Alice." Milli's hand found hers. There were brown cat ears in her husband's hair and an expression of deep, impatient disbelief on his face. "You okay?"
+"Honey." Milli's hand found hers. There were brown cat ears in her husband's hair and an expression of deep, impatient disbelief on his face. "You okay?"
 
 "I'm fine. You?"
 
 "I have a tail," said Milli. "I have opinions about it."
 
-Beside them, Aleaka had both hands raised to the big black-tipped fox ears that had replaced her own. "I'm— sorry, I'm a *fox,*" she said, stumbling over it the way she did when something mattered too much. "Alice, that's not a normal thing to be."
+Beside them, Aleaka had both hands raised to the big black-tipped fox ears that had replaced her own. "I'm— sorry, I'm a *fox,*" she said, stumbling over it the way she did when something mattered too much. "Hana, that's not a normal thing to be."
 
 "Looks good on you," said Jared, leaning against a pillar, so completely unruffled that Hanarisu knew he was rattled to the bone. His hand kept closing on nothing, as if there should have been something in it.
 

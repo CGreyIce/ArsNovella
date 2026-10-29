@@ -111,7 +111,7 @@ Heads turned. Rachael flushed and lifted her chin anyway.
 
 "I've been sick my whole life. My immune system's been broken since I was a kid. And he walked over and touched my wrist, and it's—" She pressed her hand flat to her chest. "It's gone. I can feel it's gone. So I don't know about the rest of you, but I'm going to hear him out."
 
-Aleaka leaned close to Hanarisu's ear. "He means it," she breathed. "Alice, look at him. People who are lying don't look that *sorry.*"
+Aleaka leaned close to Hanarisu's ear. "He means it," she breathed. "Hana, look at him. People who are lying don't look that *sorry.*"
 
 Hanarisu looked at him. Aleaka was right. That was the most dangerous thing about him.
 
@@ -239,7 +239,7 @@ Hanarisu was one of the last to leave.
 
 At the door she glanced back once, at the grey man standing alone on the dais with what was left of his light. He was looking at the golden-horned girl as she went out with her friends, and his face was very thoughtful.
 
-"Alice?" said Milli. "You coming?"
+"Honey?" said Milli. "You coming?"
 
 "Yes," she said, and smiled at him, and took his hand.
 
