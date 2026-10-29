@@ -1,6 +1,6 @@
 # ArsNovella
 
-***The Fisherman of Lake Ilse*** (*I Got Isekaied, Became the Hero, and Retired to a Slow Life, Except 35 of My Friends Just Transmigrated to Slay the Demon King*), an isekai web novel, published at https://cgreyice.github.io/ArsNovella/
+***The Fisherman of Lake Ilse*** (*I Got Reincarnated in Another World, Became the Hero, and Retired to a Slow Life, Except 35 of My Friends Just Transmigrated to Slay the Demon King*), an isekai web novel, published at https://cgreyice.github.io/ArsNovella/
 
 ## Adding a chapter
 

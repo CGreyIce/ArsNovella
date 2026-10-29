@@ -23,7 +23,55 @@ The Advisor looked at her with something like regret.
 
 ***
 
+Down the corridor, in the long room where the thirty-five had been given cots for the night, nobody slept much.
+
+Mashi gave up first. He'd been lying on his back reading his status window for an hour, and it had stopped telling him anything new, so he got up to find out what everyone else's said.
+
+It turned out everyone else had the same idea.
+
+By midnight the cots had been dragged into rough circles and the room looked like the last hour of a LAN party: people sitting cross-legged on each other's blankets, windows open, comparing. The layout was the same for all of them. Name, tier, path, skills, inventory. Every *Path* read *none*. Every *Skills* tab was empty. Most of the progress bars sat at zero, or one, or two.
+
+"Forty-eight," said Thea, when Mashi asked, and the room went briefly quiet.
+
+"*How?*" said Malcolm, from two circles over, sounding personally betrayed.
+
+"I don't know." Thea hesitated, then seemed to decide something. "I see it differently. Under the window there's structure. Like code. I can't read most of it yet, but I can see it."
+
+"Show me," said Chris at once, and came over with his blanket around his shoulders like a cape. Cursiffe drifted after him, the ink on the back of his hand already smudged. Within ten minutes the three of them were bent over Thea's window together, Chris asking questions in a language that was mostly programming, Cursiffe asking them in a language that was mostly grammar, and Thea answering both. Mashi listened until he understood about a third of it, which was more than he'd expected.
+
+Over by the windows, Hyvred was going from cot to cot telling people what their light looked like. Everyone had some, she said, very faint, just under the skin. Rachael's was the brightest of anyone who'd arrived as themselves, warm and gold where the Advisor had touched her wrist. Salty's was "like a stove." Mashi's, she told him, was two colours that didn't mix, and she didn't know what that meant.
+
+"Neither do I," said Mashi, and kept it.
+
+Kei explained Hisui to a growing audience, with the weary patience of a man who'd already explained it four times. Only he could hear the snake. The snake had opinions. The snake, at the moment, thought Suzu was very rude for not saying hello.
+
+"She can't talk," said Yan.
+
+Kei listened to something nobody else could hear. "He says that's no excuse."
+
+Suzu hissed. Hisui, apparently, hissed back. Maigo laughed so hard he fell off a cot.
+
+It was nearly two in the morning when Deston said the thing that mattered.
+
+"We're being split up tomorrow," he said. "Seven groups, seven directions. We need a way to keep talking."
+
+"Letters?" said Higu.
+
+"Letters." Deston looked around the room. "The window translates what they say, and what we read. It doesn't help us write their script. So everything we write, we'll write in English." He let that sit. "And nobody in this kingdom can read English."
+
+The room went quiet again, differently.
+
+"So we write to each other," said Xav slowly. "About all of it. What we find. What our windows do. What they don't tell us."
+
+"And nobody reads it but us," said Hanarisu, from her corner. It was the first thing she'd said all night.
+
+They spent the last hour writing down who knew whom, so that every group would have someone to write to. Mashi fell asleep at last with Thea's forty-eight percent still turning over in his head, and the odd certainty that, for the first time since they'd woken on that floor, they had done something the kingdom hadn't planned for.
+
+***
+
 In the morning there were seven wagons in the castle courtyard, and seven pairs of strangers waiting beside them.
+
+At breakfast Deston had asked the Advisor whether letters could travel between the postings, and the Advisor had agreed that they could go with the royal couriers. He hadn't asked what language they would be written in.
 
 Chris liked theirs immediately, because the guide was waving.
 
