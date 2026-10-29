@@ -235,7 +235,7 @@ She stared at it.
 
 "He's the *king*."
 
-"He was a smith first. He's never forgiven anybody for it." Her father dipped the pen. "He saw this sword once. Through a spyglass, from the wall at Cinderhold, the morning after. Afterwards he told me exactly who should have forged it, and how, and what they'd done wrong." He wrote a line. "Then he told me it was good iron anyway. He'll want to see it again. He'll pretend he doesn't. He'll come."
+"He was a smith first. He's never forgiven anybody for it." Her father dipped the pen. "He watched me use this sword once. Through a spyglass, from the wall at Cinderhold, the morning after. Afterwards he told me exactly who should have forged it, and how, and what they'd done wrong." He wrote a line. "Then he told me it was good iron anyway. He'll want to see it again. He'll pretend he doesn't. He'll come."
 
 "The king is going to *come here*?"
 
