@@ -229,9 +229,9 @@ But Rachael had put one hand flat on her chest and was breathing in, long and sl
 
 Gabe came up at his shoulder. He'd been quiet since he woke, which wasn't like him, and he was looking around the hall with an odd expression: the stone, the soldiers, the painted suns.
 
-"Bro," Gabe said. "Ice would have lost his mind."
+"Bro," Gabe said. "Declan would have lost his mind."
 
-Deston laughed before he could stop himself. Then he didn't, because it was true, and it hurt. Ice would have been the first one up. He'd already have a nickname for the grey man, a bit about the soldiers, and some completely untrustworthy promise about how he was going to speedrun this place. *Trust.*
+Deston laughed before he could stop himself. Then he didn't, because it was true, and it hurt. To most of the people in this hall he'd been Ice, a voice in a call. To the two of them, and a handful of others, he'd always been Declan. And Declan would have been the first one up. He'd already have a nickname for the grey man, a bit about the soldiers, and some completely untrustworthy promise about how he was going to speedrun this place. *Trust.*
 
 "Yeah," said Deston. "He would've."
 
@@ -239,7 +239,7 @@ They stood there for a moment, the two of them, in a world their friend would ha
 
 Then Calvin said, "Is that a *dragon* on the ceiling?" and Dennis said, "Forget the dragon, is that real gold?" and the moment was over.
 
-Deston let his gaze travel the hall. He knew more of these faces than he should have. Yan, with a snake around his neck. Aleaka, with fox ears. And by the far pillar—he looked twice—Xav and Malcolm and RX, Ice's friends from polytechnic. Something tugged at him, the shape of a thought, like a word on the tip of his tongue.
+Deston let his gaze travel the hall. He knew more of these faces than he should have. Yan, with a snake around his neck. Aleaka, with fox ears. And by the far pillar—he looked twice—Xav and Malcolm and RX, Declan's friends from polytechnic. Something tugged at him, the shape of a thought, like a word on the tip of his tongue.
 
 "YOU WILL FORM GROUPS OF FIVE," bellowed a herald from the steps, and the shape slipped away.
 

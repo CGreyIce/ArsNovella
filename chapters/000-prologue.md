@@ -74,7 +74,7 @@ There was a pause while all four of them weighed the complete historical record 
 
 "And tomorrow I make history."
 
-Newish was laughing again. Mashi said, "Goodnight, Ice," in the calm, put-together way he said everything. Gabe said, "Sleep, bro. Seriously," and meant it the way he'd meant it since they were kids in the back row of a school choir, trying not to laugh during the quiet part of a song.
+Newish was laughing again. Mashi said, "Goodnight, Ice," in the calm, put-together way he said everything. Gabe said, "Sleep, Declan. Seriously." He was the only one in the call who ever used Ice's real name, and he meant it the way he'd meant it since they were kids in the back row of a school choir, trying not to laugh during the quiet part of a song.
 
 "Goodnight," Ice said. "Love you guys. Except Newish."
 
