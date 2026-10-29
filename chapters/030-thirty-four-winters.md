@@ -43,29 +43,31 @@ Alea came home at a run.
 
 He heard her long before he saw her: feet pounding down the lake road through the snow, much too fast for the ice, and her breath coming in great white gasps. He was back in the cabin by then, by the fire, with the net put away and a pot of something warming. She burst through the door in a gust of cold and snow with her red scarf half off and her ears straight up and her face blazing.
 
-"*Dad.* Dad, Dad, *Dad.* Thea—"
+"*Dad.* Dad, Dad, *Dad*—"
+
+And stopped.
+
+He watched her stop. Watched it come up into her face and catch there, in the doorway, with the snow melting on her shoulders: the thing she'd run all the way down the lake road to tell him, and, standing in front of it, the thing she'd never told him at all.
 
 "I know," said Ars.
 
-She stopped dead in the doorway.
+She went very still. "Know what?"
 
-"You—" She stared at him. "How do you *know?*"
+"That it was a good bonfire." He took the pot off the fire. "I could see the sparks from the jetty."
 
-"I felt it." He took the pot off the fire. "From the jetty."
+For a long moment she just looked at him: at his face, at his hands, at the two cups he'd already set out on the table. Then she let out a breath that went on for a long time, and shut the door, and came in, and sat down at the table, and told him about the bonfire.
 
-Alea stood there with snow melting on her shoulders. For a long moment she just looked at him: at his face, at his hands, at the two cups he'd already set out on the table. As if she were seeing something she'd known about all her life and never quite believed until now.
+All of it. Almost. The sparks going up, thousands of them, higher than the church. Rowan's speech, which had been even longer than last year's. The whole town in the square, and the fiddler, and somebody's dog stealing a sausage off the brazier and being chased round the well by half the children in Wrenhaven. Everything.
 
-Then she shut the door, and came in, and sat down at the table, and told him everything anyway.
+Everything except the one thing.
 
-The bonfire. The sparks. Thea standing very still and looking up at them as if she were reading them. Thea holding up her hand. The little flame. Thea laughing, and saying a word over and over that Alea didn't understand, *parse, parse, it's called parse*. Xola crying. Gigichi hugging her. Maren *smiling*, which Alea hadn't known Maren could do. Bram wiping his eyes and pretending he hadn't.
-
-Ars listened to all of it. He drank his tea and let her talk, and watched her face, which was lit up like the bonfire, and thought that he hadn't seen her this happy since she was very small.
+Ars listened to all of it. He drank his tea and let her talk, and watched her face, which was lit up like the bonfire, and thought that he hadn't seen her this happy since she was very small. And he didn't say one word about the candle he'd felt catch on the hill.
 
 "And then I said," said Alea, and stopped.
 
 "Said what?"
 
-She looked at the table. "I said what you said. About the first tier. That it's the first time the world answers back." She looked up at him, a little guiltily. "I said *my dad always said.* I didn't say who you were. Just... my dad."
+She looked at the table. "Somebody was talking about the first tier. At the fire. And I said what you said. That it's the first time the world answers back." She looked up at him, a little guiltily. "I said *my dad always said.* That's all. Just... my dad."
 
 "That's all right," said Ars.
 
@@ -73,13 +75,13 @@ She looked at the table. "I said what you said. About the first tier. That it's 
 
 "It's true," he said. "I did always say it."
 
-She looked at him a moment longer. The heaviness was still there, at the back of her eyes. It had been there since the end of summer, and it hadn't gone. Whatever she was carrying, tonight hadn't set it down. But tonight it was small, under all the joy. Tonight she was sixteen, and her friend had lit a candle with her own hands, and nothing else mattered very much.
+She looked at him a moment longer. The heaviness was still there, at the back of her eyes. It had been there since the end of summer, and it hadn't gone. Whatever she was carrying, tonight hadn't set it down. But tonight it was small, under all the joy. Tonight she was sixteen, and something wonderful had happened to someone she loved, and nothing else mattered very much.
 
 "Go to bed," he said. "It's late."
 
 She went. At the foot of the stairs she stopped and turned round.
 
-"Dad," she said. "Are you happy? For her?"
+"Dad," she said. "Are you happy?"
 
 Ars thought about it, honestly, the way she deserved.
 

@@ -119,17 +119,13 @@ She was sixteen. She was clever, and kind, and stubborn, and she'd made five fri
 
 So he just said, "Good day?"
 
-And she said, "Mm. Penguin hit me. Properly. First time."
+And she said, "Mm. Fine. Somebody hit me in sparring. Properly. First time."
 
-"Penguin?"
+"Good for them," said Ars.
 
-"PenguChi. Bram calls her Penguin. She hates it." Alea hung up her coat. "She's at fourteen. That's good, for aura. That's really good."
+Alea glanced at him, quickly, the way she did when she thought she might have said too much. Then she turned away and hung up her coat. "It was," she said. "It was really good."
 
-"It is," said Ars.
-
-"Thea's almost at the first tier. She's at seventy-something. She says she can see the edge of it."
-
-"Good."
+He didn't ask who. He didn't need to. He'd felt it that afternoon, from the garden, with his hands in the soil: one of the five small candles up on the hill, the slow steady one on the hard path, flaring for a moment, the way aura flares the first time it lands. And beside it another, brighter than all the rest, burning so close to the edge of something that he'd stopped digging to feel it.
 
 Alea looked at him for a moment, with that heaviness in her face, and he waited, and she didn't say it.
 
