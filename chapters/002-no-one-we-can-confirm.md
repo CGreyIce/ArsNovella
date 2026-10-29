@@ -101,7 +101,7 @@ To Hanarisu's surprise, the Advisor answered him seriously. Lodging, food, equip
 
 Hanarisu felt Cursiffe's eyes on her. She didn't look back. She didn't need to.
 
-From the edge of the hall, ina spoke for the first time, calm and clear, his mask hanging at his shoulder. "You took us without asking, and your soldiers have their hands on their swords. I'll hear you out." He let the pause sit. "From here."
+From the edge of the hall, Ina spoke for the first time, calm and clear, his mask hanging at his shoulder. "You took us without asking, and your soldiers have their hands on their swords. I'll hear you out." He let the pause sit. "From here."
 
 "That's fair," said the Advisor.
 

@@ -43,9 +43,9 @@ Chris had been awake for perhaps twenty seconds. He had used them to establish t
 
 Now he got as far as *who*. Soldiers in grey and gold ringed the hall, and they were pointing their swords at Winter.
 
-She was on her knees a couple of metres away, one hand pressed to her head, where two short black horns curved back through her silver hair. She looked exactly like her model, which was impossible, and she looked exactly like a demon, apparently, which was worse. Beside her, ina had risen to one knee, slow and careful. His single purple horn caught the light. The grinning grey mask at his shoulder caught it better.
+She was on her knees a couple of metres away, one hand pressed to her head, where two short black horns curved back through her silver hair. She looked exactly like her model, which was impossible, and she looked exactly like a demon, apparently, which was worse. Beside her, Ina had risen to one knee, slow and careful. His single purple horn caught the light. The grinning grey mask at his shoulder caught it better.
 
-"Don't," ina said quietly to the nearest soldier, in the unhurried British voice people always listened to. "Whatever you're about to do, I'd reconsider."
+"Don't," Ina said quietly to the nearest soldier, in the unhurried British voice people always listened to. "Whatever you're about to do, I'd reconsider."
 
 It did not seem to help.
 
@@ -67,7 +67,7 @@ Winter said nothing. Chris could feel her behind him, very still: the stillness 
 
 The voice came from a dais at the far end of the hall. It wasn't loud. It didn't need to be. The swords came down as one.
 
-A man in grey robes stood at the top of the steps: grey-haired, grey-bearded, his hands folded into his sleeves. He looked at Winter and ina for a long, careful moment. Then he looked at Chris, and something that might have been an apology crossed his face and was gone.
+A man in grey robes stood at the top of the steps: grey-haired, grey-bearded, his hands folded into his sleeves. He looked at Winter and Ina for a long, careful moment. Then he looked at Chris, and something that might have been an apology crossed his face and was gone.
 
 "They are not demons," he told the soldiers. "They are guests. Treat them as such."
 

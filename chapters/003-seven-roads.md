@@ -31,9 +31,9 @@ Chris liked theirs immediately, because the guide was waving.
 
 "What are the Lists?" asked Hako.
 
-"Only the finest arena in the kingdom." Lucan's eyes found ina, and the mask at his shoulder, and lit up like a man finding money in an old coat. "Oh. Oh, they are going to *hate* you."
+"Only the finest arena in the kingdom." Lucan's eyes found Ina, and the mask at his shoulder, and lit up like a man finding money in an old coat. "Oh. Oh, they are going to *hate* you."
 
-"Thanks," said ina.
+"Thanks," said Ina.
 
 "And then they're going to *love* you. Trust me. I've done this before."
 
