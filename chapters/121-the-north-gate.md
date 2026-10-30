@@ -251,7 +251,7 @@ She felt it before she knew she was feeling for it. She'd felt for everyone in t
 
 The man with the water was carrying something so heavy she nearly sat down.
 
-She had never felt anything like it. Not in the castle. Not in the archive. Not in the king, who carried a country and a dead father's hammer and was very good at it. It was like walking into a room and finding a mountain in it. Thirty-four years of something. A field. A war. A red plain and a grave and a hill and the smell of smoke. Eight years of a jetty. Thirty-five names. A girl. A woman with cold hands.
+She had never felt anything like it. Not in the castle. Not in the archive. Not in the king, who carried a country and a dead father's trade and was very good at it. It was like walking into a room and finding a mountain in it. Thirty-four years of something. A field. A war. A red plain and a grave and a hill and the smell of smoke. Eight years of a jetty. Thirty-five names. A girl. A woman with cold hands.
 
 And he was carrying it like water. Easily. Two buckets on a yoke, slopping a little at every step.
 

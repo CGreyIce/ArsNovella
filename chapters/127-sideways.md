@@ -225,6 +225,26 @@ Tiger looked at the list. Then at Gabe, the biggest of the thirty-five, a man wi
 
 "Mm," said Gabe.
 
+"If we're holding a gate," said Ina, from the fourth tier, in his garden-party voice, "we ought to have a name that sounds as if we mean it."
+
+"The House," said Tiger at once. "Because it *stands*."
+
+"Absolutely not," said RX, very fast. "No. Too sad. Everybody'll know why. Next."
+
+They looked at each other, the five of them in the stand, with Salty's name in the box for a sixth. Tiger with his ears back. Gabe like a wall. RX already thinking of something else. Ina with his mask pushed up. Milli, very still, with his tail round his ankles.
+
+"Stronghold," said PenguChi.
+
+She said it calmly, the way she said everything, sitting on the bottom tier with her penguin leaning on her boot. Everybody looked at her.
+
+"It's a place you hold," said PenguChi. "That's what we're doing. Holding." She shrugged. "And it's strong."
+
+Tiger stared at her. Then his tail went straight up again.
+
+"*Stronghold*," he said, reverently.
+
+Drew wrote it at the top of the box. THE STRONGHOLD.
+
 ***
 
 Squad C came out of the helmet one slip at a time, and with every slip the stand got quieter, and then louder, and then started laughing before Maren had even finished reading.

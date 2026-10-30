@@ -433,7 +433,7 @@ The king read it again. He couldn't read it, Maren knew. Nobody in this world co
 
 He handed the blade back to Gabe.
 
-"He was a smith," he said. "In a river town in the south. Before any of this. He had a hammer he'd had from his own master, a cross-peen with a burn on the haft where he'd left it in the coals once as a boy, and a nick in the face the shape of a fingernail that left a little crescent in everything it struck. He wouldn't use any other. I learned on it." He looked at Hesk's hammers on the wall. "It went east with a journeyman when I was twenty. My father gave it to him. Said a good hammer ought to be working, not hanging on a wall. I never saw it again. I've looked in every forge I've walked into for forty-five years." He shrugged. "Habit."
+"He was a smith," he said. "In Brakewater, on the river, in the south. Before any of this. He had a hammer he'd had from his own master. A small cross-peen, with a burn on the haft where he'd left it in the coals once as a boy, and a nick in the face the shape of a fingernail that left a little crescent in everything it struck. He wouldn't use any other. I learned on it. I carried it fifty years." He looked at Hesk's hammers on the wall. "I gave it away in the autumn. To the smith in Wrenhaven. Garrow. He worked my bellows for three days at the lake and never once asked me for anything, and I thought: a good hammer ought to be working, not riding about in a king's saddle roll. My father used to say that." He shrugged. "It went east with Garrow and the headstone, to Cinderhold. I don't know where it is now. Working, I hope."
 
 Gabe was holding *Sto* against his chest.
 
