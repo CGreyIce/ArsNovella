@@ -37,6 +37,7 @@ ICONS = {
     "prev": '<path d="M15 18l-6-6 6-6"/>',
     "next": '<path d="M9 18l6-6-6-6"/>',
     "close": '<path d="M18 6L6 18M6 6l12 12"/>',
+    "chat": '<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>',
 }
 
 
@@ -172,6 +173,20 @@ def settings_drawer():
 </aside>"""
 
 
+def comments_section(n):
+    """Shared per-chapter comments; comments.js fills the list from Firestore."""
+    return f"""<section class="comments" id="comments" data-ch="{n}" aria-labelledby="comments-h">
+    <h2 id="comments-h">{icon("chat")}<span>Comments</span><span class="c-count" data-count></span></h2>
+    <form class="c-form" data-comment-form novalidate>
+      <label><span class="sr">Your name</span><input name="name" maxlength="40" placeholder="Your name" autocomplete="nickname"></label>
+      <label><span class="sr">Your comment</span><textarea name="text" maxlength="2000" rows="3" placeholder="Say something about this chapter&#8230;"></textarea></label>
+      <div class="c-row"><span class="c-hint" data-status aria-live="polite">Comments are public. Your name is remembered in this browser.</span><button type="submit" class="btn primary">Post</button></div>
+    </form>
+    <ol class="c-list" data-list></ol>
+    <p class="c-empty" data-empty>Loading comments&#8230;</p>
+  </section>"""
+
+
 def chapter_page(novel, chapters, i):
     c = chapters[i]
     root = "../../"
@@ -224,8 +239,10 @@ def chapter_page(novel, chapters, i):
   </article>
   {end_note}
   {nav("bottom")}
+  {comments_section(c["n"])}
 </main>
 {settings_drawer()}
+<script src="{root}assets/comments.js" defer></script>
 </body>
 </html>
 """
@@ -331,7 +348,7 @@ def main():
         p.write_text(text, encoding="utf-8")
         written.add(p.resolve())
 
-    for f in ("reader.css", "reader.js"):
+    for f in ("reader.css", "reader.js", "comments.js"):
         write(f"assets/{f}", (SRC / f).read_text(encoding="utf-8"))
     if (SRC / "cover.jpg").exists():
         p = OUT / "assets/cover.jpg"
