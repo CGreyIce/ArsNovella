@@ -27,7 +27,7 @@ On the fifth day, a mile short of a waystation, one of the escort's horses put i
 
 Rhea did it. Quickly, with her knife, with her face for once not grinning at all. Yan looked away. Suzu didn't.
 
-She came up off his neck so fast he felt it in his teeth. Her head went out past his shoulder toward the horse on the road, toward something just above it, and for one heartbeat, down the cord, he saw what she saw. A small light. Blue, like the bottom of a candle flame, rising off the horse the way breath rises on a cold morning, already beginning to thin.
+She came up off his neck so fast he felt it in his teeth. Her head went out past his shoulder toward the horse on the road, toward something just above it, and for one heartbeat, down the cord, he saw what she saw. A small light, pale, with no colour he could have named, rising off the horse the way breath rises on a cold morning, already beginning to thin.
 
 She took it. One strike, the way a snake takes anything. And the cold in the cord went out all at once, and warmth came down it instead, so much warmth that he had to put a hand on the side of the wagon. She was the right size again by the waystation. By supper she was asleep.
 
