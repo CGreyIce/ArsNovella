@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter 114: Threads and Windows | The Fisherman of Lake Ilse</title>
+<meta name="description" content="Thea checked the medium line every morning. She&#x27;d done it for a year. First thing, before she opened her eyes properly, before Xola was awake, before anything. She&#x27;d open her…">
+<meta property="og:title" content="Chapter 114: Threads and Windows | The Fisherman of Lake Ilse">
+<meta property="og:description" content="Thea checked the medium line every morning. She&#x27;d done it for a year. First thing, before she opened her eyes properly, before Xola was awake, before anything. She&#x27;d open her…">
+<meta property="og:type" content="book">
+<meta name="theme-color" content="#15181d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/reader.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2315181d'/%3E%3Ccircle cx='42' cy='22' r='9' fill='%23e9eef2'/%3E%3Cpath d='M10 44h44' stroke='%237cc4e8' stroke-width='4' stroke-linecap='round'/%3E%3Cpath d='M16 52h32' stroke='%237cc4e8' stroke-width='3' stroke-linecap='round' opacity='.6'/%3E%3C/svg%3E">
+<link rel="prev" href="../../read/113/">
+<link rel="next" href="../../read/115/">
+<script src="../../assets/reader.js"></script>
+</head>
+<body class="reader" data-root="../../" data-n="114" data-label="Chapter 114" data-title="Threads and Windows" data-prev="../../read/113/" data-next="../../read/115/">
+<a class="skip" href="#chapter">Skip to the chapter</a>
+<header class="topbar">
+  <a class="brand" href="../../" title="Series details"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span>The Fisherman of Lake Ilse</span></a>
+  <div class="tools">
+    <a class="tool" href="../../#chapters" title="All chapters"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg><span>Chapters</span></a>
+    <button type="button" class="tool" data-open-settings title="Reader settings"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/></svg><span>Settings</span></button>
+    <button type="button" class="tool" data-fullscreen title="Fullscreen"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg><span>Fullscreen</span></button>
+  </div>
+  <div class="progress" aria-hidden="true"><div class="progress-bar"></div></div>
+</header>
+<main class="wrap">
+  <nav class="chapnav top" aria-label="Chapter navigation"><a class="nav-btn" href="../../read/113/" rel="prev"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>Previous</span></a><label class="chap-select"><span class="sr">Jump to chapter</span><select data-jump><option value="0">Prologue: Goodnight</option><option value="1">Chapter 1: Thirty-Five</option><option value="2">Chapter 2: No One We Can Confirm</option><option value="3">Chapter 3: Seven Roads</option><option value="4">Chapter 4: The Fisherman</option><option value="5">Chapter 5: Alea</option><option value="6">Chapter 6: The Hero&#x27;s Words</option><option value="7">Chapter 7: Where They Buried Them</option><option value="8">Chapter 8: The River Road</option><option value="9">Chapter 9: Tracks</option><option value="10">Chapter 10: The Lists</option><option value="11">Chapter 11: The Hollow</option><option value="12">Chapter 12: Kingsferry</option><option value="13">Chapter 13: Reports</option><option value="14">Chapter 14: Fish</option><option value="15">Chapter 15: Scouts</option><option value="16">Chapter 16: Court</option><option value="17">Chapter 17: Bracket</option><option value="18">Chapter 18: Second Act</option><option value="19">Chapter 19: Respawn</option><option value="20">Chapter 20: The Infirmary</option><option value="21">Chapter 21: The Quiet</option><option value="22">Chapter 22: Two Colours</option><option value="23">Chapter 23: The Buried Question</option><option value="24">Chapter 24: Visiting</option><option value="25">Chapter 25: First Snow</option><option value="26">Chapter 26: The Council</option><option value="27">Chapter 27: Night Market</option><option value="28">Chapter 28: Postponed</option><option value="29">Chapter 29: The Edge</option><option value="30">Chapter 30: Thirty-Four Winters</option><option value="31">Chapter 31: Coats</option><option value="32">Chapter 32: The Deep Ring</option><option value="33">Chapter 33: The New Book</option><option value="34">Chapter 34: Spring on the Redmarch</option><option value="35">Chapter 35: Holding</option><option value="36">Chapter 36: The West Company</option><option value="37">Chapter 37: Lake Ice</option><option value="38">Chapter 38: Tempo</option><option value="39">Chapter 39: Ossie</option><option value="40">Chapter 40: Missing Letters</option><option value="41">Chapter 41: Green</option><option value="42">Chapter 42: The Faint Thread</option><option value="43">Chapter 43: Below</option><option value="44">Chapter 44: Full Moon</option><option value="45">Chapter 45: Rule Five</option><option value="46">Chapter 46: What Was He Like</option><option value="47">Chapter 47: One Cast</option><option value="48">Chapter 48: The Cold One</option><option value="49">Chapter 49: The Roof</option><option value="50">Chapter 50: Close</option><option value="51">Chapter 51: The Carving</option><option value="52">Chapter 52: Yes, Ma&#x27;am</option><option value="53">Chapter 53: The Pass</option><option value="54">Chapter 54: Mask</option><option value="55">Chapter 55: Let Them</option><option value="56">Chapter 56: Slow Clock</option><option value="57">Chapter 57: Now</option><option value="58">Chapter 58: Firewood</option><option value="59">Chapter 59: The Sum</option><option value="60">Chapter 60: Three Years</option><option value="61">Chapter 61: The Last Stretch</option><option value="62">Chapter 62: Hook, Reel, Cut</option><option value="63">Chapter 63: The Tree</option><option value="64">Chapter 64: Two Candles</option><option value="65">Chapter 65: The Long Bundle</option><option value="66">Chapter 66: No Charm</option><option value="67">Chapter 67: The North Road</option><option value="68">Chapter 68: The King&#x27;s Hens</option><option value="69">Chapter 69: Stones</option><option value="70">Chapter 70: Scope</option><option value="71">Chapter 71: The Cut</option><option value="72">Chapter 72: Astra</option><option value="73">Chapter 73: Again</option><option value="74">Chapter 74: Halfway</option><option value="75">Chapter 75: The Honest Book</option><option value="76">Chapter 76: The Third Hunter</option><option value="77">Chapter 77: Upriver</option><option value="78">Chapter 78: Unseen</option><option value="79">Chapter 79: Not in a Hurry</option><option value="80">Chapter 80: The King&#x27;s Answer</option><option value="81">Chapter 81: The Sealed Room</option><option value="82">Chapter 82: He&#x27;ll Be the One Talking</option><option value="83">Chapter 83: Ad Astra</option><option value="84">Chapter 84: First Ice</option><option value="85">Chapter 85: Two Hundred Lines</option><option value="86">Chapter 86: Midwinter</option><option value="87">Chapter 87: Not Yet Is Over</option><option value="88">Chapter 88: Four Fish</option><option value="89">Chapter 89: The Lake Road</option><option value="90">Chapter 90: Supper</option><option value="91">Chapter 91: The Basket Stays Five</option><option value="92">Chapter 92: Root</option><option value="93">Chapter 93: Kin</option><option value="94">Chapter 94: Pairs</option><option value="95">Chapter 95: Chalk</option><option value="96">Chapter 96: Rehearsal</option><option value="97">Chapter 97: Thaw</option><option value="98">Chapter 98: Waiting at Duskhollow</option><option value="99">Chapter 99: IF Upriver</option><option value="100">Chapter 100: The Narrows</option><option value="101">Chapter 101: Mend</option><option value="102">Chapter 102: The Lake Country</option><option value="103">Chapter 103: The Last Mile</option><option value="104">Chapter 104: The Third Part</option><option value="105">Chapter 105: Brothers</option><option value="106">Chapter 106: Okay. Again.</option><option value="107">Chapter 107: No Bells</option><option value="108">Chapter 108: Nomen</option><option value="109">Chapter 109: His Father</option><option value="110">Chapter 110: Exactly Where It Should Go</option><option value="111">Chapter 111: Fifteen</option><option value="112">Chapter 112: The Teacher</option><option value="113">Chapter 113: The Spot</option><option value="114" selected>Chapter 114: Threads and Windows</option><option value="115">Chapter 115: Ask</option><option value="116">Chapter 116: Fledgling</option></select></label><a class="nav-btn" href="../../read/115/" rel="next"><span>Next</span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></a></nav>
+  <article class="chapter" id="chapter">
+    <header class="chapter-head">
+      <p class="kicker"><a href="../../">The Fisherman of Lake Ilse</a> · Volume 4: Threads</p>
+      <p class="label">Chapter 114</p>
+      <h1>Threads and Windows</h1>
+      <p class="meta">4,439 words · 19 min read</p>
+    </header>
+    <div class="chapter-body">
+<p>Thea checked the medium line every morning.</p>
+<p>She’d done it for a year. First thing, before she opened her eyes properly, before Xola was awake, before anything. She’d open her window and go all the way to the bottom, past the tier and the skills and the channel and everything else, to the line most of the thirty-five had forgotten was there.</p>
+<p><em>Medium: one blade · parted · Ice.</em></p>
+<p>It had said <em>one blade</em> for most of a year. Then <em>one blade · parted</em>, the morning after the king and the fisherman cut a sword in two on the shingle and the whole town heard one note. Then, the night of the supper in the winter, when a man standing in a doorway in the snow had said <em>it’s me, it’s Ice</em>, the sealed value at the end of the line had opened like a door with no handle swinging in.</p>
+<p><em>Ice.</em></p>
+<p>She still looked at it every morning. She didn’t know why. It didn’t change. It was never going to change. It just helped, somehow, to see it there, at the bottom of everything, the last line in her window. Like checking a door you know is locked.</p>
+<p>On the twenty-first morning she looked at it, and then she did something she’d been meaning to do for three weeks.</p>
+<p>She went looking for the others.</p>
+<hr class="scene">
+<p>She’d seen them in the winter. On the jetty, the night he showed her his window all the way down, with Patch, from the inside. His window was different from theirs. It was the first one. The root. Every window in the world was copied from it, line for line, in the same plain English a six-year-old had used to name its parts: <em>status</em>, <em>inventory</em>, <em>skills</em>, <em>tier</em>, <em>progress</em>. And hanging off the bottom of it, off his empty medium line, there had been thirty-five small doors.</p>
+<p>Thirty-five sealed values. One in every summoned window. Each of them a little locked door at the end of a line, and each of them opening only when he told someone himself.</p>
+<p>Five had been open, that night in the winter. Five doors in a row with <em>Ice</em> written in them.</p>
+<p>She couldn’t see his window now. Not without him. But she could see the shape of the doors from her side, if she was careful. Patch let her feel along the line in her own window, past her own sealed value, to where it joined something bigger, the way you can feel along a rope in the dark to where it’s tied. And from there, if she held very still, she could feel the others. All thirty-five. Not read them. Just count them, the way you’d count doors along a corridor by touch.</p>
+<p>She sat on her cot in the upper room of the militia hall, in the early light, with her eyes closed and her hand open in front of her face, and counted.</p>
+<p>Fifteen open.</p>
+<p>Twenty shut.</p>
+<p>Fifteen. Five with <em>Ice</em>. Ten with something else, that she couldn’t read from here, that she didn’t need to read. She knew what it said. She’d heard him say it on a terrace in the sun, ten times, ten names, and watched ten people flinch.</p>
+<p>She opened her eyes.</p>
+<p>Twenty shut. Group 3, who knew, who’d known since the autumn, whose doors were still closed because he’d never stood in front of them and said it. Group 2. Group 5. Group 7. Twenty people, all over the kingdom, with a little locked door at the bottom of their windows that rattled, sometimes, when they were near something they couldn’t name.</p>
+<p>Six weeks to midsummer. Twenty doors.</p>
+<p>She wrote that down.</p>
+<hr class="scene">
+<p>Deston found her at breakfast.</p>
+<p>She’d half expected him. She’d seen him on the shore the last few mornings, sitting on the wall at the top of the shingle while the fisherman taught, not watching the teaching. Watching the air. With that look he got, the slightly cross-eyed look of a man trying to see something very fine against a bright sky.</p>
+<p>He sat down across the table from her in the militia hall kitchen with a bowl of porridge he didn’t eat.</p>
+<p>“Can I ask you something about windows?” he said.</p>
+<p>“Can I ask you something about threads?”</p>
+<p>He blinked. Then he laughed, a little, and pushed the porridge away.</p>
+<p>“You first,” he said.</p>
+<hr class="scene">
+<p>So she told him.</p>
+<p>About the root. About thirty-five doors. About the way every window was copied, line for line, from a window a boy had named the parts of under a blanket in a cottage thirty years ago. About the medium line, and the scope she’d built the channel on, and how she’d had to rebuild it in one night with her hands shaking while a king put a sword in a fire.</p>
+<p>He listened the way he listened to everything, with his whole face. He didn’t interrupt. When she’d finished, he sat for a long time looking at the table.</p>
+<p>“Every window,” he said. “Copied from his.”</p>
+<p>“Every one.”</p>
+<p>“Not just ours.”</p>
+<p>“Not just ours.” She’d thought about this a lot. “Ours are copied straight from it. That’s what the medium does, I think. The sword was his; the summoning reached through the sword into whatever it was tangled in, and it was tangled in him, so it went into his window, and copied it into ours. Thirty-five times. Straight off the root.” She turned her cup round in her hands. “But the natives have windows too. Some of them. Maren has one. The guides. The Advisor. And theirs are copies too, of something. I’ve looked at Maren’s, with her leave. It’s the same writing. The same English. The same six-year-old’s words. It’s just…” She frowned. “Further away. Like a copy of a copy. The lines are fainter at the top.”</p>
+<p>Deston had gone very still.</p>
+<p>“Further away,” he said.</p>
+<p>“Yes.”</p>
+<p>“Like it came through somebody else first.”</p>
+<p>Thea looked at him.</p>
+<p>“Your turn,” she said. “Threads. Tell me.”</p>
+<hr class="scene">
+<p>He told her about the threads.</p>
+<p>She’d heard some of it. Everyone had. In the channel, after the Narrows; at the fire, in pieces. That he saw people as points of light joined by lines. That the lines were bonds: what you were to somebody, and what they were to you. Gold for the strongest. That he’d had one to Declan since he was thirteen, faded grey for thirty-four years, pulled so tight from one end that all the colour had gone out of it, and gold again now, both ends.</p>
+<p>He told her the rest.</p>
+<p>“There are other ones,” he said. “Not gold. Not bonds. I didn’t know what they were. I’ve been seeing them since the first week and I didn’t know.” He held up his hand and drew in the air, a long thin line. “Silver. Very thin. Like spider silk. I thought they were nothing. I thought they were the way the light went. I stopped looking at them after the first month, the way you stop hearing a fridge.”</p>
+<p>“Where?”</p>
+<p>“On people here,” said Deston. “Natives. Not everybody. Hardly anybody, in Kingsferry. Sister Maud had one. The Lord-warden’s mage, at the customs house. Emrys has one.” He paused. “Maren has one. Rowan. Odette, I think, very faint. Petra.” He looked at her. “And they all go the same way.”</p>
+<p>Thea put her cup down.</p>
+<p>“Down the hill,” said Deston quietly. “Every one. Every silver thread I’ve seen since I got off the barge goes down the lake road to the end of the jetty.”</p>
+<hr class="scene">
+<p>They sat in the militia hall kitchen and didn’t say anything for a while.</p>
+<p>Thea got her notebook out. She didn’t decide to; her hands just did it. The big one, the one with the window-code in it, all her careful diagrams. She opened it to a clean page and drew. Fast. The way she’d drawn the root, the night on the jetty, so she’d remember. A point at the top. <em>First window.</em> And under it, lines going down to thirty-five small boxes. <em>Ours.</em> And off to the side, a few more lines, fainter, going down to boxes that she labelled carefully. <em>Maren. Advisor. Guides.</em> And between those faint lines and the root, a question mark.</p>
+<p>She turned it round so Deston could see it.</p>
+<p>He looked at it for a long time.</p>
+<p>Then he took her pencil, and turned to the next page, and drew his.</p>
+<p>It was clumsier. He wasn’t a drawer. Points, for people, and lines between them. Gold lines, which he went over twice to make them darker, between the points that were the fifteen. Thick ones to Gabe and Xav. A very thick one from a point labelled <em>Alea</em> to a point at the bottom of the page labelled <em>D</em>. And then, all over the page, the thin ones. Silver, he said, though they were just pencil. From <em>Maren</em>. From <em>Rowan</em>. From <em>Emrys</em>, and <em>Petra</em>, and <em>Odette</em>, and <em>Maud</em>, faint, from the edge of the page. All of them running in, across the paper, from every side, to the same point at the bottom.</p>
+<p><em>D.</em></p>
+<p>He put the pencil down.</p>
+<p>They looked at the two pages side by side. Her window diagram, with its root and its lines going down. His thread diagram, with its points and its lines going in.</p>
+<p>“Turn yours upside down,” said Deston.</p>
+<p>She did.</p>
+<p>They were the same.</p>
+<p>Not the same drawing. They were two different people’s bad diagrams, one neat and one clumsy. But the same shape. One point, and lines going to it from everywhere. Thirty-five lines, close and strong, in the middle. And round the edges, fainter ones, coming in from further out.</p>
+<p>“The channel’s the same shape too,” said Thea. Very quietly. “I built it on the medium line. It goes into every window that hangs off the root. Every message goes up to the root and back down to all of us.” She touched the point on her page. “It’s a star. It’s always been a star. With him in the middle.”</p>
+<p>“And the threads are a star,” said Deston. “With him in the middle.”</p>
+<p>“Because they’re the same thing,” said Thea.</p>
+<p>She said it before she knew she was going to. And then she sat there and heard it, and knew it was true.</p>
+<p>“Your silver threads are the windows,” she said. “Not bonds. <em>Copies</em>. Every native window was copied from something, and that something was copied from something, back and back, to him. You’re not seeing what they are to him. You’re seeing where their windows <em>came from</em>.”</p>
+<p>Deston looked at her.</p>
+<p>“Then why are some of them fainter than others?”</p>
+<p>“Because some of them came through somebody else first.” She turned the page back to her diagram and tapped the question mark. “Maren’s is a copy of a copy. I said so. The lines at the top are fainter. Somebody showed Maren how to look at hers, and somebody showed <em>them</em>, and somewhere back up that line there’s…” She stopped. “Somebody who learned it from him directly.”</p>
+<hr class="scene">
+<p>“Halvard,” said the fisherman.</p>
+<p>They both jumped.</p>
+<p>He was in the kitchen doorway. Thea hadn’t heard him come up the stairs; nobody ever did. He had a basket of fish on his arm, the way he did most mornings now, because Maren had stopped pretending she didn’t want them, and he was looking at the two notebooks open on the table with an expression she couldn’t hold on to.</p>
+<p>“Sorry,” he said. “I was bringing these. And I heard <em>learned it from him</em>, and I stopped.” He put the basket on the end of the table. “Halvard. The Advisor. He was the first. I was fifteen, on a garrison wall, and there was a court mage there, a young one, twenty-something, sent out from Solmere to count arrows or something stupid. And I was talking to my window, out loud, under my breath, the way I did when I was bored. And he said <em>what are you looking at?</em>” He almost smiled. “So I showed him. I told him the words. <em>Status</em>. Just to see. And his face…” He shook his head. “He went white. He sat down on the wall. He said <em>there’s something in front of my eyes</em>.”</p>
+<p>Thea didn’t breathe.</p>
+<p>“I didn’t know it would work,” said the fisherman. “I didn’t know it would ever work for anyone but me. I just told him the word, and it did.” He looked at the notebooks. “And then he went back to Solmere and taught it to the court. And the court taught the guilds. And the guilds taught the guides. And it went out, and out, for twenty years, and I never…” He stopped. “I never thought about where it went. I just thought, <em>good, people can see their numbers now</em>. I thought it was a nice thing that had happened.”</p>
+<p>“It’s yours,” said Deston. “All of them. Every window in the kingdom.”</p>
+<p>“It’s not <em>mine</em>.”</p>
+<p>“It goes to you,” said Deston. “I can see it. Every one I’ve seen. It’s thin, and it’s faint, and it goes through other people first, but it all ends up in the same place.” He looked at the fisherman. “In you.”</p>
+<p>The fisherman stood in the kitchen doorway with his empty hands.</p>
+<p>He didn’t say anything for a long time.</p>
+<hr class="scene">
+<p>“Show me,” he said at last.</p>
+<p>So they went down to the lake.</p>
+<p>Not all of them. Just the three of them, and Higu, because Higu had come down the stairs to see what the noise was and taken one look at the notebooks and gone to get her coat without being asked. Down the lake road in the mid-morning, past the fence and the hens, to the jetty.</p>
+<p>He sat down on the end of it, in his place. Thea sat beside him. Deston stood on the boards in front of them and looked.</p>
+<p>And Thea, with Patch, opened her own window and felt along the line to the root.</p>
+<p>She’d never done this with him beside her before. Not since the winter. It was different, from this close. In the upper room it had been like feeling along a rope in the dark. Here it was like putting her hand on the trunk of a tree. She could feel the whole thing: the root, his window, the first, enormous and plain and still running after thirty years, and the thirty-five lines going out from it, close and strong, to thirty-five windows scattered across a kingdom. Fifteen within a mile. Twenty far away, in every direction.</p>
+<p>And past those, fainter, further out, branching and branching like the roots of something very old, the others.</p>
+<p>Hundreds of them.</p>
+<p>She hadn’t known. She’d guessed, at the kitchen table. She hadn’t <em>known</em>. Faint lines, copies of copies of copies, going out from the root through one line, <em>Halvard</em>, and from Halvard’s through dozens, and from those through hundreds. Every native in the kingdom who had ever looked at a window in front of their eyes. Every guide and every guild mage and every court scribe and every chaplain on every frontier. All of them hanging off one line, off one young court mage on a garrison wall, off one bored boy saying <em>status</em> under his breath.</p>
+<p>All of them, in the end, hanging off a man sitting on the end of a jetty with his bare feet over the water.</p>
+<p>“Deston,” she said. Her voice came out wrong.</p>
+<p>“I see them,” said Deston. He was turning, slowly, on the boards, looking up the shore, up the lake road, up at the town. “I see them. They’re everywhere. All thin. All coming in.” He stopped turning. He was facing the jetty, the end of it, the man sitting there. “There’s so many.”</p>
+<p>The fisherman looked up at him.</p>
+<p>“How many?”</p>
+<p>Deston didn’t answer straight away.</p>
+<p>“I can see the town,” he said. “Fifteen, from the town, maybe twenty. Thin ones. Some of them so faint I can hardly see them.” He swallowed. “But they don’t stop at the town. Past the town. Further than I can see properly. Further than I’ve ever seen anything. Coming in from the south. From everywhere. I can’t see the other ends, they’re too far. I can just see them all <em>arriving</em>. Like…” He stopped. “Like every river in the kingdom running into one lake.”</p>
+<hr class="scene">
+<p>The fisherman didn’t move.</p>
+<p>He sat on the end of the jetty with his hands on his knees. Thea could feel him through the root, the way she’d felt him in the winter. Not his thoughts. Just the size of him. The sea that Yan always talked about, enormous and still.</p>
+<p>It wasn’t still now.</p>
+<p>“I didn’t know,” he said, very quietly. “I didn’t do it on purpose. I didn’t build anything. I showed one man a word on a wall because I was bored.”</p>
+<p>“I know,” said Thea.</p>
+<p>“I didn’t mean to be in the middle of anything.”</p>
+<p>“I know.” She looked at him sideways. “You never do. You meant to send five girls some fish.”</p>
+<p>He laughed. Short. It wasn’t quite a laugh.</p>
+<p>“That’s what the channel is,” said Thea. “That’s why it worked. I didn’t build it out of nothing. I couldn’t have. I’m not that good.” She touched her own window, in the air, lightly. “I built it on top of <em>this</em>. On top of you. Every message goes up to the root and back down. I thought I was being clever. I just found the shape that was already there and wrote along it.”</p>
+<p>“The two hundred lines,” said Higu.</p>
+<p>It was the first thing she’d said since the kitchen. She was sitting on the boards a little way back, with her knees up, the way she sat on the roof.</p>
+<p>The fisherman didn’t look round.</p>
+<p>“Only the first window can write below the others,” said Higu. Calm. Plain. Rule two. “Thea said so, in the winter. Somebody changed the channel in the middle of the night, in the writing of the window itself. From the root. Two hundred lines. Times on everything.” She paused. “We never asked.”</p>
+<p>“No,” said the fisherman. “You didn’t.”</p>
+<p>“We’re still not asking.”</p>
+<p>“I know,” he said.</p>
+<p>That was all. He didn’t say anything else about it, then or later. He looked at the lake. And Higu, behind them, made a small sound that might have been a laugh. Thea didn’t look at her. She looked at the lake, and felt something in her chest go very warm and very tight, and didn’t say anything at all.</p>
+<hr class="scene">
+<p>It was Deston who saw the other one.</p>
+<p>He’d been quiet a long time. Standing on the boards, turning slowly, looking at the silver threads coming in from every side. And then he stopped turning, and frowned, and stepped closer to the end of the jetty, and looked at the fisherman the way he’d looked at Alea’s chest on the first night. At the middle of him. At something only he could see.</p>
+<p>“There’s one going out,” he said.</p>
+<p>The fisherman looked up.</p>
+<p>“All the others come in,” said Deston slowly. “Every silver one. Every gold one. Ours. Hers. They all come <em>in</em>, to you. But there’s one going out.” He held up his hand. Drew in the air, very carefully, a line starting at the fisherman’s chest and going… Thea watched his hand. It didn’t go north, or south, or toward the town, or out over the lake. It went a little way, and then his hand stopped, uncertain, as if the line went somewhere a hand couldn’t follow.</p>
+<p>“It goes out,” said Deston. “Not <em>that</em> way. Not any way. Just… out.” He frowned harder. “It’s grey. It’s very old. It’s thinner than anything I’ve ever seen that wasn’t broken. But it isn’t broken.”</p>
+<p>Nobody said anything.</p>
+<p>Then Deston turned round, on the boards, and looked at Thea. At the middle of her. And his face went strange.</p>
+<p>“You’ve got them too,” he said.</p>
+<p>Thea’s hand went to her chest before she could stop it.</p>
+<p>“All of you,” said Deston. He looked at Higu. At himself, down at his own chest, as if he’d never looked there before. “All of us. I’ve been seeing them since the first week. I thought they were nothing. Grey ones. Faint. Going out, not in any direction, from all thirty-five of us. I thought it was just…” He stopped. “I stopped seeing them. Like the silver ones. Like the fridge. I thought they were part of how we looked. I thought it was what being summoned looked like.”</p>
+<p>He looked at the fisherman again. At the one grey thread going out from the middle of him, older and thinner than all of theirs.</p>
+<p>“They’re the same,” said Deston. “Yours and ours. They go to the same place.”</p>
+<p>The lake was very quiet.</p>
+<p>Thea heard Higu, behind her, stop breathing.</p>
+<p>She looked down at her own chest. She couldn’t see anything. She’d never be able to see anything; it wasn’t her gift. But she knew, suddenly, with total certainty, the way she’d known at the kitchen table that the two diagrams were the same, what Deston was looking at. Faint grey lines, going out of the world, from thirty-five people who’d gone to sleep in their own beds one night and woken on a stone floor.</p>
+<p>Her own kitchen. Her own bed. Everyone she’d left behind one ordinary night without knowing it.</p>
+<p>And one, older than all of them, thinner than all of them, from a man on the end of a jetty, going out of the world toward his father.</p>
+<p>“How many has he got?” said Higu. Very softly. “Going out. How many?”</p>
+<p>Deston looked.</p>
+<p>“One,” he said.</p>
+<p>The fisherman closed his eyes.</p>
+<hr class="scene">
+<p>Thea didn’t know how long they sat there.</p>
+<p>A long time. The sun went up the sky. Somebody’s boat went past, far out, a fisherman from the town who lifted a hand to the jetty and got no answer and didn’t seem to mind. The hens came out from under the cabin and went back again.</p>
+<p>At some point the fisherman opened his eyes and said, to the lake:</p>
+<p>“It isn’t broken?”</p>
+<p>“No,” said Deston.</p>
+<p>“It’s thirty years old. More. It’s been thirty years.”</p>
+<p>“It’s thin,” said Deston. “It’s the thinnest thing I’ve ever seen. But it isn’t broken. I know what broken looks like. I’ve seen people’s threads in Kingsferry after a funeral. They don’t fade, when someone dies. They <em>end</em>. They just stop, in the air, like a cut rope.” He crouched down on the boards so his face was level with the fisherman’s. “Yours doesn’t stop. It goes all the way out. As far as I can see. Further.”</p>
+<p>The fisherman looked at him.</p>
+<p>“You can’t see where it ends.”</p>
+<p>“No,” said Deston. “But I can see that it does. Somewhere. It goes to someone.” He hesitated. “Gabe said he’s okay. On the wall. He said somebody’s got him.”</p>
+<p>The fisherman put his hand over his eyes.</p>
+<p>He didn’t say anything. He didn’t need to. Thea sat beside him on the end of the jetty and looked at the lake and didn’t look at him, the way you don’t look at someone when they need you not to, and felt, through the root, the sea that Yan always talked about going very still. And then not still. And then still again, but differently. The way the lake goes still after a stone, when the rings have gone out and come back and the surface has closed over and there’s something new at the bottom of it.</p>
+<hr class="scene">
+<p>That evening she opened her notebook at the kitchen table in the militia hall.</p>
+<p>The two diagrams were still there. Hers and Deston’s. The root with its lines going down. The point with its threads coming in. She looked at them for a long time.</p>
+<p>Then she turned to a clean page, and wrote, in her small neat hand, very carefully, the way she wrote code she meant to keep.</p>
+<p><em>Every window goes back to him.</em></p>
+<p><em>Every thread from a window goes back to him.</em></p>
+<p><em>The channel goes up to him and back down. It always did. It’s the same shape.</em></p>
+<p>She stopped. Then she wrote the last part. Slower.</p>
+<p><em>Thirty-five of us have threads going out of the world. So does he. One. Thirty years old. Not broken.</em></p>
+<p><em>A thread goes somewhere.</em></p>
+<p><em>So somewhere is there.</em></p>
+<p>She looked at that for a long time. Then she underlined it. Twice. The way she underlined the line in a piece of code where the bug had been all along, when she finally found it.</p>
+<p>Across the room, Gigichi had been watching her. Thea hadn’t noticed. Gigichi was sitting on the end of her cot with her arms folded and her face doing the thing it did when she was trying very hard not to ask something.</p>
+<p>“What is it?” said Gigichi, at last. Not sharp. The way she used to ask, a long time ago, on Earth, before they’d drifted. When it had been the two of them on a call at two in the morning, and Thea had gone quiet, and Gigichi had always been the one who noticed.</p>
+<p>Thea looked at her.</p>
+<p>She thought about all the things that were still unsaid between the two of them. All the calls where Thea had done the most, and the times she’d felt taken for granted, and the long slow silence they’d let grow up between them like a hedge. None of it was fixed. None of it was going to be fixed tonight.</p>
+<p>She held out the notebook anyway.</p>
+<p>Gigichi came and took it, and read the page, standing up, in the lamplight. Thea watched her read it. Watched her get to the end. Watched her stop.</p>
+<p><em>So somewhere is there.</em></p>
+<p>Gigichi didn’t say anything for a long time.</p>
+<p>Then she sat down on the bench next to Thea, close, the way they used to sit, a long time ago, and put the notebook down on the table between them, open at that page.</p>
+<p>“Rule three,” said Gigichi quietly. “That’s good news.”</p>
+<p>“I know.”</p>
+<p>“You’re not going to write it in the channel.”</p>
+<p>“No,” said Thea. “Not yet. It’s not mine to say. Not all of it.” She looked at the page. “But it’s true.”</p>
+<p>“I know it’s true.” Gigichi bumped her shoulder against Thea’s, once, not gently. “You never write anything down that isn’t.”</p>
+<p>They sat there together for a while, in the lamplight, with the notebook open between them.</p>
+<p>Neither of them said anything about the hedge. But neither of them moved away.</p>
+    </div>
+  </article>
+  
+  <nav class="chapnav bottom" aria-label="Chapter navigation"><a class="nav-btn" href="../../read/113/" rel="prev"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>Previous</span></a><label class="chap-select"><span class="sr">Jump to chapter</span><select data-jump><option value="0">Prologue: Goodnight</option><option value="1">Chapter 1: Thirty-Five</option><option value="2">Chapter 2: No One We Can Confirm</option><option value="3">Chapter 3: Seven Roads</option><option value="4">Chapter 4: The Fisherman</option><option value="5">Chapter 5: Alea</option><option value="6">Chapter 6: The Hero&#x27;s Words</option><option value="7">Chapter 7: Where They Buried Them</option><option value="8">Chapter 8: The River Road</option><option value="9">Chapter 9: Tracks</option><option value="10">Chapter 10: The Lists</option><option value="11">Chapter 11: The Hollow</option><option value="12">Chapter 12: Kingsferry</option><option value="13">Chapter 13: Reports</option><option value="14">Chapter 14: Fish</option><option value="15">Chapter 15: Scouts</option><option value="16">Chapter 16: Court</option><option value="17">Chapter 17: Bracket</option><option value="18">Chapter 18: Second Act</option><option value="19">Chapter 19: Respawn</option><option value="20">Chapter 20: The Infirmary</option><option value="21">Chapter 21: The Quiet</option><option value="22">Chapter 22: Two Colours</option><option value="23">Chapter 23: The Buried Question</option><option value="24">Chapter 24: Visiting</option><option value="25">Chapter 25: First Snow</option><option value="26">Chapter 26: The Council</option><option value="27">Chapter 27: Night Market</option><option value="28">Chapter 28: Postponed</option><option value="29">Chapter 29: The Edge</option><option value="30">Chapter 30: Thirty-Four Winters</option><option value="31">Chapter 31: Coats</option><option value="32">Chapter 32: The Deep Ring</option><option value="33">Chapter 33: The New Book</option><option value="34">Chapter 34: Spring on the Redmarch</option><option value="35">Chapter 35: Holding</option><option value="36">Chapter 36: The West Company</option><option value="37">Chapter 37: Lake Ice</option><option value="38">Chapter 38: Tempo</option><option value="39">Chapter 39: Ossie</option><option value="40">Chapter 40: Missing Letters</option><option value="41">Chapter 41: Green</option><option value="42">Chapter 42: The Faint Thread</option><option value="43">Chapter 43: Below</option><option value="44">Chapter 44: Full Moon</option><option value="45">Chapter 45: Rule Five</option><option value="46">Chapter 46: What Was He Like</option><option value="47">Chapter 47: One Cast</option><option value="48">Chapter 48: The Cold One</option><option value="49">Chapter 49: The Roof</option><option value="50">Chapter 50: Close</option><option value="51">Chapter 51: The Carving</option><option value="52">Chapter 52: Yes, Ma&#x27;am</option><option value="53">Chapter 53: The Pass</option><option value="54">Chapter 54: Mask</option><option value="55">Chapter 55: Let Them</option><option value="56">Chapter 56: Slow Clock</option><option value="57">Chapter 57: Now</option><option value="58">Chapter 58: Firewood</option><option value="59">Chapter 59: The Sum</option><option value="60">Chapter 60: Three Years</option><option value="61">Chapter 61: The Last Stretch</option><option value="62">Chapter 62: Hook, Reel, Cut</option><option value="63">Chapter 63: The Tree</option><option value="64">Chapter 64: Two Candles</option><option value="65">Chapter 65: The Long Bundle</option><option value="66">Chapter 66: No Charm</option><option value="67">Chapter 67: The North Road</option><option value="68">Chapter 68: The King&#x27;s Hens</option><option value="69">Chapter 69: Stones</option><option value="70">Chapter 70: Scope</option><option value="71">Chapter 71: The Cut</option><option value="72">Chapter 72: Astra</option><option value="73">Chapter 73: Again</option><option value="74">Chapter 74: Halfway</option><option value="75">Chapter 75: The Honest Book</option><option value="76">Chapter 76: The Third Hunter</option><option value="77">Chapter 77: Upriver</option><option value="78">Chapter 78: Unseen</option><option value="79">Chapter 79: Not in a Hurry</option><option value="80">Chapter 80: The King&#x27;s Answer</option><option value="81">Chapter 81: The Sealed Room</option><option value="82">Chapter 82: He&#x27;ll Be the One Talking</option><option value="83">Chapter 83: Ad Astra</option><option value="84">Chapter 84: First Ice</option><option value="85">Chapter 85: Two Hundred Lines</option><option value="86">Chapter 86: Midwinter</option><option value="87">Chapter 87: Not Yet Is Over</option><option value="88">Chapter 88: Four Fish</option><option value="89">Chapter 89: The Lake Road</option><option value="90">Chapter 90: Supper</option><option value="91">Chapter 91: The Basket Stays Five</option><option value="92">Chapter 92: Root</option><option value="93">Chapter 93: Kin</option><option value="94">Chapter 94: Pairs</option><option value="95">Chapter 95: Chalk</option><option value="96">Chapter 96: Rehearsal</option><option value="97">Chapter 97: Thaw</option><option value="98">Chapter 98: Waiting at Duskhollow</option><option value="99">Chapter 99: IF Upriver</option><option value="100">Chapter 100: The Narrows</option><option value="101">Chapter 101: Mend</option><option value="102">Chapter 102: The Lake Country</option><option value="103">Chapter 103: The Last Mile</option><option value="104">Chapter 104: The Third Part</option><option value="105">Chapter 105: Brothers</option><option value="106">Chapter 106: Okay. Again.</option><option value="107">Chapter 107: No Bells</option><option value="108">Chapter 108: Nomen</option><option value="109">Chapter 109: His Father</option><option value="110">Chapter 110: Exactly Where It Should Go</option><option value="111">Chapter 111: Fifteen</option><option value="112">Chapter 112: The Teacher</option><option value="113">Chapter 113: The Spot</option><option value="114" selected>Chapter 114: Threads and Windows</option><option value="115">Chapter 115: Ask</option><option value="116">Chapter 116: Fledgling</option></select></label><a class="nav-btn" href="../../read/115/" rel="next"><span>Next</span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></a></nav>
+  <section class="comments" id="comments" data-ch="114" aria-labelledby="comments-h">
+    <h2 id="comments-h"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>Comments</span><span class="c-count" data-count></span></h2>
+    <form class="c-form" data-comment-form novalidate>
+      <label><span class="sr">Your name</span><input name="name" maxlength="40" placeholder="Your name" autocomplete="nickname"></label>
+      <label><span class="sr">Your comment</span><textarea name="text" maxlength="2000" rows="3" placeholder="Say something about this chapter&#8230;"></textarea></label>
+      <div class="c-row"><span class="c-hint" data-status aria-live="polite">Comments are public. Your name is remembered in this browser.</span><button type="submit" class="btn primary">Post</button></div>
+    </form>
+    <ol class="c-list" data-list></ol>
+    <p class="c-empty" data-empty>Loading comments&#8230;</p>
+  </section>
+</main>
+<div class="scrim" data-close hidden></div>
+<aside class="drawer" id="settings" aria-label="Reader settings" aria-hidden="true">
+  <div class="drawer-head"><h2>Reader settings</h2><button type="button" class="icon-btn" data-close aria-label="Close settings"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>
+  <div class="drawer-body">
+    <section><h3>Theme</h3><div class="seg" data-setting="theme" role="group"><button type="button" data-value="dark">Dark</button><button type="button" data-value="light">Light</button><button type="button" data-value="sepia">Sepia</button><button type="button" data-value="lake">Lake</button></div>
+      <div class="colors"><label>Background <input type="color" data-setting="bg"></label><label>Text <input type="color" data-setting="fg"></label><button type="button" class="link" data-clear-colors>Use theme colours</button></div>
+    </section>
+    <section><h3>Font</h3><div class="seg" data-setting="font" role="group"><button type="button" data-value="sans">Default</button><button type="button" data-value="georgia">Georgia</button><button type="button" data-value="lora">Lora</button><button type="button" data-value="legible">Hyperlegible</button></div></section>
+    <section>
+      <label class="row"><span class="lbl">Font size <output data-out="size"></output></span><input type="range" data-setting="size" min="12" max="32" step="1" data-unit="px"></label>
+      <label class="row"><span class="lbl">Line spacing <output data-out="lh"></output></span><input type="range" data-setting="lh" min="1.2" max="2.4" step="0.1" data-unit="×"></label>
+      <label class="row"><span class="lbl">Paragraph spacing <output data-out="ps"></output></span><input type="range" data-setting="ps" min="0" max="3" step="0.1" data-unit="em"></label>
+      <label class="row"><span class="lbl">Text width <output data-out="width"></output></span><input type="range" data-setting="width" min="40" max="100" step="1" data-unit="%"></label>
+    </section>
+    <p class="note">Chapters are plain, semantic HTML, so your browser's own reader view works too. <kbd>←</kbd> <kbd>→</kbd> change chapter.</p>
+    <button type="button" class="btn ghost" data-reset>Reset to defaults</button>
+  </div>
+</aside>
+<script src="../../assets/comments.js" defer></script>
+</body>
+</html>
