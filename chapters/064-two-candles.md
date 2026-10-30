@@ -197,7 +197,11 @@ Yan looked at him.
 
 "What does that mean?" said Wendy. "Leaned."
 
-"Souls lean," said Yan. "Toward things. People. It's one of the first things I noticed, in the winter. Rhea's leans toward a fight. Aldous's leans toward the markers, every time he walks past them. Salty's leans toward you." He didn't look at Wendy when he said it, and Wendy didn't look at him, and Salty went slightly red under the grey. "They lean toward what they love. What they know. They don't lean toward strangers. Not ever. I've watched new soldiers come into this fort all year, and nobody's soul leans toward them for weeks."
+"Souls lean," said Yan. "Toward things. People. It's one of the first things I noticed, in the winter. Rhea's leans toward a fight. Aldous's leans toward the markers, every time he walks past them. Salty's leans toward you." He didn't look at Wendy when he said it, and Wendy didn't look at him, and Salty went slightly red under the grey.
+
+"Suzu's leans toward me," Yan said. He said that one plainly, the way you'd say the sky was up. "It has since the hall. All day, every day, like a plant on a windowsill." Nobody asked him which way his own leaned. They'd all seen the streams.
+
+"They lean toward what they love. What they know. They don't lean toward strangers. Not ever. I've watched new soldiers come into this fort all year, and nobody's soul leans toward them for weeks."
 
 He stopped. His hands had come apart in front of him. He put them back together.
 

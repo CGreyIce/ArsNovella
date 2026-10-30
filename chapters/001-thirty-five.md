@@ -85,6 +85,18 @@ She was enormous: a white serpent longer than he was tall, coiled across his che
 
 She hissed at him. Then, as he watched, she *shrank*, length pouring away like water, until what lay across his collarbone was a slim white snake no thicker than a scarf. She slid once around his neck and settled there, cool and dry and unmistakably offended.
 
+Offended, and frightened, and something else. He could *feel* it. That was the strangest part, stranger than the snake: there was something running between them that had never been there on stream, a warm cord from somewhere under his breastbone to the weight at his throat, and what she felt came down it as plainly as a hand on his cheek. She'd woken first. Alone, in a hall full of swords. And the first thing she'd done was find him, and lie across his heart until he opened his eyes.
+
+On stream, Suzu had been in love with him. That was the bit. Everyone in chat knew it. The snake was devoted; the snake was jealous; the snake hissed at anyone who sent him too many hearts. And once a week somebody would ask, and Yan would say, in his slow deep voice, that the feeling was mutual, and chat would lose its mind.
+
+He'd thought it was a bit.
+
+He put a hand up to her without looking, and the warm thing in his chest answered before he could ask it not to, and down the cord, very quietly, she answered back. She pressed her small cool head into the hollow under his jaw and kept it there.
+
+It wasn't a bit. It had never been a bit.
+
+And under all of it, faint and growing, there was something he didn't understand yet. She was hungry.
+
 His hands, when he lifted them, were not quite his own: long fingers in black gloves, a cuff of crimson sleeve. When he touched his ear it went on for longer than an ear should, up into a point.
 
 "Am I a *tree?*" said someone nearby, very loudly.

@@ -225,6 +225,10 @@ So he'd made a decision, that first night, lying on the barracks floor with Suzu
 
 He hadn't told anyone. Not even Salty. He carried it the way he carried everything. On his own.
 
+Except that wasn't quite true, and hadn't been since the hall. Suzu knew. She'd known before he'd finished deciding it; it had gone down the cord between them the way everything did. And she'd known the other half of it, too, the half he wouldn't let himself look at. On Earth, Suzu had been a drawing. If he ever found the door, and walked through it into his mother's kitchen, he didn't know what would walk through it with him. Whether anything would.
+
+She'd put her head under his chin that night, on the barracks floor, and kept it there until morning. She hadn't asked him to choose. She never would. That was the worst of it, and the best.
+
 *Thirty-five*, said his window, when he looked. Up one, that week. Slow.
 
 He closed it, and sat with Suzu on the wall, and felt for the thread, and held on.

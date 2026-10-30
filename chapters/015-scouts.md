@@ -157,7 +157,7 @@ Yan closed his eyes.
 
 He didn't decide to. He did it the way he'd done it at the grave, the way he'd been doing it every night since on the red ground past the wall: breathe, and wait, and let the world wait back. He reached out past the wall, past the markers, toward the line of still figures in the dark.
 
-Most of them felt like nothing. Like holes. Like cold water, empty.
+Most of them felt like nothing. Like holes. Like cold water, empty. Suzu, who would lift her head at a hen dying on the far side of the fort, didn't so much as taste the air at them. Whatever was in them, it wasn't anything she could eat.
 
 But the one in the middle, the one that was pointing, felt like something else.
 

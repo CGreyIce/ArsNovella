@@ -19,7 +19,7 @@ He'd never once, in all that time, been the one who got carried.
 
 He felt it before Wendy screamed.
 
-He was standing over Suzu with his hand out. That was all he had. He was still an Initiate, forty-three percent of the way to the first tier, with a feeling for candles and no way to *do* anything about any of it, and so he'd done the only thing left: put himself over his familiar, with the west one tearing at her, and held his hand out at it as if he could stop it by looking. It hadn't stopped. It had looked down at him with the place where its face should have been, and lifted one long grey arm.
+He was standing over Suzu with his hand out. That was all he had. He was still an Initiate, forty-three percent of the way to the first tier, with a feeling for candles and no way to *do* anything about any of it, and so he'd done the only thing left: put himself over Suzu, with the west one tearing at her, and held his hand out at it as if he could stop it by looking. He hadn't decided to; there'd been nothing to decide. The west one hadn't stopped. It had looked down at him with the place where its face should have been, and lifted one long grey arm.
 
 And then the sea arrived.
 
@@ -205,7 +205,7 @@ Yan had forgotten her. She'd been lying beside him on the red, full-size, torn a
 
 Yan reached for her and didn't catch her.
 
-She went right up to the man's boots. She lifted her head off the ground and tasted the air round him with her tongue, once, twice, the way she did with food. And then she did something Yan had never once seen her do, in a year, with anyone but him. She laid her head down across the toe of the man's red-dusted boot, and closed her bright green eyes.
+She went right up to the man's boots. She lifted her head off the ground and tasted the air round him with her tongue, once, twice, the way she did with anything she wanted to know. And then she did something Yan had never once seen her do, in a year, with anyone but him. She laid her head down across the toe of the man's red-dusted boot, and closed her bright green eyes.
 
 The man looked down at her.
 

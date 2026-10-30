@@ -51,6 +51,16 @@ Kei listened to something nobody else could hear. "He says that's no excuse."
 
 Suzu hissed. Hisui, apparently, hissed back. Maigo laughed so hard he fell off a cot.
 
+A little later, Mashi looked over and saw Yan sitting on the edge of his cot with a heel of bread from supper in one gloved hand and a strip of cold mutton in the other, holding them up to the white snake round his neck one after the other. She tasted each one with her tongue and turned her head away.
+
+"She's hungry," said Yan quietly, when he saw Mashi looking. "I can feel it. She won't eat."
+
+"Mice?" said Mashi. "Snakes eat mice."
+
+"I asked one of the guards. He looked at me like I was mad." Yan put the bread down on the blanket. "It isn't that. It's not that kind of hungry."
+
+Across the room, Kei listened to his wrist for a moment, and sighed. "Hisui says she's not that kind of snake," he said. "He says you'll work it out." A pause. "He says he's not telling you what kind, because she was rude to him."
+
 It was nearly two in the morning when Deston said the thing that mattered.
 
 "We're being split up tomorrow," he said. "Seven groups, seven directions. We need a way to keep talking."

@@ -19,6 +19,40 @@ Around Yan's neck, Suzu had gone tight and still. She hadn't moved since they'd 
 
 ***
 
+She'd eaten, at least. That was the one good thing the road had given him.
+
+For four days out of Solmere she'd lain round his neck getting colder. Not the cold of a snake out of the sun: a slow, inward cold that he could feel down the cord between them, the way you feel a hand go cold in yours. She'd turned her head away from everything he offered her. Bread. Meat. An egg Maigo had bought off a farm wife for a copper, out of pure stubbornness. She'd got smaller, too, smaller than scarf-sized, until on the fourth morning she was barely thicker than his finger, and Yan sat in the back of the wagon with his hand cupped over her and didn't call a single thing all day.
+
+On the fifth day, a mile short of a waystation, one of the escort's horses put its foreleg in a rut and broke it.
+
+Rhea did it. Quickly, with her knife, with her face for once not grinning at all. Yan looked away. Suzu didn't.
+
+She came up off his neck so fast he felt it in his teeth. Her head went out past his shoulder toward the horse on the road, toward something just above it, and for one heartbeat, down the cord, he saw what she saw. A small light. Blue, like the bottom of a candle flame, rising off the horse the way breath rises on a cold morning, already beginning to thin.
+
+She took it. One strike, the way a snake takes anything. And the cold in the cord went out all at once, and warmth came down it instead, so much warmth that he had to put a hand on the side of the wagon. She was the right size again by the waystation. By supper she was asleep.
+
+Aldous had seen. Yan knew he had, from the way the old chaplain didn't look at either of them for the rest of the day; and that night, by the waystation fire, he came and sat down beside Yan with his hands folded in his sleeves and asked, very quietly, the only question that mattered.
+
+"And when it is a man?"
+
+Yan had been thinking about that all afternoon. He'd been thinking about it while she slept against his throat, warm and heavy and content for the first time since the hall.
+
+"No," he said. "Never."
+
+"She will be hungry, sometimes. Out there." Aldous looked east, toward the frontier. "Men die on the frontier."
+
+"Then she'll be hungry." Yan put his hand over her. Down the cord, sleepy, came something that wasn't a word but was very plainly *yes*. "She'd rather. She told me."
+
+"She cannot talk."
+
+"No," said Yan. "But I know what she'd say."
+
+Aldous looked at him for a long time, and then at the white snake asleep round his throat, and something in his face eased. Not all the way. He made his two-fingered sign again, small, under his sleeve. But it looked different this time. Less like warding something off. More like a blessing.
+
+At Cinderhold it was easier. The fort's cook killed a goat every third day and a hen most mornings, and after the first week she stopped asking why the tall pale summoned boy with the snake wanted to be in the kitchen yard when she did it. She decided he was praying. Yan let her think so. It wasn't entirely wrong. A hen's light would hold Suzu a day. A goat's, three. He learned to feel the hunger coming down the cord the way you learn to feel weather coming, and he was never once late.
+
+***
+
 Cinderhold was a square stone fort with a garrison of two hundred soldiers, a well, a forge, a chapel with no priest, and a training yard that Rhea had claimed on the first day as her personal kingdom.
 
 "Push-ups," she announced, on the first morning. "Whoever does the most gets the good bunk."
@@ -50,6 +84,24 @@ Wendy didn't need to be told. She'd picked up a bow on the second day, a plain s
 "I don't trust anything," said Wendy, and loosed another arrow into the centre of the target.
 
 "Then you'll be very good at it," said Aldous mildly, "once you start."
+
+Yan went to the armoury too, on the second day, and came back with nothing.
+
+"They don't have one," he said, when Maigo asked.
+
+"One what?"
+
+"A scythe."
+
+Rhea, who was timing Salty's push-ups, stopped counting. "A *scythe?*" She stared at him. "That's for *hay*."
+
+"It's what I'd use." He didn't know how to explain it better than that. He'd never held one. But in every game that had ever offered him one, he'd taken it; and standing in the armoury among the racks of plain soldiers' swords and spears and one dusty halberd, he'd known, the way he'd known Suzu's eyes, that none of it was his, and what was.
+
+"Nobody fights with a scythe," said Rhea.
+
+"Then I'll be the first."
+
+Aldous, on the bench by the wall, had gone rather pale. He said nothing. But Yan saw his two fingers move under his sleeve, and later that week the chaplain found him a quarterstaff from the back of the armoury, plain ash, a little taller than he was, and handed it over without quite meeting his eyes, and said, "Until." And nothing else.
 
 ***
 
@@ -89,6 +141,16 @@ There was a letter, that night, too. The first. It had come with the courier fro
 
 Maigo laughed so hard he had to put his head on the table. Salty grinned. Even Wendy smiled.
 
+"Tell him she's taken," said Maigo, wiping his eyes.
+
+"Taken?" said Salty.
+
+Maigo lowered his sunglasses and looked at him over the top of them. "Salty. Buddy. Have you ever once watched the stream? She's *married*. That's the whole bit. Snake's in love with him, he's in love with the snake, chat spams hearts. Every stream. For years."
+
+"It wasn't a bit," said Yan.
+
+He said it mildly, the way he said everything. Nobody laughed. Maigo opened his mouth, and looked at Yan's face, and closed it again, and pushed his sunglasses slowly back up his nose.
+
 Around Yan's neck, Suzu lifted her head, looked at the letter, and hissed softly, once.
 
 "She says thank you," said Yan.
@@ -101,7 +163,7 @@ Around Yan's neck, Suzu lifted her head, looked at the letter, and hissed softly
 
 It was in the fourth week that he first felt the dead.
 
-He'd been going out past the wall in the evenings, with Aldous's permission, to sit on the red ground and do his breathing there instead of in the yard. He didn't entirely know why. Something about the quiet. Something about the way Suzu went still when he crossed the line from the grass into the rust, as if she were listening.
+He'd been going out past the wall in the evenings, with Aldous's permission, to sit on the red ground and do his breathing there instead of in the yard. He didn't entirely know why. Something about the quiet. Something about the way Suzu went still when he crossed the line from the grass into the rust, as if she were listening. Whatever she was listening for, it wasn't food. There was nothing left out here for her to eat; it had all gone a long time ago. She listened anyway.
 
 That night he closed his eyes, and breathed, and waited, and something waited back.
 
@@ -199,7 +261,7 @@ Maigo, who had been quiet for almost two hours, made a small sound that might ha
 
 That night, Yan wrote back to Kei.
 
-He told him about the fort, and Rhea, and the score, and Wendy's three arrows, and Maigo getting rich. He told him that Suzu had said thank you, which was very nearly true. He told him about the red ground and the rows of markers and the feeling of walking into a room where people had been afraid.
+He told him about the fort, and Rhea, and the score, and Wendy's three arrows, and Maigo getting rich. He told him that Suzu had said thank you, which was very nearly true, and that Hisui should know she was spoken for, which was entirely true. He told him about the red ground and the rows of markers and the feeling of walking into a room where people had been afraid.
 
 He told him about the grave with the flowers, and the hole where the sword had been.
 

@@ -27,7 +27,21 @@ That had taken a while. Aldous had got his breath back, or some of it, and gone 
 
 Rhea's face was mostly a cut across the scalp, which bled the way scalp cuts do, and looked much worse than it was. She wouldn't let Aldous near it until he'd finished with everyone else.
 
-Suzu's side Yan saw to himself. He'd knelt with her across his lap, full-size still, with her head in his hands, and done something Maigo couldn't see, with his eyes closed. When he opened them, the black streaks on her white scales had stopped spreading, and she'd shrunk back down to scarf size, slowly, and climbed up his arm and round his neck and gone very still there.
+Suzu's side Yan saw to himself. He'd knelt with her across his lap, full-size still, with her head in his hands, and done something Maigo couldn't see, with his eyes closed. Maigo could see what it cost, though. Yan went grey, the way Aldous had gone grey at the end of his chant. And Suzu fought him. She tried to turn her head away, weakly, over and over, and Yan held it in both his hands and wouldn't let her, and said something to her under his breath that Maigo didn't catch. When he opened his eyes, the black streaks on her white scales had stopped spreading, and she'd shrunk back down to scarf size, slowly, and climbed up his arm and round his neck and gone very still there.
+
+"What did you do?" Maigo whispered. "To her."
+
+Yan didn't open his eyes. "Fed her."
+
+"On *what*?" Maigo looked round at the red. At the soldiers on the ground, holding each other's arms and legs. At the three dead hunters, lying in the dust like broken furniture. "Them?"
+
+"They're cold. She can't eat cold." A pause. "So she had some of mine."
+
+Maigo stared at him. "Some of your *soul*?"
+
+"A little. It comes back." Yan's hands moved in his lap, and were still. "She didn't want it. She's never once tried to bite me, and she tried to bite me." Around his neck the small white snake didn't move, but Maigo, who could feel the ground and everything in it and nothing at all about souls, would have sworn she pressed closer. "I made her."
+
+Maigo didn't say anything. He thought about every stream he'd ever sat in, and chat spamming hearts every time Yan said, in that slow deep voice, that the feeling was mutual. And how they'd all laughed.
 
 Nobody had died. Maigo kept saying it to himself, inside his head, the way you say something you can't believe. *Nobody died. Nobody died.* Fifty of them, and three of the big ones, and ten soldiers and Rhea and Aldous and the five of them on open ground in the middle of the Redmarch, and nobody had died.
 
