@@ -301,7 +301,7 @@ The slow date. Earth's date.
 
 He looked at it for a long time.
 
-Three years, and a little more. A month and a half more since the summoning, give or take. The days crawled past down there. One of their days for every eleven of his. He'd done the sums so many times he didn't have to anymore.
+Three years, and a little more. Getting on for two months since the summoning. The days crawled past down there. One of their days for every eleven of his. He'd done the sums so many times he didn't have to anymore.
 
 Somewhere, on that date, in a world on the other side of everything, it was a weekday. It was the middle of a morning, maybe. A man was getting up and going to work. Or sitting in his chair. Or sitting on a wall somewhere, with his hands between his knees, looking at nothing, not crying.
 
@@ -317,7 +317,7 @@ He sat there for a long time on the end of the jetty, looking at the date. Then,
 
 *I'm okay too, Dad.*
 
-*I've got a daughter. She's sixteen. She's cleverer than me and she tells me so. She feeds the hens. She took my hand this morning on a wall, without anybody telling her to, exactly the way somebody took yours.*
+*I've got a daughter. She's seventeen. She's cleverer than me and she tells me so. She feeds the hens. She took my hand this morning on a wall, without anybody telling her to, exactly the way somebody took yours.*
 
 *You'd like her.*
 

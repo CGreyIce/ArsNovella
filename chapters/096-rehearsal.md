@@ -63,7 +63,7 @@ Not them. Himself. He'd go down to the Lists in the afternoons, when the rain ea
 
 Newish had gone down to watch, the first time, because she'd heard his beat change from across the city. A dance tune all year, a fiddle at a wedding. A march, since the king's letter. She'd followed the march down to the Lists in the rain and found him in the middle of the empty sand with his arms out, addressing the north stands.
 
-"*People of Valcrest*," Lucan had been saying, to the empty stone. "*A year and a half ago, thirty-five strangers fell out of the sky.*" He'd stopped. "No. *Fell out of the sky* is wrong. They didn't fall. *Were brought.*" He'd tried it again. "*A year and a half ago, thirty-five strangers were brought—*"
+"*People of Valcrest*," Lucan had been saying, to the empty stone. "*Two summers ago, thirty-five strangers fell out of the sky.*" He'd stopped. "No. *Fell out of the sky* is wrong. They didn't fall. *Were brought.*" He'd tried it again. "*Two summers ago, thirty-five strangers were brought—*"
 
 He'd seen her, then, on the steps of the east gate, and gone red to his beard.
 

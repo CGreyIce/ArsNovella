@@ -75,7 +75,7 @@ He couldn't feel aura the way Salty could, or Rhea. He was half a swordsman, the
 
 It hadn't gone into the rod.
 
-Aura went in, then out. That was how it worked. Mashi had worked it out in the winter, the night of the first frost, and nosebled on it for a year since. You drew aura in, from somewhere at the bottom of yourself, and then you put it out into whatever you trusted, a sword, an arrow, a fist, and it ran along the edge and came out the other side. In, then out. A line.
+Aura went in, then out. That was how it worked. Mashi had worked it out in the winter, the night of the first frost, and nosebled on it for most of a year since. You drew aura in, from somewhere at the bottom of yourself, and then you put it out into whatever you trusted, a sword, an arrow, a fist, and it ran along the edge and came out the other side. In, then out. A line.
 
 Magic was the other way. Mana came from outside. From the air, the ground, the world. You drew it in, and shaped it, and it came out as a spell. Outside, then in. Also a line. The same shape, backwards. And every time he'd tried to run both lines at once, they'd run straight into each other, head on, like two cars on a one-lane road, and his nose had bled, and once his heart had stopped for two beats and he'd woken up on the chapel floor with Aldous praying over him.
 

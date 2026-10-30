@@ -293,7 +293,7 @@ He cleared his throat.
 
 "Thea," he said.
 
-In English. Out loud. The first time he'd said her name out loud in this world. He'd spoken English here perhaps a dozen times in thirty years: to Diwa, teaching her the letters; to Alea, at bedtime, the names of his friends; once to the lake, a year and a half ago, the night of the summoning. *What did you do, Halvard.*
+In English. Out loud. The first time he'd said her name out loud in this world. He'd spoken English here perhaps a dozen times in thirty years: to Diwa, teaching her the letters; to Alea, at bedtime, the names of his friends; once to the lake, sixteen months ago, the night of the summoning. *What did you do, Halvard.*
 
 The hens stared at him.
 

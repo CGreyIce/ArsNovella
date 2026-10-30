@@ -95,7 +95,7 @@ The silence went on for a long time.
 
 Then a door at the back of the dais opened, the one behind the empty thirteenth chair, and the air in the room got heavier.
 
-Hanarisu felt it in her chest first, and then in her shoulders, and then behind her eyes. The same weight she'd felt in the summoning hall, five months ago, the day the king walked in: as if the whole room had sunk a few fathoms underwater. Along the dais, twelve lords stopped breathing at once.
+Hanarisu felt it in her chest first, and then in her shoulders, and then behind her eyes. The same weight she'd felt in the summoning hall, four months ago, the day the king walked in: as if the whole room had sunk a few fathoms underwater. Along the dais, twelve lords stopped breathing at once.
 
 King Severin came through the door and sat down in the thirteenth chair.
 

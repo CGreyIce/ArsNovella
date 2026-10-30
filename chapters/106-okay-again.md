@@ -181,7 +181,7 @@ He looked at the lake.
 
 Xav looked at him.
 
-"Petra thought it was a prayer," he said. "For seven years. To a god nobody here knew. And then she thought it might be a joke."
+"Petra thought it was a prayer," he said. "For eight years. To a god nobody here knew. And then she thought it might be a joke."
 
 "It was both," said Declan. "Most things I said were both."
 
@@ -207,7 +207,7 @@ Beside him, Declan had both hands over his face and was shaking.
 
 "You are."
 
-"That was the pike," said Declan, through his hands. "That was the *pike*. I've been trying to catch that pike for *seven years*. You had it on the line for *two seconds*."
+"That was the pike," said Declan, through his hands. "That was the *pike*. I've been trying to catch that pike for *eight years*. You had it on the line for *two seconds*."
 
 "It was my first try."
 
@@ -243,7 +243,7 @@ She'd stopped at the bottom of the road, where it ran out onto the shingle. Wher
 
 She waited.
 
-Of course she waited. She'd taught Xav to wait. She'd never once, in a year and a half of dawns, moved first.
+Of course she waited. She'd taught Xav to wait. She'd never once, in more than a year of dawns, moved first.
 
 "That's Petra," said Xav.
 
@@ -279,7 +279,7 @@ He found out later what it was. Petra told him herself, that evening, on the shi
 
 That was all he said, at first.
 
-*Hello, girl from the ditch.* As if he'd seen her last week. As if there'd been nothing in between. Seven years, and a war, and a whole life. And then, while she stood there with her hand over her mouth, unable to say anything at all:
+*Hello, girl from the ditch.* As if he'd seen her last week. As if there'd been nothing in between. Eight years, and a war, and a whole life. And then, while she stood there with her hand over her mouth, unable to say anything at all:
 
 *You wouldn't put your sword down. You were at the end. Your hands were shaking so hard you couldn't have hit anything with it. All night. You wouldn't put it down.*
 
@@ -291,7 +291,7 @@ That was all he said, at first.
 
 Xav watched her try to say it.
 
-He'd known she had something to say. She'd had it for seven years. He'd watched her carry it all the way up the river, fifteen days on a barge, in silence, at the bow, beside Sabine, the two of them like a pair of cats on a wall. She'd never told him what it was. He'd never asked.
+He'd known she had something to say. She'd had it for eight years. He'd watched her carry it all the way up the river, ten days on a barge, in silence, at the bow, beside Sabine, the two of them like a pair of cats on a wall. She'd never told him what it was. He'd never asked.
 
 He watched her say it now.
 
@@ -327,7 +327,7 @@ Then he said it. Out loud, the way he'd said it to the lake an hour ago. And thi
 
 Petra went completely still.
 
-Xav watched her mouth move. Silently. Trying the shapes. *Au. Den.* The shapes her mouth hadn't known, for seven years, the sounds she'd tried and tried to remember in the dark. He watched her find them. One at a time. He watched her mouth close on the last one and stay closed.
+Xav watched her mouth move. Silently. Trying the shapes. *Au. Den.* The shapes her mouth hadn't known, for eight years, the sounds she'd tried and tried to remember in the dark. He watched her find them. One at a time. He watched her mouth close on the last one and stay closed.
 
 She turned her head. She looked straight past Declan, along the jetty, to where Xav was sitting on the end of it with the rod in his hands.
 

@@ -111,7 +111,7 @@ The barge came in. The sail came down. An old man at the tiller roared something
 
 Deston was over the rail before the barge stopped moving.
 
-He jumped. Onto the landing stage. Nearly fell. Caught himself on a bollard. And then he was standing in front of Xav, close, a pace away, breathing hard, with his face doing something Xav had never once seen it do in all the years since they were seventeen, in a polytechnic, with Declan between them.
+He jumped. Onto the landing stage. Nearly fell. Caught himself on a bollard. And then he was standing in front of Xav, close, a pace away, breathing hard, with his face doing something Xav had never once seen it do in all the years since they were seventeen, with Declan between them.
 
 Deston didn't say anything. He held out his hand.
 

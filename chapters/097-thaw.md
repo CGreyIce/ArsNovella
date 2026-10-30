@@ -21,7 +21,7 @@ He'd been the newest of them. He'd always been the one asking. *Who's the Hero? 
 
 He knew why, now.
 
-He knew exactly what he was going to ask him. He'd known for a year. Since a night on a roof in the winter, when Deston said *it's him*, and Calvin had sat there in the dark and thought, very clearly, about one question. The one nobody else would think to ask. The one nobody else would *dare* to.
+He knew exactly what he was going to ask him. He'd known since the start of the winter. Since a night on a roof in the first cold, when Deston said *it's him*, and Calvin had sat there in the dark and thought, very clearly, about one question. The one nobody else would think to ask. The one nobody else would *dare* to.
 
 He was going to ask it the minute he saw him.
 
@@ -55,7 +55,7 @@ Calvin hadn't known he was going to. Nobody had. Dennis went out in the morning 
 
 Calvin stared at him.
 
-"The *Patient Widow*," said Dennis. "Salt barge. Forty feet. One mast, with a crosstree." He looked at Calvin. "Her owner died two years ago and nobody's been able to work out who she belongs to, so she's been tied up at the end of the long jetty rotting, and the harbourmaster's been trying to get rid of her for a year. He wanted her off the jetty before the ice brought another one down on top of her." He spread his hands. "I offered him a fair price. He said that was insulting. I listened to him say it. Then I offered him the same price again, and he took it."
+"The *Patient Widow*," said Dennis. "Salt barge. Forty feet. One mast, with a crosstree." He looked at Calvin. "Her owner died three years ago and nobody's been able to work out who she belongs to, so she's been tied up at the end of the long jetty rotting, and the harbourmaster's been trying to get rid of her for a year. He wanted her off the jetty before the ice brought another one down on top of her." He spread his hands. "I offered him a fair price. He said that was insulting. I listened to him say it. Then I offered him the same price again, and he took it."
 
 "You *bought a boat*," said Rachael.
 

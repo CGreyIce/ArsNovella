@@ -11,7 +11,7 @@ Deston walked down the lake road with Gabe beside him and the low part coming in
 
 To a man with his back to them.
 
-He'd followed it for four months on a roof. Fifteen days up a river. Through a gorge where things came down the cliffs head first. He'd felt it get warmer every mile. He'd thought, in the Narrows, in the chorus, with every thread on the barge lit at once, that it couldn't get any brighter than that.
+He'd followed it for most of a year on a roof. Fifteen days up a river. Through a gorge where things came down the cliffs head first. He'd felt it get warmer every mile. He'd thought, in the Narrows, in the chorus, with every thread on the barge lit at once, that it couldn't get any brighter than that.
 
 It was brighter than that now. Every step.
 
@@ -75,7 +75,7 @@ And the third voice, from the end of the jetty, too loud, on top.
 
 Three parts.
 
-For the first time in three years. Six weeks. Thirty-four years. Deston didn't know how to count it anymore. For the first time since a stage in Singapore and a car park after a concert, with a teacher telling Declan to keep it down. Three ordinary voices, and a chord.
+For the first time in three years, by one count. Thirty-four, by another. Deston didn't know how to count it anymore. For the first time since a stage in Singapore and a car park after a concert, with a teacher telling Declan to keep it down. Three ordinary voices, and a chord.
 
 He'd always thought he was the weak one. In the middle. On his own, nothing much.
 
@@ -179,7 +179,7 @@ He didn't know how long they stayed there. On the end of the jetty, in a heap, t
 
 At some point he felt the thread change.
 
-He didn't have to look for it. It was just *there*, the way it had been there for four months on a roof, and fifteen days up a river, and every step of the lake road. From his own chest. Only it wasn't running north anymore. It wasn't running anywhere. It was right here. It went from his chest to a man kneeling beside him on a jetty with his arms round Gabe, a hand's width away, and it was gold, and thick, and taut, and it wasn't one thread pulled from one end anymore.
+He didn't have to look for it. It was just *there*, the way it had been there for most of a year on a roof, and fifteen days up a river, and every step of the lake road. From his own chest. Only it wasn't running north anymore. It wasn't running anywhere. It was right here. It went from his chest to a man kneeling beside him on a jetty with his arms round Gabe, a hand's width away, and it was gold, and thick, and taut, and it wasn't one thread pulled from one end anymore.
 
 It was pulled from both.
 

@@ -225,7 +225,7 @@ And eyes could be lied to.
 
 He'd been trying for months. Illusion. That was what was written over his gate. *He makes a demon scout see a wall where the road is.* Emrys had said it in the first week, reading his window: *a glamour mage, I think. Rare. Very rare.* Dennis had been trying ever since, in the rooms above the chandler's at night, to make a candle look like it was somewhere it wasn't. To make his own hand look like it was a hand's width to the left. He'd felt it, sometimes. Almost. A shimmer. Nothing more.
 
-Thea had written to all of them, a year ago, about the edge: *you have to write. One small line. In its language, not yours.* And Chris had made a list, in the summer, of every line that had worked: *they're all asking something to do what it already wants to.*
+Thea had written to all of them, last winter, about the edge: *you have to write. One small line. In its language, not yours.* And Chris had made a list, in the summer, of every line that had worked: *they're all asking something to do what it already wants to.*
 
 Eyes wanted to see. That was what eyes were for. They wanted to see the thing they were looking for.
 

@@ -61,7 +61,7 @@ It wasn't a word. It wasn't anything. It was the noise Calvin had made yesterday
 
 The town watched him come.
 
-Dennis watched the town watch him. He couldn't help it. It was what he did. And what he saw was a whole square of people who'd lived alongside this man for seven years stop what they were doing, and turn, and watch him walk up his own road with a kettle in his hands and a crowd of strangers waiting for him, and not one of them say anything. The baker. The smith from the forge on the square. The fishwives. They just watched. And then, one by one, without anybody telling them to, they went back to what they'd been doing, and left him alone.
+Dennis watched the town watch him. He couldn't help it. It was what he did. And what he saw was a whole square of people who'd lived alongside this man for eight years stop what they were doing, and turn, and watch him walk up his own road with a kettle in his hands and a crowd of strangers waiting for him, and not one of them say anything. The baker. The smith from the forge on the square. The fishwives. They just watched. And then, one by one, without anybody telling them to, they went back to what they'd been doing, and left him alone.
 
 He came across the square and in at Rowan's gate, and up the garden path, and up the terrace steps.
 
@@ -85,7 +85,7 @@ It came out of him like something breaking. He was sitting on Rowan's terrace wa
 
 "It's the same one," Calvin said, through his hands. "It's the *same kettle*. It's got wire on the handle. How has it got *wire on the handle*."
 
-"I bought it off a tinker," said the man. "The first autumn. For two coppers and a pike." He looked down at it. "I didn't notice it was the same until last night. I swear. Seven years."
+"I bought it off a tinker," said the man. "The first autumn. For two coppers and a pike." He looked down at it. "I didn't notice it was the same until last night. I swear. Eight years."
 
 "You didn't *notice*."
 
@@ -109,9 +109,9 @@ No bell.
 
 Calvin had a question.
 
-He'd had it for a year. Since a night on a roof in Kingsferry in the winter, when Deston said *it's him*, and Calvin had sat there in the dark and gone very quiet and then said, to nobody in particular, *I know what I'm going to ask him*. He'd never said what. Not once. Not on the barge, not in the Narrows, not on the long brown river. *It's a question*, he'd said, when Dennis pushed. *The one nobody else would dare to.*
+He'd had it since the start of the winter. Since a night on a roof in Kingsferry, when Deston said *it's him*, and Calvin had sat there in the dark and gone very quiet and then said, to nobody in particular, *I know what I'm going to ask him*. He'd never said what. Not once. Not on the barge, not in the Narrows, not on the long brown river. *It's a question*, he'd said, when Dennis pushed. *The one nobody else would dare to.*
 
-Dennis had wondered about it for a year. He'd tried to guess. *Where have you been*. *Why didn't you come*. *What happened to you*. Those were the questions everybody had. None of them needed daring.
+Dennis had wondered about it all winter. He'd tried to guess. *Where have you been*. *Why didn't you come*. *What happened to you*. Those were the questions everybody had. None of them needed daring.
 
 Calvin looked up at the man standing in front of him, with the kettle against his chest.
 
@@ -145,7 +145,7 @@ Dennis listened with everything he had.
 
 No bell.
 
-"Not every minute," the man said. "Not every day. I carry some things I'll always carry. There are mornings when it's heavy." He looked at Calvin. "But yes. I'm happy. I've got the lake, and the fish, and a daughter who's cleverer than me and tells me so. I've got a king who visits to look at my hens. I've got a town that leaves me alone." He breathed out. "And since yesterday morning, I've got all of you. Standing on a mayor's terrace, in my world, in the sun. With my kettle." Something moved in his face. "Today, Calvin, I'm the happiest I've been in seven years. That's the true answer. You can ask Dennis."
+"Not every minute," the man said. "Not every day. I carry some things I'll always carry. There are mornings when it's heavy." He looked at Calvin. "But yes. I'm happy. I've got the lake, and the fish, and a daughter who's cleverer than me and tells me so. I've got a king who came all this way and spent half his visit looking at my hens. I've got a town that leaves me alone." He breathed out. "And since yesterday morning, I've got all of you. Standing on a mayor's terrace, in my world, in the sun. With my kettle." Something moved in his face. "Today, Calvin, I'm the happiest I've been in eight years. That's the true answer. You can ask Dennis."
 
 Everybody looked at Dennis.
 
@@ -231,7 +231,7 @@ No bell. Not a hope of one. That one rang truer than anything.
 
 He looked at Dennis next.
 
-Dennis had thought about what he'd say for a year. He'd planned it, the way he planned a ledger. He'd had a version for if he was angry, and a version for if he was sad, and a version for if the man turned out not to be Declan at all, and a very short one, for emergencies, which was just *hello*.
+Dennis had thought about what he'd say all winter. He'd planned it, the way he planned a ledger. He'd had a version for if he was angry, and a version for if he was sad, and a version for if the man turned out not to be Declan at all, and a very short one, for emergencies, which was just *hello*.
 
 He forgot all of them.
 

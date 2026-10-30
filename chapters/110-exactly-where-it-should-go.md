@@ -223,7 +223,7 @@ Not Xav. Xav sat with his eyes shut and listened. Emrys understood. Somebody had
 
 Not Petra. Not Sabine. Not Maren. They didn't know it. They sat with their hands still and their faces turned to the lights going out over the water, and listened too.
 
-And on the wall at the top of the shingle, the townsfolk. Who didn't know the words, or the tune, or what world it came from. Humming. Very softly. Whatever they could catch of it. Twenty people on a wall in the dark, humming a song from another world because a fisherman they'd lived beside for seven years was singing it at last.
+And on the wall at the top of the shingle, the townsfolk. Who didn't know the words, or the tune, or what world it came from. Humming. Very softly. Whatever they could catch of it. Twenty people on a wall in the dark, humming a song from another world because a fisherman they'd lived beside for eight years was singing it at last.
 
 Emrys held the top.
 

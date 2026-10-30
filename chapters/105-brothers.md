@@ -85,7 +85,7 @@ He laughed. He hadn't meant to. "You'd wait all night."
 
 "I'm good at it now," said Xav. "Somebody taught me."
 
-He looked at the water for a while. At the stars on it. At the place, out in the middle, where the big pike lived, the one he'd been not-catching for seven years.
+He looked at the water for a while. At the stars on it. At the place, out in the middle, where the big pike lived, the one he'd been not-catching for eight years.
 
 "I want to tell you," he said. "All of it. Once. Properly. And then I don't think I want to tell it again for a long time." He turned the bowl round in his hands. "Is that all right?"
 
@@ -99,7 +99,7 @@ So he told them.
 
 He started at the beginning, because that was the only place he knew how to start. With a fan turning in a room in Malacca, and going to sleep, and not waking up. With waking up instead in a cottage on the other side of the world, a baby, with twenty-six years in his head and no way to tell anyone. Six years of not knowing what was wrong with him, and then one night under his blanket, whispering *Status* in English, just to hear the word, and a window opening in front of his face. He'd cried. A father who farmed. A field behind the house, where he'd crossed the first edge at fourteen, alone, and lain in the grass afterwards laughing like an idiot, with nobody in the world to tell.
 
-He told them about the garrison. Sixteen, with a borrowed sword and a temper, because he'd been angry, he said, for about five years straight: angry at being small again, angry at being somewhere he hadn't asked to be, angry at everything and at nothing and mostly at the sky. He told them about the one time he'd gone east past the border, alone, too far, much too far, at nineteen, because he'd been angry and an idiot, and found a black sword standing on a hill in the middle of nowhere like somebody had left it there for him.
+He told them about the garrison. Fifteen, with a borrowed sword and a temper, because he'd been angry, he said, for about five years straight: angry at being small again, angry at being somewhere he hadn't asked to be, angry at everything and at nothing and mostly at the sky. He told them about the one time he'd gone east past the border, alone, too far, much too far, at nineteen, because he'd been angry and an idiot, and found a black sword standing on a hill in the middle of nowhere like somebody had left it there for him.
 
 "You went into demon land," said Gabe. "On your own."
 
@@ -155,7 +155,7 @@ Nobody said anything.
 
 "She was the love of my life," he said. "Of both of them."
 
-He'd never said it out loud. Not once, in seven years. Not to Alea, who knew. Not to Rowan, or Odette, or the king. He'd cut it into iron, in a language nobody here could read. He'd never said it.
+He'd never said it out loud. Not once, in eight years. Not to Alea, who knew. Not to Rowan, or Odette, or the king. He'd cut it into iron, in a language nobody here could read. He'd never said it.
 
 It went out over the water, and lay there with the stars, and didn't sink.
 
@@ -179,7 +179,7 @@ The others let him. Gabe's hand stayed where it was. Deston didn't move. Somewhe
 
 "Then the war came," he said.
 
-"Alea was nine. The demons came over the Redmarch at the end of the summer. More of them than anyone had ever seen. More than anyone believed. The king called everybody east, and I went, and Diwa came, because they needed healers more than they'd ever needed anything, and she'd have walked there on her own if I'd said no. Alea stayed here. With Rowan and Odette." He looked up the shingle, towards the road. "That's how I know them. Rowan was a soldier then. He stayed with my daughter so I could go. He's never let me pay him back for it. I've tried for seven years."
+"Alea was nine. The demons came over the Redmarch at the end of the summer. More of them than anyone had ever seen. More than anyone believed. The king called everybody east, and I went, and Diwa came, because they needed healers more than they'd ever needed anything, and she'd have walked there on her own if I'd said no. Alea stayed here. With Rowan and Odette." He looked up the shingle, towards the road. "That's how I know them. Rowan was a soldier then. He stayed with my daughter so I could go. He's never let me pay him back for it. I've tried for eight years."
 
 "Cinderhold. The first nights were bad. The second night was worse. The line broke in the south, out on the red, and forty recruits got cut off in a ditch. Forty children, most of them. Surrounded." He looked at his hands. "So I went. That's what I was for. I went out to the ditch and I held it. All night. I waited, and I only moved when I had to, and in the morning I walked forty recruits back to the fort."
 
@@ -205,7 +205,7 @@ It came out of him very flat. Very quiet. He wasn't looking at anyone. He was lo
 
 "Declan," said Xav.
 
-"Don't tell her," he said. "This part. Please. It isn't hers. It was never hers. I'd hold that ditch again. Every time. That's the worst part, Xav. I've had seven years to want to have done it differently, and I can't. Forty of them. I'd hold it again." He looked at Xav, past Deston. "Don't tell her."
+"Don't tell her," he said. "This part. Please. It isn't hers. It was never hers. I'd hold that ditch again. Every time. That's the worst part, Xav. I've had eight years to want to have done it differently, and I can't. Forty of them. I'd hold it again." He looked at Xav, past Deston. "Don't tell her."
 
 Xav looked back at him for a long time.
 
@@ -217,7 +217,7 @@ Xav looked back at him for a long time.
 
 He didn't look at any of them now. He looked at the water, and said it to the water, because he couldn't have said it to a face.
 
-"There's a rise out on the red, a mile beyond the east wall. A low hill. Their general was on it. A big one, old, with horns like a bull's. And a circle drawn on the ground in something dark. And her, in the middle of it." He breathed. "They waited until I was on the wall. They waited until I could see. That was the whole point. The general wanted me to watch."
+"There's a rise out on the red, an hour's walk beyond the east wall. A low hill. Their general was on it. A big one, old, with horns like a bull's. And a circle drawn on the ground in something dark. And her, in the middle of it." He breathed. "They waited until I was on the wall. They'd lit fires all round the rise, so I could see. That was the whole point. The general wanted me to watch."
 
 "They call it a turning. I didn't know that then. Nobody did. Nobody had ever seen one. It's..." He stopped, and started again. "It's like watching someone pour out a cup. Slowly. All of it. Everything that's in it. And pour something else in, while it's still going out. Into a living person. While they're awake."
 
@@ -255,7 +255,7 @@ It wasn't a hope. It was something he'd decided in the winter, on this jetty, wi
 
 "It was a trap. Of course it was. That was the other half of it. A hero who sees that either breaks where he stands, or comes running on his own into whatever you've got waiting. They'd got everything waiting. The whole host, between the wall and the rise. They thought I'd break, or they thought I'd die trying. Either was fine with them."
 
-"I didn't care. I went through them. I was Shaped then. Tier six. I shouldn't have been able to, and I didn't care about that either. It took me all afternoon. A mile. One mile. It was the longest walk of my life." His hands were steady on the bowl. He looked at them, surprised. "By the time I got up the rise, she was halfway gone."
+"I didn't care. I went through them. I was Shaped then. Tier six. I shouldn't have been able to, and I didn't care about that either. It took me all afternoon. An hour's walk, any other day. It was the longest walk of my life." His hands were steady on the bowl. He looked at them, surprised. "By the time I got up the rise, she was halfway gone."
 
 He was quiet for a long moment.
 
@@ -277,7 +277,7 @@ Nobody moved. Nobody said anything. Deston, beside him, had put both hands over 
 
 "And then my heart hollowed out," he said.
 
-He'd never found a better way to say it. He'd tried, for seven years, lying awake. There wasn't one.
+He'd never found a better way to say it. He'd tried, for eight years, lying awake. There wasn't one.
 
 "All on its own. That's the thing I've never been able to... They'd spent a whole afternoon on her. A circle, and a general, and whatever they'd been learning, wherever they'd learned it. A whole afternoon to hollow out one person." He touched his chest, just once, with two fingers, over his heart. "Mine did it by itself. No circle. Nobody had to do anything. One breath, standing on that hill, and everything that had been in there for nine years just... went. Poured out. I could feel it going. And there was nothing left. Just a hole, the shape of her. And the wind going through it."
 
@@ -329,7 +329,7 @@ He let them look.
 
 "How," said Deston. Very softly.
 
-"I don't know." He looked at the window, at the eight words in a row. "I've had seven years to work it out and I still don't really know. It was something to do with..." He stopped. Tried again. "A strong feeling. Something so big it didn't fit. The rage. The anger. The pain. And the grief, after, that came in when the rage went out, and stayed. That *lingered*. All of it together, too much of it, more than a Shaped man could hold. So I stopped being one. I think that's all it was. I had to get bigger to fit it in."
+"I don't know." He looked at the window, at the eight words in a row. "I've had eight years to work it out and I still don't really know. It was something to do with..." He stopped. Tried again. "A strong feeling. Something so big it didn't fit. The rage. The anger. The pain. And the grief, after, that came in when the rage went out, and stayed. That *lingered*. All of it together, too much of it, more than a Shaped man could hold. So I stopped being one. I think that's all it was. I had to get bigger to fit it in."
 
 "The world wants you to write one line in its language to cross an edge. Every edge I'd ever crossed, I'd done it that way. Slowly. Like you're all doing it now. Waiting. Listening. That night I didn't write a line. I *screamed* one. And it heard."
 
@@ -441,7 +441,7 @@ Alea looked up at him.
 
 He didn't stop.
 
-"She's Tempered," he said. "At sixteen. Faster than I was. She carries half my old sword on her back. She grows the pumpkins. She feeds the hens, which hate me. She knows every one of you. Every story. I told her about you every night for seven years, because I didn't want to forget, and because she asked. She'll tell you she knew you before you knew she existed. She's right." He breathed. "She's the best thing I've ever done. And I didn't even do most of it. Her mother did."
+"She was Tempered at sixteen," he said. "Faster than I was. She turned seventeen the week a king came to forge her a sword, and he never knew it was her birthday. She carries half my old sword on her back. She grows the pumpkins. She feeds the hens, which hate me. She knows every one of you. Every story. I told her about you every night for eight years, because I didn't want to forget, and because she asked. She'll tell you she knew you before you knew she existed. She's right." He breathed. "She's the best thing I've ever done. And I didn't even do most of it. Her mother did."
 
 ***
 
@@ -535,7 +535,7 @@ It had said fifty-two since the winter.
 
 He looked at it for a long time. Then he closed it, and looked at the lake instead, at the grey coming up on the water.
 
-He'd thought, for seven years, that it was the fishing. That the slow days, the quiet, the not-wanting, were the road. And they were. They were part of it.
+He'd thought, for eight years, that it was the fishing. That the slow days, the quiet, the not-wanting, were the road. And they were. They were part of it.
 
 But he'd put something down tonight. On this jetty. Something heavy, that he'd been carrying on his own for so long he'd forgotten it could be carried any other way. He'd put it down in front of three people who'd known him when he was thirteen and fifteen and seventeen, and they'd picked it up between them without being asked, the way you pick up the other end of a table. It wasn't any lighter. It was exactly as heavy as it had always been.
 

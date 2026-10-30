@@ -61,7 +61,7 @@ He'd seen it the first morning, from the end of the lake road. A long low shape 
 
 He stopped under the sailcloth.
 
-It was a good forge. It was a *very* good forge. Better than Harl's on the south wharf at Kingsferry, and Harl's was the best on the Wren. The hearth was dressed stone, laid by somebody who knew exactly what they were doing, with a bellows of oxhide and ash wood that must have cost more than Gabe earned in a season. The anvil was old. Very old. Black iron, worn into a shallow dip in the middle of the face by a lifetime of somebody else's hammer.
+It was a good forge. Better than it had any right to be, on a shingle beach. The hearth was a great round of stones, packed and mortared with clay by somebody who knew exactly what they were doing, and no two stones in it the same. Big field stones at the bottom. Quarry stone. Little ones from the shore worked into every gap, white and grey and red. The anvil on the stump beside it was small. Black, old, waist-high on its block, worn into a shallow dip in the middle of the face by years of somebody's light hammer.
 
 He put his hand on it.
 
@@ -69,11 +69,11 @@ He'd been able to feel metal since the first winter. Not much. Not like a skill.
 
 The anvil wasn't angry. It hadn't been angry for a long time. It felt like a very old dog lying in the sun.
 
-"The king built it," said Alea, behind him. "In the autumn. To split the sword. That's his father's anvil. He brought it on a cart all the way from Valcrest." She came and stood beside him. "He came back at midwinter to see the hens. He says the anvil stays here. He says it's happier here."
+"The king built the hearth," said Alea, behind him. "In the autumn. To split the sword. The whole town brought the stones. Even the children." She came and stood beside him. "He did the cut on Garrow's anvil, from the forge in the square. It took eight men and a brewer's dray to bring it down, and eight to take it back up. That one's Dad's. For hooks. The king laughed at it."
 
-Gabe looked at the anvil.
+Gabe looked at the little anvil, and at the hearth.
 
-"It is," he said. "You can feel it."
+"It's happy here," he said. "You can feel it. All of it."
 
 Alea looked at him strangely. Then she nodded, as if he'd passed something.
 
@@ -273,7 +273,7 @@ Gabe waited.
 
 Gabe didn't say anything.
 
-"That's all you ever do," said Declan. "That's all you've ever done. In the back row, on the risers, at fifteen. Standing next to me so I didn't fall off when I was laughing too hard. At the back of a room full of people in black, Deston said, all day, and you never once sat down. On a rope, in a gorge, with a barge on the end of it. In front of Rachael, in the night market, with a man who wasn't a man trying to get past you." He breathed. "On the end of my jetty, two days ago. Hitting me in the chest."
+"That's all you ever do," said Declan. "That's all you've ever done. In the back row, on the risers, at thirteen. Standing next to me so I didn't fall off when I was laughing too hard. At the back of a room full of people in black, Deston said, all day, and you never once sat down. On a rope, in a gorge, with a barge on the end of it. In front of Rachael, in the night market, with a man who wasn't a man trying to get past you." He breathed. "On the end of my jetty, two days ago. Hitting me in the chest."
 
 "You stand there," said Declan. "And nothing gets past. That's not guarding. That's something else. That's just what you are. You don't even do it on purpose. You just *stand*."
 

@@ -47,7 +47,7 @@ She'd stood in the doorway of the upper room, some nights, and watched the five 
 
 Midwinter came on a clear night, very cold, with no moon.
 
-The bonfire was in the market square, the way it always was. The way it had been last year, when Althea had stood in front of it and seen something in the fire that nobody else could see, and written one line, and a flame had come and sat on her fingertip. *Here. Light.* The first of all thirty-five, six months in. Maren had been standing three paces away.
+The bonfire was in the market square, the way it always was. The way it had been last year, when Althea had stood in front of it and seen something in the fire that nobody else could see, and written one line, and a flame had come and sat on her fingertip. *Here. Light.* The first of all thirty-five, four months in. Maren had been standing three paces away.
 
 She was standing in the same place this year. She'd chosen it without meaning to.
 

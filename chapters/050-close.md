@@ -7,7 +7,7 @@ date: 2026-10-29
 
 The last thing Gabe ever said to Declan was *go to sleep*.
 
-He'd thought about that a lot, in three years. More than he'd ever told anyone. More than he'd told Deston, even, and he told Deston most things. It had been past two in the morning, the end of a bad CS match, five of them in a call. Declan had whiffed the easiest AWP shot of his life and blamed the server, and then said he was going to bed, and everyone had called him a coward. And Gabe had said, because he always said it, because he'd been saying it for eleven years, since they were thirteen in the back row of a school choir:
+He'd thought about that a lot, in three years. More than he'd ever told anyone. More than he'd told Deston, even, and he told Deston most things. It had been past two in the morning, the end of a bad CS match, five of them in a call. Declan had whiffed the easiest AWP shot of his life and blamed the server, and then said he was going to bed, and everyone had called him a coward. And Gabe had said, because he always said it, because he'd been saying it for eleven years, since he was thirteen in the back row of a school choir:
 
 *Sleep, Declan. Seriously.*
 
@@ -215,7 +215,7 @@ Deston saw the man the next morning.
 
 They were walking Rachael to the infirmary, the four of them, the way they always did now. Along the quay, past the fishwives and the moored barges, in the bright early sun. Rachael in the middle. Calvin in front, with the wind at his back. Dennis beside her, chatting, listening, as always, for anything that rang like a cracked bell. Deston at the back, scanning faces.
 
-Gabe was beside Deston. He'd been beside Deston since they were thirteen, more or less. He knew all his faces.
+Gabe was beside Deston. He'd been beside Deston since Gabe was thirteen, more or less. He knew all his faces.
 
 So he saw it when Deston's face went still.
 
@@ -325,7 +325,7 @@ Deston closed his eyes.
 
 Gabe looked at him.
 
-It was an odd thing to say. Not *no*. Not *I don't want to talk about it*. Deston had known him for thirteen years; he could have said either of those, and Gabe would have let it go. *Not yet.* As if there were something there. As if he knew what it was, or nearly. As if he were waiting until he was sure.
+It was an odd thing to say. Not *no*. Not *I don't want to talk about it*. Deston had known him for nearly fifteen years; he could have said either of those, and Gabe would have let it go. *Not yet.* As if there were something there. As if he knew what it was, or nearly. As if he were waiting until he was sure.
 
 Gabe thought about pushing. He was good at pushing, when it mattered. He thought about it for a long moment, sitting on the roof in the dark.
 

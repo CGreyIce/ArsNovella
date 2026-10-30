@@ -347,7 +347,7 @@ Alea put the last bowl away.
 
 He looked up at her.
 
-She was standing by the hearth with the drying cloth in her hands, sixteen, Tempered, with her mother's eyes and his stubbornness and a black sword called Astra leaning against the wall at the foot of the stairs. Looking at him the way Diwa used to. Deciding whether he was worth the trouble.
+She was standing by the hearth with the drying cloth in her hands, seventeen now, since the week the king came, Tempered, with her mother's eyes and his stubbornness and a black sword called Astra leaning against the wall at the foot of the stairs. Looking at him the way Diwa used to. Deciding whether he was worth the trouble.
 
 He opened his window again, and turned it round.
 

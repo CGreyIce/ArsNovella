@@ -153,7 +153,7 @@ He stood in the doorway with the page in his hand.
 
 They looked at each other. Hana, and Milli, and Jared, and Aleaka. The way people look at each other when they're trying to decide who should say a thing nobody wants to say.
 
-"Some of us since the spring," said Hana. "Leaka since the winter, really. Me since..." She stopped. "I thought it, a year ago. In the winter. After the first book. And then I talked myself out of it."
+"Some of us since the spring," said Hana. "Leaka since the winter, really. Me since..." She stopped. "I thought it last winter. After the first book. And then I talked myself out of it."
 
 "*All* of us," said Jared, from the floor, "since the end of the summer. Since the night of the sum. In the windows. You'd have seen us. We were all crying."
 

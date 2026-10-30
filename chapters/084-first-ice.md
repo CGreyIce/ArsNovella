@@ -249,7 +249,7 @@ He looked at the lamp on the hill.
 
 He didn't explain. She didn't ask him to. She sat there on the end of the jetty in the snow beside him and thought about it, and found, after a while, that she understood. Not all of it. Enough.
 
-Five people who'd known a funny boy on a stream, half the world away, who made them laugh and gifted them subs and modded their chat and beat them at word games. Who'd died in his sleep, three years ago, a month ago, depending how you counted. And who'd see, when he opened the door, a man of sixty in a body of thirty-five, who barely smiled, who'd killed more things than they could count, who'd buried her mother on the Redmarch with his own hands.
+Five people who'd known a funny boy on a stream, half the world away, who made them laugh and gifted them subs and modded their chat and beat them at word games. Who'd died in his sleep, three years ago, or thirty-five, depending how you counted. And who'd see, when he opened the door, a man of sixty in a body of thirty-five, who barely smiled, who'd killed more things than they could count, who'd buried her mother on the Redmarch with his own hands.
 
 Who wasn't the funny boy anymore. Not really. Not all the way.
 

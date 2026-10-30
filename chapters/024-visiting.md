@@ -23,7 +23,7 @@ Kei sighed and kept climbing.
 
 ***
 
-Nobody else could hear Hisui. Five months in, Kei had stopped trying to explain it.
+Nobody else could hear Hisui. Three months in, Kei had stopped trying to explain it.
 
 On the first day, in the summoning hall, he'd thought he was going mad. He'd woken up on cold stone with a small green snake wrapped around his wrist and a voice in his head saying *well, this is a disaster*, and he'd spent the whole of the Advisor's briefing trying to work out whether he'd had a stroke. By the end of the first week, he'd accepted that he hadn't. By the end of the first month, he'd accepted that he was going to spend the rest of his life, however long that turned out to be, sharing his head with the most opinionated reptile in two worlds.
 

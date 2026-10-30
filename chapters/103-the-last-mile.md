@@ -111,7 +111,7 @@ A girl with pink and violet streaks in her hair. Thea. A girl with a white bow, 
 
 And with them, a little in front of them, the way someone stands in front of people they've decided to protect, a sixth.
 
-A fox girl. Sixteen, perhaps. Fox ears, standing very straight up. A fox's tail, very still. A black sword on her back in a plain leather harness, with an old dark grip standing up over her shoulder.
+A fox girl. Seventeen, perhaps. Fox ears, standing very straight up. A fox's tail, very still. A black sword on her back in a plain leather harness, with an old dark grip standing up over her shoulder.
 
 She was looking at Gabe and Deston. Not at the others. At the two of them. Her face was doing something Gabe couldn't read at all.
 

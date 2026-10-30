@@ -205,7 +205,7 @@ Kestra looked at it.
 
 Kestra didn't take it.
 
-She stood there in the rain by the courtyard wall and looked at it for a very long time. At the purple cord. At the half of a little gold heart. And then at Hana's face, the way she'd looked at it at Vane's banquet, a year and a half ago, the night Hana let the charm rise and put it back down in a room full of people who'd never have known.
+She stood there in the rain by the courtyard wall and looked at it for a very long time. At the purple cord. At the half of a little gold heart. And then at Hana's face, the way she'd looked at it at Vane's banquet, more than a year ago, the night Hana let the charm rise and put it back down in a room full of people who'd never have known.
 
 "You didn't use it," said Kestra. "On me. You could have. Just now. To find out where."
 

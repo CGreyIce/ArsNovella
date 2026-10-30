@@ -215,7 +215,7 @@ He thought about his mother that night, on the wall.
 
 He did, sometimes, when it was very late and very quiet. Not often. It hurt too much to do often. But sometimes, on a night like this, with the stars very clear and something cold somewhere out there in the dark, she came into his head on her own, and he let her stay.
 
-She'd be at work, probably, right now. Or asleep. He didn't know what time it was on Earth. He didn't know how long it had been. A year here. A year there, presumably. A year since he'd left for a weekend and not come back. A year of her ringing his phone, and it going to voicemail, and her ringing again.
+She'd be at work, probably, right now. Or asleep. He didn't know what time it was on Earth. He didn't know how long it had been. Nearly a year here. Nearly a year there, presumably. Nearly a year since he'd left for a weekend and not come back. Nearly a year of her ringing his phone, and it going to voicemail, and her ringing again.
 
 His brothers and sisters wouldn't have helped. They never had. They'd have said he'd run off. They'd have said *typical*. They'd have left her on her own with it.
 

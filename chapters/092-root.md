@@ -253,7 +253,7 @@ She showed him.
 
 "I can't do yours," she said. "I can't reach. But that's how. Copy it."
 
-He looked at the three lines for a long time. Then he did what she'd never once seen anybody do except herself, in a year and a half in this world: he read code, and understood it, and wrote it again, in his own hand, at the bottom of his own window.
+He looked at the three lines for a long time. Then he did what she'd never once seen anybody do except herself, in sixteen months in this world: he read code, and understood it, and wrote it again, in his own hand, at the bottom of his own window.
 
 He looked at the top of the window.
 
