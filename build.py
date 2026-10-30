@@ -104,6 +104,14 @@ def parse_chapter(path):
     }
 
 
+def og_image():
+    """Link-preview image tags, only when there is a cover image (src/cover.jpg)."""
+    if not (SRC / "cover.jpg").exists():
+        return ""
+    return (f'<meta property="og:image" content="{SITE}assets/cover.jpg">\n'
+            '<meta name="twitter:card" content="summary_large_image">\n')
+
+
 def head(title, desc, root, extra=""):
     return f"""<!doctype html>
 <html lang="en">
@@ -115,9 +123,7 @@ def head(title, desc, root, extra=""):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="book">
-<meta property="og:image" content="{SITE}assets/cover.jpg">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#15181d">
+{og_image()}<meta name="theme-color" content="#15181d">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
