@@ -321,7 +321,7 @@ It got late. Then it got later.
 
 People started to go up. Not many, and not quickly. Lucan fell asleep in a chair by the kitchen door under his red cloak, weeping slightly in his sleep. Calvin fell asleep with his head on the table next to the kettle. Xola's squid had wrapped itself round the leg of a bench and refused to be moved. PenguChi went up with her penguin walking at her heels like a dog, and on the stairs she stopped beside Newish and said, very calmly, "Good luck," and went on up, and Newish stared after her and said "*What?*" and nobody answered.
 
-Group 1 went up. Some of Group 6. Rachael, who said *goodnight* to the table in a voice that dared anyone to make anything of it, and then hugged Deston on the way past without breaking stride. Bee, who stopped at the bottom of the stairs and said to the water-carrier, quite loudly, "It's a *dog*," and went up without waiting for an answer.
+Group 1 went up. Some of Group 6. Rachael, who said *goodnight* to the table in a voice that dared anyone to make anything of it, and then, on the way past Deston, stopped and said *goodnight, Dest*, separately, on its own, which from Rachael was practically an embrace. Bee, who stopped at the bottom of the stairs and said to the water-carrier, quite loudly, "It's a *dog*," and went up without waiting for an answer.
 
 And then, at about two in the morning, he stood up.
 

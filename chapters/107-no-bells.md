@@ -119,7 +119,7 @@ Calvin looked up at the man standing in front of him, with the kettle against hi
 
 "Anything."
 
-Calvin took a breath. Dennis saw him take it. Saw everyone on the terrace see him take it. Rachael's hand went to Dennis's arm.
+Calvin took a breath. Dennis saw him take it. Saw everyone on the terrace see him take it. Rachael's hand went to Dennis's sleeve, and gripped the cloth.
 
 "Are you happy?" said Calvin.
 
@@ -219,7 +219,7 @@ Rachael took her hand off his chest.
 
 "Don't make it weird," she said. Her voice wobbled. "Next."
 
-And then she hugged him anyway, hard, and he held on to her for a long moment, longer than he'd held on to Calvin. And Dennis, who was standing nearest, heard him say something into her hair, very low. Something meant only for her.
+She didn't hug him. Rachael didn't hug people. She never had, not even on Earth, and everyone on the terrace knew it. She stood in front of him with her arms folded tight across her chest, as if she were holding herself together by hand, and looked at him. And he didn't try. He'd known her nine years. He stood where he was and let her look, for as long as she wanted, which was a long time. And Dennis, who was standing nearest, heard him say something to her, very low. Something meant only for her.
 
 *If they ever come for you again, you don't write me a letter. You tell Deston. He pulls the thread. I'll feel it. And I'll come.*
 

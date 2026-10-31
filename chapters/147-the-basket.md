@@ -87,7 +87,7 @@ And Rachael was at the end of the Group 4 bench, beside Deston, with her arms fo
 
 "It was a *bad* apple," said Rachael. "Winter said. Show apple. Polished. Tasted of nothing. If you're going to threaten someone with fruit, at least use a good one."
 
-Gabe, beside her, made a noise that was very nearly a laugh, and put his big forge-black hand on the back of her neck for a moment, and took it away.
+Gabe, beside her, made a noise that was very nearly a laugh, and shifted along the bench so that he was sitting between her and the door, which was the kind of thing Rachael let people do for her.
 
 ***
 

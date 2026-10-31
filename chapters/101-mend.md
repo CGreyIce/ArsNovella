@@ -193,7 +193,7 @@ This wasn't that. She didn't know what this was. It wasn't careful at all.
 
 "I'm not frightened of them," said Rachael. "I want you to know that. I'm not frightened of the hat man. Or the boy with the cap. Or any of them." She looked at the grey on the knife. "I'm frightened of what I'd be. After. If they got me. Because I'd still be a healer. I'd still hold things." She was quiet. "I'd hold whatever they put in me. And I'd hold it *well*."
 
-Gabe didn't say anything. He put his big healed hand on the back of her neck, the way he'd done in the infirmary corridor on bad nights, and left it there.
+Gabe didn't say anything. He sat down beside her on the wet deck, close, not touching, the way he'd sat in the infirmary corridor on bad nights: near enough that she knew he was there, not so near that she had to do anything about it.
 
 ***
 

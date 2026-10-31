@@ -185,7 +185,7 @@ Rachael sat on the steps beside Emrys, with Gabe's knife on her knee. She'd clea
 
 "You held," said Deston quietly. "Like with the dockworker. You held."
 
-Rachael looked at him for a long moment. Then she laughed, a small, shaky, astonished sound, and leaned her head against Gabe's shoulder, and closed her eyes.
+Rachael looked at him for a long moment. Then she laughed, a small, shaky, astonished sound, and sat down on the bench beside Gabe, close, closer than she ever sat to anyone, not quite touching, and closed her eyes.
 
 Deston looked at the threads.
 

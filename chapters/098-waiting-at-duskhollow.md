@@ -133,7 +133,7 @@ Then everybody.
 
 Gabe came off the barge like a wall coming down and put his arms round Xav and lifted him off the landing stage, the way he'd lifted him years ago after the first match the three of them ever won together, and put him down again, and didn't let go. Rachael, from the deck, waving, laughing, calling *Xav!* in a voice that made half the quay turn round. Dennis behind her, very well dressed, carrying a ledger. Calvin coming down the mast so fast he slid the last ten feet and landed on the deck in a heap, shouting *DID YOU SEE IT, DID YOU SEE THE SAIL*.
 
-And Group 6, on the landing stage, all at once. John and Deston gripping each other's arms. Malcolm, who never touched anyone, letting Rachael hug him and standing very still with his arms at his sides and his face doing something complicated. Azac and Gabe, the two biggest men on the river, slapping each other on the back so hard it echoed off the warehouses. RX appearing behind Dennis, *hush*, and saying *boo*, and Dennis screaming.
+And Group 6, on the landing stage, all at once. John and Deston gripping each other's arms. Malcolm, who never touched anyone, and Rachael, who didn't either, standing in front of each other on the landing stage and nodding, very seriously, the way two people nod when they've understood each other perfectly, while Malcolm's face did something complicated. Azac and Gabe, the two biggest men on the river, slapping each other on the back so hard it echoed off the warehouses. RX appearing behind Dennis, *hush*, and saying *boo*, and Dennis screaming.
 
 The two hundred people of Duskhollow on the quay above watched all of it in total silence.
 

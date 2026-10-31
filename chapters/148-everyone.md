@@ -87,7 +87,7 @@ That took a while. They were all there, at the long table and on the benches, pa
 
 "*Eight*," said Dennis.
 
-Group 4. Gabe, who picked him up. Deston, who hummed. Rachael, who said *if you're doing this because of the apple I will hit you* and then let him anyway. Calvin and the kettle. Dennis himself, who put the pen down very carefully first and then wrote *Dennis (self)* in the ledger afterwards with great dignity.
+Group 4. Gabe, who picked him up. Deston, who hummed. Rachael, who put one hand up flat before he got within reach and said *no. Not even because of the apple*. So Tiger stopped where he was, and grinned, and held out his fist instead, and she looked at it for a long moment and then bumped it, once, with two knuckles. Dennis wrote *Rachael (knuckles)*. Calvin and the kettle. Dennis himself, who put the pen down very carefully first and then wrote *Dennis (self)* in the ledger afterwards with great dignity.
 
 Group 6. All five at once, which shouldn't have been possible and was, and Azac laughed so loudly the landlord looked round from the kitchen. Xav, on his own afterwards, who said *okay* and meant it.
 
@@ -421,7 +421,7 @@ Then he closed the ledger.
 
 He came out into the yard and held it out to Tiger. Open. At the page that said, at the top, *DAY 69. EVERYONE.*
 
-Tiger took it and looked at the list. Every name. All the way down. The thirty-five, minus two excused for snake business. The guides. The guards. Lucan (est.). Kestra, in capitals, underlined three times. The king, with the pen-mark where Dennis had dropped it. A horse.
+Tiger took it and looked at the list. Every name. All the way down. The thirty-five, minus two excused for snake business and one for knuckles. The guides. The guards. Lucan (est.). Kestra, in capitals, underlined three times. The king, with the pen-mark where Dennis had dropped it. A horse.
 
 And at the bottom, on its own:
 

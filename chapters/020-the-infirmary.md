@@ -115,13 +115,13 @@ He'd come to walk her home. He'd been doing it every day since Thornwall's lette
 
 Except his eyes weren't smiling. They were fixed on the stranger, and they'd gone very wide.
 
-"There you are," said Deston pleasantly. "We're late. Emrys will kill us." He came across the room, unhurried, and put a hand on Rachael's shoulder, and turned his smile on the stranger. "Sorry. Did we interrupt something?"
+"There you are," said Deston pleasantly. "We're late. Emrys will kill us." He came across the room, unhurried, and put a hand on Rachael's shoulder, which he never did, because she hated being touched and he knew it better than anyone, and turned his smile on the stranger. "Sorry. Did we interrupt something?"
 
 "Not at all," said the stranger, smiling back. "I was just telling the young lady about an opportunity."
 
 "How kind." Deston's hand tightened on her shoulder, very slightly. "She'll think about it, I'm sure. Won't you, Rae? Come on. Emrys."
 
-And he walked her out of the infirmary, past the stranger, out of the river door and into the street, without hurrying and without looking back. He didn't let go of her shoulder until they'd turned two corners. Then he stopped, and leaned against a wall, and let out a long shaky breath.
+And he walked her out of the infirmary, past the stranger, out of the river door and into the street, without hurrying and without looking back. He didn't let go of her shoulder until they'd turned two corners. Then he took his hand away at once, the way you'd take it off a stove, and leaned against a wall, and let out a long shaky breath. Rachael didn't say anything about the hand. Any other day she would have. That was how she knew how frightened she'd been.
 
 "Dest," said Rachael. "What—"
 

@@ -95,7 +95,7 @@ Harl was kneeling beside him, pouring cold water over it from a bucket. It didn'
 
 Rachael got there in four minutes.
 
-He found that out afterwards too. Calvin had run the whole length of the waterfront to the river-gate infirmary, and the wind had come with him, behind him, pushing, the way it did now when he asked it to. He'd burst into Sister Maud's long white room and grabbed Rachael by the hand and pulled her out of the door without a word, and the two of them had come back along the quays so fast that the fishwives were still talking about it a week later.
+He found that out afterwards too. Calvin had run the whole length of the waterfront to the river-gate infirmary, and the wind had come with him, behind him, pushing, the way it did now when he asked it to. He'd burst into Sister Maud's long white room and grabbed Rachael by the sleeve and pulled her out of the door without a word, and the two of them had come back along the quays so fast that the fishwives were still talking about it a week later.
 
 Gabe didn't see her come in. He only knew she was there because suddenly there were hands on either side of his face, small and warm and very steady, and a voice he'd known since he was fifteen saying, "Gabe. Gabe. Look at me."
 

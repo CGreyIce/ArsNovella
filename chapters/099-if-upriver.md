@@ -9,7 +9,7 @@ Malcolm had kept saying *next year*.
 
 It had been a joke, at first. On Earth, after Declan moved to Malacca. *We should visit.* *Next year.* And then it had stopped being a joke and become a habit, and then a sort of promise he made to himself every January and broke every December, and then Declan had died in his sleep and there wasn't a next year anymore, and Malcolm had stood at the back of a room full of people in black and thought: *I said next year three times*.
 
-He'd told the others about it on the river road, the first week, round a fire. *I kept saying next year.* They'd all gone quiet. Rachael had put her hand on his arm.
+He'd told the others about it on the river road, the first week, round a fire. *I kept saying next year.* They'd all gone quiet. Rachael, who didn't touch people, had moved along the log until she was sitting right beside him, and stayed there.
 
 He hadn't said *next year* about anything since. Not once. Not in a year and a half.
 

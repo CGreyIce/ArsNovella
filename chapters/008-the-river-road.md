@@ -169,7 +169,7 @@ The Wren was wide and brown and slow here, running south between low green banks
 
 They said goodbye on the jetty, in the wind.
 
-It was awkward, the way goodbyes are when nobody wants to be the first to make it real. Dennis and Sabine had to be physically separated from a negotiation with the bargemaster. Rachael hugged everyone, including Garrick, who submitted to it with the expression of a man being sat on by a large dog. Calvin promised John he'd write first and John promised Calvin he'd write better. Gabe and Azac shook hands, then gave up and hugged.
+It was awkward, the way goodbyes are when nobody wants to be the first to make it real. Dennis and Sabine had to be physically separated from a negotiation with the bargemaster. Rachael, who didn't hug people and never had, went down the line with her arms folded and told every single one of them, individually, that they'd better write, which was her version; Garrick, who'd clearly been braced for something worse, looked enormously relieved. Calvin promised John he'd write first and John promised Calvin he'd write better. Gabe and Azac shook hands, then gave up and hugged.
 
 Deston found Xav at the end of the jetty, a little apart from the others, looking upriver.
 
