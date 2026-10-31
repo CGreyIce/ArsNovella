@@ -387,7 +387,7 @@ The man was quiet for a long time.
 
 "But you think something is."
 
-"I think," said the man slowly, "that when I sat by that grave with the sword across my knees, on the anniversary, a year ago, with five of you waiting at a distance and the red going quiet wherever I walked, something under it went to sleep. And I don't know if it went to sleep because of me, or because of something else, or because of a tree a boy with antlers planted so she wouldn't be alone." He turned the rod on his shoulder. "In a week we'll go east. All of you. And Alea. On the anniversary." A pause. "We'll both look."
+"I think," said the man slowly, "that when I sat by that grave with the sword across my knees, on the anniversary, a year ago, with five of you waiting at a distance and the red going quiet wherever I walked, something under it went to sleep. And I don't know if it went to sleep because of me, or because of something else, or because of a tree a boy with antlers planted so she wouldn't be alone." He turned the rod on his shoulder. "In a week we'll go east. With all of you. On the anniversary." A pause. "We'll both look."
 
 "Together."
 
