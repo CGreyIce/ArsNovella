@@ -243,7 +243,7 @@ Higu sat at the window and watched him go all the way down to the bend. Then she
 
 They went down together. All five of them.
 
-Higu didn't wake the others. She didn't need to. Thea went down the stairs with her boots in her hand, and by the time they got to the door at the bottom, Xola was in the hall in her nightgown with Squiddles on her shoulder, because Xola woke when anybody in the hall woke, and PenguChi was behind her with Waddles at her heels, very calm, already dressed. And Gigichi was coming down the stairs from the top floor in her coat with her horns catching the light from the high window and a scowl like a thundercloud, because nobody had woken her and she'd woken anyway.
+Higu didn't wake the others. She didn't need to. Thea went down the stairs with her boots in her hand, and by the time they got to the door at the bottom, Xola was in the hall in her nightgown with Squiddles on her shoulder, because Xola woke when anybody in the hall woke, and PenguChi was behind her with Waddles at her heels, very calm, already dressed. And Gigichi was coming down the stairs from the top floor in her coat with her long silver hair down and a scowl like a thundercloud, because nobody had woken her and she'd woken anyway.
 
 "What," said Gigichi.
 

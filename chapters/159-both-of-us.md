@@ -43,7 +43,7 @@ And people. A great many of them. More than had gone.
 
 He'd known there'd be more. Maren's reports had told him. *Groups 4 and 6 north with us as far as the river. They will take the barge home from your quay*. But knowing a thing and watching it come down a road were different. He stood at the river gate of Wrenhaven, which was a gate in name only and had been open for forty years, and watched it come.
 
-Five girls first, at the front, the way they'd gone. The five from the militia hall at the top of the lake road, who'd blocked a fisherman's road on their first day in the world and waited at the top of it for twenty months. The tall pink-and-violet one walking with her hands in her sleeves. The little one with the penguin at her heels. The one with the squid. The one with the moths, who saw everything. And the horned one, Gigichi, walking beside the dray with a yoke across her shoulders and a bucket of water at each end, and a scowl on her face like a thundercloud, and not spilling a drop.
+Five girls first, at the front, the way they'd gone. The five from the militia hall at the top of the lake road, who'd blocked a fisherman's road on their first day in the world and waited at the top of it for twenty months. The tall pink-and-violet one walking with her hands in her sleeves. The little one with the penguin at her heels. The one with the squid. The one with the moths, who saw everything. And the silver-haired one, Gigichi, with forget-me-nots in her hair, walking beside the dray with a yoke across her shoulders and a bucket of water at each end, and a scowl on her face like a thundercloud, and not spilling a drop.
 
 Rowan looked at the buckets for a long moment.
 
