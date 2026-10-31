@@ -1,0 +1,528 @@
+---
+number: 135
+title: Wait for It
+volume: 5
+date: 2026-10-31
+---
+
+Hako had a theory about waiting.
+
+He'd had it since he was about twelve, playing hero shooters until three in the morning. His theory was this: most people who say they're good at waiting are just good at not doing anything. They stand there. They hold the angle. They look patient. And then the moment comes, the one they've been waiting for, and they're so used to not doing anything that they don't do anything then, either.
+
+Real waiting, Hako's theory went, wasn't about the waiting. It was about the moment at the end of it. You waited so that you'd be *ready*. You waited the way a spring waits.
+
+He'd explained this once to Ice, on a call, about a month after Ice started teaching him CS. Ice had been trying to get him to hold an angle for more than four seconds without peeking, and Hako had peeked, and died, and explained his theory about springs.
+
+There'd been a pause on the call.
+
+*Hako*, Ice had said. *That's a great theory. You're very wise. Hold the angle.*
+
+He'd held the angle. For two years, he'd held the angle. For eight months on Earth with Ice in his ear, and then for two years here, in Valcrest, with a spear, on the far side of every fight, the patient one, the one who waited at the edge of the sand for somebody to come into his reach. Ysolde said he had the best patience she'd seen in a fledgling. Chris said his logs showed it: *Hako waits*. Newish said his beat was a drum somebody played because they liked drums, and that it never once sped up when it shouldn't.
+
+He'd thought he'd got it. Waiting. He'd thought he was the spring.
+
+And then yesterday, on the mound, Ysolde had come up the left-hand slope at him with her wooden sword held low and stopped, right at the edge of his reach, like a heron. And he'd moved early, the way he'd been taught all week on wet sand at dawn. *Earlier. Not faster. Move while it's still deciding to*.
+
+And she hadn't been there.
+
+*He's teaching you the right thing*, Ysolde had said, with her wooden sword on his chest. *You're just not there yet. Ask him again tomorrow.*
+
+So he had.
+
+***
+
+"I moved early," said Hako. "On the mound. Like you said. And she just wasn't there."
+
+It was the dawn class on the sixty-third day. Seven of them on the wet sand of the practice ground in the mist: Petra, Xav, PenguChi and her penguin, Alea, Tiger, Hako. And the man with the rod, in the middle. Alea had a round five at the second hour and had been sent off early to eat something. Tiger was asleep on his feet.
+
+"I know," said the man. "I saw."
+
+"You *saw*? From the fourth tier?"
+
+"I see a lot of things."
+
+"So what did I do wrong?" Hako was grinning. He couldn't help it. He was always grinning; it was how his face was. But under it he was genuinely, completely bewildered. "I did it right. I moved while she was deciding. She was deciding. I *saw* her decide."
+
+The man looked at him for a long time. The mist was coming off the sand round their ankles.
+
+"You moved early," he said. "And then you held something back."
+
+Hako's grin wobbled.
+
+"The last bit," said the man. "Right at the end. You went, and then you kept a bit of yourself back. In case you were wrong. In case she was faking. In case you had to pull it and go again." He turned the rod in his hands. "You've been doing it since I first watched you on the sand. You do it every time. You wait like a spring, and then when it's time to go, you only go nine-tenths."
+
+Hako opened his mouth. Shut it.
+
+"Ysolde saw it," said the man. "That's why she wasn't there. She's been fighting for twenty years. She saw you keep that last bit back, and she knew you'd pull it, and she decided not to be there a hair before you decided to go." He paused. "Earlier's right. It's not enough on its own. When you go, you go *all* the way. Or you don't go at all."
+
+"But what if I'm wrong?"
+
+"Then you're wrong," said the man. "And you're on your back on the sand and you get up and do it again." He looked at Hako. "You've been holding the angle for three years, Hako. You're very good at it. You're the best I've seen at it." A pause. "At some point you have to peek."
+
+***
+
+Hako thought about that all morning.
+
+He thought about it walking back to the Broken Lance for breakfast. He thought about it eating Lucan's bread, which Lucan was now sending out from the kitchen in quantities that suggested he'd bought a bakery. He thought about it sitting on the edge of the long table with his spear across his knees while Chris logged something beside him and Newish ragebaited Ina about his coat and Winter watched the door.
+
+*You only go nine-tenths*.
+
+He'd never noticed. That was the thing. He'd been fighting for two years and he'd never once noticed. But the moment the man said it, on the wet sand, he'd known it was true, the way you know a thing about yourself the moment somebody else says it out loud. He held something back. Every time. The last tenth. Just in case.
+
+It was the optimist's thing, he thought. You believed it would all be fine. You believed it so completely that you never quite committed to anything, because committing meant you might find out it wasn't.
+
+"You're quiet," said Newish.
+
+"I'm thinking."
+
+"You never think. You just say *it'll be fine* and then it is." She narrowed her eyes at him. "What did he say to you?"
+
+"That I should peek," said Hako.
+
+Newish looked at him for a long moment. Then she laughed. "*Oh*," she said. "Oh, that's *so* him."
+
+***
+
+The Singles were on the side sand.
+
+Drew had put them there on purpose. Not on the great sand of the Lists, where the trials were and the Fledgling rings and forty thousand people. On the practice ground behind it, the long fenced rectangle where the dawn class stood every morning in the mist. *You want to stand on your own*, Drew had said, *you can do it where it's quiet*. One bout at a time. A marshal. A chalk ring. A rail round the outside for anyone who wanted to lean on it.
+
+Most people didn't. The big crowd was in the bowl of the Lists, already, waiting for the afternoon and the Gate. Tiger's gate. The whole city had heard about Tiger's gate by now. Half of Valcrest had queued since dawn at the east entrance to get a seat for it, and the queue went right round the outside of the Lists and past the practice ground fence, people sitting on the cobbles with baskets and paper horns, eating, talking, not looking at the side sand at all.
+
+The summoned leaned on the rail. Most of them. The ones not in bouts.
+
+Hako had won his first round yesterday afternoon, against Calvin, who'd entered the Singles because he said he wanted to know what it felt like to lose to someone with a stick. He'd found out. He'd been very happy about it.
+
+Milli had won his against Dennis. Dennis had tried, at the start of the bout, to negotiate. *What if*, Dennis had said, standing in the chalk ring with a blunted short sword held like a pen, *we split the prize money*. *There isn't any prize money*, Milli had said. *There could be*, Dennis had said. Milli had disarmed him in two moves. Dennis had said *I'll put it in the ledger*.
+
+Round two. The marshal had read it out at the start of the morning.
+
+*Hako, of Valcrest. Spear.*
+
+*Milli, of Solmere. Sword.*
+
+***
+
+Milli was standing in the chalk ring already when Hako got there.
+
+He was very still. That was the first thing Hako noticed. Milli was never still. He was a cat; it was in everything he did, the twitch of the tail, the flick of an ear, the way he couldn't sit through a whole meal without getting up to look at something. He was the most impatient person Hako had ever met who wasn't Tiger. He'd been impatient on Earth, Hana said, and impatient here, and it was the thing Kestra had been drilling out of him every morning for two years. *Again*. *Again*.
+
+He was standing in the middle of the chalk ring now with a light curved sword in his right hand and his tail wrapped round his own ankle, holding it there, as if he'd caught it and was keeping it still by force.
+
+Hana was at the rail. Hako saw her, on the left. Her violet eye very wide, and her hand at her wrist, at the half-heart there. Jared beside her, very straight, Drawn for two days now and standing like it. Kestra on the rail post at the end, with her book in her coat, her arms folded, watching Milli's feet.
+
+On the right, Hako's corner. Ysolde, leaning on the rail like a fence she'd been leaning on all her life, with her curled ram's horns and her face giving nothing away. Chris with his notebook. Newish, with her hands in her pockets. Winter. Ina, with his mask pushed up.
+
+And at the far end of the rail, on his own, the man with the rod. With two bees on his head.
+
+Hako stepped into the ring.
+
+***
+
+They looked at each other.
+
+Hako had never really known Milli. That was the strange thing. Two years in the channel, and they'd talked maybe a dozen times. Milli was Hana's husband. Milli was Group 2, the capital, the rational one, the one who'd wanted proof. Milli had known Ice for a year and called him *the Minecraft bingo guy*. Hako had known Ice eight months and called him *the guy who taught me to stop looking at the floor*.
+
+Neither of them had known him long enough.
+
+"I want to win this," said Milli.
+
+He said it quietly. Not as a threat. As a fact. The way he said everything.
+
+Hako looked at him.
+
+"Jared went Drawn two days ago," said Milli. "On the mound. Hana's had her Spark since the winter. Aleaka's at ninety. Cursiffe's at ninety-six." His tail moved against his ankle and he caught it again. "I'm the last. Of my group's swords. I'm the one who's still at nothing. Two years. Every morning. *Again*." He breathed. "I want to win something. One thing. I want to stand on this sand on my own and win one thing."
+
+Hako's grin went, just for a moment.
+
+"Me too," he said.
+
+Milli's ears went forward.
+
+"He taught me to hold an angle," said Hako. He didn't look at the end of the rail. He didn't need to. "Eight months. On Earth. And then he was gone, and I've been holding it for three years, and I've never once won anything that mattered. Not here. Not in the Banner. Not anywhere." He tightened his hands on the spear. "He's at the end of the rail. He's been teaching me every morning for a week. I want him to see what I kept."
+
+The two of them stood in the chalk ring and looked at each other for a long time.
+
+"Okay," said Milli.
+
+"Okay," said Hako.
+
+"Three touches," said the marshal. "Clean ones. I call them. Begin."
+
+***
+
+Milli went straight away.
+
+Hako had known he would. Everybody on the rail had known he would. Two years of *again* and the first thing Milli did, the moment the marshal said *begin*, was go. Fast. Precise. A cat off a wall, the light curved sword coming round in a beautiful clean arc at Hako's left side, the side away from the spear.
+
+It was a very good cut. It was early. It was impatient.
+
+Hako's spear was already there. He hadn't even had to decide. Three years of holding the angle: the spear came round low and long and patient and met Milli's sword in the air and turned it, and the butt end came up the other way and touched Milli very lightly on the ribs.
+
+"*One*," said the marshal. "Spear."
+
+Milli stepped back. His tail had come loose from his ankle. He caught it again.
+
+"Again," said Kestra, from the rail post. Quietly. To herself.
+
+Milli went again.
+
+He went the same way, nearly, a little lower, a little faster, and Hako's spear met it the same way, and touched him on the shoulder, and the marshal said *two*, and Hako heard Hana make a small sound on the left-hand rail.
+
+Two to nothing.
+
+Milli stood in the chalk ring breathing hard, with his sword low and his tail lashing behind him and his face doing something Hako had never seen it do in the channel or at the long table: furious, and frightened, and very, very young.
+
+"*Again*," said Kestra.
+
+***
+
+Milli didn't go.
+
+Hako saw him not go. It was the strangest thing he'd seen all week, stranger than the man on the dawn sand moving without seeming to move. Milli stood in the chalk ring with his sword low, and Hako watched his whole body want to go, every bit of him, the cat in him crouched and quivering, the way a cat quivers before it jumps.
+
+And he didn't.
+
+He stood there. And he looked at Hako. Not at the spear. At Hako. At his feet and his hands and his breath. At the spear's tip, moving very slightly in the air with each breath, in and out, like a float on still water.
+
+Hako held the angle.
+
+He was good at it. He'd been doing it for three years. He stood at the edge of the chalk ring with the spear low and waited, the way a spring waits, the way he always did, for the cat to come into his reach. The cat didn't come.
+
+A breath. Two. Ten. Twenty.
+
+On the rail, Hako heard somebody say *oh*. Hana. Very quietly. As if she were watching something she'd been waiting two years to see.
+
+Milli didn't move.
+
+And Hako, holding the angle, standing at the edge of the ring with his spear low, realised that the cat had stopped trying to come to him. The cat was doing what Hako did. Waiting. The way Hako waited. Holding the angle.
+
+Two people holding the same angle at each other. In a chalk ring. On the side sand.
+
+*At some point you have to peek*.
+
+***
+
+Hako peeked.
+
+He didn't mean to. He told himself afterwards that he hadn't decided to. But he'd been holding that angle for three years, and the cat had stopped coming, and the man at the end of the rail had said *peek*, and his body moved before his head had finished thinking about it. The spear came forward. Early. While Milli was still deciding to.
+
+And at the very end, the last tenth, he held it back.
+
+He felt himself do it. For the first time. He felt the last bit of him stay behind, just in case, the way it always had: the little reserve, the *what if I'm wrong*, the spring that never quite let all the way go.
+
+Milli saw it.
+
+Hako watched him see it. Milli's ears went flat. And then Milli moved. Not early. Not fast. *Exactly*. In the gap. In the place where the last tenth of Hako's spear should have been and wasn't. The light curved sword came in under the spear's point, and Hako felt it touch him, very lightly, on the forearm.
+
+"*One*," said the marshal. "Sword."
+
+Two to one.
+
+Milli stood in the chalk ring with his sword low. His tail wasn't lashing any more. It was perfectly still. He hadn't caught it. It was just still.
+
+On the rail post at the end, Kestra had unfolded her arms.
+
+"Better," she said.
+
+***
+
+Hako stood at the edge of the ring and looked at his own forearm, where the blunted sword had touched him.
+
+*You only go nine-tenths*.
+
+He'd felt it. That was the thing. For the first time in his life he'd felt it happen: the moment at the end where he went and then didn't, where he kept the last bit back. And Milli had seen it from three paces away, because Milli had been waiting, properly, for the first time in two years, and when you wait properly you see everything.
+
+He looked at Milli.
+
+Milli was looking at him. And something had happened to Milli's face. It wasn't furious any more. It wasn't frightened. It had gone very calm, and very clear, the way Hana's went when she was thinking. As if he'd just found out something he hadn't known about himself and was turning it over in his hands to look at it.
+
+"I waited," said Milli. Quietly. Not to Hako. To himself.
+
+"You waited," said Hako.
+
+"I've never—" Milli stopped. "Two years. Every morning. *Again*. And I never once. And I just—" His ears went forward. "I watched you. Holding it. And I thought: he's not *doing* anything. He's just *ready*. And I've been so busy trying to *do* something that I've never once been *ready*."
+
+Hako laughed. He couldn't help it.
+
+"That's my theory," he said. "About springs."
+
+"What?"
+
+"Never mind," said Hako. "It's a good theory. I'm very wise."
+
+***
+
+Two to one. Then two to two.
+
+It went quickly, after that, and very slowly at the same time. Hako would never be able to tell it right afterwards, not even to Chris, who logged it all. The two of them in the chalk ring on the side sand, both waiting now. Both holding the angle. Neither of them going first.
+
+The queue outside the fence had started to turn round. Hako noticed it at the edge of his sight: people on the cobbles with their baskets and their paper horns, who'd been waiting since dawn for the Gate, looking over their shoulders through the fence at the side sand. At two people in a chalk ring who weren't moving. A few of them stood up to see better. Then a few more.
+
+Milli went, at the end of a long breath, and went exactly, and Hako met it and held it, all of it, nine-tenths, and they broke apart with neither of them touched. Then Hako went, and Milli met it, and at the end, the last tenth, Hako felt himself hold it back again, and Milli's sword found the gap again.
+
+"*Two*," said the marshal. "Sword."
+
+Two to two.
+
+On the right-hand rail, Ysolde said, very quietly, "*There*. That. He's done it twice now."
+
+"I know," said Hako. He didn't take his eyes off Milli. "I felt it."
+
+"Then stop."
+
+"I *know*."
+
+"Knowing's not stopping," said Ysolde.
+
+***
+
+He looked at the end of the rail.
+
+He told himself not to. It was the wrong time. You didn't look away from the man in front of you in a chalk ring at two touches each. He looked anyway. Just for a breath.
+
+The man with the rod was leaning on the rail at the far end, on his own, with two bees on his head. Very still. He wasn't doing anything. He wasn't calling anything. He was just there. The way he'd been there on calls, on Earth, at two in the morning, when Hako was holding an angle and couldn't hold it any longer and Ice's voice in his ear went quiet, so as not to put him off. Not telling him what to do. Just there.
+
+*I wanted to know you better*, Hako had said, at the gate. *I was only getting started*.
+
+*You can*, the man had said.
+
+Hako looked back at Milli.
+
+He'd been holding back the last tenth his whole life. In every game. In every fight. He'd believed it would be fine, all of it, always, so completely that he'd never once let himself find out what happened if it wasn't. He'd kept the last bit in reserve. Just in case.
+
+He thought, very clearly, in the middle of the chalk ring: *what would I be keeping it for?*
+
+***
+
+Milli waited. Hako waited.
+
+The queue outside the fence had stood up. Most of it. People were pressed against the rails of the practice ground three deep now, with their baskets forgotten, looking at two people in a chalk ring. The summoned on the inside rail weren't saying anything. Nobody was saying anything. Even Newish.
+
+And then, on the same breath, they both went.
+
+Hako didn't decide. Milli didn't decide. Hako would think about that for a long time afterwards, and so would Milli, and so would Kestra and Ysolde and the man at the end of the rail. Neither of them decided. They just both saw it at once, in the same breath, the gap in the other's waiting, the moment when it was still deciding to. And they both moved into it.
+
+Milli went exactly. The way he'd learned three touches ago. Not early, not fast. In the gap. Patient all the way to the end and then all at once, the cat off the wall, with nothing held back, because for the first time in two years there was nothing he was impatient for. He'd waited. He was ready.
+
+And Hako went all the way.
+
+He felt it go. The last tenth. The bit he'd kept back his whole life, the reserve, the *what if*. He felt it leave him like a held breath going out, all of it, into the spear, into his arms, into his feet on the sand. He didn't keep anything. He peeked. The spear came forward in its long arc, early, while Milli was still deciding to, and this time there was nothing left behind it at all.
+
+Something happened in his hands.
+
+***
+
+He'd heard them describe it. All of them. Twenty of the thirty-five, in the channel, one after another, for two years: what it felt like. Xav's *it was like a door I hadn't known was there*. Wendy's *it didn't feel like anything moving*. Jared's, two days ago, on the long table, quietly: *like being a post somebody's driven in*.
+
+Hako's wasn't any of those.
+
+His was like letting go.
+
+Like letting go of a rope you've been holding all your life without knowing you were holding it. All at once. And instead of falling, finding that you'd been standing the whole time; that the rope had never been holding you up; that you'd been holding it back. The warmth came up out of his feet and his hands and went into the spear all the way to the point and came back, and the spear stopped being a thing he was holding and became a thing that was part of his arm.
+
+His window opened.
+
+So did Milli's.
+
+He saw it. He'd always wondered if you could see someone else's, and you could, it turned out, if you were close enough and it was happening at the same moment as your own. Two windows, in the air, in the middle of the chalk ring, one in front of his face and one in front of Milli's, opening at exactly the same instant, the way two people's breath goes out at the same time when they've both been holding it.
+
+[ Milli · Tier 1: Drawn ]
+
+[ Hako · Tier 1: Drawn ]
+
+And the sword and the spear went past each other.
+
+***
+
+Hako felt the touch.
+
+Very light. On his chest. The flat of a blunted curved sword, just below the collarbone, so light it was hardly there. And at almost exactly the same moment, so close that he couldn't have told you which came first, he felt the end of his own spear touch something too.
+
+He was on his back on the sand.
+
+He didn't know how he'd got there. He'd gone all the way, and there'd been nothing left behind, and when it hit nothing to hold him up there'd been nothing to stop him falling either, and he'd gone straight past Milli and over and down onto the wet sand of the side sand on his back, with his spear across him and the sky above him very blue and his window still open in front of his face.
+
+*Tier 1: Drawn*.
+
+He started laughing.
+
+***
+
+"*Touch*," said the marshal. And then stopped.
+
+There was a silence on the side sand.
+
+Hako lay on his back and laughed and looked at the sky. He could hear the queue outside the fence, three deep, pressed against the rails, all talking at once. He could hear the summoned on the inside rail, all of them shouting, somebody screaming *THEY BOTH WENT, THEY BOTH WENT*, which was Tiger, who'd woken up. He could hear Hana, on the left, saying *Milli, Milli, Honey*, over and over.
+
+And he could hear the marshal, very quietly, saying *wait*.
+
+Hako turned his head on the sand.
+
+Milli was standing in the middle of the chalk ring with his light curved sword still out, looking down at his own side. At the place where the butt of Hako's spear had touched him, at the bottom of his ribs. He was very still. His window was open in front of his face too. He was looking through it, at Hako on the sand, with an expression Hako had never seen on him.
+
+The marshal had his flag half up. He wasn't moving it. He was looking from Milli's ribs to Hako's chest and back.
+
+Then he turned and beckoned to the rail.
+
+Kestra came. And Ysolde. They stood with the marshal in the corner of the chalk ring with their heads together, talking very quietly, while the side sand held its breath and the queue outside pressed against the fence and Hako lay on his back with his window open and laughed at the sky.
+
+"I didn't see it," said the marshal. Hako heard it, faintly. "Which was first. I didn't see it."
+
+"I did," said Kestra.
+
+"So did I," said Ysolde.
+
+They looked at each other.
+
+"Sword," said Ysolde. "By a hair."
+
+"By a hair," said Kestra. She looked across the ring at Milli, at his feet, at his face. "He waited for it."
+
+Ysolde turned and looked down at Hako on the sand. Her face, for once, was giving something away.
+
+"And he went all the way," she said. "Finally."
+
+***
+
+The marshal raised his flag.
+
+"*Three*," he said. "*Sword*. The bout to Milli, of Solmere."
+
+The side sand went up.
+
+Hako didn't get up. He lay on his back with his spear across him and listened to it. The summoned on the inside rail, all of them shouting at once. The queue outside the fence, three deep, cheering for two people they didn't know who'd stood in a chalk ring not moving for longer than anyone in Valcrest had ever seen two people not move. Tiger screaming. Calvin banging his kettle on the rail. Newish's voice cutting through all of it: *HAKO YOU ABSOLUTE IDIOT YOU DID IT*.
+
+Milli came and stood over him.
+
+He'd put his sword down. He stood on the sand looking down at Hako with his window still open, and his tail very still, and his face doing something complicated that ended, after a while, in something that was very nearly the grin from a thumbnail Hako had seen on Hana's stream once: a fang, and a blush.
+
+"I won," said Milli.
+
+"You won."
+
+"By a hair."
+
+"By a hair," agreed Hako, from the sand.
+
+Milli held out his hand.
+
+Hako looked at it. Then he grinned, the whole grin, all the way across his face, the one that made people believe things would work out because it so obviously believed it itself, and said from his back on the wet sand of the side sand, delighted:
+
+"*Again?*"
+
+Milli looked at him for a long moment. Then he laughed. Properly, for the first time Hako had ever heard, loud and surprised and cracked down the middle.
+
+"Tomorrow," said Milli. "I've got a gate to hold this afternoon."
+
+And he pulled Hako up off the sand.
+
+***
+
+Hana came over the rail.
+
+She didn't use the gate. She went over the rail, in her ruffled skirt, with her tail out behind her for balance, and across the sand, and into Milli so hard he staggered, and held on. Hako stepped back. She was saying something into Milli's shoulder, over and over. *Honey. Honey. Honey.* And Milli had his arms round her and his face in her lavender hair and his eyes shut.
+
+Jared came over the rail after her, a lot more slowly, and stood beside them and didn't say anything, and put his hand on the back of Milli's neck.
+
+Kestra didn't come over the rail. She stayed on the rail post, with her arms folded again. But Hako, who was watching her, saw her take out her little black book, and open it, and write something in it, very short. Then close it, and put it away, and look at Milli across the sand with an expression that on anybody else would have been pride.
+
+*Learning to wait*, Hako thought. That was what she'd written about him, every month, for two years. The king had said so.
+
+He wondered what she'd written now.
+
+***
+
+His own corner had come in from the right.
+
+Chris first, with his notebook already out, writing. "*Twenty-one*," said Chris. "*And twenty-two*. At the same time." He looked up. "That's never happened. Not once in two years. Two at once." His pen was moving very fast. "I need to work out how to log it. Which one's twenty-one."
+
+"Both," said Newish. "Write both. Write *twenty-one-and-twenty-two*."
+
+"That's not a number."
+
+"It is now," said Newish, and then she hit Hako on the arm, hard, the way she'd hit the man with the rod six nights ago, and said, "*You absolute idiot*," and then put her arms round him.
+
+Winter stood a pace back, very still, with her face doing nothing. Then she reached out and put two fingers on Hako's arm, very lightly, the way you'd touch a window to check it was there. Ina, behind her, was laughing with his mask pushed up.
+
+Ysolde came last. She stood in front of him and looked at him the way she'd looked at him on the mound with her wooden sword on his chest.
+
+"There," she said.
+
+"I went all the way."
+
+"You did."
+
+"I lost."
+
+"You did," said Ysolde. "By a hair. To a man who'd just learned to wait." She looked at him. "And you went all the way. For the first time in two years. And now you'll never not be able to." She paused. "That's not losing, Hako. That's the first lesson that sticks."
+
+Hako's grin went very wobbly.
+
+"It'll be fine," he said. It came out cracked.
+
+"It is fine," said Ysolde. "Idiot."
+
+***
+
+He looked for the man with the rod.
+
+He was still at the far end of the rail. On his own. He hadn't come over. He was leaning on the rail with the two bees on his head, and he was clapping.
+
+Not loudly. Slowly. Everyone else on the side sand had stopped clapping a while ago; they were shouting, or hugging, or writing things down, or climbing over rails. The queue outside the fence had started turning back round toward the Lists, because a bell had gone somewhere and the Gate was coming. And at the far end of the rail, on his own, a man nobody looked at was still clapping. Slowly. Steadily. As if he'd started when it happened and hadn't noticed that everyone else had stopped.
+
+He'd taught one of them to hold an angle. On Earth. In eight months, at two in the morning, in his ear.
+
+He'd written the book the other one read at midnight in a castle in Solmere, in the first winter, about waiting for a fish. *Most people miss the first tug, because they are too busy pulling*.
+
+Hako went over.
+
+He went across the side sand with his spear on his shoulder and his window still open in front of his face, and stood in front of the rail.
+
+The man stopped clapping.
+
+"Did you see?" said Hako.
+
+"I saw."
+
+"I went all the way."
+
+"I saw," said the man again. "I saw you go." He was quiet for a moment. "Ice taught you head height. I taught you earlier." He nodded across the sand, at Milli, who was standing in the middle of the chalk ring with his wife round his neck and Jared's hand on the back of his neck and his window still open. "He taught you the last bit."
+
+"And I taught him to wait."
+
+"You did," said the man. "Without saying a word. Just by standing there." He paused. "That's the best kind of teaching. The kind where neither of you notices you're doing it."
+
+Hako looked at him. At a face he couldn't see.
+
+"I wanted to know you better," he said. "I said. At the gate."
+
+"You said."
+
+"I think I do," said Hako. "Now. A bit." He grinned, wobbly. "You're the guy who tells people to peek."
+
+"I'm the guy who tells people to hold the angle," said the man. "For years. And then, once, at the right time, to peek." He reached over the rail and put his hand on Hako's shoulder, briefly, the one without the spear on it. "You've got the angle. You've had it for three years. Now you've got the peek." A pause. "Now you're dangerous."
+
+Hako laughed so hard he had to hold the rail.
+
+***
+
+The bell went again, from the tower over the west gate, rolling out over the city. The Gate. The second trial. The Stronghold, holding a gate Tiger had built, against the champions of the Lists.
+
+Across the side sand, Milli let go of Hana. He picked up his light curved sword from where he'd dropped it on the sand, and looked at it, and then at his window, still open in front of his face, *Tier 1: Drawn*, and then at the Lists, where the bell was ringing.
+
+Tiger was already at the gate of the practice ground, bouncing, shouting *STRONGHOLD, STRONGHOLD, COME ON, MY GATE, COME ON*.
+
+Milli looked at Hako across the sand.
+
+"Tomorrow," said Milli.
+
+"Tomorrow," said Hako.
+
+Milli went. Out of the gate of the practice ground, after Tiger, into the crowd going round toward the Lists, with his sword on his hip and his tail very still behind him. And Hako stood at the rail with his spear on his shoulder and his window still open and watched him go, and found that he didn't mind at all that he'd lost.
+
+He'd found out what was at the end of the waiting.
+
+It wasn't the waiting. It had never been the waiting.
+
+It was the peek.
