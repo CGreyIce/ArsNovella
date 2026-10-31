@@ -147,7 +147,7 @@ And at the back of the cart, a girl with a black sword on her back. And beside h
 
 The wall was full.
 
-Aldous had known it would be. He'd seen the lamps go on all night. But he hadn't known it would be this full. Every embrasure. Every gap between the merlons, all the way along the east wall from the south-east tower to the north-east, and on the towers too, and on the gatehouse over the east gate, under the horns. Soldiers. Cooks. Carters. Grooms. The fort's commander, a careful young captain from Solmere who'd been sent out three years ago and had heard all the stories and never once, Aldous was fairly sure, believed a word. Old Oakes from the forge in his leather apron, with his arms folded. Orla from the laundry, very straight, with her hands together in front of her.
+Aldous had known it would be. He'd seen the lamps go on all night. But he hadn't known it would be this full. Every embrasure. Every gap between the merlons, all the way along the east wall from the south-east tower to the north-east, and on the towers too, and on the gatehouse over the east gate, under the horns. Soldiers. Cooks. Carters. Grooms. The fort's commander, a careful young captain from Solmere who'd been sent out three years ago and had heard all the stories and never once, Aldous was fairly sure, believed a word. Old Oakes from the forge in his leather apron, with his arms folded. Nell from the laundry, very straight, with her hands together in front of her.
 
 And the old ones.
 
@@ -177,7 +177,7 @@ And the girl beside him.
 
 And the man beside her.
 
-It went along the wall the way it had gone nine years ago, only further. Out from the old ones into the young ones round them, like ripples out from stones dropped in a pond, until they met, and crossed, and there was no one left on the whole of the east wall of Cinderhold with their hands at their sides. Every soldier. Every cook. The young captain from Solmere, who'd never believed a word, standing on the gatehouse beside Teague with his face gone strange and his hand on his chest because Teague's was. Orla from the laundry. Old Oakes, last of all, who'd never in his life done anything because anybody else was doing it, unfolding his arms and laying one big burnt hand flat on his leather apron.
+It went along the wall the way it had gone nine years ago, only further. Out from the old ones into the young ones round them, like ripples out from stones dropped in a pond, until they met, and crossed, and there was no one left on the whole of the east wall of Cinderhold with their hands at their sides. Every soldier. Every cook. The young captain from Solmere, who'd never believed a word, standing on the gatehouse beside Teague with his face gone strange and his hand on his chest because Teague's was. Nell from the laundry. Old Oakes, last of all, who'd never in his life done anything because anybody else was doing it, unfolding his arms and laying one big burnt hand flat on his leather apron.
 
 Aldous, on the box of the cart, put his own hand on his chest.
 
@@ -221,7 +221,7 @@ Not loudly. He didn't raise his voice. It was a quiet voice, a little rough, wit
 
 The old man on the north tower made a sound. Aldous heard it from the courtyard.
 
-"Ise. Cobb. Lark." The eyes went on, along the wall. "Orla." The old woman from the laundry, very straight, with her hand on her chest and her mouth pressed shut. "Oakes."
+"Ise. Cobb. Lark." The eyes went on, along the wall. "Nell." The old woman from the laundry, very straight, with her hand on her chest and her mouth pressed shut. "Oakes."
 
 Oakes didn't say anything. His big burnt hand pressed down on his apron.
 
@@ -255,7 +255,7 @@ He heard it go along the wall. Not a word. A breath. The sound twenty-five peopl
 
 *Diwa*, said somebody on the wall, very quietly. Aldous didn't see who.
 
-Orla from the laundry put her other hand over her mouth.
+Nell from the laundry put her other hand over her mouth.
 
 Alea looked up at all of them. She didn't say anything. She didn't know any of them. She didn't know any of their names. She stood in the gateway with her mother's sword on her back and her mother's face, being looked at by twenty-five old soldiers who'd known her mother, and her ears went flat, and then came up again, slowly. And her hands came together in front of her, palm to palm, at the level of her chest.
 

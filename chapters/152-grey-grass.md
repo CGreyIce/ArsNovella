@@ -226,7 +226,7 @@ Wendy put her face against his shoulder and laughed, without any sound at all, f
 She read the channel on the seventeenth night, by the fire, because Yan was asleep and somebody ought to.
 
 [ 21:14 · Higu: Fennick. Moths out. Nothing that isn't there.
-21:16 · Gabe: Kingsferry in four days. Rachael says if anyone hugs her on the quay she's getting back on the barge.
+21:16 · Gabe: Same Fennick. Lake road in six days, then the barge home. Rachael says if anyone hugs her at the bottom of the lake road she's swimming to Kingsferry.
 21:16 · Rachael: I mean it.
 21:19 · Tiger: THORNWALL IN 3 DAYS!!! OSSIE'S SHED STILL STANDING (HYVRED CHECKED WITH SCOPE)
 21:19 · Hyvred: It's standing.

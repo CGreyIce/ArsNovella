@@ -339,7 +339,7 @@ Yan, at the end of the table, with Suzu on the scythe propped against the wall b
 
 He didn't put it in the channel.
 
-He thought about it, that night, on his bunk, with his window open and the channel scrolling. Twenty-five of thirty-five, at the top, in Chris's evening numbers. Higu in Wrenhaven: *home. the basket's on the step*. Tiger in capitals about a shed. Hana, from Solmere, something careful about a door under the castle that Niko read twice and didn't understand. Kei: *Hisui says the wind off the valley tastes different this week. like rain that hasn't happened yet*.
+He thought about it, that night, on his bunk, with his window open and the channel scrolling. Twenty-five of thirty-five, at the top, in Chris's evening numbers. Higu in Wrenhaven: *the basket's still on the step. nobody touches it*. Tiger in capitals about a shed. Hana, from Solmere, something careful about a door under the castle that Niko read twice and didn't understand. Kei: *Hisui says the wind off the valley tastes different this week. like rain that hasn't happened yet*.
 
 He thought about writing *nineteen*. Everybody would cheer. Maigo would write it in capitals eleven more times. Thea would ask what had changed.
 
