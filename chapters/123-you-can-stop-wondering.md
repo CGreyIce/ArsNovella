@@ -153,7 +153,7 @@ Halvard didn't answer it. He found he couldn't.
 
 After a moment the door opened anyway, and somebody came in, and stood in the doorway with the lamplight from the passage behind him, and Halvard saw his face.
 
-He was one of the few who could. He had been for eleven years, since the winter he reached the sixth tier; before that his eyes had gone to it and slid off, the way everyone's did, and gone somewhere else. Nobody knew why. The king could see it too, and didn't know either, and the two of them had stopped asking a long time ago. Halvard looked at it now, in the lamplight. A plain face. Older than he remembered. Quiet. And then, out of old habit, from all the years when he couldn't, past it. To his shoulders. To his hands. To the long thin shape over his shoulder, which was a fishing rod.
+He was one of the few who could. He had been for sixteen years, since the winter he reached the sixth tier; before that his eyes had gone to it and slid off, the way everyone's did, and gone somewhere else. Nobody knew why. The king could see it too, and didn't know either, and the two of them had stopped asking a long time ago. Halvard looked at it now, in the lamplight. A plain face. Older than he remembered. Quiet. And then, out of old habit, from all the years when he couldn't, past it. To his shoulders. To his hands. To the long thin shape over his shoulder, which was a fishing rod.
 
 To the way he stood in a doorway. Easy. Weight on the back foot. Ready to go in either direction and in no hurry to choose. He'd stood like that at fifteen on a wall, and at twenty-two on a parade ground with a black sword, and at twenty-seven in a tent arguing with a king. He was standing like that now.
 
