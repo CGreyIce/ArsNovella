@@ -25,7 +25,7 @@ That was what it felt like. The town buried to its windowsills, and the paths du
 
 The channel was different now.
 
-Two hundred lines. Times on every one. Xola loved it so much she couldn't stop scrolling. She'd lie on her cot in the afternoons with Squiddles on her chest and her window open and scroll back and back and back, through yesterday, and the day before, all the way to the top, just because she could. Reading things she'd missed. Mashi's heartbeats, every night, *three, still no faint*, *four*, *four again*. Maigo in capitals. Kei's mushrooms. Rachael's patients. Tiger's goat, which had now eaten four of Drew's boots and one of Hild's. Malcolm's IFs. Chris's numbers, every evening at the same time, *21:00 · Chris: Logging.*, all thirty-five, in a column, with a blank one at the end that he never filled in.
+Two hundred lines. Times on every one. Xola loved it so much she couldn't stop scrolling. She'd lie on her cot in the afternoons with Squiddles on her chest and her window open and scroll back and back and back, through yesterday, and the day before, all the way to the top, just because she could. Reading things she'd missed. Niko's heartbeats, every night, *three, still no faint*, *four*, *four again*. Maigo in capitals. Kei's mushrooms. Rachael's patients. Tiger's goat, which had now eaten four of Drew's boots and one of Hild's. Malcolm's IFs. Chris's numbers, every evening at the same time, *21:00 · Chris: Logging.*, all thirty-five, in a column, with a blank one at the end that he never filled in.
 
 Everybody loved it. Maigo had written *WHOEVER DID THIS I LOVE YOU* in the first week, and then again in the second, and then started writing it every few days, as a sort of greeting. Other people joined in. Tiger. Newish. Rachael. *WHOEVER DID THIS I LOVE YOU.*
 
@@ -221,7 +221,7 @@ But Thea wrote something.
 
 Later. After the others had lain down, and the fire had burned low, and Xola was lying on her cot with Squiddles on her chest pretending to be asleep and watching her through her lashes. Thea, at the table, alone, with her window open in front of her and her face lit faintly blue by it. She sat there for a long time without writing anything.
 
-Then she wrote one line. Xola saw it come up in her own window a moment later, in the channel, in the middle of the night, among Mashi's heartbeats and Kei's mushrooms:
+Then she wrote one line. Xola saw it come up in her own window a moment later, in the channel, in the middle of the night, among Niko's heartbeats and Kei's mushrooms:
 
 [ 01:14 · Althea: Whoever did the two hundred lines: thank you. ]
 

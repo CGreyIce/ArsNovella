@@ -249,4 +249,4 @@ Then she went back down the stairs, very quietly, and out into the yard, and sto
 
 She didn't think it would be much longer now. The waiting. Hers or theirs.
 
-She didn't know how she knew that. She'd just seen his face, at the edge of the fire, when the candle in his own window flared with all the rest.
+She didn't know how she knew that. She'd just seen him, at the edge of the fire, when the candle in his own window flared with all the rest.

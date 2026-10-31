@@ -345,7 +345,7 @@ Nobody near him looked at him. Nobody saw him standing up.
 
 Lucan saw.
 
-He couldn't see the man's face. He never would. But he could see the way he stood. He'd spent fifteen years on that platform watching people stand in the stands when someone they loved won on the sand: mothers, fathers, old masters, sweethearts. He knew exactly what it looked like. It always looked the same. It looked like somebody trying very hard not to look the way they felt, and failing completely.
+He couldn't see the man's face. Nobody could. But he could see the way he stood. He'd spent fifteen years on that platform watching people stand in the stands when someone they loved won on the sand: mothers, fathers, old masters, sweethearts. He knew exactly what it looked like. It always looked the same. It looked like somebody trying very hard not to look the way they felt, and failing completely.
 
 On the near ring, the girl had turned round. Before the marshal could say anything, before she'd even put the sword back on her shoulder, she'd turned round and looked up. Straight up. Past the master's platform, past the royal box, to the fourth tier of the east stand, to the end of a bench, to a man standing up on his own in a crowd that couldn't see him.
 

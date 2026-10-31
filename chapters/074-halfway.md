@@ -197,7 +197,7 @@ The king was quiet for a while.
 
 Ars opened his window.
 
-He didn't decide to. He just found it open, on his knees, in the dark, the way he'd found it open on the end of this jetty most nights for a year. The channel scrolling, faint and quiet. Mashi, on his wall: *three heartbeats. still no faint.* Maigo: *MASHI THAT'S FOUR TONIGHT.* Mashi: *three.* Maigo: *I COUNTED FOUR.*
+He didn't decide to. He just found it open, on his knees, in the dark, the way he'd found it open on the end of this jetty most nights for a year. The channel scrolling, faint and quiet. Mashi, on his wall: *three heartbeats. still no faint.* Maigo: *NIKO THAT'S FOUR TONIGHT.* Mashi: *three.* Maigo: *I COUNTED FOUR.*
 
 He scrolled past it. Up. To the top of the window, past everything, to the one line he hadn't shown anyone. Not Alea. Not Rowan. Not anyone.
 

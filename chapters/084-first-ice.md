@@ -103,7 +103,7 @@ Pip was at the end of the row, with a length of fence rail nearly as tall as he 
 
 Alea watched them for a moment with Astra's point resting on the ice. Then she looked at her father.
 
-He was watching them too. Ten paces away, with his arms folded, his face doing nothing at all. But she saw his eyes go along the row of children with their sticks, one after another, the way they went along a line of fish in the basket in the morning, choosing the best.
+He was watching them too. Ten paces away, with his arms folded, perfectly still. But she saw his head turn, very slightly, along the row of children with their sticks, one after another, the way it turned along a line of fish in the basket in the morning, choosing the best.
 
 "Your weight's on your heels," he said. Not to her. Quite loudly. Across a hundred paces of ice, to a row of children on the shore who'd never been spoken to by him in their lives.
 

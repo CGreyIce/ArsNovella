@@ -105,7 +105,7 @@ Wendy walked for a while.
 
 Alea looked at her.
 
-"The first winter," said Wendy. She hadn't meant to tell her this. "The first frost. It came down in the night, and in the morning the whole of it was white. The red, the grass, the markers. All of it. White, all the way to the mountains, flat and perfect, with the posts standing up out of it like the masts of ships. And the sun came up over Kharvos and turned it pink. And gold." She looked at the road. "For about a quarter of an hour, it was the most beautiful thing I've ever seen. Mashi was on the wall. He said the same. And then the red came back through, and it was ugly again." She shrugged. "So. Once."
+"The first winter," said Wendy. She hadn't meant to tell her this. "The first frost. It came down in the night, and in the morning the whole of it was white. The red, the grass, the markers. All of it. White, all the way to the mountains, flat and perfect, with the posts standing up out of it like the masts of ships. And the sun came up over Kharvos and turned it pink. And gold." She looked at the road. "For about a quarter of an hour, it was the most beautiful thing I've ever seen. Niko was on the wall. He said the same. And then the red came back through, and it was ugly again." She shrugged. "So. Once."
 
 Alea walked beside her for a long time, with her ears very still.
 
@@ -373,7 +373,7 @@ She believed it.
 
 They saw Cinderhold at dusk.
 
-They came up the last long rise in the road, the one Wendy had been waiting for since noon, with the sun going down red behind them and the shadows going out long in front of them across the grey grass. The cart first, slowly, with Rhea pushing and Maigo talking and Mashi on the tailboard with his eyes shut, at eleven again, and Wendy counting without thinking about it. Then Salty and Wendy. Then Yan, with the scythe. And at the back, a man with two buckets and a girl with a sword.
+They came up the last long rise in the road, the one Wendy had been waiting for since noon, with the sun going down red behind them and the shadows going out long in front of them across the grey grass. The cart first, slowly, with Rhea pushing and Maigo talking and Niko on the tailboard with his eyes shut, at eleven again, and Wendy counting without thinking about it. Then Salty and Wendy. Then Yan, with the scythe. And at the back, a man with two buckets and a girl with a sword.
 
 And at the top of the rise, there it was.
 
@@ -447,7 +447,7 @@ Rhea stood up and went out to meet them, shouting, because Rhea always shouted. 
 
 Wendy knew the voice. Everyone at Cinderhold knew it.
 
-Sergeant Teague rode up into the firelight with the lantern in one hand and his reins in the other. Old and grey and lean as a post, with the long white scar down the inside of his right arm from the elbow to the wrist, where a thing had opened it on the red a year ago. He looked round the fire. At Aldous, getting up. At Salty and Wendy and Maigo, waving, and Mashi and Yan. At the cart.
+Sergeant Teague rode up into the firelight with the lantern in one hand and his reins in the other. Old and grey and lean as a post, with the long white scar down the inside of his right arm from the elbow to the wrist, where a thing had opened it on the red a year ago. He looked round the fire. At Aldous, getting up. At Salty and Wendy and Maigo, waving, and Niko and Yan. At the cart.
 
 At the man at the edge of the firelight, sitting on the grass with a rod across his knees.
 

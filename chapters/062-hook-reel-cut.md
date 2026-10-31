@@ -139,7 +139,7 @@ Every soldier in Cinderhold. Every cook, every carter. Rhea, bright and loud and
 
 And then there were the five of them. And himself.
 
-He'd noticed it on the first night in the barracks in Solmere, before he even knew what he was looking at. Salty and Wendy and Maigo and Mashi had a different grain. So did he. So did all thirty-five of them, he was almost sure. Something about the way their souls sat in them, as if they'd grown somewhere else first, under a different sun, and been lifted out and set down here, in this ground, and hadn't quite taken root. He didn't know how else to say it. He'd stopped trying. He just knew it, now, the way you know your own handwriting. Earth. That was the grain. The grain of home.
+He'd noticed it on the first night in the barracks in Solmere, before he even knew what he was looking at. Salty and Wendy and Maigo and Niko had a different grain. So did he. So did all thirty-five of them, he was almost sure. Something about the way their souls sat in them, as if they'd grown somewhere else first, under a different sun, and been lifted out and set down here, in this ground, and hadn't quite taken root. He didn't know how else to say it. He'd stopped trying. He just knew it, now, the way you know your own handwriting. Earth. That was the grain. The grain of home.
 
 The man standing thirty paces away on the Redmarch with a fishing rod had it.
 

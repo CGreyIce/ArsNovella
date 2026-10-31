@@ -69,7 +69,7 @@ Milli made a small noise beside her. Hana looked at him. He was gripping the top
 
 Milli had read that, the first winter, and his aura had come up three points in a night.
 
-The water-carrier looked up, then. Across the sand, at the fence, at five people standing there in the mist. Hana couldn't see his face. She'd never be able to. But she saw him see them; saw him see Jared, standing a little in front, the way Jared always stood.
+The water-carrier looked up, then. Across the sand, at the fence, at five people standing there in the mist. Hana couldn't see his face. Nobody could. But she saw him see them; saw him see Jared, standing a little in front, the way Jared always stood.
 
 "That's the class," he said. "Same time tomorrow. Petra, you're first."
 

@@ -99,7 +99,7 @@ Aldous considered it. He looked at the cart. He looked at the downs. He looked a
 
 She'd heard about Group 3 all her life.
 
-Not as Group 3. As the squad. The four he'd played with every night, on Earth, in the hours after work, in the dark, with voices in his ears. She'd had them as bedtime stories from the age of seven, the way other girls had giants and princesses. Yan, who was calm, and called the plays in the other game, the one where Yan carried him. Maigo, who never stopped talking. Mashi, who was quiet and chill and watched everything, and had lost to her father four hundred times in the game at night when they were on opposite sides, which her father said was an exaggeration, and was probably more. Salty, who her father owed something to that she'd never understood. And Wendy, who wasn't one of the four but was always in the call, who said what she thought, and was usually right, and had once made her father laugh so hard he'd fallen off his chair.
+Not as Group 3. As the squad. The four he'd played with every night, on Earth, in the hours after work, in the dark, with voices in his ears. She'd had them as bedtime stories from the age of seven, the way other girls had giants and princesses. Yan, who was calm, and called the plays in the other game, the one where Yan carried him. Maigo, who never stopped talking. Niko, whom her father only ever called Mashi, who was quiet and chill and watched everything, and had lost to her father four hundred times in the game at night when they were on opposite sides, which her father said was an exaggeration, and was probably more. Salty, who her father owed something to that she'd never understood. And Wendy, who wasn't one of the four but was always in the call, who said what she thought, and was usually right, and had once made her father laugh so hard he'd fallen off his chair.
 
 She'd thought she knew them.
 
@@ -121,7 +121,7 @@ The horse flicked the ear.
 
 ***
 
-Mashi sat on the tailboard and breathed.
+Niko sat on the tailboard and breathed.
 
 That was what Aldous meant by *your breath*. Alea worked it out on the second day. He sat on the end of the cart with his legs hanging over the edge, facing backwards, toward her and her father and the road they'd come, with his hands loose on his knees and his eyes half closed and a handkerchief folded beside him on the boards. Very still. Breathing in. Breathing out. Without stopping at the top or the bottom, so the in-breath turned into the out-breath with no seam between them, the way a rope runs through a pulley.
 
@@ -131,11 +131,11 @@ She couldn't see it. She was Tempered; she could feel aura, a little, the way yo
 
 And touching.
 
-And Wendy, walking beside the cart, would count. Out loud. Flatly, without looking up from the arrow she was fletching. "One. Two. Three." Mashi's heartbeats. Alea had worked that out too. "Seven. Eight. Nine. Ten. Eleven—"
+And Wendy, walking beside the cart, would count. Out loud. Flatly, without looking up from the arrow she was fletching. "One. Two. Three." Niko's heartbeats. Alea had worked that out too. "Seven. Eight. Nine. Ten. Eleven—"
 
 And then his nose would bleed, and he'd pick up the handkerchief without opening his eyes and hold it under his nose, and the two hands in the middle of him would come apart, and Wendy would say "Eleven," and go back to the arrow.
 
-"*Again*," Mashi would say, through the handkerchief.
+"*Again*," Niko would say, through the handkerchief.
 
 He did it all day. Over and over. Eleven. Eleven. Ten, once, and he swore at it, very quietly, in English. Eleven. Always eleven. As if there were a wall at eleven, in the middle of him, and he kept walking into it with his face, and getting up, and walking into it again.
 
@@ -145,9 +145,9 @@ He did it all day. Over and over. Eleven. Eleven. Ten, once, and he swore at it,
 
 Her father walked behind the cart with the buckets and watched all of it. Every time. And didn't say anything, and didn't help.
 
-On the fourth day Mashi opened his eyes, mid-breath, and looked straight at him over the handkerchief.
+On the fourth day Niko opened his eyes, mid-breath, and looked straight at him over the handkerchief.
 
-"Don't help," said Mashi.
+"Don't help," said Niko.
 
 "I'm not."
 
@@ -157,9 +157,9 @@ Her father was quiet for a moment.
 
 "I'm thinking about it," he admitted.
 
-"Well, don't." Mashi closed his eyes again. "I lost to you four hundred times. I'm going to do this one on my own."
+"Well, don't." Niko closed his eyes again. "I lost to you four hundred times. I'm going to do this one on my own."
 
-Her father didn't say anything. But Alea saw his mouth, at the corner. And she saw that he stopped watching Mashi's hands after that, and watched the road instead, and only looked up when Wendy said a number.
+Her father didn't say anything. But Alea saw his mouth, at the corner. And she saw that he stopped watching Niko's hands after that, and watched the road instead, and only looked up when Wendy said a number.
 
 ***
 
@@ -211,7 +211,7 @@ Wendy turned round on the cart and stared at him.
 
 "He always called it," said Salty.
 
-"He was always early," said Mashi, from the tailboard, without opening his eyes. "That's how you knew it was him. He'd call it before it happened and then be smug for a whole round."
+"He was always early," said Niko, from the tailboard, without opening his eyes. "That's how you knew it was him. He'd call it before it happened and then be smug for a whole round."
 
 "I wasn't smug."
 
@@ -561,7 +561,7 @@ She'd been on it every year. The whole way. From the top of the lake road to the
 
 He looked east. At the road going on into the dark, toward a fort and a red plain and a grave.
 
-"I hadn't started," he said. "I've been carrying the water." He turned his head and looked at her, and his face was doing something she'd seen it do perhaps three times in her life. "I thought this year you could tell her yourself."
+"I hadn't started," he said. "I've been carrying the water." He turned his head and looked at her. She couldn't see his face; she never had. But she knew what it was doing from the rest of him, and she'd seen the rest of him do this perhaps three times in her life. "I thought this year you could tell her yourself."
 
 ***
 

@@ -321,7 +321,7 @@ He didn't say anything first. He just bent down, and took off his left boot, and
 
 The man looked at the boot.
 
-His face went completely still for a heartbeat. And then he laughed. Properly. Bent over, with his hands on his knees, on Rowan's terrace, so hard he couldn't breathe. Behind Dennis, RX had started laughing too, and then Azac, and then the girl with the fox ears, who clearly didn't know why it was funny and was laughing anyway because her father was.
+He went completely still for a heartbeat. And then he laughed. Properly. Bent over, with his hands on his knees, on Rowan's terrace, so hard he couldn't breathe. Behind Dennis, RX had started laughing too, and then Azac, and then the girl with the fox ears, who clearly didn't know why it was funny and was laughing anyway because her father was.
 
 "Every time," the man said, when he could. "*Every* time. In the middle of a match. In the *final*, John."
 

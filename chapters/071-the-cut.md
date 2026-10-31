@@ -319,7 +319,7 @@ Kestra, on the jetty, had closed her book.
 
 At dusk, Ars came back.
 
-He walked back along the jetty with the girl beside him and came down the shingle to the forge. His face was the same as ever. Plain. Still. You couldn't hold on to it. But Severin, who'd known him twelve years, saw that his eyes were red.
+He walked back along the jetty with the girl beside him and came down the shingle to the forge. His face was the same as ever. Plain. Still. Most people couldn't hold on to it; their eyes slid off. Severin never had that trouble, and never had known why. He'd known him twelve years, and he saw that his eyes were red.
 
 He didn't say anything about it. Neither did Severin.
 

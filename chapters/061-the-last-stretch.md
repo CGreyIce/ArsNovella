@@ -51,7 +51,7 @@ It was the same cart. The same great timber frame on its back, like the skeleton
 
 Behind it came the escort. Aldous first, on foot, in his old black coat, with his book under his arm and his face very quiet. Then Rhea, in her mail, with her sword on her hip and her hair tied back hard. Then the ten soldiers Aldous had asked for, under Sergeant Teague, a grey Honed swordsman who'd been on the Redmarch eight years ago and didn't talk about it. And then the five of them.
 
-Maigo, barefoot, in his mustard hoodie, with his pixel sunglasses pushed up on his antlers and the new leaves on them stirring in the dawn wind. Yan, very tall and very still, with Suzu wound round his neck. Mashi, small and thin and calm, with a short sword at his hip and his hands in his pockets. Wendy with her bow. And Salty, at the back, beside the cart, with his own greatsword across his back and his hands empty.
+Maigo, barefoot, in his mustard hoodie, with his pixel sunglasses pushed up on his antlers and the new leaves on them stirring in the dawn wind. Yan, very tall and very still, with Suzu wound round his neck. Niko, small and thin and calm, with a short sword at his hip and his hands in his pockets. Wendy with her bow. And Salty, at the back, beside the cart, with his own greatsword across his back and his hands empty.
 
 They went out through the gate. Salty heard it close behind them.
 
@@ -119,7 +119,7 @@ That was what Aldous had said. An hour's walk for a man on his own, across the g
 
 It depended on Salty. He'd thought about that a lot, too, in the last six days.
 
-He walked. Wendy counted. Rhea went in front with four of the soldiers, picking the line through the gullies, where the banks were lowest and the ground was firmest. Aldous walked just ahead of Salty, so that Salty could watch his back and not have to look at the ground. Sergeant Teague and the other six soldiers spread out on either side. Yan and Mashi and Maigo walked in the middle with Salty, close, the way they'd walked on Earth, the way they'd always walked in every game they'd ever played together: five, in a stack, with nobody more than a few paces from anybody else.
+He walked. Wendy counted. Rhea went in front with four of the soldiers, picking the line through the gullies, where the banks were lowest and the ground was firmest. Aldous walked just ahead of Salty, so that Salty could watch his back and not have to look at the ground. Sergeant Teague and the other six soldiers spread out on either side. Yan and Niko and Maigo walked in the middle with Salty, close, the way they'd walked on Earth, the way they'd always walked in every game they'd ever played together: five, in a stack, with nobody more than a few paces from anybody else.
 
 At three hundred Wendy said, "Down."
 
@@ -147,7 +147,7 @@ Salty didn't know what Maigo felt, exactly. None of them did. Maigo said it was 
 
 Yan had his eyes closed.
 
-He stood there on the red, very tall, very still, with Suzu wound tight round his neck and his long pale hair moving in the wind, and his face had gone the way it went when he was feeling for the candles. Living things, he'd told them, in the spring. Little warm presences you could feel without looking at them. Salty was a forge. Mashi was two candles that kept almost touching. And the things that came across the red at night, the tall thin bent ones, were candles too. Cold ones.
+He stood there on the red, very tall, very still, with Suzu wound tight round his neck and his long pale hair moving in the wind, and his face had gone the way it went when he was feeling for the candles. Living things, he'd told them, in the spring. Little warm presences you could feel without looking at them. Salty was a forge. Niko was two candles that kept almost touching. And the things that came across the red at night, the tall thin bent ones, were candles too. Cold ones.
 
 "They're in the gullies," said Yan. His deep slow voice was very calm. "Both sides. They've been keeping pace with us since the markers." He opened his eyes. "A lot of them, Father. More than came to the wall. More than I've ever felt." He paused. "And three that are different. Bigger. Heavier. Like the cold one. Not as cold."
 
@@ -209,7 +209,7 @@ Salty stood up and pulled his own greatsword off his back.
 
 It felt like nothing, after the black one. That was the stupid thing. It was a big sword, longer than he was tall nearly, the kind that had made Rhea laugh at him the first week. *You'll take your own foot off.* It felt like a stick. He stood at the east side of the ring with it in both hands and let the forge come up, all the way up, as fast as it would come, and felt the heat of it in his arms and his chest and behind his eyes.
 
-Beside him, Mashi had drawn his short sword. He was standing very calmly, the way he always stood, with his weight on his back foot and his eyes moving. Not at the shapes. At the *gaps* between the shapes. He looked, for a moment, exactly the way he'd looked on Earth, playing CS, hunched forward at three in the morning with his headset half off, watching an angle.
+Beside him, Niko had drawn his short sword. He was standing very calmly, the way he always stood, with his weight on his back foot and his eyes moving. Not at the shapes. At the *gaps* between the shapes. He looked, for a moment, exactly the way he'd looked on Earth, playing CS, hunched forward at three in the morning with his headset half off, watching an angle.
 
 Maigo had gone down on his knees. Both hands flat on the red.
 
@@ -253,7 +253,7 @@ He remembered Wendy's arrows. Going up over the fire and coming down on the othe
 
 He remembered Maigo on his knees, with his hands flat on the red and his face screwed up behind his sunglasses, saying *stay, stay, stay* under his breath, and the shapes coming through the gaps in the fire *stopping*, for a heartbeat, with their long grey feet stuck to the ground as if the ground had grabbed them. Just a heartbeat. Long enough for a soldier to get a blade in.
 
-He remembered Mashi in the gap between two soldiers on the east side, very calm, not moving, not moving, and then moving, once, when a shape came through exactly where he'd known it would, and the short sword going in under its long arm and out again, and Mashi stepping back into the gap as if he'd never left it.
+He remembered Niko in the gap between two soldiers on the east side, very calm, not moving, not moving, and then moving, once, when a shape came through exactly where he'd known it would, and the short sword going in under its long arm and out again, and Niko stepping back into the gap as if he'd never left it.
 
 He remembered Yan's voice. Deep, slow, perfectly calm, the way it had been on a thousand Apex calls at three in the morning, calling it. *Left. Two. Behind the gap. Wendy, high. Niko, your side, now. Salty. Salty, north, the big one, it's coming for the middle.*
 
@@ -287,7 +287,7 @@ Aldous's fire had gone down to a few low guttering patches on the red. Aldous hi
 
 And the shapes were through.
 
-Not at the people. That was the thing Salty understood, standing there swaying with the blood in his mouth. They didn't want the people. They went *round* the people. They went past the soldiers on the ground and past Mashi in his gap and past Maigo on his knees, in their quick still-then-somewhere-else bursts, all of them, from every side, toward the middle. Toward the sword.
+Not at the people. That was the thing Salty understood, standing there swaying with the blood in his mouth. They didn't want the people. They went *round* the people. They went past the soldiers on the ground and past Niko in his gap and past Maigo on his knees, in their quick still-then-somewhere-else bursts, all of them, from every side, toward the middle. Toward the sword.
 
 Three of them had it already.
 

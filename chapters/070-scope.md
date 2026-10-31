@@ -137,7 +137,7 @@ The change itself was one line. It was the *same* line, almost. *Every window wh
 
 It was everything around it that was hard.
 
-Because she couldn't stop the channel to make the change. Thirty-five people were in it. Thirty-four, really, and her. It was midnight here, but midnight here was midnight everywhere, and people were still up: Kei, writing up a poison he'd found; Malcolm, as usual; Mashi on his wall, reporting heartbeats. If she pulled the channel down to fix the scope, every one of them would lose it, and she'd be back to three weeks.
+Because she couldn't stop the channel to make the change. Thirty-five people were in it. Thirty-four, really, and her. It was midnight here, but midnight here was midnight everywhere, and people were still up: Kei, writing up a poison he'd found; Malcolm, as usual; Niko on his wall, reporting heartbeats. If she pulled the channel down to fix the scope, every one of them would lose it, and she'd be back to three weeks.
 
 So she had to do it live. While it was running. Change the filter under the channel's feet without the channel noticing it was standing on something new.
 
@@ -169,7 +169,7 @@ She meant it.
 
 Nothing happened.
 
-Nothing at all. The channel went on scrolling. Mashi, on his wall at Cinderhold: *two heartbeats. still no faint.* Kei: *Hisui says this mushroom is a liar.* Malcolm: *IF anyone is still awake, THEN go to sleep. I am.* The window didn't flicker. The lines didn't stop. Nobody said *hey, did anyone else just*.
+Nothing at all. The channel went on scrolling. Niko, on his wall at Cinderhold: *two heartbeats. still no faint.* Kei: *Hisui says this mushroom is a liar.* Malcolm: *IF anyone is still awake, THEN go to sleep. I am.* The window didn't flicker. The lines didn't stop. Nobody said *hey, did anyone else just*.
 
 "Count," said Thea again. Her voice came out a whisper.
 
@@ -179,7 +179,7 @@ She looked at the place where the channel counted the windows it was talking to.
 
 She let her breath out.
 
-"Still here," said Gigichi, from her window. "I can see Mashi. I can see everyone."
+"Still here," said Gigichi, from her window. "I can see Niko. I can see everyone."
 
 "Still here," said PenguChi.
 
@@ -276,7 +276,7 @@ Chris: Has anyone else's changed? Or is it just mine. ]
 
 Thea read it and held her breath.
 
-The channel was busy. Tiger's goat had eaten Drew's boot. Rachael was asking Kei something about burns. Maigo was shouting about Mashi's third heartbeat, which had happened at dusk, and everyone was congratulating Mashi. Chris's line went up the channel in the middle of it all, and most of them, Thea could see, scrolled straight past it.
+The channel was busy. Tiger's goat had eaten Drew's boot. Rachael was asking Kei something about burns. Maigo was shouting about Niko's third heartbeat, which had happened at dusk, and everyone was congratulating Niko. Chris's line went up the channel in the middle of it all, and most of them, Thea could see, scrolled straight past it.
 
 But not everyone.
 
@@ -284,7 +284,7 @@ But not everyone.
 Suzuyun: Mine too.
 Suzuyun: Something let go. ]
 
-That was all. Three people. Out of thirty-five. The rest of the channel rolled on over them, goat and boots and burns and Mashi's three heartbeats, and their lines went up and up and off the top of the channel and were gone, the way everything went, forty lines at a time.
+That was all. Three people. Out of thirty-five. The rest of the channel rolled on over them, goat and boots and burns and Niko's three heartbeats, and their lines went up and up and off the top of the channel and were gone, the way everything went, forty lines at a time.
 
 Nobody asked what the blade was. Nobody needed to; they'd all read Cursiffe's carving in the spring, and Group 3's report a month ago. *He took his sword back.* They could do that sum.
 

@@ -217,7 +217,7 @@ He kept walking.
 
 "We came for eggs."
 
-She made a frustrated noise and stomped along beside him, and her tail lashed, and he didn't look at her, because if he looked at her she'd see his face, and he wasn't sure yet what it was doing.
+She made a frustrated noise and stomped along beside him, and her tail lashed, and he didn't look at her, because if he looked at her she'd read him, the way she always could, and he wasn't sure yet what his face was doing.
 
 He'd known them before he reached them. That was the thing. He'd known them from fifty paces down the road, the way you know a song from the first two notes. Xola's hair, lavender melting into pink, impossible in any world. The pink and violet streaks in Thea's ponytail. PenguChi's little yellow heart. Higu's white bow. Gigichi's silver hair and the set of her shoulders. He had watched all five of them on a glowing screen in a room in Malacca, a lifetime ago. He'd sat in Higu's chat with a moderator's sword next to his name. PenguChi had only ever known him as the guy in her chat who was suspiciously good at word games.
 

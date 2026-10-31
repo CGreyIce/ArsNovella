@@ -7,11 +7,11 @@ date: 2026-10-29
 
 The first frost came to the Redmarch in the middle of the fourth month, and for one morning the whole of it was white.
 
-Mashi stood on the east wall of Cinderhold at dawn and looked at it. The red ground was gone. The grey grass was gone. Aldous's long rows of markers stood up out of a field of perfect white like the masts of sunken ships, and the light came up over the mountains of Kharvos and turned the whole thing pink and gold, and for about a quarter of an hour the Redmarch was the most beautiful place Mashi had ever seen.
+Niko stood on the east wall of Cinderhold at dawn and looked at it. The red ground was gone. The grey grass was gone. Aldous's long rows of markers stood up out of a field of perfect white like the masts of sunken ships, and the light came up over the mountains of Kharvos and turned the whole thing pink and gold, and for about a quarter of an hour the Redmarch was the most beautiful place Niko had ever seen.
 
 Then the sun got higher, and the frost melted, and the red came back through it like a bruise rising through skin.
 
-"Huh," said Mashi, to nobody.
+"Huh," said Niko, to nobody.
 
 He went down to breakfast thinking about it. He'd been thinking about things like that for four months: things that were one colour and then another, things that sat on top of each other without mixing, things that only showed what was underneath when the light changed. He suspected he'd be thinking about them for a long time yet.
 
@@ -21,17 +21,17 @@ He was still at the bottom of both ladders. He'd made his peace with that.
 
 Mornings were aura. He did them with Rhea, in the yard, with Salty and Wendy: push-ups and sprints and forms with the practice sword, and then the long slow standing, eyes closed, breathing from the bottom of the chest the way Rhea said, waiting for the thing she called *the bruise* to come up on its own. Afternoons were magic. He did those with Aldous and Yan and Maigo, in the chapel with no priest: sitting, breathing, reaching out for the mana that moved in and around everything, the way water moves in a river, and trying to feel which way it was going.
 
-Everyone else did one or the other. Mashi did both, every day, twice as many hours, for half the results.
+Everyone else did one or the other. Niko did both, every day, twice as many hours, for half the results.
 
 "You'd be at fifteen by now," Salty told him, at least once a week, "if you just picked one."
 
-"I know," said Mashi.
+"I know," said Niko.
 
 "So pick one."
 
-"No," said Mashi pleasantly, and went on doing both.
+"No," said Niko pleasantly, and went on doing both.
 
-It wasn't stubbornness. Or it wasn't only stubbornness. It was the thing Hyvred had said, that night in the castle before they'd all split up. She'd gone round the room telling everyone what colour their light was, and when she got to Mashi she'd looked at him for a long time, frowning, and said: *yours is two colours. And they don't mix.*
+It wasn't stubbornness. Or it wasn't only stubbornness. It was the thing Hyvred had said, that night in the castle before they'd all split up. She'd gone round the room telling everyone what colour their light was, and when she got to Niko she'd looked at him for a long time, frowning, and said: *yours is two colours. And they don't mix.*
 
 He'd been thinking about that ever since. Not *you have two colours.* Plenty of things had two colours. *They don't mix.* As if they should. As if mixing were the natural thing, the thing they'd do if something weren't stopping them.
 
@@ -47,11 +47,11 @@ When Rhea used aura, she didn't do anything you could see. She was Gleaming-tier
 
 Aldous was the other way round.
 
-When Aldous used magic, the light didn't start inside him at all. It started *around* him. He'd breathe, and chant, and Mashi could almost feel the mana in the air drawing toward him, the way water draws toward a drain. It gathered at his hands, outside his skin. And then it went *in*, into whatever he was casting at: the lamp-wick that caught, the water that warmed, the wound that closed. Magic came from outside, and went in.
+When Aldous used magic, the light didn't start inside him at all. It started *around* him. He'd breathe, and chant, and Niko could almost feel the mana in the air drawing toward him, the way water draws toward a drain. It gathered at his hands, outside his skin. And then it went *in*, into whatever he was casting at: the lamp-wick that caught, the water that warmed, the wound that closed. Magic came from outside, and went in.
 
 Aura: in, then out. Magic: out, then in.
 
-"They're the same shape," said Mashi, out loud, in the middle of supper.
+"They're the same shape," said Niko, out loud, in the middle of supper.
 
 Everyone looked at him.
 
@@ -63,13 +63,13 @@ Nobody said anything.
 
 "So stop one of them," said Salty, eventually, "and run the other."
 
-"Or," said Mashi, "turn one of them round."
+"Or," said Niko, "turn one of them round."
 
-Maigo's pixel sunglasses slid down his nose. Yan put down his cup. Wendy, who believed nothing, looked at Mashi with an expression of deep, reluctant interest.
+Maigo's pixel sunglasses slid down his nose. Yan put down his cup. Wendy, who believed nothing, looked at Niko with an expression of deep, reluctant interest.
 
 "Can you do that?" she said.
 
-"No idea," said Mashi cheerfully. "But I'd like to find out."
+"No idea," said Niko cheerfully. "But I'd like to find out."
 
 ***
 
@@ -85,13 +85,13 @@ Twice, something did. The first time, the two of them touched, for less than a h
 
 "I was close."
 
-"You were *unconscious.*" The chaplain's face was very stern, and very frightened. "Whatever you're doing, the body isn't made for it. Not at Initiate. Maybe not at all." He crouched down, slowly. "Mashi. Listen to me. Nobody has ever done both. I've read every account. Nobody, ever. People have died trying."
+"You were *unconscious.*" The chaplain's face was very stern, and very frightened. "Whatever you're doing, the body isn't made for it. Not at Initiate. Maybe not at all." He crouched down, slowly. "Niko. Listen to me. Nobody has ever done both. I've read every account. Nobody, ever. People have died trying."
 
 "How?"
 
 Aldous hesitated. "Their hearts stopped."
 
-Mashi lay on the chapel floor and looked up at the roof beams and thought about that.
+Niko lay on the chapel floor and looked up at the roof beams and thought about that.
 
 "Okay," he said finally. "Then I'll go slower."
 
@@ -111,21 +111,21 @@ They compared windows that night like always, in the corner of the mess hall. Th
 
 "Thirteen," said Yan.
 
-Mashi was last, as always.
+Niko was last, as always.
 
 "Four," he said. "And four."
 
 "You went up," said Salty. "Both again."
 
-"I did." Mashi opened his window and looked at it. Two bars, side by side, creeping up together at exactly the same pace, as if they were holding hands. "They always go up together. Have you noticed? Both on the same day. Never one without the other."
+"I did." Niko opened his window and looked at it. Two bars, side by side, creeping up together at exactly the same pace, as if they were holding hands. "They always go up together. Have you noticed? Both on the same day. Never one without the other."
 
 "So?"
 
-"So I think they *want* to," said Mashi. "I keep saying it. I think they want to mix. I think something in me already knows how, and I'm just not strong enough yet to let it." He closed the window. "Aldous says go slower. So I'm going slower."
+"So I think they *want* to," said Niko. "I keep saying it. I think they want to mix. I think something in me already knows how, and I'm just not strong enough yet to let it." He closed the window. "Aldous says go slower. So I'm going slower."
 
 "How much slower?"
 
-Mashi thought about it.
+Niko thought about it.
 
 "Years, maybe," he said. "That's fine. I've got years." He smiled. "We all do, apparently."
 
@@ -133,7 +133,7 @@ Mashi thought about it.
 
 The parcel came in the fifth month, with a company of soldiers and a sealed letter from the Advisor, and Aldous went white when he opened it.
 
-It was long and awkward and wrapped in old oilcloth, and two of the soldiers had to carry it between them from the wagon to the chapel. Aldous had them set it down on the front bench. Then he read the letter, alone, in the corner, twice. Then he unwrapped the parcel, and Mashi, standing in the chapel doorway with the others, heard him draw a long, shaking breath.
+It was long and awkward and wrapped in old oilcloth, and two of the soldiers had to carry it between them from the wagon to the chapel. Aldous had them set it down on the front bench. Then he read the letter, alone, in the corner, twice. Then he unwrapped the parcel, and Niko, standing in the chapel doorway with the others, heard him draw a long, shaking breath.
 
 Horns.
 
@@ -143,7 +143,7 @@ Two of them, black and ridged and curling back on themselves like a ram's, each 
 
 "What are they?" said Yan.
 
-Aldous didn't answer at first. He was looking at the horns with an expression Mashi had never seen on his face before. It wasn't fear exactly, or grief exactly. It was the face of a man seeing something he'd buried come back up out of the ground.
+Aldous didn't answer at first. He was looking at the horns with an expression Niko had never seen on his face before. It wasn't fear exactly, or grief exactly. It was the face of a man seeing something he'd buried come back up out of the ground.
 
 "These belonged to the general," he said at last. "The demon general who led the last invasion. The one who took the healer." He touched one of the horns, very lightly, with two fingers. "I saw them the morning after the battle. On the Redmarch. The general was lying at the foot of the far ridge, and these were... gone. Cut off. And I never knew who'd taken them." He looked at the letter in his other hand. "The Advisor says they're to be hung above the east gate. Where the scouts will see them."
 
@@ -171,21 +171,21 @@ They hung the horns that afternoon, above the east gate of Cinderhold, on two ir
 
 The scouts came back three nights later.
 
-Mashi was on the wall. He'd been on the wall every night since the horns went up. So had everyone. So had half the garrison, though they all pretended they just happened to be there. And when the shapes came out of the dark past the third row of markers, tall and thin and bent forward, moving in their short quick bursts across the frost-pale red, the whole wall went silent.
+Niko was on the wall. He'd been on the wall every night since the horns went up. So had everyone. So had half the garrison, though they all pretended they just happened to be there. And when the shapes came out of the dark past the third row of markers, tall and thin and bent forward, moving in their short quick bursts across the frost-pale red, the whole wall went silent.
 
 There were fourteen this time. More than before.
 
-They came forward as they always did, to the edge of bowshot, and stopped. The one in the middle began to lift its arm. Mashi watched it start to point, at the north tower, the way it had every time before.
+They came forward as they always did, to the edge of bowshot, and stopped. The one in the middle began to lift its arm. Niko watched it start to point, at the north tower, the way it had every time before.
 
 Then its arm stopped.
 
 It had seen the gate.
 
-Mashi would never forget what happened next. He'd watched a lot of people react to a lot of things, in games and out of them. He'd never seen anything like this. The pointing figure went absolutely rigid. Then all fourteen of them did, at once, as if a string had been pulled through every one of them. For a long moment nothing moved on the Redmarch at all.
+Niko would never forget what happened next. He'd watched a lot of people react to a lot of things, in games and out of them. He'd never seen anything like this. The pointing figure went absolutely rigid. Then all fourteen of them did, at once, as if a string had been pulled through every one of them. For a long moment nothing moved on the Redmarch at all.
 
 Then the line broke.
 
-Not in an orderly retreat. Not in their usual quick bursts. They *ran*: scattering, all of them, in every direction, back across the frost toward the mountains, as fast as Mashi had ever seen anything move. Two of them collided in the dark and went down in a tangle and scrambled up again and kept running. Within thirty heartbeats the red ground was empty, and there was nothing out there but the markers standing in their rows and the moon on the frost.
+Not in an orderly retreat. Not in their usual quick bursts. They *ran*: scattering, all of them, in every direction, back across the frost toward the mountains, as fast as Niko had ever seen anything move. Two of them collided in the dark and went down in a tangle and scrambled up again and kept running. Within thirty heartbeats the red ground was empty, and there was nothing out there but the markers standing in their rows and the moon on the frost.
 
 Nobody on the wall said anything.
 
@@ -193,13 +193,13 @@ Nobody on the wall said anything.
 
 Yan had his eyes closed. Suzu was wound tight around his throat, but not as tight as before. "They were afraid," he said. "All of them. I could feel it. Even the cold one." He opened his eyes. "It was the most afraid of all."
 
-On the battlements beside Mashi, Wendy let out a long breath and lowered her bow. She hadn't drawn it. She'd just been holding it, the way she always did now.
+On the battlements beside Niko, Wendy let out a long breath and lowered her bow. She hadn't drawn it. She'd just been holding it, the way she always did now.
 
 Salty put his arm around her. She didn't shrug it off.
 
 ***
 
-Later, much later, when the wall had emptied and the garrison had gone back to bed with a strange light-headed cheerfulness, Mashi found them still up there: Salty and Wendy, sitting in an embrasure out of the wind, wrapped in Salty's coat, both of them, looking out at the empty dark.
+Later, much later, when the wall had emptied and the garrison had gone back to bed with a strange light-headed cheerfulness, Niko found them still up there: Salty and Wendy, sitting in an embrasure out of the wind, wrapped in Salty's coat, both of them, looking out at the empty dark.
 
 He didn't go over. He just stood at the top of the stair for a moment.
 
@@ -223,7 +223,7 @@ Salty didn't deny it. He just pulled the coat tighter around both of them. Wendy
 
 "Works the other way too. You know that, right?" He was looking out at the dark, not at her. "Wherever this ends up. Home, or not. If you go, I go. If you stay, I stay."
 
-Wendy didn't answer for a long time. Mashi was about to slip back down the stairs when she spoke.
+Wendy didn't answer for a long time. Niko was about to slip back down the stairs when she spoke.
 
 "I didn't believe in anything when we got here," she said. "Not the Advisor, not the way home, not any of it. I'm only here because you are." She paused. "I believe in the horns, though. And I believe in that."
 
@@ -231,4 +231,4 @@ Wendy didn't answer for a long time. Mashi was about to slip back down the stair
 
 "In you staying," said Wendy. "That one I believe."
 
-Mashi went back down the stairs very quietly, and went to bed, and lay in the dark thinking about two things that were different colours and sat on top of each other for a long time, and then, one night, without anyone deciding it, started to mix.
+Niko went back down the stairs very quietly, and went to bed, and lay in the dark thinking about two things that were different colours and sat on top of each other for a long time, and then, one night, without anyone deciding it, started to mix.

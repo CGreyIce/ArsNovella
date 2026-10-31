@@ -167,7 +167,7 @@ Ars looked at the thirty shut doors for a long time.
 
 "Gabe's is one of them."
 
-He didn't say anything to that. He didn't have to. She watched his face, which she could hold on to now, and saw it do something that she thought was probably what his face had done on Earth, years ago, on a call, when somebody had said a name that mattered to him. She'd never seen his face on Earth. She'd only ever heard his voice. She thought she'd have known that look anyway.
+He didn't say anything to that. He didn't have to. She watched him. Not his face, which still slid, the way it did for everyone; the rest of him. And she saw something go through him that she thought was probably what his voice had done on Earth, years ago, on a call, when somebody had said a name that mattered to him. She'd never seen his face on Earth either. She'd only ever heard his voice. She thought she'd have known it anyway.
 
 ***
 
@@ -201,7 +201,7 @@ On his own.
 
 He looked at her.
 
-"Give up," said Thea. "We didn't. Any of us." She turned on the boards to face him. "Milli's been saying it since the hall. *It's a plan. It's a real plan.* The night of the sum, when we found out it was only a month at home, he said *ten years here is less than one there, the way home isn't a rumour anymore*. Thirty-four people have been working on it for a year and a half. Chris logs it. Oswin's in a vault in the capital reading four hundred years of summonings. Cursiffe's writing it all down. Hyvred can see the turned from the top of a mountain. Mashi's trying to make two kinds of power into one." She swallowed. "We didn't give up. We just didn't know you were here, so we didn't know to tell you."
+"Give up," said Thea. "We didn't. Any of us." She turned on the boards to face him. "Milli's been saying it since the hall. *It's a plan. It's a real plan.* The night of the sum, when we found out it was only a month at home, he said *ten years here is less than one there, the way home isn't a rumour anymore*. Thirty-four people have been working on it for a year and a half. Chris logs it. Oswin's in a vault in the capital reading four hundred years of summonings. Cursiffe's writing it all down. Hyvred can see the turned from the top of a mountain. Niko's trying to make two kinds of power into one." She swallowed. "We didn't give up. We just didn't know you were here, so we didn't know to tell you."
 
 He didn't say anything.
 

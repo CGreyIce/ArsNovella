@@ -283,7 +283,7 @@ Higu looked at her for a long moment. Then she put her own hand up, over Gigichi
 
 Nobody posted anything in the channel all day.
 
-Gigichi checked. She couldn't help it. She opened her window every hour and scrolled back through the two hundred lines, and there it all was, the whole kingdom going on: Mashi with four heartbeats and a nosebleed, Maigo in capitals, Rachael's patients, Chris's evening numbers, Kei, Tiger, Dennis, Hana, a long argument between Newish and Malcolm about whether IF/THEN counted as a spell. Nobody from Wrenhaven. Not one line. Not since Higu's three lines and Thea's one, last night, about the fire.
+Gigichi checked. She couldn't help it. She opened her window every hour and scrolled back through the two hundred lines, and there it all was, the whole kingdom going on: Niko with four heartbeats and a nosebleed, Maigo in capitals, Rachael's patients, Chris's evening numbers, Kei, Tiger, Dennis, Hana, a long argument between Newish and Malcolm about whether IF/THEN counted as a spell. Nobody from Wrenhaven. Not one line. Not since Higu's three lines and Thea's one, last night, about the fire.
 
 Gigichi thought about a man at the end of a jetty, reading it. Seeing them say nothing. Again.
 

@@ -31,11 +31,11 @@ STATUS.
 
 "It shows you who you are, what you can do, and how far you have come," the Advisor said. "Every one of you begins at the bottom, at Initiate. Above that there are ten tiers. You will choose a path. A mage climbs by how brightly they burn: Spark, then Candle, then Lantern, and on upward. A swordsman climbs by what their aura can do: Drawn, Tempered, Honed. Magic is easier to learn. Aura is harder, and it is worth it."
 
-"Why not both?" said a quiet voice. Mashi.
+"Why not both?" said a quiet voice. Niko.
 
 The Advisor looked at him for a moment. "Because no one has ever managed both."
 
-Mashi nodded slowly, as if that were an interesting answer rather than a final one.
+Niko nodded slowly, as if that were an interesting answer rather than a final one.
 
 "You can see your progress," the Advisor said. "We cannot. My people train for years without knowing how close they are to the next tier. You will know. That is why you will grow faster than any of us, and that is why we called you."
 
@@ -227,7 +227,7 @@ Xav was quiet for a long moment. Then he said, "Okay. That's the first thing we 
 
 ***
 
-Yan walked out with his friends around him, and Maigo talking, and Salty arguing with Wendy about whether a greatsword would be too heavy, and Mashi already asking a passing soldier what a Spark felt like. He laughed when they laughed. He answered when they asked him things.
+Yan walked out with his friends around him, and Maigo talking, and Salty arguing with Wendy about whether a greatsword would be too heavy, and Niko already asking a passing soldier what a Spark felt like. He laughed when they laughed. He answered when they asked him things.
 
 He didn't tell any of them that the Advisor hadn't answered his question. They'd all heard it. He didn't need to.
 

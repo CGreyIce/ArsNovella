@@ -11,7 +11,7 @@ That was what the job was, mostly. People thought being mayor meant chains and s
 
 He'd learned it before he was mayor. He'd learned it at a cabin door by a lake, eight years ago, with a sword in his hand and a little fox girl asleep upstairs, while a war happened two hundred miles away. He'd stood in that door every night for a season. Nothing had come. He'd stood there anyway.
 
-And then one morning in the last week of summer, the girl's father had come home alone, across the fields, with nothing on his shoulder and his face like a house with the fire gone out. And Rowan had looked at him, and moved out of the doorway, and never really stopped standing in front of things since.
+And then one morning in the last week of summer, the girl's father had come home alone, across the fields, with nothing on his shoulder and the whole of him like a house with the fire gone out. And Rowan had looked at him, and moved out of the doorway, and never really stopped standing in front of things since.
 
 *Nobody follows us down.* He'd said it a thousand times. To curious traders. To pilgrims who'd heard a song. To a bard from the south who'd come asking, with a lute, and gone home without his lute, though that hadn't been Rowan's doing exactly. To the whole of Wrenhaven, without ever saying it out loud, until it was just a thing the town knew, the way it knew which end of the lake froze first. The fisherman was a fisherman. You said good morning to him at the market, and you let him buy his eggs, and you didn't ask. And you didn't go down the lake road.
 

@@ -23,7 +23,7 @@ He felt the cold one cross on a clear night in early summer, and it was nothing 
 
 He was on the wall. He was often on the wall at night, now; he'd got into the habit in the winter, when the scouts came, and never got out of it. Suzu was wound loosely round his shoulders, scarf-sized, her head tucked under his chin. Below him the Redmarch stretched away under the stars, flat and dark and quiet, to where the line of the border ran somewhere out of sight to the east.
 
-He felt the living as candles, now. That was what he'd told Salty, in the spring, and it was still the closest he could get. Every living thing a small warm light. The soldiers asleep in the barracks behind him: dozens of little flames, steady, low. Salty, among them, like a forge. Mashi, two candles side by side that kept almost touching. Maigo, since the spring, something green and growing that didn't look like a candle at all. The night watch on the gate. The horses. An owl, somewhere in the chapel roof.
+He felt the living as candles, now. That was what he'd told Salty, in the spring, and it was still the closest he could get. Every living thing a small warm light. The soldiers asleep in the barracks behind him: dozens of little flames, steady, low. Salty, among them, like a forge. Niko, two candles side by side that kept almost touching. Maigo, since the spring, something green and growing that didn't look like a candle at all. The night watch on the gate. The horses. An owl, somewhere in the chapel roof.
 
 And out on the Redmarch, nothing. The red was dark to him, the way it always was. Dead ground. Hurt ground. A long cold emptiness, with only the faint old grief of the grave burning in it, far out, like a coal.
 
@@ -131,7 +131,7 @@ Salty won the one after that, slowly, grinding, his face going red and the veins
 
 Then he won the next one. Thirty-one all.
 
-The mess hall had stopped being a mess hall. It was a riot. Soldiers standing on benches. Soldiers standing on *each other*. Wendy at the front, very cool, with her arms folded and her mismatched eyes narrowed, not cheering, the way she never cheered, but not looking away either. Mashi beside her, chewing his thumbnail. Maigo on his bench, chalk in hand, not even pretending to be neutral, shouting *SALTY SALTY SALTY*. Even Aldous had come in from the chapel to see what the noise was and stayed, standing at the back, with the faintest smile.
+The mess hall had stopped being a mess hall. It was a riot. Soldiers standing on benches. Soldiers standing on *each other*. Wendy at the front, very cool, with her arms folded and her mismatched eyes narrowed, not cheering, the way she never cheered, but not looking away either. Niko beside her, chewing his thumbnail. Maigo on his bench, chalk in hand, not even pretending to be neutral, shouting *SALTY SALTY SALTY*. Even Aldous had come in from the chapel to see what the noise was and stayed, standing at the back, with the faintest smile.
 
 And Yan stood by the door and felt it.
 
@@ -149,9 +149,9 @@ It was rising now.
 
 Salty had told Yan once, in the winter, what aura felt like to him. *Like trying to lift something that's bolted to the floor.* He could feel it there. He could get his hands round it. And it just wouldn't come up.
 
-Mashi had said, in the spring, *when he finally does write, it'll come out big and stupid and all at once.*
+Niko had said, in the spring, *when he finally does write, it'll come out big and stupid and all at once.*
 
-Mashi had been right.
+Niko had been right.
 
 It came up in Salty the way a bonfire comes up when someone throws oil on it. All at once, from nothing, with a sort of *whump* that Yan felt in his own chest from across the room. One instant there was a forge, banked and steady. The next there was a furnace. Heat and light, roaring up from somewhere at the very bottom of Salty and pouring out through his shoulders and down his arm and into his hand.
 
@@ -189,7 +189,7 @@ Wendy read it. Her face did something complicated.
 
 "Yeah." He was starting to grin. It spread across his blunt square face very slowly, the way things did with Salty, until it was enormous. "Big and stupid," he said. "All at once."
 
-Mashi, beside Wendy, put his face in his hands and started laughing so hard he had to sit down on half of the table.
+Niko, beside Wendy, put his face in his hands and started laughing so hard he had to sit down on half of the table.
 
 "I *told* you," he said, muffled. "I *told* you. In the *spring*."
 
@@ -201,7 +201,7 @@ Aldous, at the back of the hall, was laughing too, very quietly, with his hand o
 
 ***
 
-Yan felt it, standing by the door in the middle of all that noise: Salty's candle, a furnace now, roaring and settling and roaring again, filling the whole hall with heat. He felt Wendy's beside it, cool and steady and bright with something that might have been pride. He felt Mashi's two, side by side, closer than they'd been in the spring. Thirteen and thirteen, Mashi had said that morning, very pleased. Still not touching. But closer.
+Yan felt it, standing by the door in the middle of all that noise: Salty's candle, a furnace now, roaring and settling and roaring again, filling the whole hall with heat. He felt Wendy's beside it, cool and steady and bright with something that might have been pride. He felt Niko's two, side by side, closer than they'd been in the spring. Thirteen and thirteen, Niko had said that morning, very pleased. Still not touching. But closer.
 
 And he felt the thread.
 

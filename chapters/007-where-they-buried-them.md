@@ -117,17 +117,17 @@ Every night after supper, before Rhea and Salty's arm-wrestling and Maigo's bett
 
 "Four," said Yan.
 
-Mashi was last. He always was. He opened his window with the expression of a man reading a bill he already knew was too big.
+Niko was last. He always was. He opened his window with the expression of a man reading a bill he already knew was too big.
 
 "One," he said. "And one."
 
 "Still?" said Salty.
 
-"Still." Mashi shrugged, entirely unbothered. "One percent aura. One percent magic. Everyone keeps telling me I'd be on six by now if I picked one. But I don't think the point is to pick one." He closed the window. "Hyvred said my light was two colours that don't mix. I want to know what happens if they do."
+"Still." Niko shrugged, entirely unbothered. "One percent aura. One percent magic. Everyone keeps telling me I'd be on six by now if I picked one. But I don't think the point is to pick one." He closed the window. "Hyvred said my light was two colours that don't mix. I want to know what happens if they do."
 
 "Nothing," said Salty. "The Advisor said nobody's ever done both."
 
-"Yeah," said Mashi. "He did say that."
+"Yeah," said Niko. "He did say that."
 
 There was a letter, that night, too. The first. It had come with the courier from Solmere, by way of a dozen other forts and the long east road, and it was from Kei, and Yan read it aloud because Maigo begged him to.
 
@@ -191,7 +191,7 @@ Yan didn't say anything.
 
 ***
 
-He took them out at dawn: Yan and Salty and Wendy and Maigo and Mashi, and Rhea, who refused to be left behind. They walked for an hour across the red, past the markers Aldous had put up, rows and rows of them, plain wooden posts with names burned into them, and then no names, only posts. Maigo went quiet at the edge of the first row and stayed quiet the whole way.
+He took them out at dawn: Yan and Salty and Wendy and Maigo and Niko, and Rhea, who refused to be left behind. They walked for an hour across the red, past the markers Aldous had put up, rows and rows of them, plain wooden posts with names burned into them, and then no names, only posts. Maigo went quiet at the edge of the first row and stayed quiet the whole way.
 
 Near the far trees, on a low rise above where the river had once run, Aldous stopped.
 
@@ -215,7 +215,7 @@ Nobody spoke.
 
 "They took a sword off a *grave,*" said Rhea, sounding genuinely shocked for the first time since Yan had met her. "To do the summoning? Off a grave?"
 
-"Whose grave is it?" asked Mashi.
+"Whose grave is it?" asked Niko.
 
 "A healer's," said Aldous. "That's all I was ever told. A healer who died in the battle." He hesitated. "People who were here say she meant something to the man who planted the sword. More than something."
 

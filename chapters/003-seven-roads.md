@@ -25,23 +25,23 @@ The Advisor looked at her with something like regret.
 
 Down the corridor, in the long room where the thirty-five had been given cots for the night, nobody slept much.
 
-Mashi gave up first. He'd been lying on his back reading his status window for an hour, and it had stopped telling him anything new, so he got up to find out what everyone else's said.
+Niko gave up first. He'd been lying on his back reading his status window for an hour, and it had stopped telling him anything new, so he got up to find out what everyone else's said.
 
 It turned out everyone else had the same idea.
 
 By midnight the cots had been dragged into rough circles and the room looked like the last hour of a LAN party: people sitting cross-legged on each other's blankets, windows open, comparing. The layout was the same for all of them. Name, tier, path, skills, inventory. Every *Path* read *none*. Every *Skills* tab was empty. Most of the progress bars sat at zero, or one, or two.
 
-"Forty-eight," said Thea, when Mashi asked, and the room went briefly quiet.
+"Forty-eight," said Thea, when Niko asked, and the room went briefly quiet.
 
 "*How?*" said Malcolm, from two circles over, sounding personally betrayed.
 
 "I don't know." Thea hesitated, then seemed to decide something. "I see it differently. Under the window there's structure. Like code. I can't read most of it yet, but I can see it."
 
-"Show me," said Chris at once, and came over with his blanket around his shoulders like a cape. Cursiffe drifted after him, the ink on the back of his hand already smudged. Within ten minutes the three of them were bent over Thea's window together, Chris asking questions in a language that was mostly programming, Cursiffe asking them in a language that was mostly grammar, and Thea answering both. Mashi listened until he understood about a third of it, which was more than he'd expected.
+"Show me," said Chris at once, and came over with his blanket around his shoulders like a cape. Cursiffe drifted after him, the ink on the back of his hand already smudged. Within ten minutes the three of them were bent over Thea's window together, Chris asking questions in a language that was mostly programming, Cursiffe asking them in a language that was mostly grammar, and Thea answering both. Niko listened until he understood about a third of it, which was more than he'd expected.
 
-Over by the windows, Hyvred was going from cot to cot telling people what their light looked like. Everyone had some, she said, very faint, just under the skin. Rachael's was the brightest of anyone who'd arrived as themselves, warm and gold where the Advisor had touched her wrist. Salty's was "like a stove." Mashi's, she told him, was two colours that didn't mix, and she didn't know what that meant.
+Over by the windows, Hyvred was going from cot to cot telling people what their light looked like. Everyone had some, she said, very faint, just under the skin. Rachael's was the brightest of anyone who'd arrived as themselves, warm and gold where the Advisor had touched her wrist. Salty's was "like a stove." Niko's, she told him, was two colours that didn't mix, and she didn't know what that meant.
 
-"Neither do I," said Mashi, and kept it.
+"Neither do I," said Niko, and kept it.
 
 Kei explained Hisui to a growing audience, with the weary patience of a man who'd already explained it four times. Only he could hear the snake. The snake had opinions. The snake, at the moment, thought Suzu was very rude for not saying hello.
 
@@ -51,11 +51,11 @@ Kei listened to something nobody else could hear. "He says that's no excuse."
 
 Suzu hissed. Hisui, apparently, hissed back. Maigo laughed so hard he fell off a cot.
 
-A little later, Mashi looked over and saw Yan sitting on the edge of his cot with a heel of bread from supper in one gloved hand and a strip of cold mutton in the other, holding them up to the white snake round his neck one after the other. She tasted each one with her tongue and turned her head away.
+A little later, Niko looked over and saw Yan sitting on the edge of his cot with a heel of bread from supper in one gloved hand and a strip of cold mutton in the other, holding them up to the white snake round his neck one after the other. She tasted each one with her tongue and turned her head away.
 
-"She's hungry," said Yan quietly, when he saw Mashi looking. "I can feel it. She won't eat."
+"She's hungry," said Yan quietly, when he saw Niko looking. "I can feel it. She won't eat."
 
-"Mice?" said Mashi. "Snakes eat mice."
+"Mice?" said Niko. "Snakes eat mice."
 
 "I asked one of the guards. He looked at me like I was mad." Yan put the bread down on the blanket. "It isn't that. It's not that kind of hungry."
 
@@ -75,7 +75,7 @@ The room went quiet again, differently.
 
 "And nobody reads it but us," said Hanarisu, from her corner. It was the first thing she'd said all night.
 
-They spent the last hour writing down who knew whom, so that every group would have someone to write to. Mashi fell asleep at last with Thea's forty-eight percent still turning over in his head, and the odd certainty that, for the first time since they'd woken on that floor, they had done something the kingdom hadn't planned for.
+They spent the last hour writing down who knew whom, so that every group would have someone to write to. Niko fell asleep at last with Thea's forty-eight percent still turning over in his head, and the odd certainty that, for the first time since they'd woken on that floor, they had done something the kingdom hadn't planned for.
 
 ***
 
@@ -229,7 +229,7 @@ Salty looked at her hand. Then at her face. Then he put his elbow on the boards.
 
 "Oh no," said Wendy, to nobody. "There's two of them."
 
-Maigo started a betting pool. Mashi, who had been reading his status window with his chin in his hand, quietly put money on Rhea. Yan watched them all with something like peace.
+Maigo started a betting pool. Niko, who had been reading his status window with his chin in his hand, quietly put money on Rhea. Yan watched them all with something like peace.
 
 But when the wagon pulled away, he saw Aldous turn on the bench and look back. Not at the castle. At the doors of the great hall, where the black sword still stood in its circle of dead silver. The chaplain looked at those doors for a long time, until the gate cut them off.
 

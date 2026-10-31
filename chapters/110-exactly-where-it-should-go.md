@@ -313,7 +313,7 @@ Deston had his window open. Emrys could see the faint light of it on his face. H
 
 Deston wrote it. Then he sat back, and waited, and after a minute he started to laugh. Quietly. Wetly.
 
-"Yan's put three exclamation marks," he said. "Just that. Three. Mashi says *nice one. again*." He wiped his eyes. "Hako says he told everyone it'd work out. Gigichi says it's nearly midnight and we should all go to sleep. Maigo has written *WHAT* in capitals eleven times and then *OH* and then *I KNOW WHAT IT MEANS* and then a lot of crying." He laughed again. "Thea's put *Good.* With a full stop."
+"Yan's put three exclamation marks," he said. "Just that. Three. Niko says *nice one. again*." He wiped his eyes. "Hako says he told everyone it'd work out. Gigichi says it's nearly midnight and we should all go to sleep. Maigo has written *WHAT* in capitals eleven times and then *OH* and then *I KNOW WHAT IT MEANS* and then a lot of crying." He laughed again. "Thea's put *Good.* With a full stop."
 
 Beside Emrys, the fisherman had gone very still.
 

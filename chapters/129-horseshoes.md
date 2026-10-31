@@ -15,11 +15,11 @@ It had worked for about four days.
 
 "It's horseshoes," he said now, for perhaps the hundredth time since the winter, to nobody, on the road.
 
-"Nobody asked," said Mashi.
+"Nobody asked," said Niko.
 
 "In case anyone was wondering."
 
-"Nobody," said Mashi, with great patience, "was wondering."
+"Nobody," said Niko, with great patience, "was wondering."
 
 It was in the back of the cart, wrapped in a blanket. It had been in the back of the cart for twenty days, all the way from Cinderhold, along the east road and over the downs and across the plain. A long, thin, awkward shape, taller than Salty, which was not difficult, wrapped in Wendy's second-best blanket and tied with cord at both ends and in the middle, lying along the side of the cart like a body. People in villages had looked at it. One man in a market at Ashby had asked if it was a body. Salty had said *horseshoes*.
 
@@ -129,7 +129,7 @@ Salty looked at him.
 
 They went down the hill.
 
-Nobody decided to. Aldous just picked up the reins and clicked his tongue at the horse, and the cart rolled off the top of the rise and down the long slope of the east road, and they walked beside it. Rhea at the back. Wendy on the near side with her hand on the edge of the cart. Mashi on the far side, with his hands in his pockets, chill, the way he always was, except that Salty could see his jaw. Yan in front with Suzu.
+Nobody decided to. Aldous just picked up the reins and clicked his tongue at the horse, and the cart rolled off the top of the rise and down the long slope of the east road, and they walked beside it. Rhea at the back. Wendy on the near side with her hand on the edge of the cart. Niko on the far side, with his hands in his pockets, chill, the way he always was, except that Salty could see his jaw. Yan in front with Suzu.
 
 Maigo got down off the baggage halfway down. He didn't say why. He just climbed down and walked, in his one shoe and his one bare root-toed foot, on the road, beside Salty. Very close.
 
@@ -151,7 +151,7 @@ Nobody said anything.
 
 The man looked at them.
 
-The way he had on the red. One after another, slowly, as if he were reading something written on their faces and wanted to get every word. Rhea, at the back, red from the hill. Aldous, on the box, with his book closed on his knee and his old grave face gone very still. Wendy. Mashi. Yan, with Suzu.
+The way he had on the red. One after another, slowly, as if he were reading something written on their faces and wanted to get every word. Rhea, at the back, red from the hill. Aldous, on the box, with his book closed on his knee and his old grave face gone very still. Wendy. Niko. Yan, with Suzu.
 
 Maigo last.
 
@@ -181,21 +181,21 @@ On the wall over the gate somebody made a noise like a kettle going off.
 
 "Mashi," said the man.
 
-Mashi hadn't moved. He was still standing by the far side of the cart with his hands in his pockets, very chill, very well put together, with his jaw tight. He looked at the man over the top of Maigo's leaves.
+Niko hadn't moved. He was still standing by the far side of the cart with his hands in his pockets, very chill, very well put together, with his jaw tight. He looked at the man over the top of Maigo's leaves.
 
-"Took you long enough," said Mashi.
+"Took you long enough," said Niko.
 
 "I know."
 
-"I knew on the red." Mashi didn't take his hands out of his pockets. His voice was perfectly level. "I watched you hold the angle on the rise. Before you came down. You stood exactly where I'd have stood. Same timing. Same patience." He paused. "There was a guy on a community server, years ago. When I was seventeen. Used to sit in mid with an AWP and wait for me. Every single round. Every map. He'd wait so long you'd think he'd gone to make tea, and then you'd peek, and you'd be dead." He looked at the man. "Same guy."
+"I knew on the red." Niko didn't take his hands out of his pockets. His voice was perfectly level. "I watched you hold the angle on the rise. Before you came down. You stood exactly where I'd have stood. Same timing. Same patience." He paused. "There was a guy on a community server, years ago. When I was seventeen. Used to sit in mid with an AWP and wait for me. Every single round. Every map. He'd wait so long you'd think he'd gone to make tea, and then you'd peek, and you'd be dead." He looked at the man. "Same guy."
 
 "Same guy," said the man.
 
-"You were *so* annoying," said Mashi.
+"You were *so* annoying," said Niko.
 
 "I know."
 
-Mashi took one hand out of his pocket. Then he looked at it, as if he didn't know what it was for. Then he crossed the road in three steps and put his arms round the man's neck from the side, Maigo and all, and held on, with his face turned away so nobody could see it, and didn't say anything else at all.
+Niko took one hand out of his pocket. Then he looked at it, as if he didn't know what it was for. Then he crossed the road in three steps and put his arms round the man's neck from the side, Maigo and all, and held on, with his face turned away so nobody could see it, and didn't say anything else at all.
 
 ***
 
@@ -217,7 +217,7 @@ Wendy looked at him for a long moment. Then she looked at Salty. Then back.
 
 "It's as properly as I could manage."
 
-"Fine," said Wendy, and walked across the road, and put her arm round Mashi from behind, so that there were four of them now in a heap in the road outside the east gate of Valcrest, and the leaves on Maigo's antlers brushed her cheek.
+"Fine," said Wendy, and walked across the road, and put her arm round Niko from behind, so that there were four of them now in a heap in the road outside the east gate of Valcrest, and the leaves on Maigo's antlers brushed her cheek.
 
 ***
 
@@ -251,7 +251,7 @@ Just that. One word. The answer to a question asked a year ago on the red with b
 
 Salty stood there.
 
-He'd thought he'd know what to do. He'd thought about it on the road for twenty days. He'd thought he'd go in, like Maigo. Or say something, like Mashi. Or be fine, like Wendy pretended to be. He found he couldn't do any of those. He found he was just standing in the road with his hand on his crooked ribs and his face doing something he couldn't stop, and there was only one thing in his head, and it was the thing he'd written in the letter, because it was the only thing he'd ever had to say.
+He'd thought he'd know what to do. He'd thought about it on the road for twenty days. He'd thought he'd go in, like Maigo. Or say something, like Niko. Or be fine, like Wendy pretended to be. He found he couldn't do any of those. He found he was just standing in the road with his hand on his crooked ribs and his face doing something he couldn't stop, and there was only one thing in his head, and it was the thing he'd written in the letter, because it was the only thing he'd ever had to say.
 
 "Eleven," said Salty.
 
@@ -289,7 +289,7 @@ After a while the man came round the cart. He stood beside Salty. He didn't hug 
 
 Yan was last.
 
-He'd stood at the front of the cart the whole time, where he'd been when it stopped. He hadn't moved. He'd stood in the road with Suzu round his neck and his long hair down his back and his hands at his sides, and watched the others go one at a time, Maigo and Mashi and Wendy and Salty, the way a captain watches his team load into a round. Calm. Half-lidded. Steady. The one who'd kept everyone together for two years on the edge of the red.
+He'd stood at the front of the cart the whole time, where he'd been when it stopped. He hadn't moved. He'd stood in the road with Suzu round his neck and his long hair down his back and his hands at his sides, and watched the others go one at a time, Maigo and Niko and Wendy and Salty, the way a captain watches his team load into a round. Calm. Half-lidded. Steady. The one who'd kept everyone together for two years on the edge of the red.
 
 He'd been the first to know. Salty knew that now. Yan had known before anyone. He'd seen it on the red, with whatever it was he saw with: the man's soul, older than his body, not from this world. And he'd said nothing. He'd pondered it alone. He'd counted thirty-six from a grave, in the winter, at the moment he reached his first tier, and written it in a letter. *Thirty-six. I counted*.
 
@@ -421,7 +421,7 @@ A scythe.
 
 Not a farmer's. A long blade, nearly the length of Salty's arm and more, curved like a new moon, dark and grey and grained, with an edge he'd spent three weeks on and a spine he'd spent three more. The whole length of it, both faces, covered in hammer marks. Small, even, overlapping, like the scales on a fish. And on the shaft, a long pole of pale wood, straight and smooth and very slightly green under the varnish, with two grips on it at the places Yan's hands would go.
 
-Maigo had grown the shaft. That was the other secret. A single straight branch, out of a cutting from the fort's one ash tree, coaxed up through a whole spring in a pot in the barracks window, a hand's width a week, while Maigo talked to it every night. *It wanted to be straight*, Maigo had said. *I just told it to keep going*. Mashi had shaped the grips. Wendy had wrapped them, in strips of lavender cloth from the fort market that matched her headphones, because she'd said if Yan was going to hold something every day it ought to be something soft.
+Maigo had grown the shaft. That was the other secret. A single straight branch, out of a cutting from the fort's one ash tree, coaxed up through a whole spring in a pot in the barracks window, a hand's width a week, while Maigo talked to it every night. *It wanted to be straight*, Maigo had said. *I just told it to keep going*. Niko had shaped the grips. Wendy had wrapped them, in strips of lavender cloth from the fort market that matched her headphones, because she'd said if Yan was going to hold something every day it ought to be something soft.
 
 Five of them had made it. Salty had only done the iron.
 
@@ -453,7 +453,7 @@ Salty looked at Yan. Yan looked back, very calmly, with absolutely nothing at al
 
 "That was my best," said Yan.
 
-"It was *terrible*," said Mashi.
+"It was *terrible*," said Niko.
 
 "I know," said Yan. "I'm not good at faces."
 
@@ -545,7 +545,7 @@ At the door of the forge, leaning on the frame with a fishing rod over his shoul
 
 They went back up the Street of Armourers in the dark, all of them, toward the Broken Lance and its long table and whatever Lucan had decided to put on it.
 
-Salty walked at the back. He had his hands in his pockets, and the king's father's hammer back in his belt, and his ribs aching the way they did when he'd laughed or cried or lifted something, and he'd done all three. Ahead of him Yan walked with the scythe over his shoulder and Suzu wound round its shaft, and Kei walked beside Yan, very close, with his own snake round his neck saying something so fast and so loud that Kei had given up trying not to laugh. Maigo was telling Alea about the tree. Mashi was walking beside the man with the rod and not saying anything, very chill, with his shoulder touching his. Wendy had her arm through Salty's.
+Salty walked at the back. He had his hands in his pockets, and the king's father's hammer back in his belt, and his ribs aching the way they did when he'd laughed or cried or lifted something, and he'd done all three. Ahead of him Yan walked with the scythe over his shoulder and Suzu wound round its shaft, and Kei walked beside Yan, very close, with his own snake round his neck saying something so fast and so loud that Kei had given up trying not to laugh. Maigo was telling Alea about the tree. Niko was walking beside the man with the rod and not saying anything, very chill, with his shoulder touching his. Wendy had her arm through Salty's.
 
 "Eleven pies," said Wendy.
 

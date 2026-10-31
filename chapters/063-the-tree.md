@@ -51,7 +51,7 @@ When Aldous stood up from the last of the soldiers, the man turned and started w
 
 East. Toward the trees.
 
-Nobody told them to follow him. Nobody said anything at all. Aldous sent four of the soldiers back toward Cinderhold with Teague and Dace on two cloaks slung between spears, and the rest of them just went. After the man. Across the red. Rhea limping, with her sword over her shoulder and the blood drying on her face. Salty on his feet somehow, with one arm over Wendy's shoulders and his jaw clamped shut. Aldous with his book. Mashi with his hands in his pockets. Yan, with Suzu round his neck. Maigo.
+Nobody told them to follow him. Nobody said anything at all. Aldous sent four of the soldiers back toward Cinderhold with Teague and Dace on two cloaks slung between spears, and the rest of them just went. After the man. Across the red. Rhea limping, with her sword over her shoulder and the blood drying on her face. Salty on his feet somehow, with one arm over Wendy's shoulders and his jaw clamped shut. Aldous with his book. Niko with his hands in his pockets. Yan, with Suzu round his neck. Maigo.
 
 It was the way you followed someone in a game, Maigo thought. When the round started and somebody just went, and you didn't ask where; you just went with them, because they'd started walking, and they'd started walking like they knew.
 
@@ -139,7 +139,7 @@ Rhea sat on the end of the fallen tree with her sword across her knees and her f
 
 Aldous sat with his book open on his knees and didn't read it.
 
-Mashi didn't look away from the man once. Not once, the whole afternoon. He sat cross-legged on the red at the very end of the row, with his elbows on his knees and his chin on his fists, and watched him. Not his face. His hands, and his shoulders, and the way he sat. The way Mashi had watched games on Earth, other people's games, replays, hunched forward, for hours, until he could have played them himself with his eyes shut.
+Niko didn't look away from the man once. Not once, the whole afternoon. He sat cross-legged on the red at the very end of the row, with his elbows on his knees and his chin on his fists, and watched him. Not his face. His hands, and his shoulders, and the way he sat. The way Niko had watched games on Earth, other people's games, replays, hunched forward, for hours, until he could have played them himself with his eyes shut.
 
 And Yan sat beside Maigo with his eyes closed and Suzu round his neck, and didn't say anything either. But his hands, in his lap, hadn't stopped shaking. Not since the fight. Maigo could see them.
 
@@ -211,7 +211,7 @@ He didn't say who. He didn't have to. Maigo felt everyone go still around him, a
 
 The man didn't answer.
 
-He looked at Salty. For a long time. And then he looked at Wendy. And then at Mashi. And then at Yan. One after another, slowly, the way you'd look at people across a room if you'd been away from that room for a very long time and wanted to be sure they were all still there. He looked at each of them as if he were reading something written on their faces, and wanted to get every word.
+He looked at Salty. For a long time. And then he looked at Wendy. And then at Niko. And then at Yan. One after another, slowly, the way you'd look at people across a room if you'd been away from that room for a very long time and wanted to be sure they were all still there. He looked at each of them as if he were reading something written on their faces, and wanted to get every word.
 
 He looked at Maigo last.
 

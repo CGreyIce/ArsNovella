@@ -385,7 +385,7 @@ Then Winter, beside her on the stairs, put her face into her hands and laughed s
 
 Newish got up.
 
-She came down the stairs, past Kestra, and across the room, and stood in front of him. He was a lot taller than her. She couldn't see his face. She'd never be able to see his face. It didn't matter.
+She came down the stairs, past Kestra, and across the room, and stood in front of him. He was a lot taller than her. She couldn't see his face. Nobody could. It didn't matter.
 
 *I'm going to say rude*, she'd told the channel, on the night of the sum, last summer. *And then I'm going to hit him.*
 

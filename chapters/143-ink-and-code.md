@@ -353,7 +353,7 @@ He looked at her then. She couldn't see his face. She'd never been able to see h
 
 "It might."
 
-"It might be Yan. He's got the strongest reason. Or Ina. Ina's fire climbs the tiers literally, his names are all fire." She was talking fast now, the way she talked when she was frightened and didn't want to say so. "Or somebody nobody's thinking of. Mashi. Malcolm. Anyone. It doesn't have to be the fastest. It just has to be the one who gets there."
+"It might be Yan. He's got the strongest reason. Or Ina. Ina's fire climbs the tiers literally, his names are all fire." She was talking fast now, the way she talked when she was frightened and didn't want to say so. "Or somebody nobody's thinking of. Niko. Malcolm. Anyone. It doesn't have to be the fastest. It just has to be the one who gets there."
 
 "I know," he said.
 

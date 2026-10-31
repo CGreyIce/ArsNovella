@@ -67,15 +67,15 @@ They compared windows that night like always, in the corner of the mess hall, wi
 
 "Nine," said Yan.
 
-Mashi was last, as always. "Three," he said. "And three."
+Niko was last, as always. "Three," he said. "And three."
 
 "You went up," said Maigo.
 
-"I did." Mashi looked almost pleased, which on Mashi was a small earthquake. "Both of them, same day. Within an hour of each other." He turned his window toward Yan, as if Yan could see it, which he couldn't. "Hyvred said my light was two colours that don't mix. I've been thinking about that. I think they *want* to. I think they just don't know how yet."
+"I did." Niko looked almost pleased, which on Niko was a small earthquake. "Both of them, same day. Within an hour of each other." He turned his window toward Yan, as if Yan could see it, which he couldn't. "Hyvred said my light was two colours that don't mix. I've been thinking about that. I think they *want* to. I think they just don't know how yet."
 
 "Neither do you," said Wendy.
 
-"Neither do I," Mashi agreed cheerfully.
+"Neither do I," Niko agreed cheerfully.
 
 Yan told them about Hyvred's letter then. All of it. The man at the well, the hole on the ridge, *not only from the east*. And then, because he'd decided in the chapel that he wasn't going to keep it any longer, he told them about the cold thing under the grave.
 
@@ -111,7 +111,7 @@ Six. Then eight. He stopped counting at eleven.
 
 "Demons," said Rhea. Her voice had gone very flat and very professional. "Scouts. Out of bowshot. Don't move." She raised one hand, very slowly, and somewhere along the wall a horn sounded once, low.
 
-The fort woke up around them. Not loudly; a garrison on a frontier knows how to wake quietly. Footsteps on the walls. The creak of bows being strung. Within a minute there were soldiers at every crenel, and Aldous was beside Yan with his staff in his hand, and Salty and Wendy and Maigo and Mashi were coming up the stair behind him, half dressed, Wendy with her bow already in her hand.
+The fort woke up around them. Not loudly; a garrison on a frontier knows how to wake quietly. Footsteps on the walls. The creak of bows being strung. Within a minute there were soldiers at every crenel, and Aldous was beside Yan with his staff in his hand, and Salty and Wendy and Maigo and Niko were coming up the stair behind him, half dressed, Wendy with her bow already in her hand.
 
 "Can I shoot?" she said.
 
@@ -129,7 +129,7 @@ It was pointing. At the north tower.
 
 Then, slowly, at the gatehouse. Then at the east tower, where they were standing. Then the south. One by one, it pointed at every tower on the wall, and every gate, and the place where the wall had been patched after a winter flood, and the well-head you could just see over the battlements, and the chapel roof.
 
-"It's counting," said Mashi, very quietly. "It's counting us."
+"It's counting," said Niko, very quietly. "It's counting us."
 
 "It's counting the *fort,*" said Salty.
 

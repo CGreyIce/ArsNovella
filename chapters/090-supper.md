@@ -481,7 +481,7 @@ Thea turned the window round, with shaking hands, and held it out so that he cou
 
 Higu read it last. She didn't say anything. She just looked at the three letters for a long time, and then up at him, in the doorway.
 
-He was looking at it too. Thea watched his face. It was the first time she'd ever been able to hold on to it, she realised. All night, she'd been able to hold on to it. It didn't slide anymore.
+He was looking at it too. Thea watched him. She couldn't hold on to his face; she'd tried all night, and it still slid, the way everyone said it did. But she realised, watching him, that she didn't need to. She could read the rest of him. The shoulders, the hands, the way he stood in a doorway. All night she'd been reading it, and that didn't slide at all.
 
 "It opened," said Thea. "When you told us."
 

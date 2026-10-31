@@ -141,7 +141,7 @@ And in the morning, the man had come back.
 
 He came back now.
 
-Aldous watched it from the box of the cart, with the sun coming up behind him and lying long and gold across the red toward the wall, the way it had lain that morning. The cart rolled forward. Rhea pushing. Maigo talking to the horse, very low. Yan in front with the scythe on his shoulder and Suzu wound round its shaft. Salty and Wendy. Mashi on the tailboard with his eyes open, for once, watching.
+Aldous watched it from the box of the cart, with the sun coming up behind him and lying long and gold across the red toward the wall, the way it had lain that morning. The cart rolled forward. Rhea pushing. Maigo talking to the horse, very low. Yan in front with the scythe on his shoulder and Suzu wound round its shaft. Salty and Wendy. Niko on the tailboard with his eyes open, for once, watching.
 
 And at the back of the cart, a girl with a black sword on her back. And beside her, a man with two buckets of water.
 

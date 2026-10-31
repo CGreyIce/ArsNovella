@@ -261,7 +261,7 @@ Deston looked at him for a long time. Then he turned back to the rail, and put b
 
 He didn't post anything in the channel. None of them did. Not *the lake*, not *a lamp*, not *tomorrow*. He stood at the rail of the *Patient Widow* in the grey dawn, with the lake country going away all round him, flat and silver and quiet, and scrolled back through the night's two hundred lines out of habit.
 
-Mashi's heartbeats. Maigo in capitals. Chris's evening numbers, all thirty-five, and the blank one at the end.
+Niko's heartbeats. Maigo in capitals. Chris's evening numbers, all thirty-five, and the blank one at the end.
 
 And from Wrenhaven, from Group 1, nothing. Not a word since supper the night before. Five people who used to write every evening, and lately wrote only in the mornings, as if they'd been somewhere else at night.
 

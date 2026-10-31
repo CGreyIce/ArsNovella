@@ -287,7 +287,7 @@ Garrow was going with them. He hadn't asked. He'd just said, at supper, in the m
 
 He lay awake that night in a bunk in the barracks at Cinderhold, on the edge of the Redmarch, a month from home, with the king's father's hammer under his pillow. He could hear the wind outside, coming in off the red, with that smell in it. Old iron. Rust.
 
-And through the wall, from the next room, very faintly, a voice. Young, and high, and fast. Talking. On and on, the way it had come across the courtyard that morning, filling the dark, about nothing at all: about stones, and fish, and kings, and somebody called Mashi who was apparently up to three heartbeats now, and whether trees could be homesick for lakes they'd never seen.
+And through the wall, from the next room, very faintly, a voice. Young, and high, and fast. Talking. On and on, the way it had come across the courtyard that morning, filling the dark, about nothing at all: about stones, and fish, and kings, and somebody called Niko who was apparently up to three heartbeats now, and whether trees could be homesick for lakes they'd never seen.
 
 Then, after a long time, it stopped.
 

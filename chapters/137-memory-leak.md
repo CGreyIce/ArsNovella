@@ -155,11 +155,11 @@ He looked at it for a long time.
 
 The other half of the bracket had gone the way everyone said it would.
 
-Yan and Mashi and Wendy. Group 3, or three-fifths of it: Salty was in the Singles and Maigo had entered the Trios with Thea and Higu, as *the Tree*, and been beaten in the first round by Yan's trio because Maigo couldn't stop talking. They'd come through four rounds without dropping anyone. They'd beaten Jared and Milli and Hana in the semifinal, and Hana had come off the sand afterwards saying *I've never been beaten so politely in my life*.
+Yan and Niko and Wendy. Group 3, or three-fifths of it: Salty was in the Singles and Maigo had entered the Trios with Thea and Higu, as *the Tree*, and been beaten in the first round by Yan's trio because Maigo couldn't stop talking. They'd come through four rounds without dropping anyone. They'd beaten Jared and Milli and Hana in the semifinal, and Hana had come off the sand afterwards saying *I've never been beaten so politely in my life*.
 
 They were Ice's CS squad.
 
-That was the thing everyone kept saying, in the stands. Chris kept hearing it. *That's his old squad. That's his CS squad. That's the one that won the Apex thing with him*. Yan had carried Ice in Apex. Ice had carried Yan in CS. They'd played every night for years. Mashi had known Ice since he was seventeen, on a community server, getting AWPed in mid. Wendy had been in every call.
+That was the thing everyone kept saying, in the stands. Chris kept hearing it. *That's his old squad. That's his CS squad. That's the one that won the Apex thing with him*. Yan had carried Ice in Apex. Ice had carried Yan in CS. They'd played every night for years. Niko had known Ice since he was seventeen, on a community server, getting AWPed in mid. Wendy had been in every call.
 
 And Chris and Winter and Newish were Ice's Apex trios. Both of them.
 
@@ -173,13 +173,13 @@ Chris had the strangest feeling, looking at him, that he was looking at a man wa
 
 ***
 
-"*The final of the Trios*," said Drew, from the master's chair, without raising his voice, so that it went out over the whole bowl of the Lists like a kite. "One Down. And Yan, Mashi and Wendy."
+"*The final of the Trios*," said Drew, from the master's chair, without raising his voice, so that it went out over the whole bowl of the Lists like a kite. "One Down. And Yan, Niko and Wendy."
 
 They walked out.
 
 Chris on the right. Winter in the centre. Newish on the left of Winter. And to the left of Newish, nothing. A gap. Chris saw it. He'd never seen it before, not like this. He'd been walking out onto this sand with it for two years.
 
-Opposite them, Yan and Mashi and Wendy. Yan in the middle with the scythe Salty had made him, the long dark blade with its thousands of tiny crescents, and Suzu wound round the shaft of it, white, with her head on the curve of the iron. Mashi on Yan's right, thin and chill, with his hands in his pockets, Initiate on two paths, the slowest of the thirty-five to rank up and the one everybody kept underestimating. Wendy on the left with her bow, and her silent lavender headphones round her neck, and a quiver of padded arrows.
+Opposite them, Yan and Niko and Wendy. Yan in the middle with the scythe Salty had made him, the long dark blade with its thousands of tiny crescents, and Suzu wound round the shaft of it, white, with her head on the curve of the iron. Niko on Yan's right, thin and chill, with his hands in his pockets, Initiate on two paths, the slowest of the thirty-five to rank up and the one everybody kept underestimating. Wendy on the left with her bow, and her silent lavender headphones round her neck, and a quiver of padded arrows.
 
 They stopped in the chalk ring, ten paces apart. Two trios.
 
@@ -187,7 +187,7 @@ Neither of them moved. Not yet. The marshal hadn't said *begin*.
 
 And all six of them, at the same moment, as if somebody had told them to, looked up at the fourth tier of the east stand.
 
-Chris saw Yan do it. And Mashi. And Wendy. And Winter, beside him, and Newish. And himself. Six people in a chalk ring on the great sand of the Lists, looking up past forty thousand people at the end of a bench, the way a team looks at its captain before the bell.
+Chris saw Yan do it. And Niko. And Wendy. And Winter, beside him, and Newish. And himself. Six people in a chalk ring on the great sand of the Lists, looking up past forty thousand people at the end of a bench, the way a team looks at its captain before the bell.
 
 The man on the fourth tier didn't wave. He didn't do anything.
 
@@ -201,13 +201,13 @@ Wendy shot first.
 
 She always did. She was an archer; she shot at a distance and trusted nothing she couldn't see. The padded arrow came off her bow so fast that Chris didn't see it leave, and Newish was already saying *slow*, and the arrow slowed, in the air, halfway, as if it had flown into honey, and Chris stepped out of its way.
 
-Then Mashi moved.
+Then Niko moved.
 
-Chris had never seen Mashi fight properly. Nobody had, outside Group 3. He'd read about it, in the channel: Mashi trained both paths at once, aura and mana, which everyone said was a waste, and he'd been the slowest of the thirty-five to rank up, and he was still Initiate on both. And last summer, on the Redmarch, he'd done something nobody understood. A circle. Aura going out and mana coming in, end to end, on the breath, with no seam. One heartbeat. Then two. Then five.
+Chris had never seen Niko fight properly. Nobody had, outside Group 3. He'd read about it, in the channel: Niko trained both paths at once, aura and mana, which everyone said was a waste, and he'd been the slowest of the thirty-five to rank up, and he was still Initiate on both. And last summer, on the Redmarch, he'd done something nobody understood. A circle. Aura going out and mana coming in, end to end, on the breath, with no seam. One heartbeat. Then two. Then five.
 
 He did it now.
 
-Chris felt it before he saw it. A kind of hum, off the thin chill man on Yan's right, as if something had started turning in him, round and round, very fast. And then Mashi was across the ring. Not fast, exactly. *Smooth*. The way water is smooth going over a weir. He came straight at the left of One Down.
+Chris felt it before he saw it. A kind of hum, off the thin chill man on Yan's right, as if something had started turning in him, round and round, very fast. And then Niko was across the ring. Not fast, exactly. *Smooth*. The way water is smooth going over a weir. He came straight at the left of One Down.
 
 At the gap.
 
@@ -215,7 +215,7 @@ At the gap.
 
 Chris's leg lagged.
 
-He felt it do it. The pivot. The fraction of a second's wait. For somebody to go left first. And nobody did, because there was nobody there, there had never been anybody there, and Mashi came through the gap like water through a hole in a wall and was beside Newish before she'd finished turning, and touched her very lightly on the arm with the flat of a blunted short sword.
+He felt it do it. The pivot. The fraction of a second's wait. For somebody to go left first. And nobody did, because there was nobody there, there had never been anybody there, and Niko came through the gap like water through a hole in a wall and was beside Newish before she'd finished turning, and touched her very lightly on the arm with the flat of a blunted short sword.
 
 "*Out*," said the marshal.
 
@@ -251,7 +251,7 @@ He'd been holding Ice's slot open for three years. And the people who'd been try
 
 "*Chris*," said Winter.
 
-She was beside him. In the centre. Where she always was. Mashi had gone back across the ring to Yan, very chill, hands back in his pockets, the hum gone quiet. Wendy had another arrow on the string. Yan hadn't moved yet. He was standing in the middle of his trio with the scythe held low and Suzu on the shaft and his calm half-lidded eyes on Chris.
+She was beside him. In the centre. Where she always was. Niko had gone back across the ring to Yan, very chill, hands back in his pockets, the hum gone quiet. Wendy had another arrow on the string. Yan hadn't moved yet. He was standing in the middle of his trio with the scythe held low and Suzu on the shaft and his calm half-lidded eyes on Chris.
 
 Yan knew. Chris could see it. Yan had known Ice longer than anyone. Yan had seen the gap.
 
@@ -353,19 +353,19 @@ Yan looked up at Chris from one knee. His face did nothing. But his eyes went, v
 
 It was two against two after that, and it was over very fast, because Chris had stopped waiting for anyone.
 
-Wendy shot him from range and Winter put a wall of frost up in the air in front of him, a thin white pane of it that the padded arrow went into and stuck, quivering. Mashi came at Winter, smooth, humming, water over a weir, and Chris went left again, without thinking, and met him, and Mashi, who'd spent years learning how Ice played and how Chris played with him, who'd come through the gap on Chris's left twenty minutes ago because he knew it would be there, found that it wasn't there any more, and stopped.
+Wendy shot him from range and Winter put a wall of frost up in the air in front of him, a thin white pane of it that the padded arrow went into and stuck, quivering. Niko came at Winter, smooth, humming, water over a weir, and Chris went left again, without thinking, and met him, and Niko, who'd spent years learning how Ice played and how Chris played with him, who'd come through the gap on Chris's left twenty minutes ago because he knew it would be there, found that it wasn't there any more, and stopped.
 
 He looked at Chris. A long look. Chill and well put together and very, very surprised.
 
-"You closed it," said Mashi.
+"You closed it," said Niko.
 
 "I closed it."
 
-"Huh," said Mashi. He took one hand out of his pocket. Looked at Chris's sword, a finger's width from his ribs. "That's new." He took a breath. "I'm out, aren't I."
+"Huh," said Niko. He took one hand out of his pocket. Looked at Chris's sword, a finger's width from his ribs. "That's new." He took a breath. "I'm out, aren't I."
 
 "You're out," said the marshal.
 
-Wendy put her bow down. She looked at the two of them, Chris and Winter, standing together on the sand with no gap between them. She looked at Yan, on one knee in the frost. At Mashi, walking to the chalk line with his hands back in his pockets. At the fourth tier.
+Wendy put her bow down. She looked at the two of them, Chris and Winter, standing together on the sand with no gap between them. She looked at Yan, on one knee in the frost. At Niko, walking to the chalk line with his hands back in his pockets. At the fourth tier.
 
 "Fine," said Wendy. She sounded, for once, not cynical at all. "Fine. I yield. You can have it." She looked at Chris. "You earned it. Both of you." A pause. "All three of you."
 
@@ -433,7 +433,7 @@ He'd been wrong. They hadn't been one down. They'd been three, the whole time. H
 
 ***
 
-Yan came over from the frost, when the marshals had finished, with the scythe on his shoulder and Suzu on the shaft. Mashi and Wendy came behind him.
+Yan came over from the frost, when the marshals had finished, with the scythe on his shoulder and Suzu on the shaft. Niko and Wendy came behind him.
 
 The two trios stood on the sand of the Lists in front of each other. Ice's CS squad, and Ice's Apex trios. Six people. Chris had played with half of them every night for a year, and against the other half on the community servers, and in the tournament Drew ran, and they'd all, every one of them, been in the same calls at two in the morning with the same voice in their ears saying *I'm left*.
 
@@ -443,7 +443,7 @@ Yan held out his hand.
 
 Chris laughed. He couldn't help it. "GG," he said, and shook it.
 
-Mashi held out his hand too. "GG," he said. "You closed it. I'm still annoyed." He paused. "I learned his left side for years. On the server. I knew exactly where the hole would be." He shook his head slowly. "You filled it with somebody else."
+Niko held out his hand too. "GG," he said. "You closed it. I'm still annoyed." He paused. "I learned his left side for years. On the server. I knew exactly where the hole would be." He shook his head slowly. "You filled it with somebody else."
 
 "I didn't fill it," said Chris. "She did. She'd been trying to for two years." He looked at Winter. "I just stopped standing in the way."
 
@@ -461,7 +461,7 @@ The man was standing up.
 
 He was the only one in his section standing; everyone else round him had been on their feet for the chant and sat down again. He was standing very still at the end of his bench with the rod in one hand. His other hand was still flat on his chest. It had been there, Chris thought, the whole bout.
 
-Chris couldn't see his face. He never would.
+Chris couldn't see his face. Nobody could.
 
 But he lifted his own hand, on the sand of the Lists, in front of forty thousand people, and held it up. Not a wave. Just held it up. Open. The way you'd hold up a hand at the end of a match to the person in the caster's seat, to say *did you see*.
 

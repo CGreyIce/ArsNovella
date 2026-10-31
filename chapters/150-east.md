@@ -21,7 +21,7 @@ Thirty-five. Across the kingdom. On four roads.
 
 North, fifteen, a day's walk up the long road toward Pellow's Cross, camped round a brewer's dray and a miller's cart, close together. North-west, five, in the middle of four hundred people and two hundred horses, on the road to Solmere. West, five, half a day out of the west gate, going back toward a mountain pass. And five behind him, in a city, staying.
 
-And here, at this fire, five more. Salty and Wendy, side by side. Maigo, talking. Mashi, chill. Himself.
+And here, at this fire, five more. Salty and Wendy, side by side. Maigo, talking. Niko, chill. Himself.
 
 And the thirty-sixth.
 
@@ -295,11 +295,11 @@ He didn't guess what it meant. He knew.
 
 ***
 
-The man took the first watch. Nobody argued. Then Mashi took the second, chill and wide awake, sitting on the tailboard with his window open in front of his face, looking at a grey line under two white ones.
+The man took the first watch. Nobody argued. Then Niko took the second, chill and wide awake, sitting on the tailboard with his window open in front of his face, looking at a grey line under two white ones.
 
 Yan took the third.
 
-He sat on the tailboard where Mashi had been, after Mashi had gone to sleep, with the scythe across his knees and Suzu round his neck and the fire burning low, and the stars very thick over the plain, the way they were out here, away from any city. The others were asleep round the fire. Salty and Wendy together, under one blanket. Maigo with his antlers against the cart wheel, snoring like a tree. Rhea flat on her back with her arms out, as if she'd been knocked down. Aldous sitting up against his pack with his book open on his chest.
+He sat on the tailboard where Niko had been, after Niko had gone to sleep, with the scythe across his knees and Suzu round his neck and the fire burning low, and the stars very thick over the plain, the way they were out here, away from any city. The others were asleep round the fire. Salty and Wendy together, under one blanket. Maigo with his antlers against the cart wheel, snoring like a tree. Rhea flat on her back with her arms out, as if she'd been knocked down. Aldous sitting up against his pack with his book open on his chest.
 
 And on the far side of the fire, a man asleep. For once. On his back, with his rod beside him and his coat over him. Gabe had made him promise. *Every night. On the road. I'm going to ask Yan*.
 
@@ -317,7 +317,7 @@ Salty's leaned toward Wendy. It always had. Hers toward his. Two candles under o
 
 Maigo's leaned east. Toward the red. Toward a young ash tree inside a ring of flowers on a cairn a month away, that he talked to every month and had told about a girl who'd come one day.
 
-Mashi's was two candles. They always had been. Aura and mana. Side by side, close, almost touching, the way they'd been since the first spring. Closer tonight than Yan had ever seen them. As if something had shown them, a few days ago, in an empty arena at dawn, that the space between them didn't need to be there.
+Niko's was two candles. They always had been. Aura and mana. Side by side, close, almost touching, the way they'd been since the first spring. Closer tonight than Yan had ever seen them. As if something had shown them, a few days ago, in an empty arena at dawn, that the space between them didn't need to be there.
 
 Rhea's leaned toward everything at once, the way a fire leans toward air.
 

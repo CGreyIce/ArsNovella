@@ -61,7 +61,7 @@ So the great bowl was lit, at dusk, with torches on poles along the rail every t
 
 Two bouts. Xav and PenguChi. Salty and Milli.
 
-Yan sat on the sixth tier of the east stand with Group 3, or most of it. Salty was down in the tunnel. Maigo was beside him, in his hoodie with the hood down because his antlers were too full of leaves now to fit, talking to the man in front about trees. Mashi on his other side, chill, hands in pockets. Wendy beyond Mashi, with her headphones round her neck, eating a pie very slowly because it was one of Salty's eleven and Salty had made her promise to eat one so they'd go further.
+Yan sat on the sixth tier of the east stand with Group 3, or most of it. Salty was down in the tunnel. Maigo was beside him, in his hoodie with the hood down because his antlers were too full of leaves now to fit, talking to the man in front about trees. Niko on his other side, chill, hands in pockets. Wendy beyond Niko, with her headphones round her neck, eating a pie very slowly because it was one of Salty's eleven and Salty had made her promise to eat one so they'd go further.
 
 Kei was behind him, with Hisui. Hyvred beside Kei, with her glasses up in her hair and a cup of something hot.
 
@@ -161,7 +161,7 @@ Then the fifth tier. Group 4. Gabe. Deston. Dennis. Calvin. Rachael.
 
 It stayed on Rachael a long time.
 
-Then it moved on. Group 1, on the fifth tier of the south stand. Group 2, near the royal box. Group 7. Group 6. Group 5. Group 3. Yan felt it come to the sixth tier of the east stand and lean toward him. Toward Maigo, beside him, talking about trees. Toward Mashi. Toward Wendy, eating Salty's pie.
+Then it moved on. Group 1, on the fifth tier of the south stand. Group 2, near the royal box. Group 7. Group 6. Group 5. Group 3. Yan felt it come to the sixth tier of the east stand and lean toward him. Toward Maigo, beside him, talking about trees. Toward Niko. Toward Wendy, eating Salty's pie.
 
 Toward him.
 

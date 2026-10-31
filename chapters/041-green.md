@@ -23,7 +23,7 @@ All winter he'd stayed off it as much as he could. He'd trained inside the walls
 
 And then, sometime in the first weeks of spring, something changed.
 
-He noticed it at night first. He'd wake in the small hours in the barracks with an odd restless feeling in his arms and legs, like pins and needles, like his whole body had fallen asleep and was waking up. He'd lie there in the dark listening to Salty snore and Mashi talk in his sleep, and feel it rising. Slow. Sweet. Up from his feet, through his legs, into his chest and out along his arms to the tips of his fingers, and up into the little antlers on his head.
+He noticed it at night first. He'd wake in the small hours in the barracks with an odd restless feeling in his arms and legs, like pins and needles, like his whole body had fallen asleep and was waking up. He'd lie there in the dark listening to Salty snore and Niko talk in his sleep, and feel it rising. Slow. Sweet. Up from his feet, through his legs, into his chest and out along his arms to the tips of his fingers, and up into the little antlers on his head.
 
 He didn't know what it was for nearly a week. Then one morning he looked in the bucket of water by the well, and saw his own reflection, and stopped.
 
@@ -79,7 +79,7 @@ He read Chris's letter about the junior lists, and the sword inside a sword, and
 
 Then he read Tiger's.
 
-When he finished, nobody said anything for a long time. The rain came down on the chapel roof. Mashi had his head in his hands. Salty was staring at the floor with his jaw set. Wendy had moved closer to Salty without seeming to, the way she always did when something was wrong, until her shoulder was against his.
+When he finished, nobody said anything for a long time. The rain came down on the chapel roof. Niko had his head in his hands. Salty was staring at the floor with his jaw set. Wendy had moved closer to Salty without seeming to, the way she always did when something was wrong, until her shoulder was against his.
 
 "*Someone wearing someone,*" said Yan quietly. "Hyvred said it in the autumn. In Coldwater." He folded Tiger's letter very carefully. "I felt one. Out there. On the Redmarch. The cold one that counts the towers." He looked out of the chapel door, at the rain, east. "I've been telling myself for six months it was the same thing. Two sides. One shape."
 
@@ -135,7 +135,7 @@ He didn't have words. He didn't need them. He was a tree. He wrote into the gap 
 
 They found him at dawn.
 
-The sentry had raised the alarm when the sky got light and the little tree man still hadn't come back through the postern. Yan came first, running, with Suzu tight around his neck, and then Salty with his sword, and Wendy with her bow, and Rhea, and Mashi; and Aldous last of all, in his old chaplain's coat, out of breath, out past the first row of markers and the second and the third, into the grey light.
+The sentry had raised the alarm when the sky got light and the little tree man still hadn't come back through the postern. Yan came first, running, with Suzu tight around his neck, and then Salty with his sword, and Wendy with her bow, and Rhea, and Niko; and Aldous last of all, in his old chaplain's coat, out of breath, out past the first row of markers and the second and the third, into the grey light.
 
 Maigo was sitting cross-legged in the red earth among the markers.
 
@@ -177,7 +177,7 @@ He looked at it for a long time.
 
 "It wasn't."
 
-"No," Maigo agreed. "It wasn't." And then, quite suddenly, he was laughing, and crying too, both at once, and Yan was crouched beside him in the red earth with his arm round his shoulders, and Salty was shouting, and Rhea was shouting louder than Salty out of sheer competitiveness, and Mashi had sat down very hard on the ground and was saying "*the second, the second one, Maigo's the second*" over and over like he couldn't believe it, and Wendy was standing a little way back with her bow, smiling. Actually smiling. Which nobody ever saw.
+"No," Maigo agreed. "It wasn't." And then, quite suddenly, he was laughing, and crying too, both at once, and Yan was crouched beside him in the red earth with his arm round his shoulders, and Salty was shouting, and Rhea was shouting louder than Salty out of sheer competitiveness, and Niko had sat down very hard on the ground and was saying "*the second, the second one, Maigo's the second*" over and over like he couldn't believe it, and Wendy was standing a little way back with her bow, smiling. Actually smiling. Which nobody ever saw.
 
 "Root," said Wendy. "That's your skill."
 
@@ -263,7 +263,7 @@ He didn't look back. He didn't need to. He could feel it behind him, out there i
 
 They wrote that night, all of them. Letters numbered *No. 1* and sealed with Cursiffe's strips, to every group, with everything. The theft and the tree. Maigo's Spark. Yan wrote to Chris about the sword inside a sword, and to Kei and Hyvred about Ossie, and what he'd felt on the Redmarch, and how it was all one shape.
 
-Their windows, at the end of the letter, in a column, the way they'd started doing in the winter. Yan 34. Salty 33. Wendy 32. Mashi 12 and 12, *still trying to write two lines at once, still not dead*. And at the top, in Maigo's big loopy writing:
+Their windows, at the end of the letter, in a column, the way they'd started doing in the winter. Yan 34. Salty 33. Wendy 32. Niko 12 and 12, *still trying to write two lines at once, still not dead*. And at the top, in Maigo's big loopy writing:
 
 *MAIGO: TIER 1. SPARK. SKILL: ROOT. I PLANTED A TREE ON THE REDMARCH AND IT STAYED. TELL THEA I SAID HI AND THAT I'M SECOND, AND THAT SECOND IS JUST FIRST BUT LATER.*
 

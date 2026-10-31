@@ -25,7 +25,7 @@ There was frost on the red. The first proper frost of the year, a white skin on 
 
 It was cold. Wendy had her navy cardigan buttoned up to the neck and her hands in the pockets, and the pockets were heavy.
 
-Stones. Children's stones. A handful each, out of the sack: they'd shared them out in the chapel at first light, the four of them who weren't carrying the big one, counting them into each other's hands. Maigo had put his in the front pocket of his hoodie, the way he'd carried the sapling in the spring. Yan had tucked his into the fold of his robes, against his chest. Mashi had held his in his two hands, cupped, and looked at them for a long time before putting them away. Wendy had eleven. She'd counted. Small grey ones, and brown ones, and one white one from the lake shore, smooth as an egg.
+Stones. Children's stones. A handful each, out of the sack: they'd shared them out in the chapel at first light, the four of them who weren't carrying the big one, counting them into each other's hands. Maigo had put his in the front pocket of his hoodie, the way he'd carried the sapling in the spring. Yan had tucked his into the fold of his robes, against his chest. Niko had held his in his two hands, cupped, and looked at them for a long time before putting them away. Wendy had eleven. She'd counted. Small grey ones, and brown ones, and one white one from the lake shore, smooth as an egg.
 
 Some child in a town she'd never seen had carried each of these down a road to a forge. And a man had gone down on one knee, and taken each one, and said *thank you*.
 
@@ -151,7 +151,7 @@ They laid the stones.
 
 Maigo did it first. He took the children's stones out of the front pocket of his hoodie, one at a time, and knelt in the ring of green, inside the flowers, at the foot of the cairn, and set them down. Carefully. In a curve. Each one touching the next. Talking to them as he did it, under his breath, the way he talked to the tree.
 
-Then the rest of them. One after another. Yan, from the fold of his robes, with Suzu's head lowered over his hands, watching. Mashi, slowly, from his cupped hands, looking at each stone before he set it down, as if he were learning it. Salty, who hadn't been given any to carry, and took a handful from Maigo's pile and set them down with his big square hands, very gently, the way he'd set down the sword on the cobbles in the summer.
+Then the rest of them. One after another. Yan, from the fold of his robes, with Suzu's head lowered over his hands, watching. Niko, slowly, from his cupped hands, looking at each stone before he set it down, as if he were learning it. Salty, who hadn't been given any to carry, and took a handful from Maigo's pile and set them down with his big square hands, very gently, the way he'd set down the sword on the cobbles in the summer.
 
 Wendy laid hers last.
 

@@ -365,7 +365,7 @@ She'd folded it back the way it had been, in four, along the old soft folds. She
 
 She watched him look at it.
 
-She'd never seen his face do what it did then. Not on the jetty, not on the shingle, not at the Lists. She'd thought she'd seen everything his face could do. She hadn't.
+She couldn't see his face. She never had. But she'd been reading the rest of him all her life, on the jetty and the shingle and at the Lists, and she'd never seen him do what he did then. She'd thought she knew everything he could do. She hadn't.
 
 "Hesper had it," she said. "In the infirmary. It was over her table. On the wall. On its pin." She looked at the red. "He took it down the morning after. Before anyone came in. He's kept it in a book."
 

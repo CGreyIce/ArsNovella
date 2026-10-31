@@ -321,7 +321,7 @@ That left one heap of slips in each pile and the last box empty, and Drew knew b
 
 "The bracket's fair," Drew had said, "or it isn't."
 
-Squad E came out. Xola. Cursiffe. Mashi, in absence. Dennis. Drew. John. Newish.
+Squad E came out. Xola. Cursiffe. Niko, in absence. Dennis. Drew. John. Newish.
 
 Drew wrote his own name in the box with a perfectly steady hand.
 

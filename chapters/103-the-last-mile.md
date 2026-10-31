@@ -9,7 +9,7 @@ The last thing Gabe ever said to him was *sleep, Declan. Seriously.*
 
 He'd said it every night for eleven years. On calls, in chats, at the door of his flat when Declan stayed over too late. *Sleep.* Because Declan never did. He'd stay up till four playing one more game, one more round, one more match, and then drag himself through the next day like a man walking through mud, and Gabe would tell him off, and he'd say *trust*, and do it again.
 
-That night, the last night, there'd been five of them on the call. Yan and Mashi and Newish and Gabe, and Declan blaming the server for a shot he'd missed. And at nearly two in the morning, Declan had said goodnight to everyone, one at a time, the way he did. And Gabe had said what he always said.
+That night, the last night, there'd been five of them on the call. Yan and Niko and Newish and Gabe, and Declan blaming the server for a shot he'd missed. And at nearly two in the morning, Declan had said goodnight to everyone, one at a time, the way he did. And Gabe had said what he always said.
 
 *Sleep, Declan. Seriously.*
 

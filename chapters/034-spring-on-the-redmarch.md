@@ -33,11 +33,11 @@ He put it down. Gently. It still shook the floor.
 
 "Twenty-seven percent of the *first* tier, and you lifted an anvil like you were second." She threw up her hands. "It doesn't make sense."
 
-"It's Thea's letter," said Mashi, from the fence.
+"It's Thea's letter," said Niko, from the fence.
 
 They both looked at him.
 
-"Thea's letter. In the winter." Mashi was sitting on the top rail with his chin in his hand, watching Salty the way he watched everything: carefully, filing it away. "She said you can't get over the edge by reading. You have to write. Put something back into the world." He tilted his head. "Salty's never read anything in his life. He just *does* things. So when he finally does write, it comes out big and stupid and all at once."
+"Thea's letter. In the winter." Niko was sitting on the top rail with his chin in his hand, watching Salty the way he watched everything: carefully, filing it away. "She said you can't get over the edge by reading. You have to write. Put something back into the world." He tilted his head. "Salty's never read anything in his life. He just *does* things. So when he finally does write, it comes out big and stupid and all at once."
 
 "Thanks," said Salty.
 
@@ -45,7 +45,7 @@ They both looked at him.
 
 "It didn't sound like one."
 
-"Most of my compliments don't," said Mashi cheerfully.
+"Most of my compliments don't," said Niko cheerfully.
 
 ***
 
@@ -69,7 +69,7 @@ Not just the dead, out on the red ground under the markers. The living. The garr
 
 Yan had looked at each of them in turn.
 
-"Maigo's like a tree in the sun," he'd said. "Wendy's like a candle behind glass. Mashi's two candles that keep almost touching." He'd looked at Salty last. "Salty's like a forge."
+"Maigo's like a tree in the sun," he'd said. "Wendy's like a candle behind glass. Niko's two candles that keep almost touching." He'd looked at Salty last. "Salty's like a forge."
 
 Salty had liked that one. He'd thought about it a lot since.
 
@@ -199,21 +199,21 @@ That night, in the corner of the mess hall, they did their numbers.
 
 "We know about the anvil," said everyone.
 
-Mashi was last. As always.
+Niko was last. As always.
 
 "Nine," he said. "And nine."
 
 They all looked at him. Nine and nine. He'd been at four and four in the winter. He'd more than doubled both of them since the thaw.
 
-"Thea's letter," said Mashi, before anyone could ask. He opened his window and looked at it with that small private smile he got sometimes, the one that meant he'd figured something out and wasn't going to tell anyone yet. "You have to write, she said. One line." He closed it. "I've been trying to write *two*. One in each language. At the same time." He shrugged. "It's slower. But it's working."
+"Thea's letter," said Niko, before anyone could ask. He opened his window and looked at it with that small private smile he got sometimes, the one that meant he'd figured something out and wasn't going to tell anyone yet. "You have to write, she said. One line." He closed it. "I've been trying to write *two*. One in each language. At the same time." He shrugged. "It's slower. But it's working."
 
 "Does it hurt?" said Yan quietly. "Like before?"
 
-"A bit," said Mashi. "Less than before." He looked at Yan. "You said I feel like two candles that keep almost touching."
+"A bit," said Niko. "Less than before." He looked at Yan. "You said I feel like two candles that keep almost touching."
 
 "You do."
 
-"Tell me when they touch," said Mashi. "I want to know the second it happens."
+"Tell me when they touch," said Niko. "I want to know the second it happens."
 
 Yan looked at him for a long time. Then he nodded, slowly, the way he did when he was making a promise.
 

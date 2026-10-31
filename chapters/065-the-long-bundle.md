@@ -103,7 +103,7 @@ He didn't seem to notice. He walked across the square at the same easy pace, nod
 
 He saw Alea standing in front of Rowan's door, and he stopped.
 
-They looked at each other across the square. She didn't run to him. She wanted to. She stood there with her hands in fists at her sides and looked at his face, which was tired, and dusty, and older than it had been a week ago, and something else that she couldn't name. Lighter, maybe. As if he'd put something down.
+They looked at each other across the square. She didn't run to him. She wanted to. She stood there with her hands in fists at her sides and looked at him. She couldn't hold his face; nobody could. She didn't need to. He was tired, and dusty, and older than he'd been a week ago, and something else that she couldn't name. Lighter, maybe. As if he'd put something down.
 
 He nodded at her. The tiniest nod.
 

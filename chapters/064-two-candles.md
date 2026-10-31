@@ -5,7 +5,7 @@ volume: 3
 date: 2026-10-30
 ---
 
-Mashi learned things by watching them.
+Niko learned things by watching them.
 
 Not by doing them. Everybody thought he learned by doing, because he was always doing something: two paths at once, twice the hours, half the results, every day for a year while the whole of Cinderhold told him it was a waste. But the doing wasn't how he learned. The doing was just how he checked. The learning happened before that, sitting very still somewhere with his chin on his fists, watching someone else do it, over and over, until he could see the shape of it with his eyes shut.
 
@@ -13,15 +13,15 @@ He'd learned Counter-Strike that way. Most of it. And most of what he'd learned,
 
 He'd been seventeen. A community server, the kind with a forty-player cap and a custom map rotation and an admin who banned people for spelling. And on the other team, nearly every night, an AWPer.
 
-Mashi had lost to him hundreds of times. Hundreds. He'd kept a count, for a while, the way seventeen-year-olds do, and then stopped, because it was embarrassing. The AWPer never peeked first. That was the thing. Everyone else on that server peeked. They swung wide, they jiggled, they pushed, they got impatient and ran round corners into you. The AWPer didn't. He held an angle so long you forgot he was there. He held it so long you were sure he'd left, gone somewhere else, got bored, and you'd breathe out and step into the doorway, and he'd already be looking at the exact place you were stepping into. As if he'd known, a full minute earlier, where you'd go. As if he'd just been waiting for you to agree with him.
+Niko had lost to him hundreds of times. Hundreds. He'd kept a count, for a while, the way seventeen-year-olds do, and then stopped, because it was embarrassing. The AWPer never peeked first. That was the thing. Everyone else on that server peeked. They swung wide, they jiggled, they pushed, they got impatient and ran round corners into you. The AWPer didn't. He held an angle so long you forgot he was there. He held it so long you were sure he'd left, gone somewhere else, got bored, and you'd breathe out and step into the doorway, and he'd already be looking at the exact place you were stepping into. As if he'd known, a full minute earlier, where you'd go. As if he'd just been waiting for you to agree with him.
 
-So Mashi had watched him. Every round, every night, for months. Watched where he held, and when he moved, and how long he waited, until he could see the shape of it with his eyes shut.
+So Niko had watched him. Every round, every night, for months. Watched where he held, and when he moved, and how long he waited, until he could see the shape of it with his eyes shut.
 
 And one night he'd beaten him. Once. Waited longer than the AWPer did, for the first and only time, and caught him on the one step he took.
 
 In all-chat, after, the AWPer had typed: *nice one. again.*
 
-They'd been friends six years later. Close, by the end. Years of games together, and against. And in all that time, Mashi had never once seen anybody else fight like that. Hold like that. Wait like that.
+They'd been friends six years later. Close, by the end. Years of games together, and against. And in all that time, Niko had never once seen anybody else fight like that. Hold like that. Wait like that.
 
 Until yesterday.
 
@@ -29,11 +29,11 @@ Until yesterday.
 
 They got back to Cinderhold after midnight.
 
-The four soldiers had brought the news ahead, with Teague and Dace on their cloaks, and the whole fort was on the east wall again, with torches this time, when they came in out of the dark. Nobody cheered. Mashi thought they might, and they didn't. They just stood there along the top of the wall with their torches, in a long silent row, the way they'd stood when the sword went out. And when the gate opened and the escort came in, slowly, at Salty's pace, with Rhea limping and Aldous grey and the five of them all in one piece, the old woman from the laundry came down off the wall and walked straight across the courtyard to Aldous and put her arms round him.
+The four soldiers had brought the news ahead, with Teague and Dace on their cloaks, and the whole fort was on the east wall again, with torches this time, when they came in out of the dark. Nobody cheered. Niko thought they might, and they didn't. They just stood there along the top of the wall with their torches, in a long silent row, the way they'd stood when the sword went out. And when the gate opened and the escort came in, slowly, at Salty's pace, with Rhea limping and Aldous grey and the five of them all in one piece, the old woman from the laundry came down off the wall and walked straight across the courtyard to Aldous and put her arms round him.
 
 Nobody said anything about the sword. Everybody could see it wasn't there.
 
-Mashi didn't sleep. He hadn't expected to.
+Niko didn't sleep. He hadn't expected to.
 
 He lay on his bunk in the dark for an hour, listening to Salty breathe through his teeth in the next bunk, and Wendy whispering to him, and Maigo, for once, completely silent. Then he got up and went out and climbed the east wall and sat down on the parapet with his back against a merlon and looked out at the red under the stars.
 
@@ -49,19 +49,19 @@ The first cast. The east one, in the air, two paces from Wendy. The line going o
 
 The second. The west one, over Yan. The hook going out, the catch, and then the man *reeling it in*. Pulling it to him. Across a hundred paces of air, off its feet, flailing. And then, as it came, the rod's shaft coming round once, short and flat, and the thing going past him in two pieces.
 
-He never went to them. Mashi had noticed that at the time, and noticed it again now, and kept noticing it. Not once. Three hunters and fifty scouts, and the man hadn't taken one step toward any of them. He'd walked in a straight line from the north-west to the broken ring, the same steady pace from beginning to end, and everything he'd killed, he'd brought to himself.
+He never went to them. Niko had noticed that at the time, and noticed it again now, and kept noticing it. Not once. Three hunters and fifty scouts, and the man hadn't taken one step toward any of them. He'd walked in a straight line from the north-west to the broken ring, the same steady pace from beginning to end, and everything he'd killed, he'd brought to himself.
 
 He made them come to him.
 
-That was the reel. Mashi sat very still on the wall and felt it go into him, cold and clear, the way things did when they were true. The hook was the shot; anybody could hit something with a hook. The *reel* was the point. The reel dragged the thing out of wherever it was and into the one place he was already looking, the one place he'd already decided it would be. You didn't swing wide on him. You didn't push. You didn't get to choose where you met him. He reeled you into his angle, and when you got there, he was already looking at it.
+That was the reel. Niko sat very still on the wall and felt it go into him, cold and clear, the way things did when they were true. The hook was the shot; anybody could hit something with a hook. The *reel* was the point. The reel dragged the thing out of wherever it was and into the one place he was already looking, the one place he'd already decided it would be. You didn't swing wide on him. You didn't push. You didn't get to choose where you met him. He reeled you into his angle, and when you got there, he was already looking at it.
 
 He made them peek.
 
-And the north one. The one with Salty's sword in its side, that came at him on all fours across sixty paces faster than a horse. The man hadn't cast at it. He'd stopped walking, and held the rod low, and *waited*. Mashi had felt his own whole body screaming at the man to move, the way you scream at a teammate on a call, *he's right there, he's RIGHT THERE*. And he hadn't moved. Not until five paces. Not until the very last moment, when the thing was already committed, already in the air, already somewhere it couldn't come back from.
+And the north one. The one with Salty's sword in its side, that came at him on all fours across sixty paces faster than a horse. The man hadn't cast at it. He'd stopped walking, and held the rod low, and *waited*. Niko had felt his own whole body screaming at the man to move, the way you scream at a teammate on a call, *he's right there, he's RIGHT THERE*. And he hadn't moved. Not until five paces. Not until the very last moment, when the thing was already committed, already in the air, already somewhere it couldn't come back from.
 
 Then once.
 
-Mashi had seen that before. On a community server, at seventeen, a few hundred times.
+Niko had seen that before. On a community server, at seventeen, a few hundred times.
 
 He sat on the wall and put his face in his hands for a while.
 
@@ -75,13 +75,13 @@ He couldn't feel aura the way Salty could, or Rhea. He was half a swordsman, the
 
 It hadn't gone into the rod.
 
-Aura went in, then out. That was how it worked. Mashi had worked it out in the winter, the night of the first frost, and nosebled on it for most of a year since. You drew aura in, from somewhere at the bottom of yourself, and then you put it out into whatever you trusted, a sword, an arrow, a fist, and it ran along the edge and came out the other side. In, then out. A line.
+Aura went in, then out. That was how it worked. Niko had worked it out in the winter, the night of the first frost, and nosebled on it for most of a year since. You drew aura in, from somewhere at the bottom of yourself, and then you put it out into whatever you trusted, a sword, an arrow, a fist, and it ran along the edge and came out the other side. In, then out. A line.
 
 Magic was the other way. Mana came from outside. From the air, the ground, the world. You drew it in, and shaped it, and it came out as a spell. Outside, then in. Also a line. The same shape, backwards. And every time he'd tried to run both lines at once, they'd run straight into each other, head on, like two cars on a one-lane road, and his nose had bled, and once his heart had stopped for two beats and he'd woken up on the chapel floor with Aldous praying over him.
 
 The man's aura hadn't run in a line.
 
-It had gone *out*. Into everything. Not along an edge. Out of him like a spell does, filling the whole of the Redmarch, pinning fifty demons where they stood. That was aura behaving like magic. Mashi had felt it do that.
+It had gone *out*. Into everything. Not along an edge. Out of him like a spell does, filling the whole of the Redmarch, pinning fifty demons where they stood. That was aura behaving like magic. Niko had felt it do that.
 
 And then it had come back.
 
@@ -91,7 +91,7 @@ Breathing.
 
 Not a line. A circle.
 
-Mashi sat on the wall in the dark with his eyes wide open.
+Niko sat on the wall in the dark with his eyes wide open.
 
 *Put them end to end.*
 
@@ -119,7 +119,7 @@ Yan had told him, in the spring, that they were always almost touching. Two cand
 
 It felt like two notes.
 
-That was all he could think of, afterwards. Two notes that had been played together his whole life, very slightly out of tune with each other, so slightly that you'd stopped hearing it, the way you stop hearing a fridge. And then, for one heartbeat, they weren't. They were the same note. And the whole world went quiet around it, and *clear*, the way the air goes clear after rain, and Mashi could see every single thing in front of him on the Redmarch, every marker, every tuft of grey grass, every crack in the red ground, as if he were holding an angle on all of them at once.
+That was all he could think of, afterwards. Two notes that had been played together his whole life, very slightly out of tune with each other, so slightly that you'd stopped hearing it, the way you stop hearing a fridge. And then, for one heartbeat, they weren't. They were the same note. And the whole world went quiet around it, and *clear*, the way the air goes clear after rain, and Niko could see every single thing in front of him on the Redmarch, every marker, every tuft of grey grass, every crack in the red ground, as if he were holding an angle on all of them at once.
 
 One heartbeat.
 
@@ -131,9 +131,9 @@ That was the second thing he noticed. The first was the blood, which was everywh
 
 "They touched," said Yan.
 
-He was standing at the top of the steps. Mashi didn't know how long he'd been there. Long enough, by his face.
+He was standing at the top of the steps. Niko didn't know how long he'd been there. Long enough, by his face.
 
-"I know," said Mashi thickly, holding his nose. "I felt it."
+"I know," said Niko thickly, holding his nose. "I felt it."
 
 "You promised me you'd go slower."
 
@@ -147,13 +147,13 @@ Yan came and sat down on the parapet beside him, and handed him a handkerchief, 
 
 "That's where you got it."
 
-"Yes," said Mashi.
+"Yes," said Niko.
 
 Yan nodded slowly.
 
 "I need everybody," he said. "All five. Now, before breakfast. Before anyone writes anything." He stood up. "In the chapel."
 
-Mashi opened his window before he followed him down.
+Niko opened his window before he followed him down.
 
 [ Nikorasu · Tier 0: Initiate · Aura 18% · Mana 18% ]
 
@@ -167,7 +167,7 @@ The chapel was empty.
 
 That was the first thing they all noticed, coming in, one after another, in the grey early light. The two trestles were still there in front of the altar, under the painted ceiling. There was nothing on them. Somebody had folded the canvas cover and left it on one of them, very neatly, and nobody had moved it.
 
-They sat on the front bench, the five of them. Salty at the end, very carefully, with his ribs bound and his face grey. Wendy beside him. Then Maigo, who hadn't said a word since the grave. Then Mashi, with the bloody handkerchief still in his hand. Yan didn't sit. He stood in front of them, beside the empty trestles, with Suzu round his neck and his hands folded in front of him, so that they wouldn't see them shake. Mashi saw anyway.
+They sat on the front bench, the five of them. Salty at the end, very carefully, with his ribs bound and his face grey. Wendy beside him. Then Maigo, who hadn't said a word since the grave. Then Niko, with the bloody handkerchief still in his hand. Yan didn't sit. He stood in front of them, beside the empty trestles, with Suzu round his neck and his hands folded in front of him, so that they wouldn't see them shake. Niko saw anyway.
 
 "I'm going to tell you what I saw," said Yan. "And then I'm going to tell you what I think. And I want you to tell me if I'm wrong."
 
@@ -205,7 +205,7 @@ Yan looked at him.
 
 He stopped. His hands had come apart in front of him. He put them back together.
 
-"His leaned toward every one of us," said Yan. "When he looked at us, at the grave. One at a time. Salty. Wendy. Mashi. Me. Maigo." His voice went, very slightly, on the last name, and came back. "It leaned toward us the way you lean toward a fire, when you've come in from the cold. As if he'd been out in the cold for a very long time."
+"His leaned toward every one of us," said Yan. "When he looked at us, at the grave. One at a time. Salty. Wendy. Niko. Me. Maigo." His voice went, very slightly, on the last name, and came back. "It leaned toward us the way you lean toward a fire, when you've come in from the cold. As if he'd been out in the cold for a very long time."
 
 The chapel was very quiet.
 
@@ -215,15 +215,15 @@ The chapel was very quiet.
 
 Nobody said anything for a long time.
 
-Then Mashi said, "He holds angles."
+Then Niko said, "He holds angles."
 
 They all looked at him.
 
-"He never peeks first," said Mashi. He was looking at the handkerchief in his hands, not at them. "He made them come to him. Every one. That's the reel. He reels them into the place he's already looking. And the north one, the one that ran at him. He waited till five paces. He held it till five paces." He swallowed. "I played against an AWPer for years, on a community server, when I was seventeen. He never peeked first. He held so long you forgot he was there. And when you moved, he was already looking at where you were going." He looked up. "Ice. That was Ice. I lost to him about four hundred times."
+"He never peeks first," said Niko. He was looking at the handkerchief in his hands, not at them. "He made them come to him. Every one. That's the reel. He reels them into the place he's already looking. And the north one, the one that ran at him. He waited till five paces. He held it till five paces." He swallowed. "I played against an AWPer for years, on a community server, when I was seventeen. He never peeked first. He held so long you forgot he was there. And when you moved, he was already looking at where you were going." He looked up. "Ice. That was Ice. I lost to him about four hundred times."
 
 "You never told us that," said Maigo. Very quietly. The first thing he'd said all morning.
 
-"It's embarrassing," said Mashi. "Four hundred."
+"It's embarrassing," said Niko. "Four hundred."
 
 Maigo laughed. It came out wet.
 
@@ -245,7 +245,7 @@ Salty shifted on the bench, very carefully, and winced.
 
 Wendy hadn't said anything.
 
-She sat beside Salty with her hand on his knee and her silent headphones round her neck and her fingers on the little star on her necklace, turning it. She'd been turning it the whole time. Mashi watched her do it. She was looking at the empty trestles.
+She sat beside Salty with her hand on his knee and her silent headphones round her neck and her fingers on the little star on her necklace, turning it. She'd been turning it the whole time. Niko watched her do it. She was looking at the empty trestles.
 
 Yan looked at her.
 
@@ -259,7 +259,7 @@ Wendy turned the little star on its chain once more, and let it go.
 
 "I believe it," she said.
 
-She said it flatly, the way she said everything. As if it cost her nothing. Mashi could see exactly what it cost her.
+She said it flatly, the way she said everything. As if it cost her nothing. Niko could see exactly what it cost her.
 
 Yan closed his eyes.
 
@@ -297,11 +297,11 @@ She'd folded her arms. Her mismatched eyes were very steady. "We post *the Hero 
 
 Maigo opened his mouth, and shut it.
 
-"He let them go," said Mashi.
+"He let them go," said Niko.
 
 They looked at him.
 
-"The scouts," said Mashi. "He could have taken all of them. I watched the line go out after them, four hundred paces, faster than they could run. And it stopped. And came back empty." He turned the handkerchief over in his hands. "He wanted them to run home. He wanted Kharvos to know the Black Blade came for his sword. That's all he wanted them to know. Not where he went. Not who he is." He paused. "If he'd wanted anyone to know who he is, he'd have said. He was standing right in front of us."
+"The scouts," said Niko. "He could have taken all of them. I watched the line go out after them, four hundred paces, faster than they could run. And it stopped. And came back empty." He turned the handkerchief over in his hands. "He wanted them to run home. He wanted Kharvos to know the Black Blade came for his sword. That's all he wanted them to know. Not where he went. Not who he is." He paused. "If he'd wanted anyone to know who he is, he'd have said. He was standing right in front of us."
 
 ***
 
@@ -341,7 +341,7 @@ Then it broke.
 
 ***
 
-It went the way Mashi had known it would. The way the channel always went now, since the night of the sum. Thirty people at once, all over the kingdom, all reading the same lines, all typing.
+It went the way Niko had known it would. The way the channel always went now, since the night of the sum. Thirty people at once, all over the kingdom, all reading the same lines, all typing.
 
 [ Tiger: WAIT
 Tiger: WAS IT HIM
@@ -368,19 +368,19 @@ And Maigo, who had written every single line in that channel for a year in capit
 
 [ Maigo: he didn't say ]
 
-Lowercase. Quiet. Mashi looked at it, and looked at Maigo, and Maigo didn't look back.
+Lowercase. Quiet. Niko looked at it, and looked at Maigo, and Maigo didn't look back.
 
 The channel went on for a while. Questions. Guesses. Tiger in capitals. Malcolm with an IF. Milli, very carefully, from the capital: *If he took the sword back, he's alive and he's strong and he's close enough to the Redmarch to walk there. That's three things we didn't know yesterday.* Group 3 didn't add anything. They'd said what they were going to say. They held.
 
 ***
 
-Mashi noticed two things, sitting there.
+Niko noticed two things, sitting there.
 
 The first was a line from Duskhollow. It came in late, after most of the noise, on its own.
 
 [ Xavier: how many times did he move ]
 
-Mashi looked at it for a long time. Then he wrote:
+Niko looked at it for a long time. Then he wrote:
 
 [ Nikorasu: once. every time. ]
 
@@ -389,7 +389,7 @@ There was a long pause. Long enough that the line nearly went off the top.
 [ Xavier: yeah.
 Xavier: i know. ]
 
-That was all. Mashi didn't know what Xav knew, or how. He thought about a sword-mistress Xav had written about, once, in a letter: forty recruits in a ditch on the Redmarch, and one man who came for them and *only ever moved once*. He thought about Petra telling Xav that Xav did it too. He didn't write anything else. Neither did Xav.
+That was all. Niko didn't know what Xav knew, or how. He thought about a sword-mistress Xav had written about, once, in a letter: forty recruits in a ditch on the Redmarch, and one man who came for them and *only ever moved once*. He thought about Petra telling Xav that Xav did it too. He didn't write anything else. Neither did Xav.
 
 The second thing was the lines that didn't come.
 
@@ -403,7 +403,7 @@ And from Valcrest, a little later, one more line, the same shape:
 
 [ Winter: Glad you're safe. ]
 
-Mashi looked at those two lines for a long time.
+Niko looked at those two lines for a long time.
 
 Then he closed his window, and didn't say anything to anyone about them. He thought, maybe, he wasn't the only one in the kingdom who'd learned to hold an angle.
 
@@ -429,7 +429,7 @@ There was a pause.
 
 "I *know* I'd lose. That's not the *point*." She picked her spoon back up. Her hand wasn't quite steady. "I just want to know what it feels like. Losing to that."
 
-Maigo started laughing. It came out of him all at once, helplessly, the first real noise he'd made since the grave, and then Wendy was laughing too, and Salty, holding his ribs and swearing, and Rhea glaring at all of them and then not glaring, and Yan with his hand over his eyes. And Mashi sat in the middle of it with his porridge and his bloody handkerchief and thought: *yes.* That was exactly it. That was what it had felt like. Four hundred times.
+Maigo started laughing. It came out of him all at once, helplessly, the first real noise he'd made since the grave, and then Wendy was laughing too, and Salty, holding his ribs and swearing, and Rhea glaring at all of them and then not glaring, and Yan with his hand over his eyes. And Niko sat in the middle of it with his porridge and his bloody handkerchief and thought: *yes.* That was exactly it. That was what it had felt like. Four hundred times.
 
 He wouldn't have given back a single one.
 
@@ -445,7 +445,7 @@ His nose bled. He didn't faint. He sat there with the handkerchief pressed to hi
 
 *nice one. again.*
 
-"Again," said Mashi, to nobody, and breathed out.
+"Again," said Niko, to nobody, and breathed out.
 
 ***
 

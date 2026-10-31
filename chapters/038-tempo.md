@@ -217,7 +217,7 @@ Newish looked down at the table. At their two hands. She thought about the beat 
 
 Ina looked at her.
 
-"With Ice. The last night. Before he died." She didn't know why she was saying it. It just came out. "Me and Yan and Mashi and Gabe. We were playing CS. He missed a shot and blamed the server. And then he said he was going to bed, and I told him he was a coward, and he said *love you guys, except Newish.*" She laughed, shakily. "And I said *rude*, and he said *joking, mostly, trust*, and then he left the call. That was the last thing he ever said to me." She was crying now. She didn't try to stop. "Three years, and I still think about it. That I said *rude*. That that was the last thing I ever said to him."
+"With Ice. The last night. Before he died." She didn't know why she was saying it. It just came out. "Me and Yan and Niko and Gabe. We were playing CS. He missed a shot and blamed the server. And then he said he was going to bed, and I told him he was a coward, and he said *love you guys, except Newish.*" She laughed, shakily. "And I said *rude*, and he said *joking, mostly, trust*, and then he left the call. That was the last thing he ever said to me." She was crying now. She didn't try to stop. "Three years, and I still think about it. That I said *rude*. That that was the last thing I ever said to him."
 
 Nobody at the table said anything. Chris had stopped writing. Hako had put down his spoon. Winter was looking at Newish with her strange two-coloured eyes, very steady.
 

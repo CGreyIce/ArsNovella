@@ -109,7 +109,7 @@ Yan considered him with the seriousness the question deserved. "Yes."
 
 "*Sick,*" said Maigo.
 
-Salty was already on his feet, arms a little out from his sides as if he expected the floor to try something: exactly himself, short and broad and unimpressed. Wendy sat behind him with her lavender headphones pressed to her ears, her face going blank as she realised nothing was coming through. Mashi sat cross-legged, thin and calm as ever, reading something in the air that nobody else could see.
+Salty was already on his feet, arms a little out from his sides as if he expected the floor to try something: exactly himself, short and broad and unimpressed. Wendy sat behind him with her lavender headphones pressed to her ears, her face going blank as she realised nothing was coming through. Niko sat cross-legged, thin and calm as ever, reading something in the air that nobody else could see.
 
 "Status window," he said, before Yan could ask. "You've got one too. Think about it and it opens."
 

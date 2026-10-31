@@ -175,7 +175,7 @@ She'd been watching the courier's satchel every day for three weeks, and now her
 
 So Aleaka sat down by the fire and read them aloud, and Oswin, who had come in behind them and then not left, took out a pencil and the folded map from inside his coat, and began to add lines.
 
-Yan's letter was careful and slow, like Yan. He'd met Salty and Wendy and Maigo through games, he said; Mashi through a different game, years before. He'd met half the people in Group 7 through his own friends. He'd met Kei through someone. Then there was a gap, and a crossing-out, and then, *through a friend we lost. Ice. Most of us did, I think. I don't know if that's what you're asking.*
+Yan's letter was careful and slow, like Yan. He'd met Salty and Wendy and Maigo through games, he said; Niko through a different game, years before. He'd met half the people in Group 7 through his own friends. He'd met Kei through someone. Then there was a gap, and a crossing-out, and then, *through a friend we lost. Ice. Most of us did, I think. I don't know if that's what you're asking.*
 
 Kei's letter said much the same, in a different shape, with three rude comments from Hisui in the margins.
 

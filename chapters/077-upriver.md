@@ -25,7 +25,7 @@ He didn't understand it at first. He just knew it looked wrong, the way a room l
 
 He didn't hit the top.
 
-He kept scrolling. Past Dennis's post from two in the morning. Past Dennis's *second* post, and his third. Past Rachael's *I'm fine, really*, which had gone up and away in a minute last night and was still here, sitting in the channel, as if it had never left. Past Xav's *what happened? where's dennis's post?* Past Mashi's heartbeats from yesterday evening, and Tiger's goat, and Kei's mushroom. Back, and back. Yesterday afternoon. Yesterday *morning*.
+He kept scrolling. Past Dennis's post from two in the morning. Past Dennis's *second* post, and his third. Past Rachael's *I'm fine, really*, which had gone up and away in a minute last night and was still here, sitting in the channel, as if it had never left. Past Xav's *what happened? where's dennis's post?* Past Niko's heartbeats from yesterday evening, and Tiger's goat, and Kei's mushroom. Back, and back. Yesterday afternoon. Yesterday *morning*.
 
 And at the front of every line, small and grey, where nothing had ever been before, there was a time.
 
