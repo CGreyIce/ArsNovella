@@ -367,7 +367,7 @@ He looked at Deston for a long time.
 
 He told them the rest quickly, because the rest was easier.
 
-The morning after. Walking back across the red, through what he'd done, to the place on the rise where she was. Burying her there himself, with his hands, because nobody else could get near him and he wouldn't have let them. Planting the black sword over her, point down, the only thing he had that was big enough. Carving the line into it, by the grip, in a language nobody in this world could read, because it was the only thing he could think of that wasn't *sorry*.
+The morning after. Walking back across the red, through what he'd done, to the place on the rise where she was. Carrying her away from the ring, down off the rise and west, to a knoll above the old dry river. Burying her there himself, with his hands, because nobody else could get near him and he wouldn't have let them. Planting the black sword over her, point down, the only thing he had that was big enough. Carving the line into it, by the grip, in a language nobody in this world could read, because it was the only thing he could think of that wasn't *sorry*.
 
 "*Ad astra per aspera*," said Xav. "It was in the channel. Last summer. We all knew whose it was the second we saw it. Nobody else we knew would carve *Latin* on a grave."
 
