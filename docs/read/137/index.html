@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter 137: Memory Leak | The Fisherman of Lake Ilse</title>
+<meta name="description" content="Chris had a bug in his left leg. He&#x27;d said so, out loud, in the first month, at the Broken Lance, at dinner, and everyone at the table had looked at him the way people had looked…">
+<meta property="og:title" content="Chapter 137: Memory Leak | The Fisherman of Lake Ilse">
+<meta property="og:description" content="Chris had a bug in his left leg. He&#x27;d said so, out loud, in the first month, at the Broken Lance, at dinner, and everyone at the table had looked at him the way people had looked…">
+<meta property="og:type" content="book">
+<meta name="theme-color" content="#15181d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/reader.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2315181d'/%3E%3Ccircle cx='42' cy='22' r='9' fill='%23e9eef2'/%3E%3Cpath d='M10 44h44' stroke='%237cc4e8' stroke-width='4' stroke-linecap='round'/%3E%3Cpath d='M16 52h32' stroke='%237cc4e8' stroke-width='3' stroke-linecap='round' opacity='.6'/%3E%3C/svg%3E">
+<link rel="prev" href="../../read/136/">
+<link rel="next" href="../../read/138/">
+<script src="../../assets/reader.js"></script>
+</head>
+<body class="reader" data-root="../../" data-n="137" data-label="Chapter 137" data-title="Memory Leak" data-prev="../../read/136/" data-next="../../read/138/">
+<a class="skip" href="#chapter">Skip to the chapter</a>
+<header class="topbar">
+  <a class="brand" href="../../" title="Series details"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span>The Fisherman of Lake Ilse</span></a>
+  <div class="tools">
+    <a class="tool" href="../../#chapters" title="All chapters"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg><span>Chapters</span></a>
+    <button type="button" class="tool" data-open-settings title="Reader settings"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/></svg><span>Settings</span></button>
+    <button type="button" class="tool" data-fullscreen title="Fullscreen"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg><span>Fullscreen</span></button>
+  </div>
+  <div class="progress" aria-hidden="true"><div class="progress-bar"></div></div>
+</header>
+<main class="wrap">
+  <nav class="chapnav top" aria-label="Chapter navigation"><a class="nav-btn" href="../../read/136/" rel="prev"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>Previous</span></a><label class="chap-select"><span class="sr">Jump to chapter</span><select data-jump><option value="0">Prologue: Goodnight</option><option value="1">Chapter 1: Thirty-Five</option><option value="2">Chapter 2: No One We Can Confirm</option><option value="3">Chapter 3: Seven Roads</option><option value="4">Chapter 4: The Fisherman</option><option value="5">Chapter 5: Alea</option><option value="6">Chapter 6: The Hero&#x27;s Words</option><option value="7">Chapter 7: Where They Buried Them</option><option value="8">Chapter 8: The River Road</option><option value="9">Chapter 9: Tracks</option><option value="10">Chapter 10: The Lists</option><option value="11">Chapter 11: The Hollow</option><option value="12">Chapter 12: Kingsferry</option><option value="13">Chapter 13: Reports</option><option value="14">Chapter 14: Fish</option><option value="15">Chapter 15: Scouts</option><option value="16">Chapter 16: Court</option><option value="17">Chapter 17: Bracket</option><option value="18">Chapter 18: Second Act</option><option value="19">Chapter 19: Respawn</option><option value="20">Chapter 20: The Infirmary</option><option value="21">Chapter 21: The Quiet</option><option value="22">Chapter 22: Two Colours</option><option value="23">Chapter 23: The Buried Question</option><option value="24">Chapter 24: Visiting</option><option value="25">Chapter 25: First Snow</option><option value="26">Chapter 26: The Council</option><option value="27">Chapter 27: Night Market</option><option value="28">Chapter 28: Postponed</option><option value="29">Chapter 29: The Edge</option><option value="30">Chapter 30: Thirty-Four Winters</option><option value="31">Chapter 31: Coats</option><option value="32">Chapter 32: The Deep Ring</option><option value="33">Chapter 33: The New Book</option><option value="34">Chapter 34: Spring on the Redmarch</option><option value="35">Chapter 35: Holding</option><option value="36">Chapter 36: The West Company</option><option value="37">Chapter 37: Lake Ice</option><option value="38">Chapter 38: Tempo</option><option value="39">Chapter 39: Ossie</option><option value="40">Chapter 40: Missing Letters</option><option value="41">Chapter 41: Green</option><option value="42">Chapter 42: The Faint Thread</option><option value="43">Chapter 43: Below</option><option value="44">Chapter 44: Full Moon</option><option value="45">Chapter 45: Rule Five</option><option value="46">Chapter 46: What Was He Like</option><option value="47">Chapter 47: One Cast</option><option value="48">Chapter 48: The Cold One</option><option value="49">Chapter 49: The Roof</option><option value="50">Chapter 50: Close</option><option value="51">Chapter 51: The Carving</option><option value="52">Chapter 52: Yes, Ma&#x27;am</option><option value="53">Chapter 53: The Pass</option><option value="54">Chapter 54: Mask</option><option value="55">Chapter 55: Let Them</option><option value="56">Chapter 56: Slow Clock</option><option value="57">Chapter 57: Now</option><option value="58">Chapter 58: Firewood</option><option value="59">Chapter 59: The Sum</option><option value="60">Chapter 60: Three Years</option><option value="61">Chapter 61: The Last Stretch</option><option value="62">Chapter 62: Hook, Reel, Cut</option><option value="63">Chapter 63: The Tree</option><option value="64">Chapter 64: Two Candles</option><option value="65">Chapter 65: The Long Bundle</option><option value="66">Chapter 66: No Charm</option><option value="67">Chapter 67: The North Road</option><option value="68">Chapter 68: The King&#x27;s Hens</option><option value="69">Chapter 69: Stones</option><option value="70">Chapter 70: Scope</option><option value="71">Chapter 71: The Cut</option><option value="72">Chapter 72: Astra</option><option value="73">Chapter 73: Again</option><option value="74">Chapter 74: Halfway</option><option value="75">Chapter 75: The Honest Book</option><option value="76">Chapter 76: The Third Hunter</option><option value="77">Chapter 77: Upriver</option><option value="78">Chapter 78: Unseen</option><option value="79">Chapter 79: Not in a Hurry</option><option value="80">Chapter 80: The King&#x27;s Answer</option><option value="81">Chapter 81: The Sealed Room</option><option value="82">Chapter 82: He&#x27;ll Be the One Talking</option><option value="83">Chapter 83: Ad Astra</option><option value="84">Chapter 84: First Ice</option><option value="85">Chapter 85: Two Hundred Lines</option><option value="86">Chapter 86: Midwinter</option><option value="87">Chapter 87: Not Yet Is Over</option><option value="88">Chapter 88: Four Fish</option><option value="89">Chapter 89: The Lake Road</option><option value="90">Chapter 90: Supper</option><option value="91">Chapter 91: The Basket Stays Five</option><option value="92">Chapter 92: Root</option><option value="93">Chapter 93: Kin</option><option value="94">Chapter 94: Pairs</option><option value="95">Chapter 95: Chalk</option><option value="96">Chapter 96: Rehearsal</option><option value="97">Chapter 97: Thaw</option><option value="98">Chapter 98: Waiting at Duskhollow</option><option value="99">Chapter 99: IF Upriver</option><option value="100">Chapter 100: The Narrows</option><option value="101">Chapter 101: Mend</option><option value="102">Chapter 102: The Lake Country</option><option value="103">Chapter 103: The Last Mile</option><option value="104">Chapter 104: The Third Part</option><option value="105">Chapter 105: Brothers</option><option value="106">Chapter 106: Okay. Again.</option><option value="107">Chapter 107: No Bells</option><option value="108">Chapter 108: Nomen</option><option value="109">Chapter 109: His Father</option><option value="110">Chapter 110: Exactly Where It Should Go</option><option value="111">Chapter 111: Fifteen</option><option value="112">Chapter 112: The Teacher</option><option value="113">Chapter 113: The Spot</option><option value="114">Chapter 114: Threads and Windows</option><option value="115">Chapter 115: Ask</option><option value="116">Chapter 116: Fledgling</option><option value="117">Chapter 117: Nobody Follows</option><option value="118">Chapter 118: The Road South</option><option value="119">Chapter 119: Every Thread</option><option value="120">Chapter 120: The Night Before</option><option value="121">Chapter 121: The North Gate</option><option value="122">Chapter 122: Twelve</option><option value="123">Chapter 123: You Can Stop Wondering</option><option value="124">Chapter 124: And You Too</option><option value="125">Chapter 125: Alice</option><option value="126">Chapter 126: Flashlight</option><option value="127">Chapter 127: Sideways</option><option value="128">Chapter 128: Bring the Girl</option><option value="129">Chapter 129: Horseshoes</option><option value="130">Chapter 130: Yun</option><option value="131">Chapter 131: Two Summers Ago</option><option value="132">Chapter 132: The Banner</option><option value="133">Chapter 133: Ask</option><option value="134">Chapter 134: Hooks</option><option value="135">Chapter 135: Wait for It</option><option value="136">Chapter 136: Sto</option><option value="137" selected>Chapter 137: Memory Leak</option><option value="138">Chapter 138: Pale Light</option><option value="139">Chapter 139: Okay. Again.</option><option value="140">Chapter 140: Two Hooks</option></select></label><a class="nav-btn" href="../../read/138/" rel="next"><span>Next</span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></a></nav>
+  <article class="chapter" id="chapter">
+    <header class="chapter-head">
+      <p class="kicker"><a href="../../">The Fisherman of Lake Ilse</a> · Volume 5: The Lists</p>
+      <p class="label">Chapter 137</p>
+      <h1>Memory Leak</h1>
+      <p class="meta">6,222 words · 27 min read</p>
+    </header>
+    <div class="chapter-body">
+<p>Chris had a bug in his left leg.</p>
+<p>He’d said so, out loud, in the first month, at the Broken Lance, at dinner, and everyone at the table had looked at him the way people had looked at him all his life when he said things like that. <em>I think my left leg has a memory leak</em>. Ina had put his cup down. Newish had laughed so hard she’d choked. Ysolde had looked at him across the table for a long time with her curled ram’s horns and her unreadable face, and then said, slowly, <em>I have no idea what that means and I think you’re right</em>.</p>
+<p>He’d meant it. He always meant it. That was the thing nobody understood about Chris for the first few weeks they knew him, and then understood completely: he wasn’t being strange on purpose. He was just describing what he saw, in the only words he’d ever had for it.</p>
+<p>He was a programmer. He’d been one for years before the hall. And when you’d spent years making things that were supposed to work and finding out why they didn’t, you started seeing the world that way. Everything was a system. Everything had inputs and outputs. And when something didn’t work the way it should, it was because somewhere, deep in it, there was a bug.</p>
+<p>Aura was a system. He’d known that the first week, when Ysolde put a longsword in his hand on the sand of the Lists and said <em>feel for it</em>. It was hard. It was the hardest thing he’d ever tried to learn. And it was a system: you did something, and the bar moved, or it didn’t. So he’d logged it. Every session. Every morning for two years, in English pseudo-code in a cheap notebook, because he couldn’t write the script here and wouldn’t have thought in it if he could. <em>Session 412. Footwork drill, left lead. Bar +0.1. Left leg: lag on the pivot. Again.</em> And he’d isolated it, and fixed it, and run it again.</p>
+<p>He’d fixed a lot of things. His bar was at ninety-nine point four. It had been at ninety-nine point four for nine days.</p>
+<p>The bug was in his left leg. He’d known that since the first month. Every log, every session, every drill: the left leg lagged. Not much. A fraction. A hesitation on the pivot, a tiny delay when he stepped left, as if the leg were waiting for something before it committed. He’d logged it four hundred times. He’d drilled it, isolated it, rebuilt the movement from scratch, and the moment he stopped thinking about it, the lag came back.</p>
+<p>A memory leak. Something allocated, somewhere, that never got freed. A slot held open for something that was never coming.</p>
+<p>He hadn’t known what it was holding open for.</p>
+<p>He’d find out at about the third hour of the afternoon on the sixty-fourth day, in the final of the Trios, in front of forty thousand people, with the man it was for sitting on the fourth tier of the east stand with two bees on his head.</p>
+<hr class="scene">
+<p>“<em>One Down</em>,” said Newish, reading it off the entry slip. “You called us <em>One Down</em>.”</p>
+<p>“It’s accurate,” said Chris.</p>
+<p>“It’s <em>depressing</em>.”</p>
+<p>“It’s <em>Apex</em>,” said Chris. “It’s what you say when you lose a teammate. <em>One down</em>. We’ve been one down for three years.” He looked at the slip, at his own small square English capitals. “I thought we should own it.”</p>
+<p>Winter, on his other side, didn’t say anything. She’d read it over his shoulder at breakfast, when he wrote it, and her face had done nothing at all, which was how he knew it had landed.</p>
+<p>They were sitting on the bottom tier of the east stand with the rest of the trios in the long morning, waiting for the bracket. Drew had painted it last night, a neat sixteen-slot tree under the squad column on the forty-foot wall, with eleven teams in it and five byes. Any three. Any groups. Drew’s homage, he called it, to a tournament he’d run once from his bedroom, in which Ice had died in every single round, narrating it, and been carried to a win by his two teammates. <em>For the one I ran before</em>.</p>
+<p>Chris had watched that tournament. He’d watched the final on the stream, with Drew doing the commentary because he’d muted the casters, and laughed until he cried.</p>
+<p>He’d known Ice for a little over a year, then. He’d known him for a little over a year when he died. He’d wanted, one day, to meet him in person.</p>
+<p>He looked up at the fourth tier of the east stand.</p>
+<p><em>Logging</em>, he thought. <em>Day 64. Met him in person. Five days ago. Still processing.</em></p>
+<hr class="scene">
+<p>He’d only ever played Apex with Ice in two trios.</p>
+<p>That was the thing about Group 7 that nobody outside it really understood, and that he’d tried to explain to Lucan once and given up. They hadn’t been one squad. They’d been two. Chris and Winter and Ice. Chris and Newish and Ice. Two different trios, on two different nights of the week, with Ice the third in both and Chris the anchor of both, and Winter and Newish had hardly ever played together at all, because whenever one of them was on, the other one was the one Ice was playing with.</p>
+<p>And then Ice had died. And both trios had been one down at once.</p>
+<p>And then they’d come through a hall in Solmere, and the Advisor had looked at the five of them and sent them to Valcrest together, and Chris had found himself standing on the sand of the Lists in the first week with Winter on one side of him and Newish on the other, and nobody on his left.</p>
+<p>He’d always had somebody on his left. In both trios. Ice played left. Always. <em>I’m left</em>, he’d say, at the start of every match, in voice, before anyone else could pick. <em>I’m left, you’re centre, she’s whatever’s left over</em>. And he’d go left, first through the door, loudly, and die, narrating it, and Chris would come in behind him knowing exactly where everybody was because Ice had just shown him.</p>
+<p>Chris had been fighting for two years with a gap on his left where a man used to be.</p>
+<p>He hadn’t noticed. That was the thing. He’d logged four hundred sessions and never once written it down, because it wasn’t in his leg. It was in him. His leg was just doing what it had always done: waiting, on the pivot, a fraction of a second, for somebody to go left first.</p>
+<hr class="scene">
+<p>Round one, they beat Gabe and Deston and Calvin.</p>
+<p>It took a long time. They were Ice’s in-person friends, two of them his brothers, and they fought like brothers: Gabe in front like a wall, <em>Sto</em> on his back and his body harder than it had been yesterday, Drawn and still not used to it; Deston in the middle with his threads, listening, telling them where everyone was going in a voice like a held note; Calvin on the wind. They knew each other. They’d known each other half their lives.</p>
+<p>But they’d never played Apex. Not once. And Chris had.</p>
+<p>He’d played Apex with Ice for a year, two nights a week. He knew what a trio was. It wasn’t three people standing next to each other. It was three people who knew, without saying anything, which of them was going to go first and which of them was going to come in behind and which of them was going to hold the angle and wait. You didn’t decide it. You just knew. And when it worked, it looked like one person with six arms.</p>
+<p>Gabe and Deston and Calvin were three people standing next to each other. Very good people. Brothers. But three.</p>
+<p>Newish slowed Calvin’s wind. Winter frosted the sand under Gabe’s feet, the way she’d frosted the sand under a demon last summer, and the wall slipped. Chris came in on the right, the way he always did, and touched Deston very lightly on the shoulder with the flat of his longsword while Deston was listening to something else.</p>
+<p>“<em>Out</em>,” said the marshal.</p>
+<p>Deston looked down at the blade on his shoulder, and then at Chris, and laughed, the soft held-note laugh of a man who’s just been beaten by somebody he likes.</p>
+<p>“You never went left,” said Deston.</p>
+<p>Chris looked at him.</p>
+<p>“Your threads,” said Deston. “All three of yours. They go round you in a triangle, but it’s open on one side. On the left. The whole time. Like there’s a hole there.” He shook his head. “I thought I’d get you through it. You never let me near it.”</p>
+<p>Chris didn’t say anything. He was already writing it down.</p>
+<p><em>Deston: thread gap, left. Note</em>.</p>
+<hr class="scene">
+<p>Round two, they beat Ina and Hako and Tiger.</p>
+<p>That one hurt. They were Group 7, or two-thirds of it, with a tiger boy bolted on, and they’d been training on the same sand every morning for two years. Ina knew exactly what Winter’s frost did. Hako knew exactly how Chris moved, because he’d been holding the far angle behind him for two years watching him do it. Tiger was just fast.</p>
+<p>They won it because Hako peeked.</p>
+<p>He’d learned to, yesterday, on the side sand, against Milli, flat on his back, laughing at the sky. Now he couldn’t stop. He peeked at everything. He went all the way, every time, the whole spear, nothing held back, and it was beautiful and terrifying to watch and he was very, very dangerous. And Newish slowed him by half a beat at exactly the wrong moment, and Winter’s frost took his front foot, and he went all the way into nothing and sat down on the sand, laughing again.</p>
+<p>“<em>Again</em>,” said Hako.</p>
+<p>“Not today,” said Newish.</p>
+<p>Ina went out last, to Chris, with his mask on, very gracefully, and pushed it up afterwards and said in his garden-party voice, “You still don’t go left, Chris. Did you know that? You never have. Two years.”</p>
+<p>Chris looked at him.</p>
+<p>“I know,” said Chris. “Deston said.”</p>
+<p>“Deston’s very perceptive,” said Ina. “So am I. So is everyone. We’ve all known for ages.” He tilted his head, the one purple horn catching the sun. “We thought you knew.”</p>
+<p><em>Ina: also noticed. Everyone noticed. Note</em>.</p>
+<hr class="scene">
+<p>The semifinal was Xav and RX and Malcolm.</p>
+<p>Group 6. Ice’s class, from the polytechnic in Singapore, five gamers who’d played MMOs together for years and went into everything like a party going into a dungeon: tank, damage, support, everybody knowing their job. Xav, who fought like Ice thought. RX, who you couldn’t see. Malcolm, with a contingency for everything, who’d strengthened Xav’s blade before the bell and then stood at the back writing <em>IF they go left, THEN</em>.</p>
+<p>“They won’t go left,” said RX, very fast, at the start. “They never go left. Chris doesn’t go left. Everyone knows.”</p>
+<p>“<em>Everyone knows</em>,” said Newish, under her breath, furious. “Why does <em>everyone</em> know?”</p>
+<p>“Because it’s true,” said Winter.</p>
+<p>They won it. Just. Because Winter, for the first time in two years, went left.</p>
+<p>Chris saw her do it. He didn’t understand it, at the time. Xav had come at them on the right, the way everybody did now, because everybody knew Chris covered the right and nobody covered the left. And RX had come round the left, unseen, pulled in, nearly impossible to sense, into the hole that everybody knew was there. And Chris had felt his left leg do the thing it always did, the lag on the pivot, the fraction of a second’s wait for somebody to go left first.</p>
+<p>And somebody had.</p>
+<p>Winter had gone left. Straight into the hole. Into RX, who she couldn’t see, who nobody could see. And she’d frosted the sand in front of her as she went, without looking, and RX, who’d been very sure nobody would be there, had stepped on frost that wasn’t there a moment before and gone down on his back with a surprised <em>oh</em>.</p>
+<p>“<em>Out</em>,” said the marshal.</p>
+<p>Winter stood in the place on Chris’s left where nobody had ever stood. Her face did nothing. She looked at Chris over her shoulder.</p>
+<p>Then she went back to the centre, where she always was, and the gap was open again.</p>
+<p>Chris didn’t say anything. He was too busy beating Xav, which took everything he had, because Xav waited the way the man on the fourth tier waited and Chris had to wait longer. And Newish beat Malcolm by slowing his contingency, which Malcolm hadn’t planned for, which he said afterwards was the first thing he’d ever failed to plan for and he was going to write it down.</p>
+<p>They were in the final.</p>
+<p>Chris sat on the bottom tier afterwards with his notebook on his knee and looked at the last line he’d written.</p>
+<p><em>Winter: went left. Once. Then went back</em>.</p>
+<p>He looked at it for a long time.</p>
+<hr class="scene">
+<p>The other half of the bracket had gone the way everyone said it would.</p>
+<p>Yan and Mashi and Wendy. Group 3, or three-fifths of it: Salty was in the Singles and Maigo had entered the Trios with Thea and Higu, as <em>the Tree</em>, and been beaten in the first round by Yan’s trio because Maigo couldn’t stop talking. They’d come through four rounds without dropping anyone. They’d beaten Jared and Milli and Hana in the semifinal, and Hana had come off the sand afterwards saying <em>I’ve never been beaten so politely in my life</em>.</p>
+<p>They were Ice’s CS squad.</p>
+<p>That was the thing everyone kept saying, in the stands. Chris kept hearing it. <em>That’s his old squad. That’s his CS squad. That’s the one that won the Apex thing with him</em>. Yan had carried Ice in Apex. Ice had carried Yan in CS. They’d played every night for years. Mashi had known Ice since he was seventeen, on a community server, getting AWPed in mid. Wendy had been in every call.</p>
+<p>And Chris and Winter and Newish were Ice’s Apex trios. Both of them.</p>
+<p><em>Ice’s two old squads</em>, somebody said, in the stand above Chris, while the marshals chalked the final ring. <em>In a final. With him watching</em>.</p>
+<p>Chris looked up at the fourth tier.</p>
+<p>He was there. The end of a bench. A man nobody looked at, with a rod across his knees and two bees on his head. He was sitting very still.</p>
+<p>Chris had the strangest feeling, looking at him, that he was looking at a man watching two halves of his own life walk out onto the same sand from opposite ends.</p>
+<hr class="scene">
+<p>“<em>The final of the Trios</em>,” said Drew, from the master’s chair, without raising his voice, so that it went out over the whole bowl of the Lists like a kite. “One Down. And Yan, Mashi and Wendy.”</p>
+<p>They walked out.</p>
+<p>Chris on the right. Winter in the centre. Newish on the left of Winter. And to the left of Newish, nothing. A gap. Chris saw it. He’d never seen it before, not like this. He’d been walking out onto this sand with it for two years.</p>
+<p>Opposite them, Yan and Mashi and Wendy. Yan in the middle with the scythe Salty had made him, the long dark blade with its thousands of tiny crescents, and Suzu wound round the shaft of it, white, with her head on the curve of the iron. Mashi on Yan’s right, thin and chill, with his hands in his pockets, Initiate on two paths, the slowest of the thirty-five to rank up and the one everybody kept underestimating. Wendy on the left with her bow, and her silent lavender headphones round her neck, and a quiver of padded arrows.</p>
+<p>They stopped in the chalk ring, ten paces apart. Two trios.</p>
+<p>Neither of them moved. Not yet. The marshal hadn’t said <em>begin</em>.</p>
+<p>And all six of them, at the same moment, as if somebody had told them to, looked up at the fourth tier of the east stand.</p>
+<p>Chris saw Yan do it. And Mashi. And Wendy. And Winter, beside him, and Newish. And himself. Six people in a chalk ring on the great sand of the Lists, looking up past forty thousand people at the end of a bench, the way a team looks at its captain before the bell.</p>
+<p>The man on the fourth tier didn’t wave. He didn’t do anything.</p>
+<p>But Chris saw his hand come up, very slowly, and rest flat on his chest. Over his heart. And stay there.</p>
+<p>“<em>Begin</em>,” said the marshal.</p>
+<hr class="scene">
+<p>Wendy shot first.</p>
+<p>She always did. She was an archer; she shot at a distance and trusted nothing she couldn’t see. The padded arrow came off her bow so fast that Chris didn’t see it leave, and Newish was already saying <em>slow</em>, and the arrow slowed, in the air, halfway, as if it had flown into honey, and Chris stepped out of its way.</p>
+<p>Then Mashi moved.</p>
+<p>Chris had never seen Mashi fight properly. Nobody had, outside Group 3. He’d read about it, in the channel: Mashi trained both paths at once, aura and mana, which everyone said was a waste, and he’d been the slowest of the thirty-five to rank up, and he was still Initiate on both. And last summer, on the Redmarch, he’d done something nobody understood. A circle. Aura going out and mana coming in, end to end, on the breath, with no seam. One heartbeat. Then two. Then five.</p>
+<p>He did it now.</p>
+<p>Chris felt it before he saw it. A kind of hum, off the thin chill man on Yan’s right, as if something had started turning in him, round and round, very fast. And then Mashi was across the ring. Not fast, exactly. <em>Smooth</em>. The way water is smooth going over a weir. He came straight at the left of One Down.</p>
+<p>At the gap.</p>
+<p>“<em>Left</em>,” said Winter.</p>
+<p>Chris’s leg lagged.</p>
+<p>He felt it do it. The pivot. The fraction of a second’s wait. For somebody to go left first. And nobody did, because there was nobody there, there had never been anybody there, and Mashi came through the gap like water through a hole in a wall and was beside Newish before she’d finished turning, and touched her very lightly on the arm with the flat of a blunted short sword.</p>
+<p>“<em>Out</em>,” said the marshal.</p>
+<hr class="scene">
+<p>Newish looked at the sword on her arm.</p>
+<p>Then she looked at Chris. And Chris had never seen her face do what it did then. Not furious. Not ragebait. Something very quiet.</p>
+<p>“Chris,” she said. “You <em>never</em> go left.”</p>
+<p>“I know.”</p>
+<p>“I’ve been standing <em>next</em> to it. For two years. The hole. I’ve been standing <em>right next to it</em> trying to fill it every single time and you keep—“ She stopped. She stepped back to the chalk line, out, the way you had to. Her voice came across the ring at him. “<em>You keep stepping back into it</em>. Every time I go left, you step left too, and then you stop, and then you go back, and then I don’t know where you are. It’s like you’re waiting for someone.”</p>
+<p>Chris stood in the ring.</p>
+<p><em>It’s like you’re waiting for someone</em>.</p>
+<p>He looked at the gap on his left. Where Newish had been, a breath ago. Where Winter went once, in the semifinal, and then went back. Where Ice used to be. <em>I’m left, you’re centre, she’s whatever’s left over</em>.</p>
+<p>He’d thought the gap was empty.</p>
+<p>It wasn’t. It had never been empty. Winter had been trying to go there. Newish had been trying to go there. For two years. Every time. And every time they went, Chris’s left leg did what it had always done for a man who’d died three years ago: it waited for him to go first. And they’d felt it wait. And they’d stepped back. Because you don’t go into the place your anchor is holding for somebody else.</p>
+<p>A memory leak.</p>
+<p>Something allocated, somewhere, that never got freed. A slot held open for something that was never coming. And everything else in the system slowly running out of room, because that one slot was still reserved.</p>
+<p>He’d been holding Ice’s slot open for three years. And the people who’d been trying to fill it had nowhere to go.</p>
+<hr class="scene">
+<p>“<em>Chris</em>,” said Winter.</p>
+<p>She was beside him. In the centre. Where she always was. Mashi had gone back across the ring to Yan, very chill, hands back in his pockets, the hum gone quiet. Wendy had another arrow on the string. Yan hadn’t moved yet. He was standing in the middle of his trio with the scythe held low and Suzu on the shaft and his calm half-lidded eyes on Chris.</p>
+<p>Yan knew. Chris could see it. Yan had known Ice longer than anyone. Yan had seen the gap.</p>
+<p>“<em>Chris</em>,” said Winter again.</p>
+<p>“I know,” said Chris.</p>
+<p>“Do you?”</p>
+<p>He looked at her. Silver-white hair down her back, two black horns, pale-blue-and-pink eyes, half-lidded, and her face doing nothing at all. She’d been in Vietnam when Ice died. Offline. Two months. She’d come home and found out and been the last of all of them to know, and she’d decided she would never be the last to know anything again, and she’d made herself into somebody who noticed which way every secret in a room was moving.</p>
+<p>She’d noticed this one two years ago.</p>
+<p>“You knew,” said Chris.</p>
+<p>“Everyone knew.”</p>
+<p>“Why didn’t you <em>say</em>?”</p>
+<p>Winter looked at him for a long moment.</p>
+<p>“Because it was his,” she said. “The slot. It was his, and you were keeping it for him.” Her voice was very quiet. “I wasn’t going to take it off you. Not while you still needed it.” She looked up, past him. At the fourth tier. “You don’t need it any more.”</p>
+<p>Chris looked up too.</p>
+<hr class="scene">
+<p>He was still there. On the end of his bench. With his hand flat on his chest.</p>
+<p>And Chris understood, standing in the ring with one of his trio already out and two old squads of one man’s life facing each other on the sand, that the slot wasn’t empty because Ice was gone. The slot was empty because Ice was <em>here</em>. On the fourth tier. Three hundred feet away. Watching. He wasn’t coming down to play left. He’d never come down to play left again. He was sitting in the stands, in the caster’s seat, where Drew said you could see the whole thing.</p>
+<p>He’d come home. And he’d come home to <em>watch</em>.</p>
+<p>The slot wasn’t being held for anyone any more. There was nobody to hold it for.</p>
+<p>Chris breathed out.</p>
+<p>He didn’t decide to. It just went. All of it. Three years of it. The way you free memory, in a program, at the end of a process: you don’t do anything dramatic, you just tell the system that the space is available now. That nothing’s coming back to use it. That something else can go there.</p>
+<p>His left leg stopped waiting.</p>
+<p>He felt it stop. On the sand. A tiny thing, nothing anyone in the stands could have seen, a fraction of a second taken out of a pivot that had been there for two years. His weight came onto it properly, for the first time since the hall, without hesitating, without waiting for anybody, and the whole of him shifted, very slightly, to the left.</p>
+<p>And Winter, beside him, moved left too.</p>
+<p>Into the gap. Into the place he’d been holding. And this time his leg didn’t wait, and he didn’t step back into it, and there was room. She stood there on his left, where nobody had ever stood, and stayed.</p>
+<p>They were two. And there was no gap.</p>
+<hr class="scene">
+<p>Something happened in his hands.</p>
+<p>He’d logged everyone else’s. Twenty-three of them, over two years, in the channel and in person, every word they’d used: a door, a post, a held breath, letting go, a body hardening in a quench. He’d logged them all in his ALL GROUPS notebook with dates and percentages and the exact phrases, because that was what he did. He’d wondered what his would be. He’d assumed, privately, that it would be something technical.</p>
+<p>It was. A bit.</p>
+<p>It felt like a process finishing. Like a long, long job that had been running in the background for two years, using a little bit of everything, slowing everything else down, and then, at the end, with no fanfare, closing. Releasing everything it had been holding. All at once, the whole system had room. And into the room, up out of his feet and his hands and his chest, came the thing he’d been chasing every morning for four hundred and twelve sessions, warm and fast and <em>easy</em>, as if it had been there all along and he’d just never had enough free memory to run it.</p>
+<p>His window opened.</p>
+<p class="status-window">[ Chris · Tier 1: Drawn ]</p>
+<p>He looked at it.</p>
+<p><em>Logging</em>, he thought, quite calmly. <em>Day 64. Final of the Trios. Bug found: memory leak, left. Root cause: slot reserved for player three. Fix: free the slot</em>.</p>
+<p><em>Bar: one hundred</em>.</p>
+<hr class="scene">
+<p>“<em>Okay</em>,” said Yan, across the ring.</p>
+<p>Quietly. In his deep slow voice. Looking at Chris’s window, which he could see, the way they all could, when it was close. Looking at Winter on Chris’s left.</p>
+<p>And then Yan moved.</p>
+<p>He’d been standing still the whole bout. In the middle of his trio, with the scythe low. Now he came across the ring, not fast, slow and methodical like everything he did, and the long dark blade came round in a wide flat arc, and Suzu on the shaft lifted her head, and Chris saw the blade coming at him on the right, where he’d always been.</p>
+<p>He didn’t go right.</p>
+<p>He went left. For the first time in two years. His left leg took his weight without waiting for anything and he went left, into the space beside Winter, and the scythe went through the place where he’d been. And Winter, who was already there, who’d been trying to go there for two years, frosted the sand under Yan’s front foot without looking, and Yan’s foot went.</p>
+<p>Not all the way. Yan was too steady. But enough. He went down on one knee on the frost with the scythe across him, and Chris was already there, on the left, and the flat of his longsword touched Yan’s shoulder very lightly, right beside Suzu’s head.</p>
+<p>Suzu looked at the blade. Then at Chris. Her tongue went in and out once.</p>
+<p>“<em>Out</em>,” said the marshal.</p>
+<p>Yan looked up at Chris from one knee. His face did nothing. But his eyes went, very slightly, to the fourth tier, and back.</p>
+<p>“You went left,” said Yan.</p>
+<p>“I went left.”</p>
+<p>“He’d have liked that,” said Yan. And then, after a moment, the way he said everything: “Okay.”</p>
+<hr class="scene">
+<p>It was two against two after that, and it was over very fast, because Chris had stopped waiting for anyone.</p>
+<p>Wendy shot him from range and Winter put a wall of frost up in the air in front of him, a thin white pane of it that the padded arrow went into and stuck, quivering. Mashi came at Winter, smooth, humming, water over a weir, and Chris went left again, without thinking, and met him, and Mashi, who’d spent years learning how Ice played and how Chris played with him, who’d come through the gap on Chris’s left twenty minutes ago because he knew it would be there, found that it wasn’t there any more, and stopped.</p>
+<p>He looked at Chris. A long look. Chill and well put together and very, very surprised.</p>
+<p>“You closed it,” said Mashi.</p>
+<p>“I closed it.”</p>
+<p>“Huh,” said Mashi. He took one hand out of his pocket. Looked at Chris’s sword, a finger’s width from his ribs. “That’s new.” He took a breath. “I’m out, aren’t I.”</p>
+<p>“You’re out,” said the marshal.</p>
+<p>Wendy put her bow down. She looked at the two of them, Chris and Winter, standing together on the sand with no gap between them. She looked at Yan, on one knee in the frost. At Mashi, walking to the chalk line with his hands back in his pockets. At the fourth tier.</p>
+<p>“Fine,” said Wendy. She sounded, for once, not cynical at all. “Fine. I yield. You can have it.” She looked at Chris. “You earned it. Both of you.” A pause. “All three of you.”</p>
+<p>Newish, at the chalk line, made a sound like a kettle.</p>
+<p>“<em>One Down</em>,” said the marshal. “<em>The Trios to One Down.</em>”</p>
+<hr class="scene">
+<p>The Lists went up.</p>
+<p>Chris had been in the Lists two years now. He’d heard them roar for Group 7 on a festival night with something coming over the stands. He’d heard them roar for paper horns and an oni writing fire. He’d heard them laugh at a fallen gate yesterday until people fell off benches. He’d never heard them do this.</p>
+<p>They were chanting.</p>
+<p>Not <em>Chris</em>. He didn’t mind. Not <em>One Down</em>, which nobody in the stands could read. They were chanting a name, and it was coming from the north stand.</p>
+<p><em>WIN-TER</em>.</p>
+<p>Chris turned round and looked.</p>
+<p>The north stand. Where the visitors sat. Where a knot of men in grey and blue had shouted <em>demon</em> at a girl with horns three days ago, and been answered by a whole city holding up paper. The north stand was on its feet. All of it. The men in grey and blue too, Chris saw: right in the middle, standing up, the one with the farmer’s paper crown still on his head. Chanting. With everyone else. With their fists in the air.</p>
+<p><em>WIN-TER. WIN-TER. WIN-TER.</em></p>
+<p>Winter stood on the sand beside him, on his left, and looked up at the north stand.</p>
+<p>Her face didn’t do anything. It did nothing very hard for a long time. She’d made it do nothing at every stranger who’d ever looked at her horns in the street. She’d made it do nothing on the sand two summers ago when this city shouted <em>demon</em>.</p>
+<p>Then it did something.</p>
+<p>Chris saw it start at the corner of her mouth. Very small. And then it wasn’t small. And then Winter, who was blunt and guarded and cold to everyone until you knew her, and then not cold at all, put both her hands over her face on the great sand of the Lists, in front of forty thousand people chanting her name, and stood there.</p>
+<p>Round her feet, on the sand, very slowly, the frost came. In a ring. White and fine, opening on the sand one feathery flower after another, the way it had opened in a water trough at the east gate once when she wrote <em>Still</em>.</p>
+<p>The north stand saw it, and chanted louder.</p>
+<hr class="scene">
+<p>Newish came in from the chalk line at a run and hit Chris on the arm, hard, and then hit Winter on the arm, hard, and then put both her arms round both of them at once.</p>
+<p>“<em>You went left</em>,” said Newish. “<em>You absolute idiot. Two years. You went LEFT</em>.”</p>
+<p>“I went left.”</p>
+<p>“I’ve been <em>standing</em> there. For two <em>years</em>. Every time. Trying to go there and you just—“ She stopped. “And Winter went there. And you didn’t step back.” Her voice cracked. “And then I was out, so I didn’t even get to <em>do</em> it, I just had to watch.”</p>
+<p>“Next time,” said Chris.</p>
+<p>“Next time I’m going left <em>first</em>,” said Newish. “Before her. I’m going to beat her to it.”</p>
+<p>“You won’t,” said Winter, through her hands.</p>
+<p>“I <em>will</em>.”</p>
+<p>“You won’t,” said Winter, and took her hands down. Her face was wet. She didn’t seem to care. “There’s room now. You won’t have to beat me to it.” She looked at Chris. “There’s room for both of us.”</p>
+<p>Chris looked at the two of them. Winter on his left. Newish on Winter’s left. And on his right, nobody, because he’d always been on the right. Three of them. In a line.</p>
+<p>No gaps.</p>
+<p><em>One Down</em>, he thought. He’d written it on the slip at breakfast. <em>We’ve been one down for three years. I thought we should own it</em>.</p>
+<p>He’d been wrong. They hadn’t been one down. They’d been three, the whole time. He’d just been keeping a space for a fourth.</p>
+<hr class="scene">
+<p>Yan came over from the frost, when the marshals had finished, with the scythe on his shoulder and Suzu on the shaft. Mashi and Wendy came behind him.</p>
+<p>The two trios stood on the sand of the Lists in front of each other. Ice’s CS squad, and Ice’s Apex trios. Six people. Chris had played with half of them every night for a year, and against the other half on the community servers, and in the tournament Drew ran, and they’d all, every one of them, been in the same calls at two in the morning with the same voice in their ears saying <em>I’m left</em>.</p>
+<p>Yan held out his hand.</p>
+<p>“GG,” said Yan.</p>
+<p>Chris laughed. He couldn’t help it. “GG,” he said, and shook it.</p>
+<p>Mashi held out his hand too. “GG,” he said. “You closed it. I’m still annoyed.” He paused. “I learned his left side for years. On the server. I knew exactly where the hole would be.” He shook his head slowly. “You filled it with somebody else.”</p>
+<p>“I didn’t fill it,” said Chris. “She did. She’d been trying to for two years.” He looked at Winter. “I just stopped standing in the way.”</p>
+<p>Wendy didn’t hold out her hand. She just looked at him, cynical and pessimistic and loyal and kind, with her silent headphones round her neck.</p>
+<p>“Good,” she said. “About time.”</p>
+<hr class="scene">
+<p>He looked up at the fourth tier.</p>
+<p>He’d been putting it off. He didn’t know why. He’d won the Trios and gone up a tier and the north stand was chanting Winter’s name and Newish was hitting people, and he’d been putting off looking at the fourth tier the way you put off opening a message you know is going to make you cry.</p>
+<p>The man was standing up.</p>
+<p>He was the only one in his section standing; everyone else round him had been on their feet for the chant and sat down again. He was standing very still at the end of his bench with the rod in one hand. His other hand was still flat on his chest. It had been there, Chris thought, the whole bout.</p>
+<p>Chris couldn’t see his face. He never would.</p>
+<p>But he lifted his own hand, on the sand of the Lists, in front of forty thousand people, and held it up. Not a wave. Just held it up. Open. The way you’d hold up a hand at the end of a match to the person in the caster’s seat, to say <em>did you see</em>.</p>
+<p>On the fourth tier, the man took his hand off his chest and held it up too.</p>
+<p>They stood like that for a moment, three hundred feet apart, with their hands up.</p>
+<p>Then the man put his hand back on his chest, and sat down, and the two bees that had been on his head and had fallen off when he stood up climbed back on.</p>
+<hr class="scene">
+<p>That night, at the long table at the Broken Lance, Chris got out the notebook.</p>
+<p>Not the training log. The other one. The ALL GROUPS one. The one with the page that had thirty-five lines in his small square hand and Lucan’s script beside them, and a thirty-sixth line at the bottom with <em>Ice</em> at the start of it and <em>paper fishing rods</em> at the end.</p>
+<p>He turned to a fresh page.</p>
+<p>He didn’t write in pseudo-code. He wrote in English. Plain English. The way he’d have written it if he were writing it for somebody else to read.</p>
+<p><em>Day 64. Trios final. Won.</em></p>
+<p><em>Twenty-four of thirty-five at Tier 1.</em></p>
+<p><em>Bug report, closed. The lag on my left pivot was never in my leg. I was holding a slot open for player three. He wasn’t coming back to fill it, because he isn’t playing any more. He’s watching. That’s allowed.</em></p>
+<p><em>Winter filled the slot. She’d been trying to for two years. So had Newish. I kept stepping back into it.</em></p>
+<p><em>Fixed by: freeing the slot.</em></p>
+<p>He looked at it for a while. Then, underneath, smaller:</p>
+<p><em>Note for future sessions. One Down is the wrong name. We were never one down. We were three, with a reserved fourth. Renaming the trio.</em></p>
+<p>He thought about it.</p>
+<p>Then he crossed out <em>One Down</em>, at the top of the page, where he’d written it at breakfast, and wrote the new name beside it.</p>
+<p>Newish read it upside down across the table, and stopped talking for the first time all evening, and didn’t say anything at all for a long time. Then she got up and went round the table and put her chin on top of his head, which she’d never done before, and stood there.</p>
+<p>Winter read it from where she sat. Her face did nothing.</p>
+<p>Then she reached across the table, and took the pen out of his hand, and underlined it. Twice.</p>
+<p><em>Room for Both</em>.</p>
+    </div>
+  </article>
+  
+  <nav class="chapnav bottom" aria-label="Chapter navigation"><a class="nav-btn" href="../../read/136/" rel="prev"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>Previous</span></a><label class="chap-select"><span class="sr">Jump to chapter</span><select data-jump><option value="0">Prologue: Goodnight</option><option value="1">Chapter 1: Thirty-Five</option><option value="2">Chapter 2: No One We Can Confirm</option><option value="3">Chapter 3: Seven Roads</option><option value="4">Chapter 4: The Fisherman</option><option value="5">Chapter 5: Alea</option><option value="6">Chapter 6: The Hero&#x27;s Words</option><option value="7">Chapter 7: Where They Buried Them</option><option value="8">Chapter 8: The River Road</option><option value="9">Chapter 9: Tracks</option><option value="10">Chapter 10: The Lists</option><option value="11">Chapter 11: The Hollow</option><option value="12">Chapter 12: Kingsferry</option><option value="13">Chapter 13: Reports</option><option value="14">Chapter 14: Fish</option><option value="15">Chapter 15: Scouts</option><option value="16">Chapter 16: Court</option><option value="17">Chapter 17: Bracket</option><option value="18">Chapter 18: Second Act</option><option value="19">Chapter 19: Respawn</option><option value="20">Chapter 20: The Infirmary</option><option value="21">Chapter 21: The Quiet</option><option value="22">Chapter 22: Two Colours</option><option value="23">Chapter 23: The Buried Question</option><option value="24">Chapter 24: Visiting</option><option value="25">Chapter 25: First Snow</option><option value="26">Chapter 26: The Council</option><option value="27">Chapter 27: Night Market</option><option value="28">Chapter 28: Postponed</option><option value="29">Chapter 29: The Edge</option><option value="30">Chapter 30: Thirty-Four Winters</option><option value="31">Chapter 31: Coats</option><option value="32">Chapter 32: The Deep Ring</option><option value="33">Chapter 33: The New Book</option><option value="34">Chapter 34: Spring on the Redmarch</option><option value="35">Chapter 35: Holding</option><option value="36">Chapter 36: The West Company</option><option value="37">Chapter 37: Lake Ice</option><option value="38">Chapter 38: Tempo</option><option value="39">Chapter 39: Ossie</option><option value="40">Chapter 40: Missing Letters</option><option value="41">Chapter 41: Green</option><option value="42">Chapter 42: The Faint Thread</option><option value="43">Chapter 43: Below</option><option value="44">Chapter 44: Full Moon</option><option value="45">Chapter 45: Rule Five</option><option value="46">Chapter 46: What Was He Like</option><option value="47">Chapter 47: One Cast</option><option value="48">Chapter 48: The Cold One</option><option value="49">Chapter 49: The Roof</option><option value="50">Chapter 50: Close</option><option value="51">Chapter 51: The Carving</option><option value="52">Chapter 52: Yes, Ma&#x27;am</option><option value="53">Chapter 53: The Pass</option><option value="54">Chapter 54: Mask</option><option value="55">Chapter 55: Let Them</option><option value="56">Chapter 56: Slow Clock</option><option value="57">Chapter 57: Now</option><option value="58">Chapter 58: Firewood</option><option value="59">Chapter 59: The Sum</option><option value="60">Chapter 60: Three Years</option><option value="61">Chapter 61: The Last Stretch</option><option value="62">Chapter 62: Hook, Reel, Cut</option><option value="63">Chapter 63: The Tree</option><option value="64">Chapter 64: Two Candles</option><option value="65">Chapter 65: The Long Bundle</option><option value="66">Chapter 66: No Charm</option><option value="67">Chapter 67: The North Road</option><option value="68">Chapter 68: The King&#x27;s Hens</option><option value="69">Chapter 69: Stones</option><option value="70">Chapter 70: Scope</option><option value="71">Chapter 71: The Cut</option><option value="72">Chapter 72: Astra</option><option value="73">Chapter 73: Again</option><option value="74">Chapter 74: Halfway</option><option value="75">Chapter 75: The Honest Book</option><option value="76">Chapter 76: The Third Hunter</option><option value="77">Chapter 77: Upriver</option><option value="78">Chapter 78: Unseen</option><option value="79">Chapter 79: Not in a Hurry</option><option value="80">Chapter 80: The King&#x27;s Answer</option><option value="81">Chapter 81: The Sealed Room</option><option value="82">Chapter 82: He&#x27;ll Be the One Talking</option><option value="83">Chapter 83: Ad Astra</option><option value="84">Chapter 84: First Ice</option><option value="85">Chapter 85: Two Hundred Lines</option><option value="86">Chapter 86: Midwinter</option><option value="87">Chapter 87: Not Yet Is Over</option><option value="88">Chapter 88: Four Fish</option><option value="89">Chapter 89: The Lake Road</option><option value="90">Chapter 90: Supper</option><option value="91">Chapter 91: The Basket Stays Five</option><option value="92">Chapter 92: Root</option><option value="93">Chapter 93: Kin</option><option value="94">Chapter 94: Pairs</option><option value="95">Chapter 95: Chalk</option><option value="96">Chapter 96: Rehearsal</option><option value="97">Chapter 97: Thaw</option><option value="98">Chapter 98: Waiting at Duskhollow</option><option value="99">Chapter 99: IF Upriver</option><option value="100">Chapter 100: The Narrows</option><option value="101">Chapter 101: Mend</option><option value="102">Chapter 102: The Lake Country</option><option value="103">Chapter 103: The Last Mile</option><option value="104">Chapter 104: The Third Part</option><option value="105">Chapter 105: Brothers</option><option value="106">Chapter 106: Okay. Again.</option><option value="107">Chapter 107: No Bells</option><option value="108">Chapter 108: Nomen</option><option value="109">Chapter 109: His Father</option><option value="110">Chapter 110: Exactly Where It Should Go</option><option value="111">Chapter 111: Fifteen</option><option value="112">Chapter 112: The Teacher</option><option value="113">Chapter 113: The Spot</option><option value="114">Chapter 114: Threads and Windows</option><option value="115">Chapter 115: Ask</option><option value="116">Chapter 116: Fledgling</option><option value="117">Chapter 117: Nobody Follows</option><option value="118">Chapter 118: The Road South</option><option value="119">Chapter 119: Every Thread</option><option value="120">Chapter 120: The Night Before</option><option value="121">Chapter 121: The North Gate</option><option value="122">Chapter 122: Twelve</option><option value="123">Chapter 123: You Can Stop Wondering</option><option value="124">Chapter 124: And You Too</option><option value="125">Chapter 125: Alice</option><option value="126">Chapter 126: Flashlight</option><option value="127">Chapter 127: Sideways</option><option value="128">Chapter 128: Bring the Girl</option><option value="129">Chapter 129: Horseshoes</option><option value="130">Chapter 130: Yun</option><option value="131">Chapter 131: Two Summers Ago</option><option value="132">Chapter 132: The Banner</option><option value="133">Chapter 133: Ask</option><option value="134">Chapter 134: Hooks</option><option value="135">Chapter 135: Wait for It</option><option value="136">Chapter 136: Sto</option><option value="137" selected>Chapter 137: Memory Leak</option><option value="138">Chapter 138: Pale Light</option><option value="139">Chapter 139: Okay. Again.</option><option value="140">Chapter 140: Two Hooks</option></select></label><a class="nav-btn" href="../../read/138/" rel="next"><span>Next</span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></a></nav>
+  <section class="comments" id="comments" data-ch="137" aria-labelledby="comments-h">
+    <h2 id="comments-h"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>Comments</span><span class="c-count" data-count></span></h2>
+    <form class="c-form" data-comment-form novalidate>
+      <label><span class="sr">Your name</span><input name="name" maxlength="40" placeholder="Your name" autocomplete="nickname"></label>
+      <label><span class="sr">Your comment</span><textarea name="text" maxlength="2000" rows="3" placeholder="Say something about this chapter&#8230;"></textarea></label>
+      <div class="c-row"><span class="c-hint" data-status aria-live="polite">Comments are public. Your name is remembered in this browser.</span><button type="submit" class="btn primary">Post</button></div>
+    </form>
+    <ol class="c-list" data-list></ol>
+    <p class="c-empty" data-empty>Loading comments&#8230;</p>
+  </section>
+</main>
+<div class="scrim" data-close hidden></div>
+<aside class="drawer" id="settings" aria-label="Reader settings" aria-hidden="true">
+  <div class="drawer-head"><h2>Reader settings</h2><button type="button" class="icon-btn" data-close aria-label="Close settings"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>
+  <div class="drawer-body">
+    <section><h3>Theme</h3><div class="seg" data-setting="theme" role="group"><button type="button" data-value="dark">Dark</button><button type="button" data-value="light">Light</button><button type="button" data-value="sepia">Sepia</button><button type="button" data-value="lake">Lake</button></div>
+      <div class="colors"><label>Background <input type="color" data-setting="bg"></label><label>Text <input type="color" data-setting="fg"></label><button type="button" class="link" data-clear-colors>Use theme colours</button></div>
+    </section>
+    <section><h3>Font</h3><div class="seg" data-setting="font" role="group"><button type="button" data-value="sans">Default</button><button type="button" data-value="georgia">Georgia</button><button type="button" data-value="lora">Lora</button><button type="button" data-value="legible">Hyperlegible</button></div></section>
+    <section>
+      <label class="row"><span class="lbl">Font size <output data-out="size"></output></span><input type="range" data-setting="size" min="12" max="32" step="1" data-unit="px"></label>
+      <label class="row"><span class="lbl">Line spacing <output data-out="lh"></output></span><input type="range" data-setting="lh" min="1.2" max="2.4" step="0.1" data-unit="×"></label>
+      <label class="row"><span class="lbl">Paragraph spacing <output data-out="ps"></output></span><input type="range" data-setting="ps" min="0" max="3" step="0.1" data-unit="em"></label>
+      <label class="row"><span class="lbl">Text width <output data-out="width"></output></span><input type="range" data-setting="width" min="40" max="100" step="1" data-unit="%"></label>
+    </section>
+    <p class="note">Chapters are plain, semantic HTML, so your browser's own reader view works too. <kbd>←</kbd> <kbd>→</kbd> change chapter.</p>
+    <button type="button" class="btn ghost" data-reset>Reset to defaults</button>
+  </div>
+</aside>
+<script src="../../assets/comments.js" defer></script>
+</body>
+</html>
