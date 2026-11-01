@@ -307,7 +307,7 @@ Suzu didn't open her eyes.
 
 "Does she?"
 
-"No," said Yan. "I don't know what she says. I never have." It was the closest Salty had ever heard him come to a joke about it. He'd translated for her on every stream for years. Here, where she was real and couldn't speak, he'd stopped. "I'm guessing."
+"She does," said Yan. "She says hello, and she's not opening her eyes because she doesn't need to." It was the closest Salty had ever heard him come to a joke about it. He'd done her voice on every stream for years, and here he still did it, every day, quietly: *Suzu says*. Salty had never known how much of it was the bit. Nobody had. Nobody had ever asked. "She's known you since the red."
 
 The man looked at him.
 
@@ -465,11 +465,11 @@ She uncoiled from his neck. Slowly. Salty had seen her do it before, on the red,
 
 Yan stood very still.
 
-"She likes it," said Yan. His voice wasn't steady now. "She—I don't know what she says. But she likes it."
+"She likes it," said Yan. His voice wasn't steady now. "She says—" He stopped. "She says it's hers."
 
-"She's not translating?" said Salty.
+"Is that her," said Salty, "or you?"
 
-"No," said Yan. And then, after a moment, very quietly: "I think I'm going to stop guessing."
+"Her," said Yan. And then, after a moment, very quietly: "It's always been her."
 
 He didn't cry. Salty had been sure he would. He stood in the forge with the scythe in his hands and Suzu wound round its shaft, and his face did nothing at all, and Wendy had been wrong, he didn't cry. He just stood there holding it as if somebody had handed him something he'd been waiting for since before he was born.
 

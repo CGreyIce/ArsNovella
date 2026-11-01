@@ -41,7 +41,7 @@ Yan had been thinking about that all afternoon. He'd been thinking about it whil
 
 "She will be hungry, sometimes. Out there." Aldous looked east, toward the frontier. "Men die on the frontier."
 
-"Then she'll be hungry." Yan put his hand over her. Down the cord, sleepy, came something that wasn't a word but was very plainly *yes*. "She'd rather. She told me."
+"Then she'll be hungry." Yan put his hand over her. *Yes*, said Suzu, sleepy, in his head. "She'd rather. She told me."
 
 "She cannot talk."
 
@@ -261,7 +261,7 @@ Maigo, who had been quiet for almost two hours, made a small sound that might ha
 
 That night, Yan wrote back to Kei.
 
-He told him about the fort, and Rhea, and the score, and Wendy's three arrows, and Maigo getting rich. He told him that Suzu had said thank you, which was very nearly true, and that Hisui should know she was spoken for, which was entirely true. He told him about the red ground and the rows of markers and the feeling of walking into a room where people had been afraid.
+He told him about the fort, and Rhea, and the score, and Wendy's three arrows, and Maigo getting rich. He told him that Suzu had said thank you, which was a translation, and that Hisui should know she was spoken for, which wasn't. He told him about the red ground and the rows of markers and the feeling of walking into a room where people had been afraid.
 
 He told him about the grave with the flowers, and the hole where the sword had been.
 

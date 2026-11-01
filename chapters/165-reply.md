@@ -65,13 +65,13 @@ He didn't say anything.
 
 He didn't open it at the well.
 
-He finished drawing the bucket, and carried it to the kitchen, because it was the kitchen's, and Cook was waiting. Then he went back across the courtyard to the gatehouse, and up the stair, the hollow-worn stone stair he'd gone up ten thousand times at fifteen and twenty and twenty-seven, with the letter in his hand. Onto the east wall. And north along it, past the gatehouse, past the horns hanging on the outside of the gate, which he didn't look at. Counting, the way Wat counted, not counting the door.
+He finished drawing the bucket, and carried it to the kitchen, because it was the kitchen's, and Cook was waiting. Then he went back across the courtyard to the gatehouse, and up the stair, the hollow-worn stone stair he'd gone up ten thousand times at fifteen and twenty and twenty-seven, with the letter in his hand. Onto the east wall. And north along it, past the gatehouse, past the horns hanging on the outside of the gate, which he didn't look at. Counting, the way Ansel counted, not counting the door.
 
 Ten. He stopped at the tenth merlon, where he'd stood every evening for three weeks, beside the gap.
 
 And looked at the gap.
 
-The eleventh merlon north of the gate. Two worn stones and the embrasure between them. The coping split across the top with cracks running out from two places the size of a man's hands, like ice when you stand on it too fast. And the sentries' path, the long shallow trough nine years of boots had worn down the middle of the wall walk, bending away from it toward the inside rail for the width of two men, and coming back. Nobody had stood in it in nine years. Wat had told Alea. He'd known before Wat told her. He'd seen the path bend the first morning, and known what it was going round.
+The eleventh merlon north of the gate. Two worn stones and the embrasure between them. The coping split across the top with cracks running out from two places the size of a man's hands, like ice when you stand on it too fast. And the sentries' path, the long shallow trough nine years of boots had worn down the middle of the wall walk, bending away from it toward the inside rail for the width of two men, and coming back. Nobody had stood in it in nine years. Ansel had told Alea. He'd known before Ansel told her. He'd seen the path bend the first morning, and known what it was going round.
 
 It hadn't been the place of the hour, first.
 
@@ -217,9 +217,9 @@ She didn't go round the path. She walked straight along the wall walk, through t
 
 They sat there. The two of them. In the gap. Looking at the red going dark, and the markers, and a tree a long way out beside a dark stone, and further out, and a little south, a rise with a ring on it.
 
-"Wat told you," he said. "That I stood here an hour."
+"Ansel told you," he said. "That I stood here an hour."
 
-"Wat told me."
+"Ansel told me."
 
 "And that Halvard stood here too. And said something at the start and something at the end. And nobody knows what."
 
@@ -337,7 +337,7 @@ This is what he wrote.
 
 *Halvard.*
 
-*Tamsin put it in my hand at the well. I was carrying the water.*
+*Senna put it in my hand at the well. I was carrying the water.*
 
 *I know. I knew on the wall. I'd have given the same orders. Both of them.*
 
@@ -395,23 +395,23 @@ Then he folded it again, and put it back in his coat with the good knife and the
 
 ***
 
-He woke Tamsin Vell in the stables at sunrise.
+He woke Senna Vell in the stables at sunrise.
 
 She was asleep in the straw beside her horse, with her boots on. She opened her eyes the moment he came in, the way a rider wakes, all at once, and looked at the letter in his hand.
 
 "Into his hand," he said.
 
-"Into his hand," said Tamsin. She sat up and took it and put it inside her shirt, against her skin, and buttoned it. "His and no other." She looked at him. Not at his face. At the rest. "Was it a long one?"
+"Into his hand," said Senna. She sat up and took it and put it inside her shirt, against her skin, and buttoned it. "His and no other." She looked at him. Not at his face. At the rest. "Was it a long one?"
 
 "No."
 
-"His was long," said Tamsin. "I could tell from the weight." She stood up and picked up her saddle. "He'll want to know if you're well. When I give it him. He'll ask."
+"His was long," said Senna. "I could tell from the weight." She stood up and picked up her saddle. "He'll want to know if you're well. When I give it him. He'll ask."
 
 He thought about it.
 
 "Tell him I'm carrying the water," he said.
 
-Tamsin looked at him for a long moment. Then she nodded, as if that answered something completely, and went to saddle her horse.
+Senna looked at him for a long moment. Then she nodded, as if that answered something completely, and went to saddle her horse.
 
 ***
 
@@ -421,25 +421,25 @@ Not from the gap. From beside it. The tenth merlon. He stood there with his hand
 
 Somebody came along the wall behind him.
 
-Slowly. With a lantern, though it was light, and a spear he was mostly leaning on. Old Wat, coming off the night watch on the north tower, the way he'd come off it every morning for longer than Ars had been alive.
+Slowly. With a lantern, though it was light, and a spear he was mostly leaning on. Old Ansel, coming off the night watch on the north tower, the way he'd come off it every morning for longer than Ars had been alive.
 
-Wat came along the wall walk toward the gap.
+Ansel came along the wall walk toward the gap.
 
-Ars watched him, out of the side of his eye. Watched him come to the place where the trough in the stone bent away toward the inside rail, the way it had bent for nine years. Where Wat always went round. Without looking. The way you'd step round a grave.
+Ars watched him, out of the side of his eye. Watched him come to the place where the trough in the stone bent away toward the inside rail, the way it had bent for nine years. Where Ansel always went round. Without looking. The way you'd step round a grave.
 
-Wat didn't go round.
+Ansel didn't go round.
 
 He walked straight on. Along the middle of the wall walk. Through the gap, past the cracked stone, the eleventh merlon, slowly, with his lantern and his spear, without bending, without looking. As if it were any other merlon on any other wall. As if the path had always gone straight.
 
 He stopped beside Ars, at the tenth.
 
-"Morning," said Wat.
+"Morning," said Ansel.
 
-"Morning, Wat."
+"Morning, Ansel."
 
-Wat looked at him for a long moment with his old wet eyes. Then out at the red. Then down at the gap he'd just walked through.
+Ansel looked at him for a long moment with his old wet eyes. Then out at the red. Then down at the gap he'd just walked through.
 
-"Saw you sitting in it," said Wat. "Last night. From the north tower." He leaned on his spear. "And the girl." He was quiet. "Thought, well. That's that, then."
+"Saw you sitting in it," said Ansel. "Last night. From the north tower." He leaned on his spear. "And the girl." He was quiet. "Thought, well. That's that, then."
 
 He patted Ars's arm, twice, with his shaking hand, the way you'd pat a dog. And went on along the wall to the stair, and down, and to his bed.
 
@@ -447,7 +447,7 @@ He patted Ars's arm, twice, with his shaking hand, the way you'd pat a dog. And 
 
 He opened his window, after.
 
-Out of habit. Standing on the wall at the tenth merlon in the sunrise, with the rider gone and Wat gone and the red going gold all the way to the mountains, and a tree a long way out beside a dark stone, and further out, and a little south, a rise. Sixteen days.
+Out of habit. Standing on the wall at the tenth merlon in the sunrise, with the rider gone and Ansel gone and the red going gold all the way to the mountains, and a tree a long way out beside a dark stone, and further out, and a little south, a rise. Sixteen days.
 
 [ Ars · Tier 8: Dominion · Progress to Ascendant: 61% ]
 

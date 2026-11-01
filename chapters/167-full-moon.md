@@ -19,7 +19,7 @@ She lay in her cot in the women's barracks in the grey before dawn with Wendy as
 
 She went up on the wall first. She always did.
 
-Her father was already there. Of course he was. In the gap, at the eleventh merlon north of the gate, sitting on the parapet with his legs over the drop and the rod leaning against the stone beside him, the way he'd sat every morning since a rider brought him a letter. She came along the wall walk, straight, through the place where the sentries' trough in the stone used to bend away and didn't any more, because Wat had walked through it and then everybody had, and sat down beside him.
+Her father was already there. Of course he was. In the gap, at the eleventh merlon north of the gate, sitting on the parapet with his legs over the drop and the rod leaning against the stone beside him, the way he'd sat every morning since a rider brought him a letter. She came along the wall walk, straight, through the place where the sentries' trough in the stone used to bend away and didn't any more, because Ansel had walked through it and then everybody had, and sat down beside him.
 
 They didn't say anything for a while.
 
@@ -111,9 +111,9 @@ Not saying anything. Just watching them go.
 
 Her father didn't look back. But she saw his shoulders go, a little. The way they went.
 
-And at the eleventh merlon north of the gate, in the gap, there was somebody standing. Bent nearly double. Leaning on a spear. Old Wat, who was eighty and still on nights and had walked straight through the gap one morning a fortnight ago as if the path had never bent. Standing in it now. In the place where her father had stood for an hour nine years ago with his hands in the stone.
+And at the eleventh merlon north of the gate, in the gap, there was somebody standing. Bent nearly double. Leaning on a spear. Old Ansel, who was eighty and still on nights and had walked straight through the gap one morning a fortnight ago as if the path had never bent. Standing in it now. In the place where her father had stood for an hour nine years ago with his hands in the stone.
 
-Wat lifted his shaking hand.
+Ansel lifted his shaking hand.
 
 Not to his chest. Not a salute. He just lifted it, a little, the way you'd lift your hand to somebody going down a road you knew they'd come back up.
 
@@ -341,7 +341,7 @@ High. Clear. Long. Like a bell.
 
 It went out over the red.
 
-She heard it go. Across the knoll, and down off it, and out over the plain in every direction at once, the way a sound goes out over still water. Over the markers. Over the gullies. Over the rise, an hour out, with its empty ring. Out to the mountains, and off them, and back. She'd learn later that they heard it at the fort, an hour away. That every soldier on the wall turned their head at once. That Wat, at the eleventh merlon, put his hand on his chest without knowing he'd done it.
+She heard it go. Across the knoll, and down off it, and out over the plain in every direction at once, the way a sound goes out over still water. Over the markers. Over the gullies. Over the rise, an hour out, with its empty ring. Out to the mountains, and off them, and back. She'd learn later that they heard it at the fort, an hour away. That every soldier on the wall turned their head at once. That Ansel, at the eleventh merlon, put his hand on his chest without knowing he'd done it.
 
 Her father had gone very still beside her.
 

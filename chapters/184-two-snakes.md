@@ -13,7 +13,7 @@ It had stopped twice. Once when he wrote a word into a cup of something bitter a
 
 He hadn't known there was a third kind. Where it didn't stop, and didn't stay under everything either, but came up over the top of everything like a river in flood, and stayed there, for eleven days, about one thing.
 
-*When*, said Hisui. *When does it come. The rider. When. How far is Solmere. How fast is the rider. Is it the fast one, the woman, Tamsin, or a slow one. If it's a slow one I'll bite him*.
+*When*, said Hisui. *When does it come. The rider. When. How far is Solmere. How fast is the rider. Is it the fast one, the woman, Senna, or a slow one. If it's a slow one I'll bite him*.
 
 "You won't bite anyone."
 
@@ -99,7 +99,7 @@ Not here. A kingdom away, at the other end of everything, on a wall above a red 
 
 He'd read the channel the night of the song. *Hana's cords carry what you mean. Suzu means things*. And under it, in Yan's careful lines, something Kei had heard before, from people on the stool by his door, in a voice that was steadier than the words.
 
-*I don't know what she's saying*.
+*She won't tell me*.
 
 ***
 
@@ -273,23 +273,23 @@ Kei wiped his eyes. He picked up the pencil.
 
 "What else?"
 
-*She says*—Hisui stopped. Started again. His voice had gone different. Smaller. Not grumpy. *She says tell Yun I'm here*.
+*She says*—Hisui stopped. Started again. His voice had gone different. Smaller. Not grumpy. *She says she's been telling Yun all evening that it's working. She says he keeps asking. She says tell him again, from me, so he believes it*.
 
-Kei wrote it on the strip. In English, small, careful. *She says: tell Yun I'm here.* And held the cord.
+Kei wrote it on the strip. In English, small, careful. *It's working. Hisui can hear her. She says to tell you again so you believe it.* And held the cord.
 
 The letters went.
 
 On the other side of the kingdom, a man on a wall above a red plain in the snow would be holding the other half, and looking at a strip of blue ink round a knot, and reading it. Kei didn't need to see his face. He'd read it on enough faces, on the stool by his door.
 
-The strip came back. Yan's hand. Shaky. Three words.
+The strip came back. Yan's hand. Shaky. Four words.
 
-*I know. Thank you.*
+*I believe it. Thank you.*
 
 ***
 
 They talked till midnight.
 
-Not fast. The strip only held a few words at a time, and each one had to be written, and held, and wait to go, and wait to come back. And on Kei's side, every line from Suzu came as a long curling mark that only Hisui could read, and that Hisui read, and told Kei, and Kei wrote down in English, and sent. And on Yan's side, Yan spoke to Suzu out loud, Kei supposed, because she was round his neck and she'd understood every word he'd ever said to her, and Suzu answered by meaning it into the cord. And it came out on Kei's strip as a snake's track. And Hisui read it.
+Not fast. The strip only held a few words at a time, and each one had to wait to go and wait to come back. Suzu's lines came out on Kei's side as long curling marks that only Hisui could read; Hisui's went back the other way, Kei supposed, as marks only she could. On Yan's side, she talked to Yan the way she always had, in his head, at the same time, and he heard all of it, and Kei heard none. And every so often, when the snakes let them, the two men holding the string wrote each other a line in English. *She says you're slow.* / *She says that to me too. Every day.*
 
 A very small channel. For two snakes. And two men holding the string.
 
@@ -319,7 +319,7 @@ Kei had known he would. He'd been waiting for it all evening, the way he'd have 
 
 The strip came back in Yan's hand. Steadier, now.
 
-*Ask her why she looks south.*
+*Ask her why she looks south. She won't tell me. Maybe she'll tell him.*
 
 Kei read it out.
 
@@ -339,7 +339,7 @@ Kei waited. He waited a long time. The lamp ticked. Hisui lay on the cord with h
 
 "What does it say?"
 
-*I'm not telling him*, said Hisui. *It'll frighten him*.
+*I'm not telling him*, said Hisui. *She said it to me. Not to him. She didn't say to tell him. And it'll frighten him*.
 
 Kei looked down at him.
 
@@ -357,7 +357,11 @@ Hisui lay there.
 
 *He'll be frightened*, he said, at last. Very small. *He carries everything. You said so. He carries everything on his own and he never puts it down. And this is a heavy one, Kei. I can taste how heavy it is. I don't want to give him a heavy one*.
 
-"It's hers," said Kei. "She gave it to you to give to him. That's the only reason she said it." He was quiet. "If you keep it, you're carrying it for him. And he didn't ask you to."
+"Then ask her," said Kei. "Whether she wants him not to know. Or only doesn't want to be the one who says it." He was quiet. "Because if you keep it, you're carrying it for him. And he didn't ask you to."
+
+Hisui lay on the cord a long time. Then Kei felt him go still, the way he went still when he was reading, and the strip under him went faint, and came back: a short mark, this time, going round the knot once and stopping.
+
+*She says*, said Hisui, very small, *tell him. She says she can't. Not to his face. Not with his face doing that, every time he asks. She says it's better from me*.
 
 A long silence.
 
@@ -377,7 +381,7 @@ Kei wrote it down.
 
 Kei sat with the pencil over the strip for a long time.
 
-He thought about Yan on a wall in the snow, holding a cord. Yan, who'd carried his mother every day for two years and a half and never once said a word, until a night on a forge roof in Valcrest. Yan, who'd asked a white snake on stream what she was saying and answered for her in her voice for years, and found out here that he'd been right all along. Yan, who'd gone green at a grave in the autumn, Wendy said, and been called by a name out of the oldest rites in the kingdom, and come down off the knoll in the morning and slept an hour longer every night since.
+He thought about Yan on a wall in the snow, holding a cord. Yan, who'd carried his mother every day for two years and a half and never once said a word, until a night on a forge roof in Valcrest. Yan, who'd done a white snake's voice on stream for years, and come through a floor to find she had one of her own, and spent two years being the only one in the world who could hear it. Yan, who'd gone green at a grave in the autumn, Wendy said, and been called by a name out of the oldest rites in the kingdom, and come down off the knoll in the morning and slept an hour longer every night since.
 
 *They are coming for me. Not for him*.
 
@@ -393,7 +397,7 @@ Then the strip came back.
 
 Not Yan's hand. A snake's track. Long, curling, without lifting. Suzu, again.
 
-Hisui read it. And this time he didn't hesitate. He passed it on at once, quietly, the way he'd passed on the first one, as if he'd decided that what came after a heavy thing was never his to hold either.
+Hisui read it. And this time he didn't hesitate. He passed it on at once, quietly, the way he'd passed on the first one, as if he'd decided that what came after a heavy thing was never his to hold either. She'd be saying it at the other end too, Kei supposed. In a man's head, on a wall, in the snow. She was saying it to both of them.
 
 *She says: tell him not to be afraid. Tell him I will not let them take me from him. Tell him nobody takes me from him. Nobody has ever taken me from him*.
 

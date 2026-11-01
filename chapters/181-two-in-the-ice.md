@@ -288,7 +288,7 @@ Then she turned round, set her feet, and did it again.
 
 The letter came on the twentieth day after the snow.
 
-By rider. Not Tamsin; a young one, a boy of nineteen or so on a grey, very red in the face from the cold and very solemn about it, who'd been told *into his hand and no other* and had plainly been told it more than once. He found the man on the end of the jetty with the short line in the hole in the ice and stood on the shingle at the other end of the jetty for a long time, working up to it, while the man fished.
+By rider. Not Senna; a young one, a boy of nineteen or so on a grey, very red in the face from the cold and very solemn about it, who'd been told *into his hand and no other* and had plainly been told it more than once. He found the man on the end of the jetty with the short line in the hole in the ice and stood on the shingle at the other end of the jetty for a long time, working up to it, while the man fished.
 
 In the end the man went to him.
 

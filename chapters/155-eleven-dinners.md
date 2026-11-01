@@ -203,7 +203,7 @@ He didn't say anything about it. You didn't. He picked up his spoon again and fi
 
 Rhea arm-wrestled him the next evening, before the second dinner, in the middle of the courtyard, in front of the whole of Cinderhold.
 
-Salty didn't know how the whole of Cinderhold found out. He suspected Rhea. Rhea had told the whole of Cinderhold everything she'd ever done, generally while she was doing it. But at sundown on the second day there was a table in the middle of the courtyard, the long one out of the mess, and a barrel at each end of it, and the courtyard was full. Soldiers. Grooms. Cooks with their sleeves rolled up. The young captain from Solmere, at the back, trying to look as if he'd just happened to be passing. Teague on the gatehouse stair with his cap on the back of his head. Old Wat, carried down in a chair by two boys, because he'd said he'd waited nine years to see somebody beat Rhea at something and he wasn't missing it for his legs.
+Salty didn't know how the whole of Cinderhold found out. He suspected Rhea. Rhea had told the whole of Cinderhold everything she'd ever done, generally while she was doing it. But at sundown on the second day there was a table in the middle of the courtyard, the long one out of the mess, and a barrel at each end of it, and the courtyard was full. Soldiers. Grooms. Cooks with their sleeves rolled up. The young captain from Solmere, at the back, trying to look as if he'd just happened to be passing. Teague on the gatehouse stair with his cap on the back of his head. Old Ansel, carried down in a chair by two boys, because he'd said he'd waited nine years to see somebody beat Rhea at something and he wasn't missing it for his legs.
 
 Rhea put her elbow on the table. She glared.
 
@@ -427,7 +427,7 @@ He needed it.
 
 Rhea lasted a full heartbeat on the eleventh night.
 
-Salty saw it. Everybody saw it. The whole of Cinderhold was in the courtyard, as it had been every night, with the book on the barrel and the young captain at the back pretending not to have a crown on it. Teague on the stair. Old Wat in his chair. Rhea put her elbow on the table and glared, the way she had for ten nights, and the man put his elbow on the table, and Teague said *one*—
+Salty saw it. Everybody saw it. The whole of Cinderhold was in the courtyard, as it had been every night, with the book on the barrel and the young captain at the back pretending not to have a crown on it. Teague on the stair. Old Ansel in his chair. Rhea put her elbow on the table and glared, the way she had for ten nights, and the man put his elbow on the table, and Teague said *one*—
 
 And Rhea's hand didn't hit the table.
 
@@ -439,7 +439,7 @@ Rhea's hand hit the table.
 
 The courtyard went silent for a moment.
 
-Then it went up like the forge going up under the bellows. Salty had never heard anything like it. Not on the red, not at the Lists. The whole of Cinderhold, screaming, for a woman who'd lost an arm-wrestle. Soldiers pounding the table. Grooms on the stable roof. Pim jumping up and down at the front. Old Wat in his chair with both his shaking hands in the air. The young captain from Solmere, at the back, shouting *ONE*, at the top of his voice, with his careful moustache and his careful reports, because he'd had a crown on *one* since the fourth night and had told nobody.
+Then it went up like the forge going up under the bellows. Salty had never heard anything like it. Not on the red, not at the Lists. The whole of Cinderhold, screaming, for a woman who'd lost an arm-wrestle. Soldiers pounding the table. Grooms on the stable roof. Pim jumping up and down at the front. Old Ansel in his chair with both his shaking hands in the air. The young captain from Solmere, at the back, shouting *ONE*, at the top of his voice, with his careful moustache and his careful reports, because he'd had a crown on *one* since the fourth night and had told nobody.
 
 Rhea sat at the table with her hand flat on the wood and stared at it.
 
@@ -545,7 +545,7 @@ The man put the hammer in his belt. Beside the good knife, in its sheath, and th
 
 They sat in the forge until the hearth went out.
 
-Nobody said much. Wendy put her head on Salty's shoulder, the way she did, and he let her. Alea sat with her chin on her hand and her eyes half closed. Outside, in the courtyard, the lamps came on along the walls one at a time, and somewhere up on the north tower Old Wat was going on duty, slowly, with his spear, and from the step of the forge, where nobody was sitting, there was the faint good smell of eleven nights of cooking that would probably never quite go out of Oakes's chimney.
+Nobody said much. Wendy put her head on Salty's shoulder, the way she did, and he let her. Alea sat with her chin on her hand and her eyes half closed. Outside, in the courtyard, the lamps came on along the walls one at a time, and somewhere up on the north tower Old Ansel was going on duty, slowly, with his spear, and from the step of the forge, where nobody was sitting, there was the faint good smell of eleven nights of cooking that would probably never quite go out of Oakes's chimney.
 
 Salty thought about Malacca.
 

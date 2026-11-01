@@ -103,7 +103,7 @@ In the end Gabe just walked up to him and stood in front of him, the way Gabe ha
 
 "Yan won't tell you."
 
-"Suzu will," said Gabe, "and Kei can hear her," and Yan, by the cart, made a sound that was very nearly a laugh.
+"Suzu will," said Gabe, "and Yan's stopped making her polite," and Yan, by the cart, made a sound that was very nearly a laugh.
 
 ***
 

@@ -385,7 +385,7 @@ In this one, it wasn't scrubbed out.
 
 It was there. In the same place. Near the bottom of the first page, after *you said you'd tell your mum about me, so I thought I'd tell my dad about you*. A line, in the big leaning hand, with no blots on it at all, as if she'd written it very slowly and very carefully and then stopped and looked at it for a long time before she went on.
 
-*Nobody's said his name since. Not on the quay. Not at home. Not the guild. They all say "your dad" and "him" and "the boat". It's like he's a thing that happened. His name was Jory.*
+*Nobody's said his name since. Not on the quay. Not at home. Not the guild. They all say "your dad" and "him" and "the boat". It's like he's a thing that happened. His name was Tobyn.*
 
 Alea looked at it.
 
@@ -423,7 +423,7 @@ She'd asked her father once, when she was small, where the lake went. And he'd s
 
 She put one hand flat on the snow on the end of the jetty. The last plank. The way she'd put it on the water a fortnight ago, after the pike.
 
-"Jory," said Alea.
+"Tobyn," said Alea.
 
 Out loud. To the lake. In the snow.
 
@@ -483,7 +483,7 @@ In the loft, under the crooked curtain, by a candle, on her knees on the floor w
 
 *And you left it in.*
 
-*I said it. Tonight. Off the end of our jetty, in the snow, with my hand on the boards. Out loud. "Jory." I told him you came at me like a pike with his hooks. I told him about the boat. I told him you're going to lose next year, so he can tell you it's coming.*
+*I said it. Tonight. Off the end of our jetty, in the snow, with my hand on the boards. Out loud. "Tobyn." I told him you came at me like a pike with his hooks. I told him about the boat. I told him you're going to lose next year, so he can tell you it's coming.*
 
 *It isn't the same water. I know. It's a lake. But my dad says the lake goes down the Wren, and the Wren goes down to the river, and the river goes out past Kingsferry to the sea. All of it. Eventually. He says water goes where it's going and takes its time.*
 
@@ -497,7 +497,7 @@ In the loft, under the crooked curtain, by a candle, on her knees on the floor w
 
 *P.S. I'm thirty-two percent to Honed. I'm telling you so you're frightened.*
 
-*P.P.S. Is it Jory with a J? I spelled it with a J.*
+*P.P.S. Is it Tobyn with a y? I spelled it with a y.*
 
 She read it over. Once. She didn't change anything. She folded it, and sealed it with a drop of candle-wax and her thumb, because she didn't have a seal either, nobody in this house had a seal, and wrote on the outside, in the big careful letters she'd learned at the kitchen table with her mother watching:
 

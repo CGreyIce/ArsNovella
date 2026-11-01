@@ -291,7 +291,7 @@ Deston looked.
 
 "One," he said.
 
-The fisherman closed his eyes.
+The fisherman bowed his head.
 
 ***
 
@@ -299,7 +299,7 @@ Thea didn't know how long they sat there.
 
 A long time. The sun went up the sky. Somebody's boat went past, far out, a fisherman from the town who lifted a hand to the jetty and got no answer and didn't seem to mind. The hens came out from under the cabin and went back again.
 
-At some point the fisherman opened his eyes and said, to the lake:
+At some point the fisherman lifted his head and said, to the lake:
 
 "It isn't broken?"
 

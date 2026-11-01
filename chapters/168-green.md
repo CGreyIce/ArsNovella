@@ -81,7 +81,7 @@ He felt it down the cord. She lifted her head off his collarbone. Not toward the
 
 "What is it?" said Yan. Very quietly. To her.
 
-She didn't answer. She couldn't; nobody in this world could hear her but a green snake twenty days west round a calm man's neck. But down the cord he felt something he'd never felt from her before. Not warmth. Not hunger. Not the cold-wire tightness of the threadless.
+She didn't answer. For the first time since the floor of the hall, when he asked her something, Suzu didn't say anything at all. But down the cord he felt something he'd never felt from her before. Not warmth. Not hunger. Not the cold-wire tightness of the threadless.
 
 Recognition.
 
@@ -139,7 +139,7 @@ It was green.
 
 Yan had never seen a colour.
 
-Not in a soul. Not once. Two years. Candles were candles: warm, or cold, or pale, or bright, leaning or still. Light. Just light. He'd told Suzu once, in the first winter, on the cairn in the snow, that he thought souls might have colours and he just couldn't see them yet, the way a baby can't see colours for the first weeks. She hadn't answered. She never could.
+Not in a soul. Not once. Two years. Candles were candles: warm, or cold, or pale, or bright, leaning or still. Light. Just light. He'd told Suzu once, in the first winter, on the cairn in the snow, that he thought souls might have colours and he just couldn't see them yet, the way a baby can't see colours for the first weeks. She'd said *you will*, and nothing else, and he'd thought she was being kind.
 
 He saw one now.
 
@@ -197,7 +197,7 @@ It was white. Clean, and very bright, and very quiet. The white of the cloth fol
 
 And round his own neck, Suzu.
 
-He'd never seen her soul. Two years. She'd been the one thing he couldn't look at with the other sight, the way you can't see the back of your own head. She'd always just been *there*, down the cord, warmth and cold and hunger and the thing he'd felt every day since the hall and never put into words until a green snake on a roof made him.
+He'd never seen her soul. Two years. She'd been the one thing he couldn't look at with the other sight, the way you can't see the back of your own head. She'd always just been *there*, down the cord, warmth and cold and hunger and the thing she'd said to him every day since the hall, that he'd never said back until a green snake on a roof made him.
 
 He saw her now.
 
@@ -379,7 +379,7 @@ He didn't need the other sight for that.
 
 Near dawn, Suzu lifted her head.
 
-He felt it down the cord before she moved. Warmth. Not fed warmth. The other kind. And under it, something new. Something he'd never felt from her in two years, not even on the roof in Valcrest with a green snake translating every word.
+He felt it down the cord before she moved. Warmth. Not fed warmth. The other kind. And under it, something new. Something he'd never felt from her in two years, not in a single thing she'd ever said to him.
 
 Not a word. A colour.
 
@@ -387,9 +387,9 @@ She turned her head and looked at him, very close, in the grey light, with her t
 
 *Yun*.
 
-He felt it. Down the cord. Into his chest. One syllable. The name only she had ever called him, in two worlds.
+She said it the way she'd said it every morning since the hall, in his head, quietly. One syllable. The name only she had ever called him, in two worlds.
 
-He didn't guess what it meant. He'd stopped guessing on a roof in Valcrest. He didn't need to guess now. He could *see* it.
+He'd heard it every day for two years. He'd never once seen it. He could *see* it now.
 
 "I know," said Yan. Very quietly. To her. "Green."
 

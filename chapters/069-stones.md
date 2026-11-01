@@ -63,7 +63,7 @@ Then he said, quite clearly, so that everyone could hear:
 
 ***
 
-Rowan had known Ars for ten years. He'd stood in his door through a war. He'd carried messages for him, and made up a code for him, and put his own body between him and the curious for eight summers. He'd been there the morning he came home alone.
+Rowan had known Ars for eleven years. He'd stood in his door through a war. He'd carried messages for him, and made up a code for him, and put his own body between him and the curious for eight summers. He'd been there the morning he came home alone.
 
 He'd never once heard him say those words.
 

@@ -124,7 +124,7 @@ He stood up all at once, the way Maigo did everything, so that the bells on his 
 
 The hall came apart.
 
-The old ones first. Teague went first, with his face in his hands, shaking. Then Hesper, at the infirmary table, who laughed the way he did everything, softly and enormously. Then Old Wat, who was eighty and had been asleep, and woke up and didn't know why everybody was laughing and laughed anyway. Then the laundry table, and the kitchen, and the gate guard, and then the recruits, all sixty of them, very nervously and then not nervously at all, until the whole long hall was roaring, two hundred people, with the fires going and Maigo standing on the bench with his arms up and his bells ringing, bowing to every table in turn.
+The old ones first. Teague went first, with his face in his hands, shaking. Then Hesper, at the infirmary table, who laughed the way he did everything, softly and enormously. Then Old Ansel, who was eighty and had been asleep, and woke up and didn't know why everybody was laughing and laughed anyway. Then the laundry table, and the kitchen, and the gate guard, and then the recruits, all sixty of them, very nervously and then not nervously at all, until the whole long hall was roaring, two hundred people, with the fires going and Maigo standing on the bench with his arms up and his bells ringing, bowing to every table in turn.
 
 "I'M A TREANT," shouted Maigo, to the laundry table, who cheered. "I'VE GOT THE FOREST IN MY SLEEVES. I DON'T HAVE SLEEVES. NELL, WHERE ARE MY SLEEVES."
 
@@ -286,11 +286,11 @@ Wendy looked at the snake.
 
 Yan didn't answer for a long time. The snow came down on the white red, and the grey grass rattled under it, *hush*, and somewhere behind them in the fort a door banged and a recruit laughed and was told to be quiet.
 
-"I don't know," he said, at last. "That's the thing, Wen. That's the whole thing." He looked down at the snake round his neck. "I always knew what she was saying. For years. On stream. I did her voice. I *was* her voice. Everything she said, I knew, because I said it." His hand moved, very lightly, on her coil. "And then we came here, and she was real, and she couldn't talk, and I still answered for her, out of habit, and she hissed at me every time I got it wrong. And I didn't know when I'd got it wrong. I just knew she hissed."
+"She won't tell me," he said, at last. "That's the thing, Wen. That's the whole thing." He looked down at the snake round his neck. "She tells me everything. Every day. Since the floor of the hall. What she thinks of the soup, and Rhea's boots, and the way Maigo breathes. She's never once not told me something." His hand moved, very lightly, on her coil. "I asked her. On the stair, after the song. At supper. Up here. I said *what's south*." He was quiet. "She said they're coming. And I said who. And she said *not yet, Yun*. That's all. Every time I ask. *Not yet*."
 
-Wendy remembered that. The first winter. Yan at the fire, saying *Suzu says*, the way he always had, and the white snake round his neck hissing at him, and everybody laughing, and Yan laughing too, a little late.
+Wendy remembered the first winter. Yan at the fire, saying *Suzu says*, the way he always had on stream, and the white snake round his neck hissing at everybody, and all of them laughing, kindly, and humouring him, for a year and a half. *Suzu says the soup's too hot. Suzu says Maigo's standing on her tail.* Until a roof in Valcrest, and a green snake saying the same things back, word for word, in front of Kei. Wendy had sat at the long table in the Lance the next night with her hand over her mouth and apologised to him for a year and a half of humouring him, and he'd said *it's fine, Wen, I thought I was mad too*.
 
-"And then Valcrest," said Yan. "On the roof. With Kei. And Hisui could hear her." He was quiet. "And I found out she'd been calling me something the whole time that I thought I'd made up."
+"And then Valcrest," said Yan. "On the roof. With Kei. And Hisui could hear her." He was quiet. "Somebody else. For the first time. And he heard her call me what she's called me every day since the hall. The thing I thought I'd made up."
 
 "Yun," said Wendy.
 
@@ -300,11 +300,11 @@ Yan looked at her.
 
 Yan didn't say anything.
 
-"So she's been saying things," said Wendy. "The whole time. That you couldn't hear." She looked at the snake. "And now she's looking at the south, and you can't hear why."
+"So she tells you everything," said Wendy. "And now there's one thing she won't." She looked at the snake. "And she's looking at the south, and she won't say why."
 
 "Yes," said Yan.
 
-"And the only person in the kingdom who can hear her is in Thornwall."
+"And the only other one in the kingdom who can hear her is in Thornwall."
 
 "Six weeks away," said Yan. "Over the passes. In the snow." He breathed out. "Hisui. Kei's snake. He's the only one."
 
@@ -328,9 +328,9 @@ He wrote it in the channel at one in the morning, sitting on the parapet in the 
 
 [ 01:04 · Suzuyun: Hana. Kei. A question.
 01:04 · Suzuyun: Hana's cords carry what you mean, not what you write. That's what Thea said. That's why the binding thought they were its.
-01:05 · Suzuyun: Suzu means things. I don't know what. Hisui can hear her when they're in the same room.
+01:05 · Suzuyun: Suzu means things. Hisui can hear her when they're in the same room. She tells me everything. She won't tell me this.
 01:05 · Suzuyun: If there were a pair. One half here, one half at Thornwall. If she lay on one and Hisui lay on the other.
-01:06 · Suzuyun: Would he hear her? ]
+01:06 · Suzuyun: Would he hear her? Would she tell him? ]
 
 Nothing, for a while. It was one in the morning. Most of the channel was asleep. The cursor went on and off under Yan's name.
 

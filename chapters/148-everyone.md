@@ -287,15 +287,15 @@ Tiger stopped at the top of the stairs.
 
 He wasn't going to hug them. He could see that. Not yet. He sat down on the top step instead, with his back against the doorframe, very quietly, which was hard for him, and waited.
 
-"*She says*," said Kei, very softly. To Yan. Not to Tiger. "*She says this is the last one for a while*."
+"*She says*," said Kei, very softly. Not to Tiger; not really to Yan either, who could hear her himself. Out loud, the way you'd repeat something to be sure you'd got it. "*She says this is the last one for a while*."
 
 Yan didn't say anything. His hand was resting on the shaft of the scythe, just below Suzu.
 
-"*She says*," said Kei, and listened. "*She says she's going to miss being heard*." A pause. "*She says it was nice. For a week. To have somebody to say things to who could pass them on*." He listened again. "*She says she's not going to stop talking. She's been talking since before the hall. She'll go on*." A pause. "*She says you'll just have to go back to guessing*."
+"*She says*," said Kei, and listened. "*She says she's going to miss being heard*." A pause. "*She says it was nice. For a week. To have somebody to say things to who could pass them on*." He listened again. "*She says she's not going to stop talking. She's been talking since before the hall. She'll go on*." A pause. "*She says you'll just have to go back to making her sound polite*."
 
-"I stopped guessing," said Yan.
+"I've stopped doing that," said Yan.
 
-"*She says you'll have to start again*," said Kei. "*She says guess better this time*."
+"*She says good*," said Kei. "*She says don't start again*."
 
 Yan laughed. Low and slow and very quiet.
 

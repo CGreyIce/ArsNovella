@@ -197,7 +197,7 @@ And then he told her the rest, because she'd told him, because they'd all promis
 
 *Aldous says to tell you he believes you. He says to tell you someone out here believes you. So do I.*
 
-*Write back. Tell me what Corvin says. Tell Kei to tell Hisui that Suzu has been wound around my neck so tight all night that I think she's frightened, and that if Hisui says anything rude about it I'll write to Bee and have her draw him a mongoose.*
+*Write back. Tell me what Corvin says. Tell Kei to tell Hisui that Suzu has been wound around my neck so tight all night that she's frightened. She says she isn't; she says she's annoyed. She's frightened. And if Hisui says anything rude about it I'll write to Bee and have her draw him a mongoose.*
 
 He signed it, and sealed it, and sat for a while with his hands flat on the table, waiting for them to stop shaking.
 

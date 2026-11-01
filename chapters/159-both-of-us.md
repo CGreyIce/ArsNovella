@@ -255,7 +255,7 @@ Xav read it last. He held it for a long time. Then he folded it again along its 
 
 "Never." Rowan put the letter in his coat, against his chest. "Eight years. She asked at eleven. He said *when you're older*. She never asked again."
 
-Xav nodded slowly. He didn't say anything else. But his eyes, Rowan saw, went to the window, and east, the way the fisherman's eyes went east from the end of his jetty every evening. And stayed there a while.
+Xav nodded slowly. He didn't say anything else. But his eyes, Rowan saw, went to the window, and east, the way the fisherman looked east from the end of his jetty every evening. And stayed there a while.
 
 "He's going to tell you everything," said Gabe, eventually. "When he gets back. He said. All of it."
 

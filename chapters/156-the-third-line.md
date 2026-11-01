@@ -35,7 +35,7 @@ He went up on the east wall before dawn on the hundred-and-eighth day, a week af
 
 He'd been waiting. He was good at waiting. He'd waited a week because a week was what it took, sometimes, for a thing to settle, the way you don't play a new strat in a match the morning after you've thought of it. You sleep on it. You run it in your head. You let it get boring. And then you try it.
 
-The wall was empty, except for a sentry at the far end by the north tower, and Old Wat going off duty, very slowly, along the walk with his spear. Wat nodded to him. Niko nodded back. Wat went round the gap at the eleventh merlon north of the gate without looking at it, the way he always did, and on down the stairs.
+The wall was empty, except for a sentry at the far end by the north tower, and Old Ansel going off duty, very slowly, along the walk with his spear. Ansel nodded to him. Niko nodded back. Ansel went round the gap at the eleventh merlon north of the gate without looking at it, the way he always did, and on down the stairs.
 
 Niko didn't go near the gap. He went the other way, south of the gatehouse, to the place he'd sat every dawn for two years, with his back against a merlon and his face to the red. It was cold. The end of summer, nearly, and the nights were drawing in. The moon was going down in the west behind the fort, nine days past full, half of it gone. The red was dark. The sky over Kharvos was grey, going pale.
 

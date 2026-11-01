@@ -31,7 +31,7 @@ He hated it. He'd always hated it. He'd never once let her go a whole day unfed.
 
 "*She says thank you*," said Kei, beside him. Quietly. "*For the hen*."
 
-Yan didn't look round.
+Yan didn't look round. He'd heard her. He was still getting used to somebody else hearing her too.
 
 Kei had come with him. He hadn't asked to. He'd just been there at the bottom of the Street of Coopers when Yan came out of the Broken Lance, leaning on a wall with his hands in his haori sleeves and Hisui looped round his neck, the way somebody waits for a friend they know is about to do something they don't like doing. And he'd walked down to the market with him, and not said anything, and stood in the poulterer's yard while the boy did the thing.
 
@@ -43,7 +43,7 @@ Kei had come with him. He hadn't asked to. He'd just been there at the bottom of
 
 Yan stood in the poulterer's yard with the cord warm in his chest and the white snake round his neck and didn't say anything for a while.
 
-*I'm going to stop guessing*, he'd said, three nights ago, on a roof. He'd meant it. It was harder than he'd thought. Two years of translating for her, and four years before that on stream, and every time he heard her through Hisui now it was like finding out a song he'd been singing all his life had different words.
+*It was always her*, Hisui had said, three nights ago, on a roof. Yan still couldn't get used to it. Two years of hearing her and passing her on in a nicer voice than hers, and four years before that on stream making her up; and now, every time Hisui repeated her out loud, word for word, rude bits and all, somebody else heard what he heard. It was like finding out that a song he'd been singing on his own all his life had always been a duet.
 
 "Okay," said Yan, eventually.
 
@@ -411,9 +411,9 @@ The man didn't move.
 
 Suzu drew back. She wound herself round Yan's neck again, once, twice. She put her head back down on his collarbone. And down the cord, into Yan's chest, came warmth. Not hen's warmth. Not fed warmth. Something else.
 
-Yan didn't know what it meant. He'd stopped guessing.
+*Him*, said Suzu, in his head. Quietly. *He tastes like the red.*
 
-He'd ask Hisui in the morning.
+Yan didn't know what she meant. She didn't say any more.
 
 "*She says*," said a voice, very quietly, from the dark at the edge of the lamplight, and Yan turned and found Kei leaning on the wall at the corner, where he must have been the whole time, with his hands in his haori sleeves and Hisui round his neck. Kei looked apologetic. "Sorry. I followed. I wanted to make sure you were all right." He listened. "*She says he tastes like the red*. *Like the grave. Like the cold thing, except the other way round*." He frowned, listening harder. "*She says he tastes like something that's been holding something down for a very long time*. *And is tired*."
 

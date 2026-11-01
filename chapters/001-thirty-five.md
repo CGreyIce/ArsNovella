@@ -87,6 +87,12 @@ She hissed at him. Then, as he watched, she *shrank*, length pouring away like w
 
 Offended, and frightened, and something else. He could *feel* it. That was the strangest part, stranger than the snake: there was something running between them that had never been there on stream, a warm cord from somewhere under his breastbone to the weight at his throat, and what she felt came down it as plainly as a hand on his cheek. She'd woken first. Alone, in a hall full of swords. And the first thing she'd done was find him, and lie across his heart until he opened his eyes.
 
+And then, under all of it, a voice.
+
+In his head. Cool and low and perfectly calm. A voice he had never once heard in his life, and knew at once, because he'd been doing a bad impression of it on stream for years.
+
+*There you are*, said Suzu. *Yun.*
+
 On stream, Suzu had been in love with him. That was the bit. Everyone in chat knew it. The snake was devoted; the snake was jealous; the snake hissed at anyone who sent him too many hearts. And once a week somebody would ask, and Yan would say, in his slow deep voice, that the feeling was mutual, and chat would lose its mind.
 
 He'd thought it was a bit.

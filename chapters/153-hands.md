@@ -155,7 +155,7 @@ He could pick them out. He'd been picking them out for nine years. Twenty-five o
 
 They weren't together. They were all along the wall, scattered among the young ones, the way they always were. But he could see them. The way you can see the old trees in a wood.
 
-Teague, over the gate, with his scarred arm. Jory Platt, who'd lost three fingers. Bennet and his brother. Old Wat, who was eighty now and still did the night watch on the north tower because nobody had the heart to tell him not to. Marguerite from the stables. Fenner. Ise. The others.
+Teague, over the gate, with his scarred arm. Jory Platt, who'd lost three fingers. Bennet and his brother. Old Ansel, who was eighty now and still did the night watch on the north tower because nobody had the heart to tell him not to. Marguerite from the stables. Fenner. Ise. The others.
 
 The cart came on across the red.
 
@@ -169,9 +169,9 @@ Teague, on the gatehouse, under the horns. He didn't do anything else. He didn't
 
 And Jory Platt, three merlons along, saw him, and did the same.
 
-And Bennet, and his brother. And Old Wat on the north tower, slowly, because his hands shook. And Marguerite. And all along the wall, one after another, the way it had gone nine years ago. Not all at once. Like candles being lit along a dark hall by somebody walking. The twenty-five of them. Hand flat. Over the heart.
+And Bennet, and his brother. And Old Ansel on the north tower, slowly, because his hands shook. And Marguerite. And all along the wall, one after another, the way it had gone nine years ago. Not all at once. Like candles being lit along a dark hall by somebody walking. The twenty-five of them. Hand flat. Over the heart.
 
-And the young ones beside them looked. Aldous saw them look. A boy of seventeen on the wall beside Old Wat, who'd come up because the old men had, staring at the old man beside him, at the shaking hand on the old man's chest. Not understanding. And then, slowly, as if he weren't sure, as if he might be doing it wrong, putting his own hand on his own chest.
+And the young ones beside them looked. Aldous saw them look. A boy of seventeen on the wall beside Old Ansel, who'd come up because the old men had, staring at the old man beside him, at the shaking hand on the old man's chest. Not understanding. And then, slowly, as if he weren't sure, as if he might be doing it wrong, putting his own hand on his own chest.
 
 And the girl beside him.
 
@@ -217,7 +217,7 @@ And as he looked, he said their names.
 
 Not loudly. He didn't raise his voice. It was a quiet voice, a little rough, with the accent of somewhere north. Aldous didn't know how it carried. It carried. It went up the wall in the still morning air the way smoke goes up on a day with no wind, and every one of them heard it.
 
-"Jory," said the man. "Bennet. Hob." He looked along the wall. "Marguerite. Fenner. Wat." He was looking at the north tower, at an old man of eighty with a shaking hand on his chest. "Wat. You're still on nights."
+"Jory," said the man. "Bennet. Collum." He looked along the wall. "Marguerite. Fenner. Ansel." He was looking at the north tower, at an old man of eighty with a shaking hand on his chest. "Ansel. You're still on nights."
 
 The old man on the north tower made a sound. Aldous heard it from the courtyard.
 

@@ -153,7 +153,7 @@ She got up from the table and took it. She read it standing beside him in the do
 
 *Ars.*
 
-*Tamsin put it into my hand on the gatehouse wall. I read it there. I could not come down for an hour. Then Severin found me and we sat on the forge step and did not hit anything for the whole afternoon, which I am told the castle has never seen.*
+*Senna put it into my hand on the gatehouse wall. I read it there. I could not come down for an hour. Then Severin found me and we sat on the forge step and did not hit anything for the whole afternoon, which I am told the castle has never seen.*
 
 *I have done the sum again. All the way to the end, this time. It comes out where you said.*
 

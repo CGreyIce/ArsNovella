@@ -93,21 +93,21 @@ She didn't ask anything else. She put her hand on his back, once, between the sh
 
 ***
 
-He couldn't hear Suzu any more.
+He could still hear Suzu. That hadn't changed. *Good*, she'd said, about the rabbit, and *thank you*, and *you didn't look away*, in his head, quietly, the way she said everything.
 
-He'd known he wouldn't, after Valcrest. Hisui was going west, round Kei's neck, twenty days to Thornwall. Nobody else in the kingdom could hear a snake. For a week he'd had somebody to tell him what she was saying, every word, all of it, and now he didn't, and she was round his neck warm and fed and saying, he knew, a great many things, and he couldn't hear one of them.
+What had changed was everybody else. For a week, after the roof, there'd been somebody else who could hear her too: a green snake round a calm man's neck, who heard every word she said and repeated it out loud, rude bits and all, so that Kei heard it, and then the whole of Group 3, at the long table in the Lance, with their mouths open. For a week he hadn't been the only one. And now Hisui was going west, twenty days to Thornwall, and he was the only one again.
 
-*She says you'll have to go back to guessing*, Kei had said, on the roof, on the last night. *She says guess better this time*.
+*She says you'll have to go back to making her sound polite*, Kei had said, on the roof, on the last night. *She says don't*.
 
-He wasn't going to guess. He'd decided that on the roof. He'd guessed for six years, on stream and off, *Suzu says hi chat*, *Suzu's jealous*, *Suzu wants the window shut*, and been wrong every time but once. He wasn't going to guess any more.
+He wasn't going to. He'd decided that on the roof. Two years of passing her on in a nicer voice than hers, *Suzu says thank you*, *Suzu says hello*, when what she'd said was *go away* and *you smell of goat*. He wasn't going to edit her any more.
 
-He was just going to know.
+He was just going to tell them.
 
-That was the difference. He'd worked it out walking across the plain all day behind the cart. You guessed when you didn't know. And he knew, now. He knew she'd liked the sheep. He knew she liked Aldous because he smelled of candles. He knew the hen had been fine and she was grateful and she'd rather never eat people. He knew she wasn't jealous, she was correct. He knew she called him *Yun*, and that it had always been her, and never a bit.
+That was the difference. He'd worked it out walking across the plain all day behind the cart. You edited somebody when you weren't sure you'd be believed. And they believed him now. Salty had sat at the long table in the Lance and listened to Kei say *she says she was correct* and put his face in his hands. Wendy had said *oh my god, Yan, it's real, it's actually real*, and then apologised to him for a year and a half of humouring him. They knew she'd liked the sheep. They knew she liked Aldous because he smelled of candles. They knew the hen had been fine and she was grateful and she'd rather never eat people. They knew she wasn't jealous, she was correct. They knew she called him *Yun*, and that it had always been her, and never a bit.
 
-He knew the feeling was mutual.
+And he knew the feeling was mutual.
 
-He didn't need to hear her say it. She'd said it. Through a green snake on a roof, once. That was enough. That would be enough for a long time.
+He'd always known that. She'd said it every day since the hall. What was new was that he'd said it back. Out loud. On a roof, once. That was enough. That would be enough for a long time.
 
 He put his hand up and rested it on her, very lightly, where she lay round his neck.
 
@@ -375,17 +375,17 @@ Yan sat on the tailboard and watched it. Over the downs, a long way off, the lig
 
 Round his neck, Suzu stirred.
 
-He felt it down the cord before she moved. The way he felt everything with her. Warmth, and something under the warmth, the thing he'd felt since the first hour in the hall and never once put into words until a green snake on a roof made him.
+He felt it down the cord before she moved. The way he felt everything with her. Warmth, and something under the warmth, the thing she'd said to him every morning since the hall and he'd never once said back until a green snake on a roof made him.
 
 She lifted her head off his collarbone. She looked at him, very close, in the grey light, with her two green eyes.
 
-And he felt it.
+And she said it.
 
-Not heard. He couldn't hear her. Nobody in this world could, now, except a green snake going west round a calm man's neck, twenty days away. He didn't hear it. He felt it, down the cord, into his chest, the way you feel your own name said by somebody in a crowded room before you've heard the word. One syllable. Warm. The half of *Suzuyun* that wasn't her. The name only she had ever called him, in two worlds, in his own voice on stream and then, it turned out, in hers.
+Not loud. In his head, in the cool low voice he'd heard every morning for two years and been believed about for exactly one week. One syllable. Warm. The half of *Suzuyun* that wasn't her. The name only she had ever called him, in two worlds, in his own voice on stream and then, it turned out, in hers.
 
 *Yun*.
 
-He didn't guess. He knew.
+He didn't wonder, this time, whether it was him. He knew.
 
 "Morning," said Yan. Very quietly. To her. "I know."
 

@@ -213,9 +213,13 @@ The man looked down at her.
 
 That was all. Just *hello*. Quietly. The way you'd say it to someone you hadn't seen in a long time, and weren't surprised to see.
 
-On Earth, Yan had always translated for Suzu. He'd done her voice on stream, every day, for years. Hisses and all. He always knew what she'd say.
+On Earth, Yan had always translated for Suzu. He'd done her voice on stream, every day, for years. Hisses and all. And here, since the first morning on the floor of the hall, he hadn't needed to: she talked to him. In his head, in a cool low voice nobody else could hear, every day, about everything. He always knew what she'd say.
 
-He didn't know what she'd say now. For the first time in his life, he didn't have the faintest idea.
+He didn't know what she'd say now.
+
+And then she said it. Very quietly, with her head on the man's boot and her eyes shut. *Oh*, said Suzu. *There you are.*
+
+The same words. The same voice. The way she'd said them to him, on the cold stone of the hall, the first morning, before he'd opened his eyes. And Yan knelt on the red with his hand still out and had no idea at all what she meant.
 
 ***
 

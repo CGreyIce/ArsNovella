@@ -27,13 +27,13 @@ He looked at her for a long time in the grey light, the way the old ones on the 
 
 ***
 
-His name was Wat. He was eighty. He'd been at Cinderhold since before her father was born. He told her that on the way, very slowly, because everything Wat did was slow, and she walked beside him at his pace with her hand ready in case he fell, and he didn't.
+His name was Ansel. He was eighty. He'd been at Cinderhold since before her father was born. He told her that on the way, very slowly, because everything Ansel did was slow, and she walked beside him at his pace with her hand ready in case he fell, and he didn't.
 
-"North of the gate," said Wat. "Eleven merlons. Not twelve. Folk get it wrong. The young ones count from the gatehouse door and they get twelve, but you don't count the door." He breathed. "Eleven."
+"North of the gate," said Ansel. "Eleven merlons. Not twelve. Folk get it wrong. The young ones count from the gatehouse door and they get twelve, but you don't count the door." He breathed. "Eleven."
 
 They went along the wall. Past the gatehouse. Past the horns, hung on the outside of the gatehouse under the parapet, which she could just see if she leaned out: two great curved shapes, dark, like the horns of a bull the size of a cart, with frost on them. She didn't lean out far. She knew what they were. She didn't need to look.
 
-Wat counted under his breath. Not out loud; she just saw his lips moving. *Seven. Eight*.
+Ansel counted under his breath. Not out loud; she just saw his lips moving. *Seven. Eight*.
 
 There was a gap.
 
@@ -41,7 +41,7 @@ That was the first thing she noticed. Not the place itself. The gap round it. Al
 
 Not much. A step. The trough in the stone bent away from the parapet, toward the inside rail, for about the width of two men, and then came back. As if, for nine years, every sentry on the east wall of Cinderhold had stepped aside at that place without thinking about it. The way you step round a grave.
 
-"Nobody stands there," said Wat.
+"Nobody stands there," said Ansel.
 
 "Ever?"
 
@@ -55,33 +55,33 @@ She went closer. She didn't step into the gap. She stood at the edge of it, wher
 
 They were cracks. Two of them, side by side, about a shoulder-width apart, in the top of the stone. Not marks at all. *Breaks*. Each one starting from a place about the size of a hand, where the stone had gone down a little, crushed, as if it had been mud and somebody had pressed into it; and from each of those places, cracks running out across the coping in every direction, fine and white and branching, the way cracks run out across ice when you put your weight on it too fast. The whole top of the stone between the two merlons was split with them. You could have put your fingers in the biggest.
 
-She knew what they were before Wat said anything. She'd seen her father's hands on the end of the jetty every night of her life. She knew how far apart they went when he leaned on something. She knew the size.
+She knew what they were before Ansel said anything. She'd seen her father's hands on the end of the jetty every night of her life. She knew how far apart they went when he leaned on something. She knew the size.
 
 "His hands," she said.
 
-"His hands," said Wat.
+"His hands," said Ansel.
 
 ***
 
-"He stood here an hour," said Wat.
+"He stood here an hour," said Ansel.
 
 He'd sat down. On the step of the wall walk, with his back against the inside rail and his spear across his knees and his lantern beside him, because he'd been on his feet all night and he was eighty, he said, and he'd stand when he was dead. Alea sat beside him. Not in the gap. Beside it, with her back against the rail, where she could see the two cracked places in the stone against the grey sky.
 
-"The third day," said Wat. "In the afternoon. When they lit the fires on the rise." He nodded east, over the parapet, without looking. "He came up those stairs at a run, and along the wall, and here. And put his hands on the stone. And looked." His mouth worked. "And then he didn't move."
+"The third day," said Ansel. "In the afternoon. When they lit the fires on the rise." He nodded east, over the parapet, without looking. "He came up those stairs at a run, and along the wall, and here. And put his hands on the stone. And looked." His mouth worked. "And then he didn't move."
 
 Alea didn't say anything.
 
-"An hour," said Wat. "I was two merlons down. On that side." He pointed, south, with his shaking hand. "I watched him. Everybody did. We'd all seen the fires. We'd all seen what was in the middle of them." He was quiet for a moment. "And he stood here, with his hands on the stone, an hour, and didn't move. And the stone went under his hands. You could hear it. Like ice on the river in the spring. *Crack*. And then another. And he didn't move."
+"An hour," said Ansel. "I was two merlons down. On that side." He pointed, south, with his shaking hand. "I watched him. Everybody did. We'd all seen the fires. We'd all seen what was in the middle of them." He was quiet for a moment. "And he stood here, with his hands on the stone, an hour, and didn't move. And the stone went under his hands. You could hear it. Like ice on the river in the spring. *Crack*. And then another. And he didn't move."
 
 "Why?" said Alea. It came out of her before she could stop it.
 
-Wat looked at her for a long moment, with his old wet eyes.
+Ansel looked at her for a long moment, with his old wet eyes.
 
 "Nobody knows," he said. "Folk've said all sorts. That he was waiting for the general to show himself. That he was deciding. That he was praying. That he'd gone out of his head with it and didn't know where he was." He shook his head, slowly. "I don't hold with any of them. I was two merlons down. He knew where he was."
 
 He was quiet for a while.
 
-"The Advisor was beside him," said Wat. "Halvard. The whole hour. Stood right where you're sitting, near enough. Said something to him at the start, when he first put his hands on the stone. Nobody heard what. Then didn't say anything else. Just stood there. The whole hour. Beside him." He breathed. "And at the end of it, the Advisor said something again. And your father took his hands off the stone. And went down the stairs, and out of the gate, on his own, and into the host." He looked at the cracks. "And we didn't see him again until the morning."
+"The Advisor was beside him," said Ansel. "Halvard. The whole hour. Stood right where you're sitting, near enough. Said something to him at the start, when he first put his hands on the stone. Nobody heard what. Then didn't say anything else. Just stood there. The whole hour. Beside him." He breathed. "And at the end of it, the Advisor said something again. And your father took his hands off the stone. And went down the stairs, and out of the gate, on his own, and into the host." He looked at the cracks. "And we didn't see him again until the morning."
 
 Alea sat with her back against the rail and looked at the two broken places in the stone.
 
@@ -97,9 +97,9 @@ She didn't ask. She closed it. The way she'd closed the other one, yesterday, at
 
 *Slower*, she thought.
 
-"Thank you," she said to Wat.
+"Thank you," she said to Ansel.
 
-"Don't thank me," said Wat. "I'm only telling you where. I don't know why." He reached out, slowly, with his shaking hand, and patted her knee, twice, the way you'd pat a dog. "You've got her face," he said. "Everyone's saying. I didn't believe them." His hand stayed on her knee a moment. "They're right."
+"Don't thank me," said Ansel. "I'm only telling you where. I don't know why." He reached out, slowly, with his shaking hand, and patted her knee, twice, the way you'd pat a dog. "You've got her face," he said. "Everyone's saying. I didn't believe them." His hand stayed on her knee a moment. "They're right."
 
 Then he got up, which took a long time, and picked up his lantern and his spear, and went off along the wall toward the stairs and his bed. Very slowly. Going round the gap at the eleventh merlon without looking at it, the way he must have gone round it every night for nine years.
 
@@ -191,7 +191,7 @@ He looked up when the door shut behind her.
 
 And stopped sweeping.
 
-He stood there in the bars of sunlight with the broom in his big hands and looked at her. At her face. And Alea saw it happen to him, the thing that had happened on the wall yesterday to twenty-five old soldiers, and to Teague by the fire, and to Wat that morning. All the colour going out of him at once. But he didn't say *Diwa*. He didn't say anything. He just stood there.
+He stood there in the bars of sunlight with the broom in his big hands and looked at her. At her face. And Alea saw it happen to him, the thing that had happened on the wall yesterday to twenty-five old soldiers, and to Teague by the fire, and to Ansel that morning. All the colour going out of him at once. But he didn't say *Diwa*. He didn't say anything. He just stood there.
 
 Then he leaned the broom very carefully against the end of the nearest bed, and sat down on the bed, heavily, as if his legs had stopped.
 
@@ -343,9 +343,9 @@ Neither of them stepped into it.
 
 They stood there for a while, the two of them, one on each side of the place where he'd stood nine years ago, and looked at the red.
 
-"Wat showed you," he said, eventually.
+"Ansel showed you," he said, eventually.
 
-"Wat showed me."
+"Ansel showed me."
 
 "He's still on nights."
 
@@ -355,7 +355,7 @@ They stood there for a while, the two of them, one on each side of the place whe
 
 "He said."
 
-Her father didn't say anything else. He didn't say *what else did he say*. He didn't look at the cracks in the stone between them. And she didn't say anything about the hour, or Halvard, or the thing Wat said nobody knew. She'd closed that. She kept it closed. She could feel him knowing that she'd closed it, the way she could always feel him knowing things, and not saying anything about that either.
+Her father didn't say anything else. He didn't say *what else did he say*. He didn't look at the cracks in the stone between them. And she didn't say anything about the hour, or Halvard, or the thing Ansel said nobody knew. She'd closed that. She kept it closed. She could feel him knowing that she'd closed it, the way she could always feel him knowing things, and not saying anything about that either.
 
 *When you're ready*, she thought. *It's yours*.
 

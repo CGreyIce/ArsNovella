@@ -235,11 +235,11 @@ He didn't close it, either. It would stick, in this weather, if he tried, and he
 
 ***
 
-The king's fastest rider was a woman called Tamsin Vell.
+The king's fastest rider was a woman called Senna Vell.
 
 She was forty, and small, and brown as a nut from twenty years on the roads, and she had ridden from Thornwall to Solmere once in eleven days with the news of the absence beyond the pass, which nobody had ever done before or since. She slept in the room over the stables. Halvard knocked on her door at dawn with the letter in his hand, and she opened it in her shirt with her boots already on, because the king's fastest rider always slept with her boots on, and looked at him.
 
-"My lord," she said. Not surprised. Nothing surprised Tamsin.
+"My lord," she said. Not surprised. Nothing surprised Senna.
 
 "Cinderhold," said Halvard.
 
@@ -259,11 +259,11 @@ He gave it to her.
 
 "Into his hand," he said. "His and no other. Not the commander's. Not the chaplain's. His."
 
-"Into his hand," said Tamsin. She put it inside her shirt, flat, against her skin, the way the king's riders carried things that mattered, and buttoned the shirt over it, and picked up her saddle from the floor. "He'll be the one with the rod, my lord?"
+"Into his hand," said Senna. She put it inside her shirt, flat, against her skin, the way the king's riders carried things that mattered, and buttoned the shirt over it, and picked up her saddle from the floor. "He'll be the one with the rod, my lord?"
 
 "He'll be the one carrying the water," said Halvard.
 
-Tamsin looked at him. Then she nodded, as if that made perfect sense, which from a woman who'd ridden to Thornwall in eleven days it very possibly did, and went past him down the stairs to the stables.
+Senna looked at him. Then she nodded, as if that made perfect sense, which from a woman who'd ridden to Thornwall in eleven days it very possibly did, and went past him down the stairs to the stables.
 
 ***
 

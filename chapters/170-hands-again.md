@@ -11,7 +11,7 @@ He hadn't meant to be. He'd meant to be in the chapel. He'd sat in it all aftern
 
 He wasn't the only one. He'd known he wouldn't be.
 
-Wat was in the gap. Wat had been in the gap every evening since he'd walked through it one morning a fortnight ago, as if it had always been his. Teague was on the gatehouse. Hesper had come up from the infirmary, which Aldous had seen him do perhaps three times in nine years, and was standing a little apart, very large and very still, with his broom, because he'd forgotten to put it down. Oakes was at the bottom of the stair with his arms folded, pretending he was only there for the air.
+Ansel was in the gap. Ansel had been in the gap every evening since he'd walked through it one morning a fortnight ago, as if it had always been his. Teague was on the gatehouse. Hesper had come up from the infirmary, which Aldous had seen him do perhaps three times in nine years, and was standing a little apart, very large and very still, with his broom, because he'd forgotten to put it down. Oakes was at the bottom of the stair with his arms folded, pretending he was only there for the air.
 
 And out on the red, a long way off, two figures. Walking. Toward the fort. Through the markers, in the low gold light, side by side, close, at an even pace. A man with a rod over his shoulder. A girl beside him with a black sword on her back, and something in her arms, held carefully against her chest, the way you'd carry something small and alive.
 
@@ -19,7 +19,7 @@ The grey grass went still round them as they came.
 
 Aldous could see it from the wall. He'd seen it for a year now and stopped pretending he didn't. A ring of quiet going across the red round the man's boots. Only it wasn't round the man's boots now. It was wider. Round both of them. As if the plain had decided, sometime in the last three days, that the girl was part of whatever it went quiet for.
 
-"Look at that," said Wat, very softly, from the gap. "Both of 'em."
+"Look at that," said Ansel, very softly, from the gap. "Both of 'em."
 
 Nobody answered him.
 
@@ -185,7 +185,7 @@ Pim went red to the ears and ran back to the stables. And the man stood in the m
 
 ***
 
-Nell from the laundry gave the girl a shirt, folded, clean, without a word. Teague came down off the gatehouse and shook the man's hand, with his bad arm, and said *sir*, and nothing else, and went back up. A cook gave them bread. A groom gave them a twist of salt. Old Wat had been on the night watch and was asleep, and nobody woke him, because the man said not to.
+Nell from the laundry gave the girl a shirt, folded, clean, without a word. Teague came down off the gatehouse and shook the man's hand, with his bad arm, and said *sir*, and nothing else, and went back up. A cook gave them bread. A groom gave them a twist of salt. Old Ansel had been on the night watch and was asleep, and nobody woke him, because the man said not to.
 
 And then Group 3.
 
@@ -347,7 +347,7 @@ Aldous didn't know when they'd gone up. He'd been watching the courtyard. He loo
 
 The old ones, scattered among the young. Twenty-five of them. Aldous could pick every one.
 
-And in the north-west tower, at the very end of the wall, bent nearly double over his spear, Old Wat. Who'd been asleep. Who somebody had woken after all, or who'd woken on his own because eighty years on a wall gives you a sense for when you're needed on it.
+And in the north-west tower, at the very end of the wall, bent nearly double over his spear, Old Ansel. Who'd been asleep. Who somebody had woken after all, or who'd woken on his own because eighty years on a wall gives you a sense for when you're needed on it.
 
 The man and the girl came out of the west gate onto the road.
 
@@ -355,7 +355,7 @@ And Teague, on the gatehouse, put his hand on his chest.
 
 ***
 
-It went the way it had gone on the east wall, five weeks ago. The way it had gone nine years ago. Not all at once. Like candles being lit along a dark hall by somebody walking. Teague. And Jory Platt beside him, with his three fingers gone. Bennet and Hob. Marguerite from the stables. Fenner. Ise. And Wat, at the end, in the tower, slowly, because his hands shook.
+It went the way it had gone on the east wall, five weeks ago. The way it had gone nine years ago. Not all at once. Like candles being lit along a dark hall by somebody walking. Teague. And Jory Platt beside him, with his three fingers gone. Bennet and Collum. Marguerite from the stables. Fenner. Ise. And Ansel, at the end, in the tower, slowly, because his hands shook.
 
 And then the young ones. Who knew now. Every one of them. Who'd watched the man carry water for five weeks and cook eleven dinners in a forge and sit in the gap with his daughter every evening, and who'd heard, by now, from the old ones, in the barracks at night and on the wall on the long watches, everything. All of them. Hand flat. Over the heart.
 

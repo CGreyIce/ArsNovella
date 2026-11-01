@@ -53,7 +53,9 @@ Suzu hissed. Hisui, apparently, hissed back. Maigo laughed so hard he fell off a
 
 A little later, Niko looked over and saw Yan sitting on the edge of his cot with a heel of bread from supper in one gloved hand and a strip of cold mutton in the other, holding them up to the white snake round his neck one after the other. She tasted each one with her tongue and turned her head away.
 
-"She's hungry," said Yan quietly, when he saw Niko looking. "I can feel it. She won't eat."
+"She's hungry," said Yan quietly, when he saw Niko looking. "I can feel it. She won't eat." He held the mutton up again, and listened, and sighed. "She says *not that*. She says *not that either*. She says I'll see."
+
+He said it the way he'd said things for her on stream for years, slow and fond and deadpan, and Niko, who'd watched a great many of those streams, assumed it was the bit. Everyone did.
 
 "Mice?" said Niko. "Snakes eat mice."
 
