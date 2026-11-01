@@ -223,7 +223,7 @@ Then Higu wrote in her book. And Gigichi got up off her knees, with the mud on t
 11:45 · Suzuyun: Suzu says good tree.
 11:45 · Suzuyun: She also says tell the girl she asked properly.
 11:47 · Wendy: Maigo's been crying for four minutes. Liraun has started singing at him. It's helping.
-11:52 · Thea: One bud opened. I watched it. It was the most ordinary thing I've ever seen and I can't stop shaking. ]
+11:52 · Althea: One bud opened. I watched it. It was the most ordinary thing I've ever seen and I can't stop shaking. ]
 
 Gigichi read *she asked properly* three times, and put her window away, and didn't say anything to anybody.
 
@@ -275,7 +275,7 @@ Gigichi didn't say anything.
 
 Out on the lake, a last slab of grey ice turned over, slowly, and went under.
 
-"Alea's going south," he said. "In the summer. To the Lists. To lose to Sorrel again; she's already decided. And I don't know if I'm going. I want to. I want to sit in a stand and watch my girl." His hands had come off the planks and were holding each other, between his knees. "And I'm frightened of it. I don't know why. I think Maren worked it out, last summer, at the Lists. She looked at me as if she had." He was quiet. "I'm frightened I'll be proud of her in front of people. That's all. That's the whole thing. I don't know why that frightens me. It does."
+"Alea's going south," he said. "In the summer. To the Lists. To beat Sorrel again; she's already decided. And I don't know if I'm going. I want to. I want to sit in a stand and watch my girl." His hands had come off the planks and were holding each other, between his knees. "And I'm frightened of it. I don't know why. I think Maren worked it out, last summer, at the Lists. She looked at me as if she had." He was quiet. "I'm frightened I'll be proud of her in front of people. That's all. That's the whole thing. I don't know why that frightens me. It does."
 
 Gigichi looked at his hands. She couldn't see his face. She'd never been able to. She didn't need to.
 

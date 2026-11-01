@@ -232,7 +232,7 @@ She read the channel on the seventeenth night, by the fire, because Yan was asle
 21:19 · Hyvred: It's standing.
 21:20 · Drew: it's leaning a bit
 21:20 · Hyvred: It's standing.
-21:31 · Hana: Solmere in three days. The halves are all warm. Every one. Hi, everyone.
+21:31 · Hanarisu: Solmere in three days. The halves are all warm. Every one. Hi, everyone.
 21:40 · Maigo: we're at the GREY GRASS!!! the horse is being SO brave about it
 21:41 · Maigo: he still hasn't told me his name
 21:58 · Wendy: Seventeen days. Fort in three. Everyone here's fine. ]
