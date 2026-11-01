@@ -548,7 +548,7 @@ Rhea came along the wall walk on her rounds, with a lamp. She stopped beside him
 
 She stood there a while with the lamp. She'd said it was a waste, in the first year. Both paths. She'd said it at supper, in front of everyone, *it's a waste, lad, pick one*. She'd never said she was sorry. Rhea didn't say sorry; she said *again*.
 
-"The cook says you can use her skillet," said Rhea. "Not Oakes's. Hers. The good one. Whenever you like." She looked out at the red. "She's never said that to anyone. Not the commander before me. Not me."
+"The cook says you can use her skillet," said Rhea. "Not Oakes's. Hers. The good one. Whenever you like." She looked out at the red. "She's never said that to anyone. Not the commander. Not me."
 
 Niko didn't know what to say to that.
 
