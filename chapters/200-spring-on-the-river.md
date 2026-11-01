@@ -11,7 +11,7 @@ Not *a* patient. *The* patient. There was a difference, and nobody who hadn't be
 
 She'd been very good at it. It was a skill. Nobody gave you a window for it.
 
-And then she'd woken up on the floor of a hall in another world, and an old man in grey had put his hand on her forehead for about four seconds, and she'd felt something in her that had been wrong since before she could remember go *right*, the way a dislocated finger goes back in, with a click you felt in your teeth.
+And then she'd woken up on the floor of a hall in another world, and an old man in grey had crouched beside her and laid two fingers on the inside of her wrist for about four seconds, and said *that will hold*, and she'd felt something in her that had been wrong since before she could remember go *right*, the way a dislocated finger goes back in, with a click you felt in your teeth.
 
 That was two years and a half ago.
 
@@ -23,7 +23,7 @@ The seventh hour, and Sister Maud was on the step.
 
 She always was. With a broom. Seventy-three years old, as small as Rachael and twice as fierce, in a grey habit with the sleeves pinned up and a face like a walnut that had decided long ago what it thought about everything. She said you could tell everything about the day from who came down the river street at the seventh hour and in what state. She swept the same four steps every morning whether they needed it or not, and they never needed it, because she'd swept them yesterday.
 
-Rachael came round the corner of the river street with two of them, the way she had every morning since a hunter came over the river wall for her in the first autumn. *Rachael always with two*. Sabine had said it, on a barge, last spring, and nobody had ever said she could stop, and Rachael had long since given up asking. Today it was Gabe, five paces behind her, with his big hands in his pockets and his hammer through his belt, near enough that she knew he was there and not so near she had to do anything about it. And Dennis, on her other side, a pace closer than Gabe because Dennis had never once in his life stood where he was told, humming.
+Rachael came round the corner of the river street with two of them, the way she had every morning since the night a hunter came through the river wall for her, the autumn before last. *Rachael always with two*. Sabine had said it, on a barge, last spring, and nobody had ever said she could stop, and Rachael had long since given up asking. Today it was Gabe, five paces behind her, with his big hands in his pockets and his hammer through his belt, near enough that she knew he was there and not so near she had to do anything about it. And Dennis, on her other side, a pace closer than Gabe because Dennis had never once in his life stood where he was told, humming.
 
 The Wren was high. That was the first thing you noticed, coming round the corner, every morning since the thaw. The river at the bottom of the street brown and fast and loud with the spring coming down out of the north, all of it, every lake and stream and snowfield between here and the Greyspine, going past the quays in a hurry with branches in it, and once, last week, a whole hen-house, empty, upright, turning slowly round and round, that half of Kingsferry had come out on the wharves to cheer. The first barges of the year were in. The *Patient Widow* was in, with Dennis's name on her papers and Old Haskett at the oar saying *easy* to nobody. The willows along the far bank had gone a green so new it looked wet.
 
@@ -77,7 +77,7 @@ He listened for a long time.
 
 Rachael didn't say anything.
 
-Like Valcrest. Thirty-nine of them, in the stands at the Lists, all week, counting. And then on the last night, all at once, every one of them walking out of every gate of the city at the same moment, separately, *like they all heard the same bell*, Yan had said. And a month after that, in the autumn, at Thornwall, thirty-nine people coming down the pass road one at a time from thirty-nine directions and taking their places in the outermost ring in the valley, until the ring was full.
+Like Valcrest. Thirty-nine of them, in the stands at the Lists, all week, counting. And then on the last night, all at once, every one of them walking out of every gate of the city at the same moment, separately, *like they all heard the same bell*, Hyvred had said. And a month after that, in the autumn, at Thornwall, thirty-nine people coming down the pass road one at a time and taking their places in the outermost ring in the valley, until the ring was full.
 
 She stood at the bottom of Sister Maud's step in the spring morning with the river going past loud and brown and the willows green on the far bank and everybody in the street going about their business, ringing like bells.
 
@@ -125,7 +125,7 @@ And put the joints back.
 
 Corliss shouted. He swore. He told her, at some length, with real feeling, that she was a terrible person, and she said "I know," and held on.
 
-Then she shut her eyes, and wrote, with one finger of her other hand, in the air over his, small, in English, the word she'd been writing for two years and a half.
+Then she shut her eyes, and wrote, with one finger of her other hand, in the air over his, small, in English, the word she'd been writing for two years.
 
 *Mend*.
 
@@ -179,7 +179,7 @@ Then, because nobody was looking, didn't.
 
 ***
 
-She took Gabe his lunch at the sixth hour.
+She took Gabe his lunch at noon.
 
 She didn't usually. Gabe ate at the forge, with Harl, out of a cloth. But she'd been on her feet since the seventh hour and she wanted, suddenly, very much, to walk somewhere in the sun that wasn't a ward; and Dennis had been sitting on the infirmary step all morning in a patch of it like a cat, ready, so she bought two meat pies from the stall at the end of the river street and they walked along the south wharf to Rope Street with Dennis carrying the pies, because Dennis said if he didn't carry them she'd only drop one in the river to make a point.
 
@@ -195,7 +195,7 @@ Tink. *DOOM*. Tink. *DOOM*.
 
 Rachael watched.
 
-She'd watched Gabe at a forge before. She'd watched him for two years, on and off, ever since Harl had handed him a hammer in their first spring. But she hadn't watched him since the winter, and something had changed, and it took her a while to see what.
+She'd watched Gabe at a forge before. She'd watched him for two years, on and off, ever since Harl had handed him a hammer in their first winter. But she hadn't watched him since the winter, and something had changed, and it took her a while to see what.
 
 It was the waiting.
 
@@ -267,13 +267,13 @@ She left it there.
 
 ***
 
-Emrys's cord came at the ninth hour.
+Emrys's cord came in the middle of the afternoon.
 
-She was back at the infirmary by then, at the long table in the back room where they rolled bandages, with Maud and Tamsin and two of the sisters. Emrys came in without knocking, which he never did, with his blue-and-silver cord in one hand and a strip of paper in the other. He was tall and grey, a court musician once in Solmere, the man who'd taught her group to chant spells like songs. He'd been hoarse for two winters. When he was frightened his voice went entirely, and he had to whisper, and it was nearly gone now.
+She was back at the infirmary by then, at the long table in the back room where they rolled bandages, with Maud and Tamsin and two of the sisters. Emrys came in without knocking, which he never did, with his blue-and-silver cord in one hand and a strip of paper in the other. He was tall and grey, a court musician once in Solmere, the man who'd taught her group to chant spells like songs. He'd been hoarse since the night market, their first winter. When he was frightened his voice went entirely, and he had to whisper, and it was nearly gone now.
 
 "From the cat girl," whispered Emrys. "From Thornwall. Through Corvin's cord. For you, Sister." He held it out to Maud. "From the king."
 
-Maud didn't take it. She couldn't read the cat girl's hand any more than Rachael could; the cords wrote in the holder's script, and Emrys was the holder.
+Maud didn't take it. Her eyes were seventy-three years old and had given up small writing long ago; she had Emrys read her everything that came by the cord, and said a whisper was easier to argue with than a page.
 
 "Read it," said Maud.
 
@@ -293,11 +293,11 @@ She'd read it in bed. Before the seventh hour. Before the step. Before Deston, s
 
 She opened her window. Now. At the bandage table, with all of them watching. She scrolled back. She knew what she was looking for, the way you know what you're looking for on a chart when you've seen the symptom before.
 
-*05:51 · Hyvred: it turned round.*
+*05:51 · Hyvred: it turned round. it LOOKED. at me. for the first time*
 
 And Deston, on the roof, at first light. *He turned his head. North-west. All at once, as if somebody'd called him*.
 
-She shut it. She didn't need to ask Deston what time. She knew what time first light was on the roof of the river-gate infirmary in the first week of the spring. She'd been awake for it every morning for a year.
+She shut it. She didn't need to ask Deston what time. She knew what time first light was on the roof of the river-gate infirmary in the spring. She'd been awake for it every morning for a year.
 
 The same minute.
 
@@ -307,7 +307,7 @@ The same minute.
 
 The back room went quiet.
 
-Maud didn't look up. She had the strip of paper from Emrys in her hand, and she was looking at it, though she couldn't read it, the way you'd look at a letter from somebody you'd known a long time.
+Maud didn't look up. She had the strip of paper from Emrys in her hand, and she was looking at it, though she hadn't read a word of it, the way you'd look at a letter from somebody you'd known a long time.
 
 "No," said Maud.
 
@@ -335,7 +335,7 @@ Rachael stopped.
 
 Nobody said anything.
 
-"Every hunter that's ever come over that river wall," said Maud, "came for you. You know that. I know that. The tall one's counted them, and the funny one's listened for them, and the big one's stood in front of you five paces off for two years. A healer's the sweetest thing there is to whatever's at the bottom of that pass. The old ones used to say so. I didn't believe them, when I was a girl." She was quiet. "Your fisherman believes them. The one with the rod. That's why he sat down in the stands at Valcrest between you and the apple woman, in front of the whole city. He'd seen what happens to a healer they want. He'd buried one."
+"Every hunter that's ever come over that river wall," said Maud, "came for you. You know that. I know that. The tall one's counted them, and the funny one's listened for them, and the big one's stood at your back for two years. A healer's the sweetest thing there is to whatever's at the bottom of that pass. The old ones used to say so. I didn't believe them, when I was a girl." She was quiet. "Your fisherman believes them. The one with the rod. That's why he sat down in the stands at Valcrest between you and the apple woman, in front of the whole city. He'd seen what happens to a healer they want. He'd buried one."
 
 Rachael didn't say anything. She couldn't.
 
@@ -361,7 +361,7 @@ The infirmary roof was flat, lead, with a low wall round it, where they dried th
 
 She stood at the wall and looked north-west.
 
-Up the river. Past the bridge and the last quays and the willows, the long brown water coming down out of the north with the spring in it. Somewhere up there, a lake. A jetty. A man she'd known for nine years by a different face, who'd sat down between her and a woman with apples in front of forty thousand people and said nothing, because there was nothing to say; he'd just sat. And past the lake, north-west, a long way, a valley under a mountain she'd never seen, with a road going up it, and a boy who could see everything standing at the top of a tower, and a man making doses in a little room who hadn't slept.
+Up the river. Past the bridge and the last quays and the willows, the long brown water coming down out of the north with the spring in it. Somewhere up there, a lake. A jetty. A man she'd known for nine years by a different face, who'd sat down between her and a woman with apples in front of forty thousand people and, when she asked him why, said *because I could*; and then just sat. And past the lake, north-west, a long way, a valley under a mountain she'd never seen, with a road going up it, and a girl who could see everything standing at the top of a tower, and a man making doses in a little room who hadn't slept.
 
 And seven people with no threads, walking.
 
@@ -389,7 +389,7 @@ He didn't say anything.
 
 She turned round.
 
-He was standing by the stair door with his hands in his pockets, still in his leather apron from the forge, with soot on his face and his big arms folded now, and that look he got. Not the forge look. The other one. The one he'd had at a lake, the first night, when a stranger with a different face had started singing a song they'd sung at thirteen, and Gabe had been the first to know.
+He was standing by the stair door with his hands in his pockets, still in his leather apron from the forge, with soot on his face and his big arms folded now, and that look he got. Not the forge look. The other one. The one he'd had at a lake, that first morning, when a stranger with a different face had sung the third part of a song they'd sung as boys, across the water, and Gabe had been the first one down the jetty.
 
 "She said you're the door it wants most," said Gabe. "That's not precious. That's just true." He shrugged. "Same as Declan. Same as the reason he sat down. He didn't sit down because you couldn't look after yourself. He sat down because he could see what you couldn't, and he was bigger." He looked at her. "That's what you do. When you're bigger. You don't ask."
 
@@ -497,7 +497,7 @@ Gabe was behind her. Five paces. He'd come out of Rope Street at the grey, the w
 
 She stood at the wall and looked north-west. Up the river. Where everything was coming from.
 
-She thought about Corliss's hand. About *nobody ever tells you before the bit that hurts*. About a man with a different face, sitting down on a bench in Valcrest between her and the thing that wanted her, and saying nothing, and her saying *sit there anyway*. About an old woman with a broom saying *not before*.
+She thought about Corliss's hand. About *nobody ever tells you before the bit that hurts*. About a man with a different face, sitting down on a bench in Valcrest between her and the thing that wanted her, and saying *because I could*, and her saying *sit there anyway*. About an old woman with a broom saying *not before*.
 
 She thought about being the patient. Twenty-six years of it. And two years and a half of not.
 
@@ -505,7 +505,7 @@ She thought she was going to be very, very good at this one too. Whatever this o
 
 She thought she was glad to be here.
 
-She'd always been glad. Since the first four seconds, on the floor of the hall, with an old man's hand on her forehead and something going *right*. She was the only one of the thirty-five who'd never once wished it hadn't happened, and the only one who'd never said a word against the Advisor, and she'd been ashamed of both, a bit, in front of the others, for two years and a half, as if being glad to be alive here were a thing you had to apologise for to people who'd lost more.
+She'd always been glad. Since the first four seconds, on the floor of the hall, with an old man's two fingers on her wrist and something going *right*. She was the only one of the thirty-five who'd never once wished it hadn't happened, and the only one who'd never said a word against the Advisor, and she'd been ashamed of both, a bit, in front of the others, for two years and a half, as if being glad to be alive here were a thing you had to apologise for to people who'd lost more.
 
 She wasn't ashamed this morning. She stood at the river wall in the spring and was glad, plainly, all the way through, without a crack in it anywhere; and if Dennis had been there he'd have heard it not ring, and she found she didn't mind if he did.
 
@@ -515,7 +515,7 @@ She wasn't ashamed this morning. She stood at the river wall in the spring and w
 
 She thought about it.
 
-Five paces. Two years and a half of five paces. Near enough that she knew he was there; not so near she had to do anything about it. She'd never once asked him to stand there. He'd just worked it out, on the long road from Valcrest, the first week, and never once got it wrong.
+Five paces. Half a year of five paces, at her back in every street since the apple; and two years before that of near enough. Near enough that she knew he was there; not so near she had to do anything about it. She'd never once asked him to stand there. He'd just worked it out, on the river road out of Solmere, the first week, and never once got it wrong.
 
 "Three," said Rachael.
 

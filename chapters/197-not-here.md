@@ -111,7 +111,7 @@ The king's beard moved. It might have been a smile.
 
 He went round the doors.
 
-It took him most of the morning. He did it the way he'd have done it on Earth, if Earth had been a fortress town at the foot of a mountain range in another world with something standing at the bottom of the pass: one at a time, at the door, with his hands where they could see them. He told every one of them the truth. He'd decided that, going across the yard. You didn't lie to the green room. They always knew.
+It took him the best part of two hours. He did it the way he'd have done it on Earth, if Earth had been a fortress town at the foot of a mountain range in another world with something standing at the bottom of the pass: one at a time, at the door, with his hands where they could see them. He told every one of them the truth. He'd decided that, going across the yard. You didn't lie to the green room. They always knew.
 
 *Hyvred's seen something. On you. The thing she saw on Corporal Dunn, and on Mother Ivey, and the Joss lad; only earlier. It might be today. It might be tomorrow. You might hear somebody, asking you to go north. Asking you in. I heard it, in the autumn. I know what it sounds like. I'd like you to come and spend the day in the long room, with me, so that if it asks you, there's somebody there who knows.*
 
@@ -139,7 +139,7 @@ He made it a green room.
 
 It wasn't hard. It was what he was for. The long room in the guardhouse, where they ate, with the long table and the benches and the big hearth at the end. He got Cook to light the fire and make tea in the big urn, and Annet's four loaves came out of her basket still warm and went round with the good butter, and the Dacey sisters immediately started arguing about the butter. He sat them where they could see the fire and not the shutters. He didn't open the shutters. He sat with his back to them himself.
 
-Bee came at the second hour, with her chalk, and drew dogs on the hearthstones for Nessa. Bee didn't like children; she said so. She drew Nessa nine dogs, one after another, each in one unbroken line, and the ninth one sat up on the hearthstone and wagged at her, and Nessa shrieked, and Bee said "*Don't* scream, he doesn't like it," and the dog, who'd liked it very much, lay down on Nessa's feet.
+Bee came in the middle of the morning, with her chalk, and drew dogs on the hearthstones for Nessa. Bee didn't like children; she said so. She drew Nessa nine dogs, one after another, each in one unbroken line, and the ninth one sat up on the hearthstone and wagged at her, and Nessa shrieked, and Bee said "*Don't* scream, he doesn't like it," and the dog, who'd liked it very much, lay down on Nessa's feet.
 
 Old Linnet spun. Ivo told Perrin, at length, on the deaf side, what was wrong with the new barrels the garrison had sent up from Ashby. Bryn ate five slices of bread and then sat very straight on the bench and tried not to look at the shutters. Fenna mended a shirt. She'd brought one. Teo sat in the corner with his arms round his knees.
 
@@ -153,7 +153,7 @@ Outside the door, Brannoch's soldiers stood in the passage. Two of them. No spea
 
 He watched them all, while he talked. Every face. The way he'd watched the green rooms. Who wasn't eating. Who was holding a cup too tight. He watched for the thing Hyvred saw and he couldn't, and didn't see it, because he couldn't see it, because he wasn't her. But he watched anyway. He'd learned to watch people on Earth for the moment before. Here, he'd learned it twice.
 
-At the third hour, Nessa said, from the hearth, with a chalk dog on her feet: "Tell the goose one."
+Toward noon, Nessa said, from the hearth, with a chalk dog on her feet: "Tell the goose one."
 
 He stopped.
 
@@ -321,7 +321,7 @@ He went through the gate.
 
 ***
 
-He was slow. He'd always been slow. He'd told Tiger so at a postern gate in the autumn, *I'm really slow, you'd have to wait for me*, and it was true; he was the slowest of the five of them by a long way, a brawler, built for standing still and letting things come to him. He ran up the valley road in the cold sun with his lungs burning and the mud sucking at his boots, past Teo, past the Dacey sisters, past Ivo and Annet and Merrow, past Old Pruett at the front with his leather apron and his lifted face. None of them looked at him. He went by them as if he were a cart going by on the road.
+He was slow. He'd always been slow. He'd told Tiger so once, at a postern gate with frost on the iron, *I'm really slow, you'd have to wait for me*, and it was true; he was the slowest of the five of them by a long way, a brawler, built for standing still and letting things come to him. He ran up the valley road in the cold sun with his lungs burning and the mud sucking at his boots, past Teo, past the Dacey sisters, past Ivo and Annet and Merrow, past Old Pruett at the front with his leather apron and his lifted face. None of them looked at him. He went by them as if he were a cart going by on the road.
 
 Fifty paces past the postern, where the last field wall ended and the valley opened out, he stopped. And turned round.
 
@@ -411,11 +411,11 @@ He said it out loud.
 
 ***
 
-It was what he'd said to Tiger. On the top of the pass, in the first summer, at midnight, with his hands on Tiger's chest and something with Ossie's face calling up from the valley. *Not here. We're going home*. It was what Gigichi had written into a hawthorn hedge at Wrenhaven, the first winter, in English, in the dark. It was the only thing he'd ever said to the thing in the valley, and he'd said it three times now, and the first two times he'd said it with his hands on somebody he loved and pushed.
+It was what he'd said to Tiger. On the top of the pass, in the first summer, at midnight, with his hands flat on Tiger's chest and something with Ossie's face calling up from the valley. *Not here. We're going home*. It was what he'd said to him again at the postern that winter, with frost on the iron. It was what Gigichi had written into a hawthorn hedge at Wrenhaven, in English, the first spring. Every other time, he'd said it to somebody he loved, to keep them from the thing in the valley.
 
-He didn't push this time.
+This time he said it to the thing.
 
-He didn't have to.
+He didn't hold anybody back. He didn't have to.
 
 The call came through him. It came down the valley at his back with everything it had, kindly, the whole weight of that lit doorway, and went through him into twelve people. And somewhere under his ribs, where the wanting had sat all winter like the place a tooth had been, something that had been waiting there a long time woke up and did what Drew had always done.
 
@@ -642,7 +642,7 @@ He didn't usually. He'd stood at the bottom of it every evening for two years an
 
 He went up now.
 
-Tiger was on the ridge of Ossie's shed, where he always was, with his knees up and his tail round his feet, facing north-east. The roof that had stood for two years with nobody under it. Bee's *OSSIE'S* on the beam inside. Ossie's mended shirt on a nail. Two Pollen Puffs asleep on the ridge-pole like a pair of yellow pom-poms. And the pass, white on white under the stars, with the line going up it that you couldn't see unless you were Hyvred.
+Tiger was on the ridge of Ossie's shed, where he always was, with his knees up and his tail round his feet, facing north-east. The roof that had stood for two years with nobody under it. Bee's *OSSIE'S* in chalk on the back wall inside. Ossie's mended shirt on a nail. Two Pollen Puffs asleep on the ridge-pole like a pair of yellow pom-poms. And the pass, white on white under the stars, with the line going up it that you couldn't see unless you were Hyvred.
 
 Drew sat down beside him. It took a while. He wasn't built for roofs.
 

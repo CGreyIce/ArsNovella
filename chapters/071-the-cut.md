@@ -19,11 +19,11 @@ He'd been Ascendant at thirty-nine.
 
 The songs said it happened on a battlefield. In the last great charge of the long war, when he'd broken the line single-handed and the world had bent around him for a heartbeat and everybody had seen. He'd let them sing it. It was a better song.
 
-It hadn't happened on a battlefield. It had happened in Brakewater, in the winter of his thirty-ninth year, on leave, the month his father died. He'd gone home for the burial and found an order on the forge wall in his father's crooked hand: twelve plough blades for the Ashdown farm, due by the thaw, half paid. And he'd stayed. He'd stoked his father's fire, and worked his father's bellows, and made twelve plough blades for the Ashdown farm, one a day, slowly, honestly, the way his father had taught him. Not thinking about the war. Not thinking about tiers. Just the iron, and the heat, and the hammer, and the long quiet winter evenings in the forge where he'd been born.
+It hadn't happened on a battlefield. It had happened in Brakewater, in the winter of his thirty-ninth year, on leave, the winter his father died. He'd gone home when the letter came, and sat with the old man all that winter, and buried him at the end of it; and the morning after the burial he'd found an order on the forge wall in his father's crooked hand: twelve plough blades for the Ashdown farm, due by the thaw, half paid. And he'd stayed. He'd stoked his father's fire, and worked his father's bellows, and made twelve plough blades for the Ashdown farm, one a day, slowly, honestly, the way his father had taught him. Not thinking about the war. Not thinking about tiers. Just the iron, and the heat, and the hammer, and the long quiet winter evenings in the forge where he'd been born.
 
 On the twelfth night, with the last blade on the anvil, the world had gone quiet. And then it had bent.
 
-He'd never told anyone that. Not the Council. Not the court. Not Halvard, though Halvard had guessed. *You have to find your own way up*, the old masters said, *and it's never the way you expect*. His had been twelve plough blades for a farmer called Ashdown, in a dead man's forge, in the middle of winter. He'd never once in twenty-five years been sure anyone would believe him.
+He'd never told anyone that. Not the Council. Not the court. Not Halvard, though Halvard had guessed. *You have to find your own way up*, the old masters said, *and it's never the way you expect*. His had been twelve plough blades for a farmer called Ashdown, in a dead man's forge, at the end of winter. He'd never once in twenty-five years been sure anyone would believe him.
 
 The crown had come later. That was a long story, and a dull one, and he'd never enjoyed telling it.
 

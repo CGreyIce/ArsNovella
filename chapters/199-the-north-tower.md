@@ -31,7 +31,7 @@ He'd listened the way he'd have listened to his father calling the colours. Ever
 
 He'd shut it again. Carefully. He'd been shutting it all his life.
 
-And then the third hour had come, and the cow girl had stopped in the middle of a sentence about the third ring, and gone white, and screamed down a hundred and twelve steps, and he'd looked down from the parapet and watched a young man walk out of a postern gate on his own.
+And then, toward noon, the cow girl had stopped in the middle of a sentence about the third ring, and gone white, and screamed down a hundred and twelve steps, and he'd looked down from the parapet and watched a young man walk out of a postern gate on his own.
 
 ***
 
@@ -57,7 +57,7 @@ And the twelve had stopped.
 
 *I know*, Severin had said. *I felt it*.
 
-He'd gone down the hundred and twelve steps faster than a man of sixty-six had any business going down anything, and stood at the foot of them all afternoon, watching the young man sit on a mounting block with his hands shaking, because he'd needed to look at him for a while before he could say anything.
+He'd gone down the hundred and twelve steps faster than a man of sixty-six had any business going down anything, and stood at the foot of them all afternoon, watching the young man come back from walking twelve people home and sit on a mounting block with his hands shaking, because he'd needed to look at him for a while before he could say anything.
 
 The anvil. That was what he'd said, in the end. It was the only thing he'd had. His father's.
 
@@ -71,9 +71,9 @@ Sent him home.
 
 He'd been sitting on Tull's bench after, in the dusk, with a cup, when he heard the cow girl scream from the tower for the second time in two days. *TIGER. IT'S JOSS*.
 
-He'd gone up the hundred and twelve steps that time too. Faster than he'd come down them. Kestra had been behind him, and for once she hadn't been counting. He'd got to the top with his heart going like a bellows and his ninth tier pressing at the door of him so hard he'd had to stand still for a breath with his hand on the post to keep it shut; and then he'd turned and looked north, and seen, with his own old eyes, in the last of the light, a long way out on the valley floor, something going.
+He'd gone up the hundred and twelve steps that time too. Faster than he'd come down them. Kestra had been behind him, and for once she hadn't been counting. He'd got to the top with his heart going like a bellows and his ninth tier pressing at the door of him so hard he'd had to stand still for a breath with his hand on the post to keep it shut; and then he'd turned and looked north, at a valley going dark that his old eyes couldn't see a mile into, and let the cow girl be his eyes.
 
-Not running. He'd seen men run. Going. The way a spark goes off an anvil when the hammer comes down: there, and then somewhere else, with nothing in between. A streak. Out along the dark valley floor toward the smudge where the rings were, faster than a horse, faster than anything he'd ever seen move on two legs or four. And then, at the end, at the very edge of the smudge, *there*. Out of nothing. A hundred and fifty paces in no time at all. And back.
+She'd called it for him. Every step. Not running, she'd said; *going*. The way a spark goes off an anvil when the hammer comes down: there, and then somewhere else, with nothing in between. A streak, out along the dark valley floor toward the rings, faster than a horse, faster than anything she'd ever seen move on two legs or four. And then, at the very end, at the edge of the outermost ring, he hadn't needed her. He'd felt it himself, ten miles off: the very first heat a body ever makes, coming up out of nothing, all at once. *There*. A hundred and fifty paces in no time at all. And back.
 
 There and back.
 
@@ -349,7 +349,7 @@ Brannoch had been waiting. You could see it on him. He'd been waiting three days
 
 "Thank you, Captain," said Severin. "Corvin."
 
-Corvin had been waiting too. Not like Brannoch. Like a man who'd been right for two years and had learned that being right didn't mean anybody did anything.
+Corvin had been waiting too. Not like Brannoch. Like a man who'd been right for years and had learned that being right didn't mean anybody did anything.
 
 "We go south," said Corvin. "The town. Not the Watch; the town. The farms, the children, the old ones. Everyone who can be called and can't fight. Down the valley road to Ashby, before the next one." He swallowed. "It took the boy without knocking. Hyvred had no warning. If it can do that, she can't keep them safe by looking. Nobody can. Get them out of the door."
 
@@ -445,7 +445,7 @@ Brannoch didn't say anything.
 
 Corvin looked at him for a long time.
 
-Then he nodded. Slowly. The way a man nods who's been right for two years and has just been told, for the first time, that somebody else is going to carry some of it.
+Then he nodded. Slowly. The way a man nods who's been right for years and has just been told, for the first time, that somebody else is going to carry some of it.
 
 "And the lake," said Hild. From the doorway. Not asking.
 
@@ -501,7 +501,7 @@ He thought about it. He stood on the wall-walk above his six new bars with the w
 
 "No," he said. "It doesn't get frightened. It isn't that kind of thing." He was quiet. "It was measuring. The way you'd measure a bar to see if it's true. And it'll come back and measure again, one day, when it's finished whatever it's doing at the bottom of that road." He looked north. "And when it does, I'll still be here."
 
-"You'll be in Solmere," said Kestra. "By midsummer. You've the Lists. You promised Lucan."
+"You'll be in Valcrest," said Kestra. "By midsummer. You've the Lists. You promised Lucan."
 
 "I'll be here," said Severin, "tomorrow too."
 
@@ -511,7 +511,7 @@ Kestra looked at him. Then she opened the book again, and took out her pen, and 
 
 He wrote to Halvard that night.
 
-He couldn't use a cord. The cat girl hadn't made him one; he'd never asked. He'd thought about asking, in the yard at Valcrest, and hadn't, because a king who could talk to the whole kingdom in a heartbeat ought to have to think about it first. So he sat on the edge of the bed in the room they'd given him, which was Corvin's, with Corvin's maps on the walls, and dictated it to Corvin, who held the strip and the blue pen and wrote it in his own small careful hand, and tied it on his green-and-grey cord, and shut his eyes, and sent it to the cat girl in Solmere, who would read it to Halvard in his study in her own hand, which would be Corvin's hand, which would be Severin's words.
+He couldn't use a cord. The cat girl hadn't made him one; he'd never asked. He'd thought about asking, in the yard at Valcrest, and hadn't, because a king who could talk to the whole kingdom in a heartbeat ought to have to think about it first. So he sat on the edge of the bed in the room they'd given him, which was Corvin's, with Corvin's maps on the walls, and dictated it to Corvin, who held the strip and the blue pen and wrote it in his own small careful hand, and tied it on his green-and-grey cord, and shut his eyes, and sent it to the cat girl in Solmere, who would read it to Halvard in his study off a strip in her own hand, which would be Corvin's meaning, which would be Severin's words.
 
 It had to be short. The cords didn't carry much.
 
@@ -535,7 +535,7 @@ Corvin looked up.
 
 Corvin wrote it. He tied it on. He held the cord, with his eyes shut, the way they all did, and sent it.
 
-The answer came while Severin was getting his boots off. Corvin read it to him by the lamp, very carefully, in his own hand that was the cat girl's hand that was, Severin knew, the way it always was, Halvard's.
+The answer came while Severin was getting his boots off. Corvin read it to him by the lamp, very carefully, in his own hand, that was the cat girl's sending, that was, Severin knew, the way it always was, Halvard's.
 
 "*They hate me*," Corvin read. And then, after a gap: "*Good. Come home when it's ready. Not before. H.*"
 

@@ -9,13 +9,13 @@ There and back. That was the whole race.
 
 Ossie had made the rules up on the first morning, lying on his back in the mud of the yard with his freckles going red and his big feet in the air, wheezing. From the well to the north gate. Touch it; you had to touch it, flat hand on the wood, or it didn't count. And back. First one to slap the well-stone was the winner, and the loser had to say *you're the fastest thing in Thornwall* out loud, in front of whoever was watching, which was usually Hild, who never said anything, and the Joss lad from the farrier's, who said everything.
 
-Ossie had won most of them, the first month. He'd been Drawn since he was sixteen, and Tiger had been a summoned boy with tiger ears at twenty percent who'd never once in his life been faster than anybody who was trying. He'd got there first, sometimes. He'd never once got back first. Ossie would come past him on the way home with his elbows going and his mouth wide open, laughing, and slap the well-stone, and lie down in the mud and say *say it*.
+Ossie had won most of them, at first. He'd been Drawn since he was sixteen, and Tiger had been a summoned boy with tiger ears at twenty percent who'd never once in his life been faster than anybody who was trying. He'd got there first, sometimes. He'd never once got back first. Ossie would come past him on the way home with his elbows going and his mouth wide open, laughing, and slap the well-stone, and lie down in the mud and say *say it*.
 
 Then Tiger had written *Go*.
 
 After that, Ossie never won again.
 
-Not once. Every morning for two months Tiger got there first and got back first and stood over him at the well, and every morning Ossie lay in the mud and said *you're the fastest thing in Thornwall* in a voice that meant it, and then, every single morning, sat up and wiped his face and said: "Tomorrow."
+Not once. Every morning for the weeks there were left, Tiger got there first and got back first and stood over him at the well, and every morning Ossie lay in the mud and said *you're the fastest thing in Thornwall* in a voice that meant it, and then, every single morning, sat up and wiped his face and said: "Tomorrow."
 
 He'd said it the morning Sergeant Dunmore's ten rode out. Sitting in the mud with his hair full of it. *Tomorrow*.
 
@@ -31,11 +31,11 @@ He wasn't frightened of the rings.
 
 He just didn't want to stand next to Hyvred while she looked.
 
-Because she could see him. Ossie. In the third ring, eleven miles off, with his freckled face turned up toward the pass. She could see him every morning. She checked; she'd told Tiger she checked, in the first spring, and then never mentioned it again, because she'd seen Tiger's face. And Tiger couldn't see him. Not from the tower. Not from anywhere. He had good eyes, tiger eyes, good in the dusk and good in the dark, but eleven miles was eleven miles. He'd stand at the top of the tower beside her and look north at a brown valley and a smudge in the middle of it and know that Ossie was in the smudge, standing there, and not be able to see.
+Because she could see him. Ossie. In the third ring, eleven miles off, with his freckled face turned up toward the pass. She could see him every morning. She checked; she'd told Tiger she checked, once, the autumn after the pass, and then never mentioned it again, because she'd seen Tiger's face. And Tiger couldn't see him. Not from the tower. Not from anywhere. He had good eyes, tiger eyes, good in the dusk and good in the dark, but eleven miles was eleven miles. He'd stand at the top of the tower beside her and look north at a brown valley and a smudge in the middle of it and know that Ossie was in the smudge, standing there, and not be able to see.
 
 He'd rather sit on the shed.
 
-So he sat on the shed. On the ridge of the roof he'd built three times, that had stood two years now with nobody under it. With Ossie's shirt on a nail inside, mended, and *OSSIE'S* in Bee's paint on the beam. Facing north-east, because that was the way the shed faced, and he'd never once thought about turning round.
+So he sat on the shed. On the ridge of the roof he'd built three times, that had stood two years now with nobody under it. With Ossie's shirt on a nail inside, mended, and *OSSIE'S* in Bee's chalk on the back wall. Facing north-east, because that was the way the shed faced, and he'd never once thought about turning round.
 
 ***
 
@@ -105,7 +105,7 @@ Joss let his breath out.
 
 He was, too.
 
-Tiger went past the farrier's at the third hour, on his way to the wall, and stopped in the street.
+Tiger went past the farrier's in the middle of the afternoon, on his way to the wall, and stopped in the street.
 
 The farrier's forge at Thornwall was a low black shed at the bottom of the north lane, open at the front, with a horse-ring on the wall and a smell of hot iron and hoof that you could find with your eyes shut. Old Tull had shod the Western Watch's horses for thirty years. He was a little bent leathery man with forearms like ropes and no patience at all, and he was standing now at the side of his own forge with his arms folded and his mouth slightly open, watching the king of Aurelan make a horseshoe.
 
@@ -151,15 +151,17 @@ He'd find out later how.
 
 The millstream. The little stream that came down off the east ridge and ran through the bottom of the town past the farrier's and the laundry and went out under the north wall through an iron grating, into the valley. The bars of the grating had been there a hundred years. The ice had got into them this winter and bent two of them at the bottom, and nobody had noticed, because nobody at Thornwall could have got through the gap.
 
-Nobody but a small boy of eleven. Who'd been sent home from the farrier's at dusk with a burn on his thumb and the king's own hand on his head. Who'd been *fine*. Who'd had no window at all that morning, Hyvred said, nothing, not a crack, she'd *looked*, she'd looked at him specially, she'd looked at him in the stable with Tiger and he'd been *fine*. Who'd stopped on the way home, by the millstream, in the dusk. And lifted his face.
+Nobody but a small boy of eleven. Who'd been sent home from the farrier's for his tea, at the end of the afternoon, with a burn on his thumb and the king's own hand on his head. Who'd been *fine*. Who'd had no window at all that morning, Hyvred said, nothing, not a crack, she'd *looked*, she'd looked at him specially, she'd looked at him in the stable with Tiger and he'd been *fine*. Who'd stopped on the way home, by the millstream, in the long low light. And lifted his face.
 
-It hadn't knocked, this time. It hadn't opened a window a day early for anybody to see. It had come down the valley at dusk, very quietly, the night after it had been sent back up it, and gone straight past every soldier on the wall and every name Hyvred might have looked for; and found the smallest door in Thornwall, and the smallest person who could fit through it.
+His mother thought he was still at the forge with the king; he'd have stayed there till midnight if anybody let him. Old Tull thought he'd gone home. Nobody missed him for three hours.
+
+It hadn't knocked, this time. It hadn't opened a window a day early for anybody to see. It had come down the valley in the late afternoon, very quietly, the day after it had been sent back up it, and gone straight past every soldier on the wall and every name Hyvred might have looked for; and found the smallest door in Thornwall, and the smallest person who could fit through it.
 
 And Hyvred had been looking at the pass.
 
-She'd tell him that afterwards, with her hands over her face. She'd been watching the pass road. Every dusk. She'd had her back to the town for an hour, watching the road, and by the time she'd turned round and let her sight go out over the valley, out of habit, the way you'd glance back at a door you'd shut, there'd been a little frost of wrong light four miles out on the valley floor. Small. Going north. Steadily. With its face lifted.
+She'd tell him that afterwards, with her hands over her face. She'd been watching the pass road. Every dusk, from the top of the tower, with her sight thrown eleven miles to the swept stretch at the foot of the pass and held there, narrow, the way you'd hold a lamp to one line of a page. She'd had her back to the town for an hour, watching the road; and before that she'd been down in the town, going round doors, with her back to the valley. And by the time she let her sight come back down the valley, out of habit, the way you'd glance back at a door you'd shut, there'd been a little frost of wrong light eight miles out on the valley floor. Small. Going north. Steadily. With its face lifted.
 
-Four miles.
+Eight miles.
 
 ***
 
@@ -175,7 +177,7 @@ Old Pruett was in front of it, on his stool, with the bar across, the way he'd s
 
 And Drew's voice behind him. Across the yard. Not calling him back.
 
-The one word. Tiger's word. The one he'd written in the air in his first spring, sparring with Hild, before he'd known what it meant.
+The one word. Tiger's word. The one he'd written in the air in his first spring, sparring with Ossie, with Hild watching, before he'd known what it meant.
 
 "*Go*."
 
@@ -183,7 +185,7 @@ He went.
 
 ***
 
-Four miles.
+Eight miles. More.
 
 Up the valley road in the last of the light. The sky still pale in the west over the shoulder of the Greyspine, and the valley floor already going dark under it, brown and black and silver with meltwater in every rut and hollow, and the cold coming down off the mountains with the dusk, and the wind in his face.
 
@@ -339,7 +341,7 @@ He knelt in the water and looked at it till the dark came down and he couldn't s
 
 Hild got there first.
 
-Of course she did. On the grey, the north patrol's grey that Joss had held that morning, with no saddle, at a flat gallop up the valley road in the dark; and behind her on the grey's back, holding on round her middle with his eyes shut and the satchel bouncing on his shoulder and Hisui flat to his neck, Kei. Then Brannoch, and four riders, with torches. Then, a long way back, on foot, slow, so slow, with his arms going and his breath coming in great sobs that Tiger could hear from half a mile off in the dark, Drew.
+Of course she did. On the grey, the north patrol's grey that Joss had held that morning, with no saddle, at a flat gallop up the valley road in the dark; and behind her on the grey's back, holding on round her middle with his eyes shut and the satchel bouncing on his shoulder and Hisui flat to his neck, Kei. Then Brannoch, and four riders, with torches; and up behind the last of them, holding on round the rider's middle with his eyes shut, because he'd never once in his life been on a galloping horse, Drew.
 
 Hild came off the grey before it stopped. She came across the water to him in three strides and knelt in it beside him with her one eye open, and put her hand flat on the boy's chest, and then on Tiger's.
 
@@ -389,7 +391,7 @@ Tiger knelt there in the water with the boy asleep on him and Kei's hand on his 
 
 Drew got there at last.
 
-He came down off the road into the field with the torches behind him, wheezing, bent over, his hands on his knees, and stood there in the water a pace off and looked at Tiger for a long time. At the boy. At the short blades, still in Tiger's fists. At Tiger's legs, still shaking, so you could see it through the wet cloth.
+He came off the back of the horse at the road and across the field on foot, slow, so slow, splashing, with the torches behind him, and stopped, wheezing, bent over, his hands on his knees, and stood there in the water a pace off and looked at Tiger for a long time. At the boy. At the short blades, still in Tiger's fists. At Tiger's legs, still shaking, so you could see it through the wet cloth.
 
 Then he looked up. At the window. It was still there. Tiger hadn't shut it. He didn't know how; his hands wouldn't open.
 
@@ -431,7 +433,7 @@ The postern was open when they got there. Old Pruett was standing in it with a l
 
 And the king.
 
-He stood just inside the postern. In his shirtsleeves still, from the forge. With Joss's mother beside him, a small fierce woman in a dyer's apron, blue to the elbow, who'd been holding on to the king's arm, Tiger found out later, for the last half-hour, without either of them seeming to notice.
+He stood just inside the postern. In his shirtsleeves still, from the forge. With Joss's mother beside him, a small fierce woman in a dyer's apron, blue to the elbow, who'd been holding on to the king's arm, Tiger found out later, for the last three hours, without either of them seeming to notice.
 
 She took the boy off the grey. She didn't say anything. She took him in both arms, red scarf and wet boots and all, and held him against her, and turned and walked off up the lane with him toward home without a word to anybody, the way a cat carries a kitten; and Joss, half asleep, said over her shoulder, "*Mam, Tiger ran*," and she said, "I know, love, I know he did," and then they were gone.
 
@@ -445,7 +447,7 @@ Tiger looked down at him.
 
 The king nodded slowly.
 
-"I watched you from the tower," said the king. "Your friend with the horns described it to me. And then I watched it myself; I could see that much." His voice was very quiet. "I've seen a great many men run, son. I've never seen anything go like that." He was quiet. "There and back."
+"I was on the tower," said the king. "Your friend with the horns called it for me, every step. And at the end I felt it go. I could feel that much." His voice was very quiet. "I've seen a great many men run, son. I've never seen anything go like that." He was quiet. "There and back."
 
 "There and back," said Tiger. His voice went. "That was the rules."
 
@@ -455,27 +457,27 @@ Then he said: "Somebody get this lad off that horse and into something dry befor
 
 ***
 
-[ 20:41 · Hyvred: TIGER
-20:41 · Hyvred: joss went out under the north wall through the millstream at dusk and it took him and he was four miles up the valley before i saw and tiger RAN and got him at the edge of the outer ring. AT THE EDGE
-20:41 · Hyvred: he went a hundred and fifty paces in one step. i watched him. there and back
-20:42 · Chris: 34 of 35 at Tier 1 or above. Updating.
-20:42 · Maigo: THIRTY FOUR!!!!!!!!!!
-20:42 · Bee: he's fine. his legs aren't. he's in a blanket by the fire being an idiot
-20:42 · Drew: he got there first
-20:43 · Kei: Hisui says he smells like a wet dog. Joss is home. Four doses.
-20:43 · Xavier: nice. how fast
-20:43 · Bee: yes
-20:44 · Tiger: BOLT
-20:44 · Tiger: I GOT THERE FIRST AND I GOT BACK FIRST
-20:44 · Tiger: my legs dont work. that's the price i think. worth it
-20:45 · Gigichi: tiger. you okay?
-20:45 · Tiger: yeah chi 1. actually yeah
-20:46 · Nikorasu: nice one. again.
-20:46 · Nikorasu: one left. ]
+[ 23:12 · Hyvred: TIGER
+23:12 · Hyvred: joss went out under the north wall through the millstream before dusk and it took him and he was eight miles up the valley before i saw and tiger RAN and got him at the edge of the outer ring. AT THE EDGE
+23:12 · Hyvred: he went a hundred and fifty paces in one step. i watched him. there and back
+23:13 · Chris: 34 of 35 at Tier 1 or above. Updating.
+23:13 · Maigo: THIRTY FOUR!!!!!!!!!!
+23:13 · Bee: he's fine. his legs aren't. he's in a blanket by the fire being an idiot
+23:13 · Drew: he got there first
+23:14 · Kei: Hisui says he smells like a wet dog. Joss is home. Five doses.
+23:14 · Xavier: nice. how fast
+23:14 · Bee: yes
+23:15 · Tiger: BOLT
+23:15 · Tiger: I GOT THERE FIRST AND I GOT BACK FIRST
+23:15 · Tiger: my legs dont work. that's the price i think. worth it
+23:16 · Gigichi: tiger. you okay?
+23:16 · Tiger: yeah chi 1. actually yeah
+23:17 · Nikorasu: nice one. again.
+23:17 · Nikorasu: one left. ]
 
 ***
 
-He couldn't walk till midnight.
+He couldn't walk till the small hours.
 
 He sat in a blanket by the fire in the long room, the green room, Drew called it now, for reasons Tiger didn't understand, with his legs out in front of him on a bench and Cook's soup in a bowl and everybody coming in and out to look at him. Bee sat on the end of his bench and drew a tiger on the hearthstone in one line without lifting the chalk, and it got up and ran three times round the room so fast you couldn't see it and then lay down on his feet, and Bee said, "*Don't*," and he didn't, though he wanted to. Hyvred came and sat on the floor beside him with her back against the bench and didn't say anything, for a long time, which for Hyvred was a very long time.
 
@@ -501,7 +503,7 @@ He'd tell her. Not tonight.
 
 ***
 
-At midnight his legs came back, mostly, and he went out to his gate.
+In the small hours his legs came back, mostly, and he went out to his gate.
 
 He couldn't have said why. He'd sat on the shed every night for a year and a half; he went to the gate instead. The south gate. His gate. Across the yard and down the lane to the south wall, slowly, holding on to things, with the blanket round him, and climbed up the fighting step one stair at a time, and sat on the top of it with his legs over, where he'd sat to watch the king come up the road.
 
