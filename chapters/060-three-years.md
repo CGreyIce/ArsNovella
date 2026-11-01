@@ -366,7 +366,7 @@ The yard erupted. Xola shrieking. Gigichi saying *finally, FINALLY*. Bram on his
 
 PenguChi opened her window with shaking hands.
 
-[ PenguChi · Tier 1: Drawn ]
+[ PenguChi · Tier 1: Drawn · Skills: Give ]
 
 "Ninth," said Thea, reading it over her shoulder. Her voice was wobbling. "You're the ninth. The first of us five on the hard path."
 
@@ -414,7 +414,7 @@ She'd lied. They'd all known she'd lied. They'd been kind enough, for a year, no
 
 She opened her window. Right there, in the yard, in front of all of them. She'd never done it in front of anyone but her father.
 
-[ Alea · Tier 2: Tempered ]
+[ Alea · Tier 2: Tempered · Skills: Spring, Bend ]
 
 The yard went very quiet.
 

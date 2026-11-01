@@ -313,7 +313,7 @@ It felt like a process finishing. Like a long, long job that had been running in
 
 His window opened.
 
-[ Chris · Tier 1: Drawn ]
+[ Chris · Tier 1: Drawn · Skills: Release ]
 
 He looked at it.
 

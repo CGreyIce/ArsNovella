@@ -357,7 +357,7 @@ His window opened.
 
 He didn't open it. It opened on its own, the way they all said it did, the first time. Right in front of his face, in the hot sun on top of a mound in the middle of the Lists, in front of forty thousand people who couldn't see it.
 
-[ Jared · Tier 1: Drawn ]
+[ Jared · Tier 1: Drawn · Skills: Stand ]
 
 He looked at it.
 

@@ -263,7 +263,7 @@ She stood there with the bow still raised and her arm shaking and her face wet, 
 
 Then she opened her window, because her hands were doing it before she told them to.
 
-[ Wendy · Tier 1: Drawn ]
+[ Wendy · Tier 1: Drawn · Skills: Aloft ]
 
 Thirteen. Of thirty-five.
 

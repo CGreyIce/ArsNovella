@@ -327,9 +327,9 @@ So did Milli's.
 
 He saw it. He'd always wondered if you could see someone else's, and you could, it turned out, if you were close enough and it was happening at the same moment as your own. Two windows, in the air, in the middle of the chalk ring, one in front of his face and one in front of Milli's, opening at exactly the same instant, the way two people's breath goes out at the same time when they've both been holding it.
 
-[ Milli · Tier 1: Drawn ]
+[ Milli · Tier 1: Drawn · Skills: Pounce ]
 
-[ Hako · Tier 1: Drawn ]
+[ Hako · Tier 1: Drawn · Skills: Commit ]
 
 And the sword and the spear went past each other.
 
