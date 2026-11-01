@@ -198,7 +198,7 @@ They stood there a while, in the snow.
 
 Wendy looked at him.
 
-"No," she said. "He's Yan. He's from a city with traffic lights and buses, and a mum whose kitchen he still thinks about every day. He drew his ears like that because he liked how they looked." She shifted the bow on her back. "And Maigo's not a treant. Maigo's a man who looked like a tree on the internet and came out of a floor looking like a tree for real, and we're all very used to it."
+"No," she said. "He's Yan. He's from a city with traffic lights and buses, and a mum whose kitchen he still thinks about every day. He's a man." She shifted the bow on her back. "His drawing had a story, that's all. That he died once and came back not quite an elf, with a snake's everything underneath. It was a bit. On stream. It was a good bit." "And Maigo's not a treant. Maigo's a man who looked like a tree on the internet and came out of a floor looking like a tree for real, and we're all very used to it."
 
 Garth didn't know what the internet was. Wendy could see him not know. He didn't ask. He nodded, very seriously, as if she'd told him something important about the order of battle.
 

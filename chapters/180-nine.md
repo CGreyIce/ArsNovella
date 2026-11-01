@@ -474,7 +474,7 @@ He pinned it over the table that morning. Beside the drawing. On the same nail, 
 
 *Ask again in the spring*.
 
-Alea came down the ladder while he was doing it. She stood at the bottom with her blanket round her shoulders and looked at it for a long time. She read it twice. She didn't say anything. She came and stood beside him at the table and put her hand into his, the way it had gone into his on the end of the jetty, and at the top of a hill, and at the head of a cairn, without deciding.
+Alea came down the ladder while he was doing it. She stood at the bottom with her blanket round her shoulders and looked at it for a long time. She couldn't read a word of it. She looked at it twice anyway. She didn't say anything. She came and stood beside him at the table and put her hand into his, the way it had gone into his on the end of the jetty, and at the top of a hill, and at the head of a cairn, without deciding.
 
 Her hand was cold. Her mother's had always been cold.
 

@@ -297,7 +297,7 @@ She said something. Rhea didn't understand it. But she saw Yan understand it, an
 
 "What did she say?" said Rhea.
 
-"She said *a man*," said Yan. "She said the song was wrong. She said I'm a man with an elf's ears." He was quiet a moment. "She said it's a very good drawing."
+"She said *a man*," said Yan. "She said the song was wrong. She said I'm a man made over in an elf's shape. With a snake under it." He was quiet a moment. "She said it's a very good drawing."
 
 ***
 
