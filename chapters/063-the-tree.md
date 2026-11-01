@@ -51,7 +51,7 @@ When Aldous stood up from the last of the soldiers, the man turned and started w
 
 East. Toward the trees.
 
-Nobody told them to follow him. Nobody said anything at all. Aldous sent four of the soldiers back toward Cinderhold with Teague and Dace on two cloaks slung between spears, and the rest of them just went. After the man. Across the red. Rhea limping, with her sword over her shoulder and the blood drying on her face. Salty on his feet somehow, with one arm over Wendy's shoulders and his jaw clamped shut. Aldous with his book. Niko with his hands in his pockets. Yan, with Suzu round his neck. Maigo.
+Nobody told them to follow him. Nobody said anything at all. Aldous sent four of the soldiers back toward Cinderhold with Teague and Dace on two cloaks slung between spears, and the rest of them just went. After the man. Across the red. Rhea limping, with her sword over her shoulder and the blood drying on her face. Salty on his feet somehow, with one arm over Wendy's shoulders and his jaw clamped shut. Aldous with his book. Niko with Salty's greatsword over his shoulder, picked up off the red without anybody asking, and his other hand in his pocket. Yan, with Suzu round his neck. Maigo.
 
 It was the way you followed someone in a game, Maigo thought. When the round started and somebody just went, and you didn't ask where; you just went with them, because they'd started walking, and they'd started walking like they knew.
 

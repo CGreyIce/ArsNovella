@@ -191,7 +191,7 @@ He did it the old way, from the roll. One at a time. Called up to the platform, 
 
 "*The Banner. The Kettle*." And seven of them went up onto the platform: Gigichi with her watch, scowling, and Jared, and Calvin holding his dented kettle over his head, and Kei, and Azac, and Hako, and Wendy in absence, because she was in the stand with Group 3 and wouldn't come down. Lucan read their names. Every one. The city cheered every one.
 
-"*The Gate. The Stronghold*." Tiger first up the steps, at a run. Gabe, very red. PenguChi with her penguin. Salty, with the king's father's hammer still in his belt. RX, already talking. Milli, Drawn for three days. And Ina, with his mask on his shoulder, last, at the pace of a man taking the air, who bowed to all four stands from the top step and got the loudest cheer of the night so far.
+"*The Gate. The Stronghold*." Tiger first up the steps, at a run. Gabe, very red. PenguChi with her penguin. Salty, with his own greatsword on his back for the closing and the king's father's hammer still in his belt. RX, already talking. Milli, Drawn for three days. And Ina, with his mask on his shoulder, last, at the pace of a man taking the air, who bowed to all four stands from the top step and got the loudest cheer of the night so far.
 
 "*The Trios*," said Lucan, and paused, and looked at the roll. "*Room for Both*." Chris, Winter, Newish. Up the steps together. Winter in the middle. Newish on her left. Lucan read their names, and when he read *Winter*, the north stand started chanting it again, and didn't stop for a long time.
 

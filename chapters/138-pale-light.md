@@ -317,7 +317,7 @@ She said it the way she said everything. Dry. Like a woman telling off a patient
 
 ***
 
-Xav beat PenguChi in the end, by a hair, the way everyone that week seemed to win by a hair. Salty beat Milli, not by a hair, by about a mile, lifting him clean off the sand on the end of a blunted greatsword and setting him down again outside the chalk very gently, the way you'd set down a cat.
+Xav beat PenguChi in the end, by a hair, the way everyone that week seemed to win by a hair. Salty beat Milli, not by a hair, by about a mile, lifting him clean off the sand on the end of the Lists' heaviest blunted greatsword and setting him down again outside the chalk very gently, the way you'd set down a cat.
 
 "*Sorry*," said Salty.
 

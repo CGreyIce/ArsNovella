@@ -21,7 +21,7 @@ It had worked for about four days.
 
 "Nobody," said Niko, with great patience, "was wondering."
 
-It was in the back of the cart, wrapped in a blanket. It had been in the back of the cart for twenty days, all the way from Cinderhold, along the east road and over the downs and across the plain. A long, thin, awkward shape, taller than Salty, which was not difficult, wrapped in Wendy's second-best blanket and tied with cord at both ends and in the middle, lying along the side of the cart like a body. People in villages had looked at it. One man in a market at Ashby had asked if it was a body. Salty had said *horseshoes*.
+It was in the back of the cart, wrapped in a blanket. It had been in the back of the cart for twenty days, all the way from Cinderhold, along the east road and over the downs and across the plain. A long, thin, awkward shape, taller than Salty, which was not difficult, wrapped in Wendy's second-best blanket and tied with cord at both ends and in the middle, lying along the side of the cart like a body. His own greatsword lay along the other side in its old leather sheath, which hadn't helped. People in villages had looked at it. One man in a market at Ashby had asked if it was a body. Salty had said *horseshoes*.
 
 The man had looked at the shape. It was nearly seven feet long.
 

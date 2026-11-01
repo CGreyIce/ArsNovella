@@ -59,7 +59,7 @@ The east gate.
 
 The east gate of Valcrest was the one Group 3 had come in by, ten days ago, at sunset, with a man standing on the road outside it who'd been there all day. It was smaller than the north gate. An old square gatehouse with the road going into it and paper fishing rods still tied along the top of the wall, limp in the dew, that nobody had taken down because nobody wanted to.
 
-Group 3's cart was in the gateway when they got there. Aldous on the box with his book. Rhea checking the harness, very loudly, with the horse looking at her in deep offence. Maigo on top of the baggage with his antlers full of leaves and his hood down. Niko sitting on the tailboard with his hands in his pockets, chill, beside the new horseshoe the king had made, which somebody had nailed to the tailboard upside down. Wendy beside the cart with her headphones round her neck. Salty with the king's father's hammer in his belt.
+Group 3's cart was in the gateway when they got there. Aldous on the box with his book. Rhea checking the harness, very loudly, with the horse looking at her in deep offence. Maigo on top of the baggage with his antlers full of leaves and his hood down. Niko sitting on the tailboard with his hands in his pockets, chill, beside the new horseshoe the king had made, which somebody had nailed to the tailboard upside down. Wendy beside the cart with her headphones round her neck. Salty with his greatsword across his back and the king's father's hammer in his belt.
 
 Yan with the scythe on his shoulder and a white snake round his neck.
 

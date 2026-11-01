@@ -93,7 +93,7 @@ The way the Black Blade had looked, at twenty-two, on a parade ground, with a sw
 
 Salty was already in the chalk ring.
 
-He was standing in the middle of it with a blunted greatsword over his shoulder, the practice one from the Lists' armoury, the heaviest they had. Short and broad and dense, with his crooked ribs and his blunt square face, and the king's father's hammer still in his belt, because he'd said he wasn't taking it out until he'd given it back to Garrow, and he wasn't going north till after the Lists.
+He was standing in the middle of it with a blunted greatsword over his shoulder, the practice one from the Lists' armoury, the heaviest they had. His own was on its peg at the Lance; the Singles were blunt steel. Short and broad and dense, with his crooked ribs and his blunt square face, and the king's father's hammer still in his belt, because he'd said he wasn't taking it out until he'd given it back to Garrow, and he wasn't going north till after the Lists.
 
 He looked at Xav.
 
@@ -279,7 +279,7 @@ He was looking at both of them at once. The way he looked at everything. The who
 
 They arm-wrestled at the fence afterwards.
 
-Salty's idea. He came off the sand still laughing, with the greatsword over his shoulder and the hammer in his belt, and walked straight to the rail of the bottom tier where the summoned were, and put his elbow on the top rail, and held out his hand, and said "*Again*," to Xav, in a voice that made it very clear this was not a request.
+Salty's idea. He came off the sand still laughing, with the practice greatsword picked up out of the sand and back over his shoulder and the hammer in his belt, and walked straight to the rail of the bottom tier where the summoned were, and put his elbow on the top rail, and held out his hand, and said "*Again*," to Xav, in a voice that made it very clear this was not a request.
 
 Xav looked at the hand.
 
