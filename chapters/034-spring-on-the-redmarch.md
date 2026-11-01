@@ -127,7 +127,7 @@ It was an hour's walk across the red, past the long rows of Aldous's markers, to
 
 And on the rise, by the cairn, the flowers had come back.
 
-He hadn't seen them in the autumn. He'd only heard Yan describe them: little white and blue flowers, low to the ground, coming up out of the dead red earth where nothing else would grow. They were just starting now, the first few, tight green buds with a hint of white at the tips. A dozen of them. In a rough ring round the cairn, as if somebody had planted them very carefully a long time ago, and come back every year since to make sure they were still there.
+He'd seen them once, in the autumn, the morning Aldous first walked them out: the last few of the year, going over. Little white and blue flowers, low to the ground, coming up out of the dead red earth where nothing else would grow. They were just starting now, the first few, tight green buds with a hint of white at the tips. A dozen of them. In a rough ring round the cairn, as if somebody had planted them very carefully a long time ago, and come back every year since to make sure they were still there.
 
 At the head of the cairn, the long narrow hole where the sword had stood was full of rainwater.
 

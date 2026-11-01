@@ -449,7 +449,7 @@ Salty didn't say anything.
 
 She posted it at the gate.
 
-Everybody was getting ready. Rhea was going along the forty, shouting, checking straps. Aldous was standing very still with his book in both hands and his eyes shut, the way he did before a long rite. Yan was by the gatehouse wall, and Suzu was on the ground beside him, white, already longer than she'd been on his neck, waking up. Maigo was sitting on the mounting block with his foot on the earth, not saying anything, which on Maigo was the loudest thing in the world. Niko had his short sword out and was looking at the edge of it, very calmly, as if it were a phone screen.
+Everybody was getting ready. Rhea was going along the forty, shouting, checking straps. Aldous was standing very still with his book in both hands and his eyes shut, the way he did before a long rite. Yan was by the gatehouse wall with the scythe on his shoulder, and Suzu was on the ground beside him, white, already longer than she'd been on his neck, waking up. Maigo was sitting on the mounting block with his foot on the earth, not saying anything, which on Maigo was the loudest thing in the world. Niko had his short sword out and was looking at the edge of it, very calmly, as if it were a phone screen.
 
 Salty was putting on his greatsword.
 

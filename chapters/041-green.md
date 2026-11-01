@@ -217,7 +217,7 @@ It was a long way. It always was. East from the markers, across the open red, wi
 
 And then, at last, the grave.
 
-He'd never been out this far. Only Salty had, and Aldous. He'd thought it would be something bigger. It wasn't. It was a low cairn of grey stones, in the middle of nowhere, in the middle of the red. And around it, in a ring, the flowers: white and blue, small and low, the buds just opening. The only colour for a mile. And in the middle of the cairn, a hole in the ground, full of rainwater, where the black sword had stood for seven years.
+He'd only been out this far once, in the autumn, with all of them, the morning Aldous walked them out. Since then only Salty had, and Aldous. He'd remembered it bigger. It wasn't. It was a low cairn of grey stones, in the middle of nowhere, in the middle of the red. And around it, in a ring, the flowers: white and blue, small and low, the buds just opening. The only colour for a mile. And at the head of the cairn, a hole in the ground, full of rainwater, where the black sword had stood for seven years.
 
 Maigo stood at the edge of the ring and felt it.
 

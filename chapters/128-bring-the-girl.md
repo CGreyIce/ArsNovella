@@ -397,7 +397,7 @@ The king was standing at Hesk's anvil with his coat off, looking at her hammers.
 
 Gabe unwrapped it.
 
-Maren had seen it once before, at the lake, in the spring. The first blade Gabe had ever finished: short, heavy, single-edged, broad at the end, a thing the tall one had called *a butcher's cleaver married a gate*. Gabe had made it at the Kingsferry forges, under a smith with no eyebrows, through the winter. He'd brought it upriver to the lake and asked the man he'd come upriver to find to name it.
+Maren had seen it once before, at the lake, in the spring. The first sword Gabe had ever finished: short, heavy, single-edged, broad at the end, a thing the tall one had called *a butcher's cleaver married a gate*. Gabe had made it at the Kingsferry forges, under a smith with no eyebrows, through the winter. He'd brought it upriver to the lake and asked the man he'd come upriver to find to name it.
 
 The king took it in his hands.
 

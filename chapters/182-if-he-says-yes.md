@@ -249,7 +249,7 @@ Petra's class was on the gravel bar at first light, the way it always was.
 
 It was the coldest morning yet. The river was high and black and fast, running between snowbanks, with a skin of ice along the edges of the bar where the water was slack and a mist coming off the middle in long grey rags. The gravel was frozen. It crunched under their boots and shifted, the way Petra liked. *You have to keep deciding where your feet are*. The heron wasn't on the far bank. It had gone south, John said, three days ago. His motes had followed it as far as the bend.
 
-Petra stood at the top of the bar with her driftwood stick and her sword on her back and her arms folded. She looked the same as she always did. Malcolm looked at her very carefully, and thought she looked the same as she always did except for one thing, which was that she wasn't looking at any of them. She was looking upriver. North. Where the barge had come from.
+Petra stood at the top of the bar with her driftwood stick and her sword on her hip and her arms folded. She looked the same as she always did. Malcolm looked at her very carefully, and thought she looked the same as she always did except for one thing, which was that she wasn't looking at any of them. She was looking upriver. North. Where the barge had come from.
 
 Then she looked at them.
 

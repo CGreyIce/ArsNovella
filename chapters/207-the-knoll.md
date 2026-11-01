@@ -109,7 +109,7 @@ It kept burning, out there in the dark, for a long time.
 
 ***
 
-Yan was on his knees by the cairn with Suzu in his lap.
+Yan was on his knees by the cairn with Suzu in his lap and the scythe dropped on the green beside him.
 
 She'd gone small. Not by choosing. The way she went small when she was hurt, when she didn't have anything left to be big with. Scarf-sized. Limp. White, with something dark on the white along one side where the hand had closed. Her green eyes were open. She was looking at Yan.
 

@@ -233,7 +233,7 @@ RX tried to break it, of course. On the seventh morning he hushed, the way he di
 
 And RX was in it.
 
-Not hushed. Not invisible. There, in the gold light, from above, plain as day: RX, crouched, creeping across the gravel toward Petra with his practice sword low and his tongue between his teeth and an expression of intense concentration, looking, from directly above, exactly like a man trying to sneak up on a cat.
+Not hushed. Not invisible. There, in the gold light, from above, plain as day: RX, crouched, creeping across the gravel toward Petra with his practice knives low and his tongue between his teeth and an expression of intense concentration, looking, from directly above, exactly like a man trying to sneak up on a cat.
 
 The class lost it.
 

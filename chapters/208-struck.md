@@ -93,7 +93,7 @@ He looked round once. He couldn't help it. He knew you weren't supposed to; you 
 
 Everyone was down.
 
-Not dead. Down. Rhea on the grass on the south side by the third one, with her left arm strapped across her chest and her sword across her knees, trying to get up and her legs not doing it. Teague on one knee with his head down and his shield split. Aldous on his knees at the edge of the green where the fire had been, swaying, his lips moving, no fire. The old men, too few, sitting where they'd been standing. Jessop, on his left, leaning on his spear with both hands because he couldn't stand without it. Maigo against the tree, grey, holding everything. Yan against the cairn with his eyes shut and his face like ash and Suzu round his neck. Wendy beside Salty with her bow, drawing her one last arrow.
+Not dead. Down. Rhea on the grass on the south side by the third one, with her left arm strapped across her chest and her sword across her knees, trying to get up and her legs not doing it. Teague on one knee with his head down and his shield split. Aldous on his knees at the edge of the green where the fire had been, swaying, his lips moving, no fire. The old men, too few, sitting where they'd been standing. Jessop, on his left, leaning on his spear with both hands because he couldn't stand without it. Maigo against the tree, grey, holding everything. Yan against the cairn with his eyes shut and his face like ash and Suzu round his neck and the scythe in the grass beside him. Wendy beside Salty with her bow, drawing her one last arrow.
 
 She let it go. It went into the big one's chest. It didn't stop.
 

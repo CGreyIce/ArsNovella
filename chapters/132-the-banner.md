@@ -41,7 +41,7 @@ And the six.
 
 The guards were standing at the far end of the sand, under the west stand, in a loose row. Not the guides. The guides were in the stands, watching, with notebooks. The guards. The ones who'd stood behind the thirty-five for two years with swords on their hips while the guides taught them to read their windows. Six of them, because Hild was holding a mountain pass five hundred miles away and had sent a letter that said only *don't lose*.
 
-Bram, Group 1's, big and grey and grinning, with a wooden axe. Sabine, Group 4's, tired and sharp, with two short wooden blades. Petra, Group 6's, very straight, with a wooden sword, looking at them the way she looked at everything. Rhea, Group 3's, practically vibrating, with a wooden greatsword nearly as long as she was. Ysolde, Group 7's, with her curled ram's horns and a wooden longsword held loosely in one hand like a walking stick.
+Bram, Group 1's, big and grey and grinning, with a wooden axe. Sabine, Group 4's, tired and sharp, with a wooden blade the length of her own sword. Petra, Group 6's, very straight, with a wooden sword, looking at them the way she looked at everything. Rhea, Group 3's, practically vibrating, with a wooden sword as heavy as a fence rail. Ysolde, Group 7's, with her curled ram's horns and a wooden longsword held loosely in one hand like a walking stick.
 
 And Kestra. Group 2's. With a plain wooden practice sword, the same one she'd used in the courtyard in the rain for two years, standing very still in the middle of the row, looking at Jared's feet.
 
@@ -165,7 +165,7 @@ Kei listened.
 
 The second glass, they lost Calvin.
 
-Rhea got round the back of the mound while Sabine and Petra came up the front, and Calvin turned to put the wind on Rhea and she just went *through* it, laughing, a wooden greatsword nearly as long as she was coming round in a flat arc that caught Calvin across the kettle tied to his belt with a noise like a gong. Calvin sat down on the turf. The marshal's flag went up. *Out*.
+Rhea got round the back of the mound while Sabine and Petra came up the front, and Calvin turned to put the wind on Rhea and she just went *through* it, laughing, a wooden sword as heavy as a fence rail coming round in a flat arc that caught Calvin across the kettle tied to his belt with a noise like a gong. Calvin sat down on the turf. The marshal's flag went up. *Out*.
 
 "*NO*," shouted Azac. "*NOT THE KETTLE*—"
 
@@ -557,7 +557,7 @@ Then he put his arm round the man's neck from the side, the way you put your arm
 
 Rhea came and found them at dark. With her arms.
 
-She stood in front of the bottom tier with her fists on her hips, red-faced, sweaty, grinning, with her wooden greatsword over her shoulder, and said: "*After the Banner. If I've still got arms*." She held them up. "I've still got arms."
+She stood in front of the bottom tier with her fists on her hips, red-faced, sweaty, grinning, with her wooden sword over her shoulder, and said: "*After the Banner. If I've still got arms*." She held them up. "I've still got arms."
 
 The man looked at her.
 
@@ -571,7 +571,7 @@ They arm-wrestled on the bottom tier of the Lists, on the stone, in the dark, wi
 
 "After the Gate," said the man. "If you've still got arms."
 
-And Rhea went off across the sand in the dark toward the Lance, swinging her wooden greatsword, shouting *AFTER THE GATE* at the empty stands, delighted.
+And Rhea went off across the sand in the dark toward the Lance, swinging her wooden sword, shouting *AFTER THE GATE* at the empty stands, delighted.
 
 Jared watched her go. Then he looked down at the postcard in his hand.
 
