@@ -17,6 +17,8 @@ White. All of it. The yard, and the woodpile, and the hen-house with three humps
 
 The first snow. On the lake. She'd seen twelve of them. She'd never once seen one with a king asleep on the rug downstairs.
 
+She'd turned eighteen on the fourth night he was here. The same week as last year, near enough; the king said it was getting to be a habit. He'd given her, at supper, in front of everyone, a whetstone out of his roll that had been his father's, and gone red to the beard. Halvard had said, gravely, *Many happy returns*, which nobody in Wrenhaven had ever heard anyone say out loud, and then looked as if he wished he hadn't, and then as if he didn't.
+
 She looked at the step.
 
 Kestra was on it. Sitting where she'd sat every night for a week, with a blanket round her shoulders and a sword across her knees and a book on the boards beside her. There was snow on her. On her shoulders, on her hair, on the blanket, on the scabbard, a finger thick. She hadn't brushed it off. She was looking at the lake.
@@ -53,7 +55,7 @@ Kestra looked at it. She'd always been able to see Alea's; Alea had shown her, t
 
 "It was fourteen in the spring."
 
-"I know. I was there." Kestra looked at the number a moment longer. "I was Drawn at seventeen. Tempered at twenty. You're seventeen and a third of the way to Honed." She looked at Alea, not at the window. "Don't let it go to your head."
+"I know. I was there." Kestra looked at the number a moment longer. "I was Drawn at seventeen. Tempered at twenty. You're eighteen and a third of the way to Honed." She looked at Alea, not at the window. "Don't let it go to your head."
 
 "I won't."
 

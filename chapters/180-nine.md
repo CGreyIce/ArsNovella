@@ -91,7 +91,7 @@ He read on.
 
 He stopped on that one for a while.
 
-*We know it's his. We're asking anyway*. Four people in a guild town on the Wren, who'd watched one of their own go up the river to find him and stayed behind to hold the Hollow, and never once asked for anything. Asking now. In capitals, from the biggest of the thirty-five, who'd learned to put his barrier up on its own and never once used it for himself.
+*We know it's his. We're asking anyway*. Four people in a guild town on the Wren, who'd come up the river with Xav last spring to find him, and found him, and gone home again to hold the Hollow, and never once asked him for anything since. Asking now. In capitals, from the biggest of the thirty-five after Gabe, who'd learned to put his barrier up on its own and never once used it for himself.
 
 He read on.
 
