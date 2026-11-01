@@ -203,9 +203,9 @@ Hako went down the slope beaming as if he'd won.
 
 That left five. Then, in the middle of the third glass, four, when Sabine got Kei from behind while he was listening to the snake.
 
-Kei went down on the turf on one knee and Sabine's wooden blade touched his shoulder, and he looked up at her and laughed, quietly, the way he did. "Hisui says sorry," he said. "He was looking at the other snake."
+Kei went down on the turf on one knee and Sabine's wooden blade touched his shoulder, and he looked up at her and laughed, quietly, the way he did. "Hisui says sorry," he said. "The other snake was talking to him."
 
-Suzu was in the stands. On the scythe-shaft. On the fourth tier of the east stand, two benches along from the end. Jared hadn't realised. Hisui had been looking at her for a glass and a half.
+Suzu was in the stands. On the scythe-shaft. On the fourth tier of the east stand, two benches along from the end. Jared hadn't realised. She'd been telling Hisui what she thought of everybody's feet for a glass and a half, and Hisui had been telling Kei.
 
 "Tell him it's fine," said Sabine.
 
@@ -443,11 +443,11 @@ The Committee came down the mound together, in a line, the way they'd gone up it
 
 "Kei went out *heroically*," said Hyvred.
 
-"Hisui was looking at Suzu," said Kei, from the far end of the bench.
+"Suzu was giving Hisui notes," said Kei, from the far end of the bench. "On everybody's feet. He was passing them on. During."
 
 And Yan, at the end of the Committee, with his scythe across his knees and the white snake round his neck, turned his head and looked down the bench at Kei, and at the green snake round Kei's neck, and Jared saw the white snake round Yan's neck lift her head and look at the green one.
 
-"Okay," said Yan.
+"She says yours were the worst," said Yan.
 
 ***
 

@@ -303,7 +303,7 @@ Yan laughed. Low and slow and very quiet.
 
 Tiger couldn't hear Hisui. Nobody but Kei could, and Yan. But he could see him. At the bottom of the scythe-shaft, very small and very green in the moonlight, with his head tipped up toward the white snake above him and his tongue going in and out very fast, the way it went when he was tasting something enormous.
 
-"*He says*," said Kei, and stopped. And something happened to Kei's calm, trustworthy, relaxing face that Tiger had seen happen to it about four times in two years. "*He says he's going to miss her*."
+"*He says*," said Kei, and stopped. And something happened to Kei's calm, trustworthy, relaxing face that Tiger had seen happen to it about four times in two years. "*He says he's going to miss it. Being answered*." A pause. "*He says two years nobody answered, and then a week of somebody who did, and now it's back to me saying mm*."
 
 Suzu didn't move.
 
@@ -313,21 +313,21 @@ There was a pause.
 
 "*She heard*," said Kei.
 
-At the bottom of the scythe-shaft, Hisui made a sound that Tiger couldn't hear and could somehow see: a small green snake shrinking, very slightly, into himself, the way a person does when they've been caught.
+At the bottom of the scythe-shaft, Hisui made a sound that Tiger couldn't hear and could somehow see: a small green snake shrinking, very slightly, into himself, the way a person does when they've been caught being sentimental.
 
 At the top of the shaft, Suzu lifted her head off the blade.
 
-She looked down at Hisui for a long time, with her two green eyes like lamps. Then she came down the shaft. Slowly. One coil at a time. All the way to the bottom, where he was. And put her head down, very lightly, beside his, on the wood. Just for a moment.
+She looked down at Hisui for a long time, with her two green eyes like lamps. Then she dipped her head to him. Once. The way you'd nod to somebody across a room who'd done you a kindness.
 
-Then she went back up.
+Then she came down the other way. Off the scythe, onto Yan's hand where it rested on the shaft, and up his arm, and round his neck, the way she always sat. Her head on his collarbone.
 
-Kei didn't say anything for a while. Yan didn't either.
+Kei didn't say anything for a while. Yan didn't either. Yan could hear both of them; he'd heard all of it.
 
-"*What did she say*," said Yan eventually. His voice had gone.
+"Say it," said Yan eventually, very low. "Out loud. What she just said. I want somebody else to have heard it."
 
 Kei listened.
 
-"*Nothing*," he said. "*She didn't say anything. Hisui says she didn't need to*."
+"*She says she'll talk to him again one day, if there's a way*," said Kei. "*She says he's a good little snake and he passes things on properly, which is more than some people*." He paused. "*She says she's going back to Yun now. She says that's where she goes*."
 
 ***
 
