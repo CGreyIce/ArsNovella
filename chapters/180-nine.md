@@ -102,9 +102,9 @@ He read on.
 21:02 · Ina: He's ordered so much paper.
 21:30 · PenguChi: Waddles went down the pumpkin field on his stomach eleven times today. Into the lake. Every time.
 21:30 · PenguChi: He's asleep now. He's very proud.
-21:31 · Xola: I CRIED
+21:31 · Xolalotl: I CRIED
 21:31 · Gigichi: it was a fair throw
-21:31 · Xola: it was NOT
+21:31 · Xolalotl: it was NOT
 21:32 · Gigichi: she was OPEN
 21:40 · Althea: The hens sat with him. On the end of the jetty. For an hour. We all saw.
 21:40 · Althea: Higu wrote it down. I'm just saying it. Rule three. ]

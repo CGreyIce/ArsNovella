@@ -223,9 +223,9 @@ She didn't know why. It felt like the edge of something. Like a doorstep. Red ea
 
 At the letters.
 
-They were near the top. She'd known they would be; she'd watched him cut them, on the shingle, all one day, with the king's chisel, in the autumn of her seventeenth year. Four words in English, in the plain capitals he'd taught her on a slate with a nail the winter she was thirteen. She'd read them aloud on the shingle that evening, with the king standing behind her not able to.
+They were near the top. She'd known they would be; she'd watched him cut them, on the shingle, all one day, with the king's chisel, in the autumn of her seventeenth year. Four words in English, in plain capitals. She couldn't read them; nobody born in this world could, English slid off their eyes like rain off oilcloth. But she'd asked him, on the shingle that evening, with the king standing behind her not able to read them either, and he'd put her finger on each word in turn and told her, and she'd known them by their shapes ever since.
 
-She read them aloud now.
+She said them aloud now.
 
 "*To Diwa*," said Alea. "*My love*."
 
@@ -379,7 +379,7 @@ Alea looked at the two halves. At the ground between them.
 
 "Now it went deeper," said her father. "When they rang. Both of them. In the same place." He was quiet. "I don't know what that means. I don't know what it is. Neither does Yan." He looked at her. "But it went down. Not up."
 
-Alea looked at Astra in her hands. At the five crooked letters by the grip. *Ad astra per aspera*. Her father's words. And beside it, four clean ones. His too.
+Alea looked at Astra in her hands. At the four crooked words by the grip. *Ad astra per aspera*. Her father's words. And beside it, on the stone, four clean ones. His too.
 
 She didn't take it out of the ground.
 

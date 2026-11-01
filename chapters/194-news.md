@@ -253,7 +253,7 @@ He looked at it.
 
 "He'll understand," said Halvard.
 
-She tied it to the cord. She held the cord in her hand for a moment, with her eyes shut, the way they all did. And then she opened them and said, "It's gone," and Halvard, who had commanded the movement of armies, felt something go out of him down a piece of blue string with a white bead on it to a militia hall on a lake a month's ride away, and sat very still.
+She tied it to the cord. She held the cord in her hand for a moment, with her eyes shut, the way they all did. And then she opened them and said, "It's gone," and Halvard, who had commanded the movement of armies, felt something go out of him down a piece of blue string with a white bead on it to a militia hall on a lake a week's ride away, and sat very still.
 
 "Does he know?" said Halvard. "About them. The elves." He didn't know why he asked her. "Would he?"
 
@@ -263,17 +263,17 @@ The cat girl looked at him oddly.
 
 Halvard didn't say anything.
 
-"Every night," said Hana. "On the jetty. All of it. Higu told him we knew, in the first snow. He's read every line we've written for two years." She was quiet. "He'll have read Yan's the night they came. And Maigo's. All forty of Maigo's." She paused. "You didn't know?"
+"Every night," said Hana. "On the jetty. All of it. Group 1 told him we knew, the midwinter before last. He's read every line we've written for two years." She was quiet. "He'll have read Yan's the night they came. And Maigo's. All forty of Maigo's." She paused. "You didn't know?"
 
 "No," said Halvard.
 
 He sat at the end of their table for a while.
 
-Two years. Every night. On the end of a jetty, in the dark. Reading thirty-five people write to each other about him, and never once writing back. And Halvard in a tower a month's ride away, building a lake out of reports, never once knowing.
+Two years. Every night. On the end of a jetty, in the dark. Reading thirty-five people write to each other about him, and never once writing back. And Halvard in a tower a week's ride away, building a lake out of reports, never once knowing.
 
 He'd known before Halvard did. Of course he had. He always had.
 
-Halvard put his hand over his eyes. And laughed. Quietly, at the end of a long table in a house full of people from another world, the way he hadn't laughed since a wall at Cinderhold. And the big one at the stove, who stood where he stood, turned round and looked at him with a ladle in his hand and said, very gently, in his own tongue, something Halvard didn't understand and the cat girl didn't translate.
+Halvard put his hand over his eyes. And laughed. Quietly, at the end of a long table in a house full of people from another world, the way he'd laughed once in the summer at a hawk, and before the hawk not since a wall at Cinderhold. And the big one at the stove, who stood where he stood, turned round and looked at him with a ladle in his hand and said, very gently, in his own tongue, something Halvard didn't understand and the cat girl didn't translate.
 
 ***
 

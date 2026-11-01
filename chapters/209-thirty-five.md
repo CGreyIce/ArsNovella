@@ -15,7 +15,7 @@ Half of a gold heart, on its own purple cord, beside the seven halves. She'd mad
 
 This wasn't that. It was the other kind. The long kind. Steady, and patient, and not letting go.
 
-She knew where. Not from the heart; the heart didn't tell you anything but *held*. From everything else. A month's ride west, on the end of a jetty, in the dark, with the channel open in front of him and Wendy's lines in it. *They're going for the grave*. And Yan's, under it. *Nobody come. You can't get here in time and we don't need you to. It's ours*.
+She knew where. Not from the heart; the heart didn't tell you anything but *held*. From everything else. A week's ride north, on the end of a jetty, in the dark, with the channel open in front of him and Wendy's lines in it. *They're going for the grave*. And Yan's, under it. *Nobody come. You can't get here in time and we don't need you to. It's ours*.
 
 He wouldn't write. He never had. He'd sit there.
 
@@ -146,7 +146,7 @@ Nobody said anything.
 
 *Something rang*. Deston didn't say things. Deston heard the threads, all of them, every one of the thirty-five running out of the world and the silver ones running through it, and he'd heard twelve of them go gold on one downbeat at Valcrest, and he'd never once in two years and a half written *something rang*.
 
-And Thea's medium line. *One blade · parted · Ice*. The line at the bottom of everyone's window that hardly anybody looked at any more, because it hardly ever changed. It had said *one blade* the first year, and nobody knew what that meant. It had changed the autumn the king split the sword, and Thea had noticed, and Chris, and Cursiffe, and Yan, and nobody else. And since the spring before last it had had his name on the end, in everyone's own word for him. One blade. Parted. Half of it a headstone on a knoll an hour from Cinderhold, and half of it on a girl's back on a jetty a month west.
+And Thea's medium line. *One blade · parted · Ice*. The line at the bottom of everyone's window that hardly anybody looked at any more, because it hardly ever changed. It had said *one blade* the first year, and nobody knew what that meant. It had changed the autumn the king split the sword, and Thea had noticed, and Chris, and Cursiffe, and Yan, and nobody else. And since the midwinter before last it had had his name on the end, in everyone's own word for him. One blade. Parted. Half of it a headstone on a knoll an hour from Cinderhold, and half of it on a girl's back on a jetty a week north.
 
 Hana looked at the heart on her wrist.
 

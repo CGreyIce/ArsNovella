@@ -159,7 +159,7 @@ He stood at the bottom of it a long time.
 
 Then the girl was beside him. Alea. Coming out of the cabin gate behind him with her black sword on her back and her good knife on her hip and something in her hand. She stood beside him at the bottom of the lit road, and said something, and Odette couldn't hear what. She didn't need to.
 
-And then the five girls from the militia hall. Coming down the lake road from the square, past Odette, at the top, without seeing her. In their coats, with their lanterns, in a row, the way they'd come down it the first time in the snow two winters ago when nobody in the whole of Wrenhaven had known what was going to happen. The pink-and-violet one. The one with the white bow. The silver-haired one, scowling. The small one with the penguin. And the axolotl girl, in front, with her hair dry now and loose and down past her knees and a squid on her head glowing faintly gold in the dark.
+And then the five girls from the militia hall. Coming down the lake road from the square, past Odette, at the top, without seeing her. In their coats, with their lanterns, in a row, the way they'd come down it the first time in the snow last winter when nobody in the whole of Wrenhaven had known what was going to happen. The pink-and-violet one. The one with the white bow. The silver-haired one, scowling. The small one with the penguin. And the axolotl girl, in front, with her hair dry now and loose and down past her knees and a squid on her head glowing faintly gold in the dark.
 
 They went down between the lanterns to the bottom of the road. To the gate. To him.
 
@@ -227,7 +227,7 @@ All of it. In a ring. Not to mud; to water. Clean, clear water, a hand deep, lyi
 
 Nobody in the square said anything.
 
-Odette sat on the front bench with her list on her knee and watched five girls from another world stand round a bonfire in the middle of her town, with light and moths and thorn and song and water, all of it at once, all five of them, the way they'd stood at the top of the lake road two winters ago with lanterns, frightened, not knowing anything.
+Odette sat on the front bench with her list on her knee and watched five girls from another world stand round a bonfire in the middle of her town, with light and moths and thorn and song and water, all of it at once, all five of them, the way they'd stood at the top of the lake road last winter with lanterns, frightened, not knowing anything.
 
 They weren't frightened now.
 

@@ -542,8 +542,8 @@ At about midnight, in the long room at the top of the hall, with everybody aslee
 00:00 · Cursiffe: Hana's reading it to Oswin. He's sat down on the floor of the vault
 00:01 · Cursiffe: Edwy's crying. He says he isn't. He's doing the R
 00:02 · Hanarisu: Oswin says thank you. He says he's going back up to leaf twelve. He says he'll sleep after. I said no, now. He's gone to sleep.
-00:03 · Xola: SIX CLEAN
-00:03 · Xola: sorry. it's late. SIX CLEAN
+00:03 · Xolalotl: SIX CLEAN
+00:03 · Xolalotl: sorry. it's late. SIX CLEAN
 00:04 · Althea: Mostly asleep. Goodnight. ]
 
 She shut her window.

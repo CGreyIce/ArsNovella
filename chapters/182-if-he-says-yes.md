@@ -265,7 +265,7 @@ Not with her full edge. Never that. Petra was Reaching; there were maybe a few h
 
 And Malcolm would put *Hold* on it.
 
-That was his part. He'd sit at the edge of the bar with his book on his knee and his pen, and when Azac's post came up out of the gravel, Malcolm would put out his own hand and write *Hold*, the line he'd written on Azac's shield in the Hollow two years ago, the first thing he'd ever enchanted. Into the post. And feel it go in, warm, like a hand on a shoulder. And then, below it, a little lower, because he couldn't help it, because he'd never once in two years not done it:
+That was his part. He'd sit at the edge of the bar with his book on his knee and his pen, and when Azac's post came up out of the gravel, Malcolm would put out his own hand and write *Hold*, the line he'd written on Azac's shield in the Hollow the spring before last, the first thing he'd ever enchanted. Into the post. And feel it go in, warm, like a hand on a shoulder. And then, below it, a little lower, because he couldn't help it, because he'd never once in two years not done it:
 
 *Backup*.
 
@@ -391,7 +391,7 @@ He was sitting on the gravel at the edge of the bar with his knees up, the way h
 
 Malcolm looked at him.
 
-Thirty. He'd known the count. Everyone knew the count; Chris put it in the channel every time it moved, *count stands at*, like a man at the end of a long table keeping the score. Twenty-nine. Six left at the bottom. Xola, Cursiffe, Malcolm, Tiger, Drew, Niko. He'd been one of the six for two years and a half, and he'd been quite sure, the way he was sure of most things, that he'd be one of the last two, and that the last one would be Niko, and that it would be fine.
+Thirty. He'd known the count. Everyone knew the count; Chris put it in the channel every time it moved, *count stands at*, like a man at the end of a long table keeping the score. Twenty-nine. Six left at the bottom. Xola, Cursiffe, Malcolm, Tiger, Drew, Niko. He'd been one of the six for more than two years, and he'd been quite sure, the way he was sure of most things, that he'd be one of the last two, and that the last one would be Niko, and that it would be fine.
 
 He'd never once written down what he'd do if he wasn't.
 

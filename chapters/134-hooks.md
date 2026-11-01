@@ -173,7 +173,7 @@ Sorrel of Gullhaven was sixteen and a fisherman's girl from the coast with two c
 
 Round three was a guild girl with a spear.
 
-She reminded Alea of Hako so much that for a moment, stepping onto the near ring, she nearly laughed. The same long reach. The same patience. The same habit of standing with the spear low, waiting, letting you come to it. She was eighteen and from a guild hall in Fennick and her name was Ivy, and she'd beaten two boys with swords in rounds one and two by simply never letting them get close enough to use them.
+She reminded Alea of Hako so much that for a moment, stepping onto the near ring, she nearly laughed. The same long reach. The same patience. The same habit of standing with the spear low, waiting, letting you come to it. She was eighteen and from a guild hall in Fennick and her name was Wynne, and she'd beaten two boys with swords in rounds one and two by simply never letting them get close enough to use them.
 
 Alea had trained at dawn on wet sand with Hako for five days now. She knew how a spear waited.
 

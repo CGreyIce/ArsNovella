@@ -117,7 +117,7 @@ Maren's half went warm on the fourth night. One word.
 
 Hana sat on the sill of her window in the dark with her wrist in her lap and laughed out loud, and Milli woke up and said *what* and she said *Maren* and he said *oh* and went back to sleep, smiling. Group 1 was home. Wrenhaven. The militia hall at the top of the lake road. Five girls who'd waited at the top of a road for twenty months, home.
 
-She wrote back. *Welcome home.* And held it. And after a moment, Maren's answer came up on the strip, in Hana's own English, from Maren's small exact hand a month's ride away:
+She wrote back. *Welcome home.* And held it. And after a moment, Maren's answer came up on the strip, in Hana's own English, from Maren's small exact hand a week's ride away:
 
 *The basket is on the step. Empty. Nobody touches it.*
 
@@ -177,7 +177,7 @@ And then: *Lantern*.
 
 Hana had sat on the bed and read it and put her face in her hands.
 
-She wrote, eventually, when she could. *thank you. I'm sorry. Thank you.* And then she sat there for a long time with Milli's arm round her and her wrist cool again in her lap, and looked at the seven halves, and the word on every one of them, under *the door is open*. *hello*. In the hand of a girl with pink and violet hair, a month's ride away, on the end of a jetty, who'd held the whole thing still with her bare hands and said hello to it.
+She wrote, eventually, when she could. *thank you. I'm sorry. Thank you.* And then she sat there for a long time with Milli's arm round her and her wrist cool again in her lap, and looked at the seven halves, and the word on every one of them, under *the door is open*. *hello*. In the hand of a girl with pink and violet hair, a week's ride away, on the end of a jetty, who'd held the whole thing still with her bare hands and said hello to it.
 
 "I nearly broke everything," said Hana, into her hands.
 

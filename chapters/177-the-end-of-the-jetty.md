@@ -215,7 +215,7 @@ He picked the bundle up anyway. He weighed it in his hand, the way you'd weigh a
 
 Halvard looked at him.
 
-"One a year," said the man. "On the anniversary. When I get back from the grave. I'll open one, and read it, at the table, with a cup of tea." He turned the bundle over. "Thirty-eight years. I'll be seventy-four when I get to the last one."
+"One a year," said the man. "On the anniversary. When I get back from the grave. I'll open one, and read it, at the table, with a cup of tea." He turned the bundle over. "Thirty-eight years. I'll be seventy-three when I get to the last one."
 
 "You'll be older than I am now."
 

@@ -93,7 +93,7 @@ Then Declan went round them.
 
 He did it the way he'd done everything in the six weeks Deston had been watching him: slowly, without fuss, one thing at a time, and the right thing. He didn't make a speech. He didn't stand in the middle of the square. He went to each of them where they were, the way you'd go round a room at a party making sure everybody had a drink, and to each of them, in English, very quietly, he said one thing.
 
-One thing only Ice could have said.
+One thing only Declan could have said.
 
 He went to Aleaka first, because she was nearest, and because she'd been first. She'd stopped laughing. She was just standing there with her hand over her mouth and her tail wrapped so tight round her own legs she was going to fall over. He didn't say anything to her at all. He'd already said it. He put his hand on top of her head, between her ears, the way he put his hand on Alea's head on the jetty at night. And Aleaka took her hand off her mouth and put both arms round him and her face into his wet coat and made a noise Deston would hear for a long time.
 
@@ -439,7 +439,7 @@ The sergeant looked at her. He looked at the list. He looked at the man with the
 
 Declan didn't get to carry the water in.
 
-He'd slid the yoke back onto his shoulders, and bent for the buckets, and Jared took it off him. Just like that. Jared, who hadn't said a word yet, who still hadn't, with his eyes red and his jaw tight, came up behind him and lifted the yoke off his shoulders, buckets and all, and put it on his own. Then he walked off through the gate into the city with it, without looking back, very straight, carrying the water. As if he'd been waiting three years to carry something of Ice's and this was the first thing that had come to hand.
+He'd slid the yoke back onto his shoulders, and bent for the buckets, and Jared took it off him. Just like that. Jared, who hadn't said a word yet, who still hadn't, with his eyes red and his jaw tight, came up behind him and lifted the yoke off his shoulders, buckets and all, and put it on his own. Then he walked off through the gate into the city with it, without looking back, very straight, carrying the water. As if he'd been waiting three years to carry something of Declan's and this was the first thing that had come to hand.
 
 Declan stood in the gate with his empty hands, and watched him go. And didn't argue.
 

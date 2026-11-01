@@ -215,7 +215,7 @@ Liraun stopped at the edge of the green, where she always stopped. She didn't st
 
 It had spread.
 
-That was the other thing. Two summers ago, when Maigo planted the tree, the green had been a ring a long stride wide round the cairn, with the flowers in it. Small white flowers and small blue ones, the only things that had grown on the red in eight years. Last summer it had been wider. Now, with the spring, it had come out over the whole top of the knoll, soft and short and bright as a lawn, with the flowers all through it, white and blue, nodding. And at the east edge of the knoll, where the slope went down to the meeting of the two riverbeds, it didn't stop. It went on. Down the slope. Into the riverbeds. A green thread running out of the grave and away east along each of the old water-courses, toward the mountains.
+That was the other thing. Two summers ago, when the man first sat under her, the green had been a ring a long stride wide round the cairn, with the flowers in it. Small white flowers and small blue ones, the only things that had grown on the red in nine years. Last summer it had been wider. Now, with the spring, it had come out over the whole top of the knoll, soft and short and bright as a lawn, with the flowers all through it, white and blue, nodding. And at the east edge of the knoll, where the slope went down to the meeting of the two riverbeds, it didn't stop. It went on. Down the slope. Into the riverbeds. A green thread running out of the grave and away east along each of the old water-courses, toward the mountains.
 
 Maigo stood on the green at the top of the knoll and looked at that for a long time.
 
@@ -275,9 +275,9 @@ He understood it the way you understand a thing all at once, suddenly, the whole
 
 They weren't roots. Not just. They were *pickets*.
 
-Teague had taught him the word. The first winter, on the gatehouse, when Maigo asked why the riders went out every morning. *Pickets*, Teague had said. *You put men out. A long way out. Not to fight. Just to stand there and feel it if something comes. So you know before it gets to you*. And Maigo had gone out on the Thursday and told the tree, because he told the tree everything, and he'd said *Teague says you put pickets out, so you know*.
+Teague had taught him the word. The first spring, on the gatehouse, when Maigo asked why the riders went out every morning. *Pickets*, Teague had said. *You put men out. A long way out. Not to fight. Just to stand there and feel it if something comes. So you know before it gets to you*. And Maigo had gone out on the Thursday and told the tree, because he told the tree everything, and he'd said *Teague says you put pickets out, so you know*.
 
-He'd told her that. Two winters ago.
+He'd told her that. Two springs ago.
 
 And she'd put her pickets out.
 

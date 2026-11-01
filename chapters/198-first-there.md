@@ -61,7 +61,7 @@ Tiger watched from the well. His tail was going. He couldn't stop it.
 
 Joss held the horses for him, after.
 
-He did every morning. He'd done it since the first spring, when he was eight and Tiger was new and the farrier had sent him across with a message and he'd stood in the stable door with his mouth open looking at Tiger's ears. He was eleven now. Small for it. Brown as a nut, with a gap in his front teeth and a red wool scarf his mother had knitted him that he wore from the first frost to the last and slept in. He held the grey and the bay for the north patrol while Tiger checked their feet, and asked him about tigers.
+He did every morning. He'd done it since the first spring, when he was nine and Tiger was new and the farrier had sent him across with a message and he'd stood in the stable door with his mouth open looking at Tiger's ears. He was eleven now. Small for it. Brown as a nut, with a gap in his front teeth and a red wool scarf his mother had knitted him that he wore from the first frost to the last and slept in. He held the grey and the bay for the north patrol while Tiger checked their feet, and asked him about tigers.
 
 He'd been asking about tigers since the first spring. He'd never run out.
 
@@ -379,7 +379,7 @@ Joss looked at him for a long moment, in the torchlight, with enormous seriousne
 
 Tiger opened his mouth.
 
-He'd forgotten. That Joss had been there. Eight years old, in the door of the farrier's, every morning, the first spring, watching them go past. That Joss had been the one who said everything. *Ossie, he's beating you, Ossie, RUN*.
+He'd forgotten. That Joss had been there. Nine years old, in the door of the farrier's, every morning, the first spring, watching them go past. That Joss had been the one who said everything. *Ossie, he's beating you, Ossie, RUN*.
 
 "Yeah," said Tiger. "Way faster."
 

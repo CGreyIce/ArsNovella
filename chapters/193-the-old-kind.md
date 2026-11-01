@@ -31,7 +31,7 @@ He turned round with the tongs in his hand and a shoe on the end of them, glowin
 
 He was making horseshoes.
 
-Real ones. That was the joke, if anyone asked, and somebody always asked. For a year and a half everything Salty had made in this forge had been *horseshoes*, out loud, to anybody who wanted to know, while he and Garrow chalked the curve of a scythe blade on the floor under a sack. Wendy had told him he was the worst liar she'd ever met. He'd agreed. It was why he didn't do it much.
+Real ones. That was the joke, if anyone asked, and somebody always asked. All last winter and into the spring, everything Salty had made in this forge had been *horseshoes*, out loud, to anybody who wanted to know, while he and Garrow chalked the curve of a scythe blade on the floor under a sack. Wendy had told him he was the worst liar she'd ever met. He'd agreed. It was why he didn't do it much.
 
 Now it was horseshoes. Actual horseshoes. The spring relief was coming up the road from Ashby in six weeks with forty horses, and Oakes had looked at the stores in the winter and said a word Salty hadn't known Oakes knew, and here they were. Thirty-one done, on the rack by the quench tub. Nine to go.
 

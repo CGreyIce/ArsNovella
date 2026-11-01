@@ -21,11 +21,11 @@ Then she woke Milli, which took three tries, and went to find Kestra.
 
 The Summoners' Hall stood across the old square from the castle gate, and had stood there for three hundred years, and looked it.
 
-Hana had walked past it every day for two years and a half. Everybody in Solmere had. A tall narrow grey building with no windows on the street side and a door with an open hand carved on it, worn so smooth by weather that you had to know it was a hand to see it. Aldemar's device. The Open-Handed. She'd read about it in Oswin's books, the first winter, before she knew it mattered: King Aldemar had founded the Hall in the ninth year of his reign to keep the summoning circle and the records of every summoning, and given it his own mark, and a charter, and a seat on the Council that it had held ever since.
+Hana had walked past it every day for more than two years. Everybody in Solmere had. A tall narrow grey building with no windows on the street side and a door with an open hand carved on it, worn so smooth by weather that you had to know it was a hand to see it. Aldemar's device. The Open-Handed. She'd read about it in Oswin's books, the first winter, before she knew it mattered: King Aldemar had founded the Hall in the ninth year of his reign to keep the summoning circle and the records of every summoning, and given it his own mark, and a charter, and a seat on the Council that it had held ever since.
 
 There were twelve summoners now. Mages, all of them, middling to good; the Warden was Beacon-tier, Oswin said, which made him one of the strongest mages in the capital after the Advisor. They lived in the Hall and kept the circle clean and kept the records, and once in a long while, when a king asked them, they stood in the rings of the circle on the floor of the summoning hall and did the thing the circle was for.
 
-They'd done it two years and a half ago.
+They'd done it more than two years ago.
 
 Hana had never thought about that. Not properly. She'd thought about the Advisor, who'd laid the sword in the circle, and about the king, who'd allowed it, and about the circle itself, which Thea said was code and Cursiffe said was a form with a blank box. She'd never once thought about twelve grey people standing in the rings round the edge of the floor that night, chanting, holding the circle open while thirty-five people fell through it.
 
@@ -165,7 +165,7 @@ The Warden looked up at him.
 
 The Warden didn't say anything.
 
-"You're right," said Milli. "It could go wrong. Thea could read it wrong. Nobody's ever read that hand. It could be dangerous." He nodded, slowly. "I believe you. I believe you mean it. I believe you've felt the weight of us every day for two years and a half and it frightens you." He paused. "But you didn't ask."
+"You're right," said Milli. "It could go wrong. Thea could read it wrong. Nobody's ever read that hand. It could be dangerous." He nodded, slowly. "I believe you. I believe you mean it. I believe you've felt the weight of us every day for more than two years and it frightens you." He paused. "But you didn't ask."
 
 The Warden's face didn't move.
 
@@ -205,7 +205,7 @@ The Lord Treasurer went white.
 
 The bishop put his hand over his mouth.
 
-And the Advisor, beside the king, on his right, thin and grey and upright in his chair, did something Hana had never seen him do in two years and a half, in any room, for any reason.
+And the Advisor, beside the king, on his right, thin and grey and upright in his chair, did something Hana had never seen him do in more than two years, in any room, for any reason.
 
 He smiled.
 

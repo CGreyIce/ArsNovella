@@ -7,7 +7,7 @@ date: 2026-11-01
 
 Maigo told the tree things on Thursdays.
 
-It had been a Thursday the first time, or what his window called Thursday; the kingdom had its own names for the days, and the window turned them into the ones he knew, the way it turned everything. The morning Aldous first walked them out across the red to the grave, two winters ago, in the snow. And every Thursday since, Maigo had gone out to the knoll.
+It had been a Thursday the first time, or what his window called Thursday; the kingdom had its own names for the days, and the window turned them into the ones he knew, the way it turned everything. The morning he'd carried her out across the red to the grave and planted her, the first spring, with the thaw still in the ground. And every Thursday since, Maigo had gone out to the knoll.
 
 In the summer it was easy. An hour's walk across the red, with his root foot in the grey grass and his antlers full of leaves and the sky so big over the plain it made his chest hurt. He'd sit on the green at the foot of the cairn with his back against the ash and tell it the week. What Salty had burned. What Rhea had shouted. What Yan had said to Suzu and Suzu had said back, now that Yan passed her on properly, rude bits and all. What the horse had nearly told him its name was, and then hadn't.
 

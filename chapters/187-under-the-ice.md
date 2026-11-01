@@ -333,15 +333,15 @@ She put it in the channel that night. Herself. In the bath, with the window floa
 
 Rule three.
 
-[ 21:14 · Xola: I WENT UNDER THE ICE
-21:14 · Xola: A LITTLE BOY WENT THROUGH BY THE REEDS AND I WENT IN AFTER HIM AND I CAN BREATHE WATER. I HAVE GILLS. THEY WORK. THEY'VE WORKED THE WHOLE TIME
-21:14 · Xola: SQUIDDLES GLOWS BLUE UNDERWATER
-21:15 · Xola: I asked the whole lake to go round and bring him home and it DID
-21:15 · Xola: and ice was at the hole at the end of the jetty and pulled us out
-21:15 · Xola: and robin wasn't breathing and i put my hands on him and asked the water to come out and it DID and he COUGHED
-21:16 · Xola: and my fingers went white and grew back
-21:16 · Xola: I'M SPARK. MY SKILL IS TIDE.
-21:16 · Xola: i'm going to cry in the bath now ]
+[ 21:14 · Xolalotl: I WENT UNDER THE ICE
+21:14 · Xolalotl: A LITTLE BOY WENT THROUGH BY THE REEDS AND I WENT IN AFTER HIM AND I CAN BREATHE WATER. I HAVE GILLS. THEY WORK. THEY'VE WORKED THE WHOLE TIME
+21:14 · Xolalotl: SQUIDDLES GLOWS BLUE UNDERWATER
+21:15 · Xolalotl: I asked the whole lake to go round and bring him home and it DID
+21:15 · Xolalotl: and ice was at the hole at the end of the jetty and pulled us out
+21:15 · Xolalotl: and robin wasn't breathing and i put my hands on him and asked the water to come out and it DID and he COUGHED
+21:16 · Xolalotl: and my fingers went white and grew back
+21:16 · Xolalotl: I'M SPARK. MY SKILL IS TIDE.
+21:16 · Xolalotl: i'm going to cry in the bath now ]
 
 It went the way the channel went. All of it, at once, everybody, in capitals, through the night. Maigo first, larger than Xola's capitals, which Xola hadn't thought was possible. Tiger, who wrote *XOLA* forty times. Kei, careful: *Robin's lungs. Watch him for fever, two days.* Rachael: *That's not how lungs work. I don't care. Well done.* Chris: *count stands at 32*. Yan: *Okay*, and then, a moment later, *Suzu says the water must have liked you. She says water doesn't do that for everybody*. Hana: *Good*. Malcolm: *IF a lake THEN*, and then nothing, as if he'd given up.
 

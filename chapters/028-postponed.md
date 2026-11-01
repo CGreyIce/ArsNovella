@@ -55,7 +55,7 @@ You could see it, if you laid the pages side by side. Thirty-five columns of num
 
 And one column, on its own, way out at the top of the page.
 
-[ Thea · 96% ]
+[ Althea · 96% ]
 
 Ninety-six. As of the last letter. Ninety-six percent of the way to the first tier, the first of the thirty-five to get anywhere close.
 

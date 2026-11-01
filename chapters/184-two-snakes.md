@@ -7,7 +7,7 @@ date: 2026-11-01
 
 For eleven days, Hisui talked about nothing but the cord.
 
-Kei had thought, before, that he'd heard Hisui talk. He'd lived with it for two years and a half. A green tree snake round his neck or his wrist or the back of his chair, who had never once since the first morning in the castle stopped talking, in Kei's head, in a small grumpy voice like a kettle that had opinions, every waking minute. About the air, mostly. What it tasted of. What was in it. Who'd been in the room before them, and what they'd had for breakfast, and whether they'd been frightened. Kei had stopped hearing it after the first winter, the way you stop hearing a river if you live next to one. It was just there, under everything. He only noticed it when it stopped.
+Kei had thought, before, that he'd heard Hisui talk. He'd lived with it for more than two years. A green tree snake round his neck or his wrist or the back of his chair, who had never once since the first morning in the castle stopped talking, in Kei's head, in a small grumpy voice like a kettle that had opinions, every waking minute. About the air, mostly. What it tasted of. What was in it. Who'd been in the room before them, and what they'd had for breakfast, and whether they'd been frightened. Kei had stopped hearing it after the first winter, the way you stop hearing a river if you live next to one. It was just there, under everything. He only noticed it when it stopped.
 
 It had stopped twice. Once when he wrote a word into a cup of something bitter and the window opened in front of his face. Once on the night the wind first changed, coming up off the valley, and Hisui had lifted his head and tasted it and gone completely silent and then said *calling*.
 
@@ -233,7 +233,7 @@ He saw it. The blue ink on the paper round the knot, where *Putting her on* had 
 
 And wasn't letters.
 
-Not English. Not the kingdom's script, either, the one Kei still couldn't write after two years and a half. Not anything. Marks. Small curling lines, very fine, in Cursiffe's blue, going round the strip in a long unbroken loop and back on themselves and round again, the way a snake's track goes in sand. Not one mark and then another. One long mark, all the way round, that never lifted.
+Not English. Not the kingdom's script, either, the one Kei still couldn't write after more than two years. Not anything. Marks. Small curling lines, very fine, in Cursiffe's blue, going round the strip in a long unbroken loop and back on themselves and round again, the way a snake's track goes in sand. Not one mark and then another. One long mark, all the way round, that never lifted.
 
 Kei looked at it.
 
@@ -381,7 +381,7 @@ Kei wrote it down.
 
 Kei sat with the pencil over the strip for a long time.
 
-He thought about Yan on a wall in the snow, holding a cord. Yan, who'd carried his mother every day for two years and a half and never once said a word, until a night on a forge roof in Valcrest. Yan, who'd done a white snake's voice on stream for years, and come through a floor to find she had one of her own, and spent two years being the only one in the world who could hear it. Yan, who'd gone green at a grave in the autumn, Wendy said, and been called by a name out of the oldest rites in the kingdom, and come down off the knoll in the morning and slept an hour longer every night since.
+He thought about Yan on a wall in the snow, holding a cord. Yan, who'd carried his mother every day for more than two years and never once said a word, until a night on a forge roof in Valcrest. Yan, who'd done a white snake's voice on stream for years, and come through a floor to find she had one of her own, and spent two years being the only one in the world who could hear it. Yan, who'd gone green at a grave in the autumn, Wendy said, and been called by a name out of the oldest rites in the kingdom, and come down off the knoll in the morning and slept an hour longer every night since.
 
 *They are coming for me. Not for him*.
 

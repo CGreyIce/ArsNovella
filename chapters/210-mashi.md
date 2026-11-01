@@ -433,7 +433,7 @@ He knew where every one of those words had come from. He'd read every one of the
 
 Nobody left out.
 
-He'd thought, in the first year, sitting right here, reading thirty-five people write to each other about a first step none of them could find, that some of them wouldn't make it. Not to the first tier. Not on Earth's time, not on this world's. He'd seen thirty-four years of people reach for the first step. Soldiers on the south line who took ten years to draw. Farmers' boys who never did, and didn't mind. It was nothing to be ashamed of. It happened to plenty.
+He'd thought, in the first year, sitting right here, reading thirty-five people write to each other about a first step none of them could find, that some of them wouldn't make it. Not to the first tier. Not on Earth's time, not on this world's. He'd seen thirty-six years of people reach for the first step. Soldiers on the south line who took ten years to draw. Farmers' boys who never did, and didn't mind. It was nothing to be ashamed of. It happened to plenty.
 
 He'd been wrong about that. He'd been glad to be wrong about it, one at a time, for two years and a half.
 
@@ -452,7 +452,7 @@ He thought about it now. On the end of the jetty, in the sun, with the count clo
 
 A community server, eleven years ago, Earth time. A long time before any of this. He'd been an AWPer, then, with a name in grey on a scoreboard, who never peeked first, and there'd been a kid on the other team, seventeen, all aggression and no patience, who'd died to him four hundred times in a year and come back every night for more. And one night, at two in the morning, the kid had got him. Waited. Hadn't peeked. Let him come. And got him clean.
 
-He'd typed three words in the all-chat and logged off. He'd forgotten them for thirty-four years.
+He'd typed three words in the all-chat and logged off. He'd forgotten them for the best part of two lives.
 
 He'd remembered them in the spring. Reading the channel, on the end of this jetty. A line from Mashi to Tiger, the night Tiger broke through in the west. *nice one. again*. And then Tiger writing it back to Mashi, on the morning of the skillet, twenty-nine heartbeats. *nice one. again*. And Mashi writing, under it: *again*.
 

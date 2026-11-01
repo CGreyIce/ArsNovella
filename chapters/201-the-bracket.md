@@ -123,7 +123,7 @@ Chris shut the window.
 
 "He knows you count things," said Winter.
 
-She was beside him. She was always beside him, now. On his left. She'd been on his left since the third hour of the afternoon on the sixty-fourth day of the Lists last summer, in the final of the Trios, when he'd stopped holding the place open for someone who was sitting in the stands, and she'd stepped into it. She'd never stepped out. Neither of them had ever said anything about it. They didn't need to. It was like a line of code that ran so well you forgot it was there.
+She was beside him. She was always beside him, now. On his left. She'd been on his left since the third hour of the afternoon on the fourth day of the Lists last summer, in the final of the Trios, when he'd stopped holding the place open for someone who was sitting in the stands, and she'd stepped into it. She'd never stepped out. Neither of them had ever said anything about it. They didn't need to. It was like a line of code that ran so well you forgot it was there.
 
 "He gave it to you because you count," said Winter. Bluntly, the way she said everything. "He's not giving you his thing. He's giving you yours."
 

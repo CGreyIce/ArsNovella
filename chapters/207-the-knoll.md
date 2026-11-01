@@ -183,7 +183,7 @@ And they pulled.
 
 Maigo screamed.
 
-Salty had never heard Maigo scream. He'd heard him shout, all the time, about everything. He'd heard him cry, on the first winter's walks out to the grave, though Maigo didn't know he had. He'd never heard him scream. It came out of him against the tree, high and raw, with his root foot jammed down flat in the green and his whole small body arched off the bark.
+Salty had never heard Maigo scream. He'd heard him shout, all the time, about everything. He'd heard him cry, on the walks out to the grave the first spring, though Maigo didn't know he had. He'd never heard him scream. It came out of him against the tree, high and raw, with his root foot jammed down flat in the green and his whole small body arched off the bark.
 
 "*It's moving!*"
 

@@ -27,7 +27,7 @@ Wendy watched it from the wall. Everybody did. A column coming in off the downs 
 
 Sixty faces, looking up at the wall.
 
-Wendy had been one of those faces once. Not here. Not like this. But she'd come up a road in a column, two years and a half ago, on a wagon, with four people from another world and a chaplain with a book, and looked up at this wall for the first time, and thought: *this is the worst place I have ever seen*. She'd been right. She still thought it was. She'd just stopped minding.
+Wendy had been one of those faces once. Not here. Not like this. But she'd come up a road in a column, more than two years ago, on a wagon, with four people from another world and a chaplain with a book, and looked up at this wall for the first time, and thought: *this is the worst place I have ever seen*. She'd been right. She still thought it was. She'd just stopped minding.
 
 She watched the sixty come up the last of the road to the east gate and stop under it, and the gate open, and the old ones on the gatehouse look down at them the way old soldiers look at new ones, with a kind of patient, mournful affection. And one of the sixty, near the front, a tall straight young man with his pack square on his back and his feet set exactly the way the textbook said, stop dead under the gate, and look up, and go white.
 
@@ -67,7 +67,7 @@ Wendy watched him eat.
 
 She'd been watching him since the anniversary. She didn't think anybody else had noticed. She'd noticed because she'd kept a spreadsheet on Earth, of everything, all the time, and she'd never stopped keeping it in her head. Hours slept. Meals eaten. Who laughed at what. And Yan's column had been doing something since the night on the green at the grave, when his hands had gone green and Aldous had said *Soul Eater* in the oldest voice Wendy had ever heard come out of a man.
 
-He slept more. Not much more. An hour, most nights. He'd always been the last to bed and the first up, Yan; he'd always been the one who was awake when you came down. Since the grave he went up when Salty did. And in the mornings, sometimes, he was still asleep when Wendy went past his door. She'd never once in two years and a half known him still asleep when she went past his door.
+He slept more. Not much more. An hour, most nights. He'd always been the last to bed and the first up, Yan; he'd always been the one who was awake when you came down. Since the grave he went up when Salty did. And in the mornings, sometimes, he was still asleep when Wendy went past his door. She'd never once in more than two years known him still asleep when she went past his door.
 
 She hadn't said anything. Yan carried things. You didn't take them off him. You just kept the column.
 
@@ -148,7 +148,7 @@ But his hand was on Suzu.
 
 Flat, on the white coil round his neck, the way you'd put your hand on somebody's arm to stop them getting up. And under his hand Suzu had gone completely still.
 
-Not the stillness she had asleep. Wendy knew that one. She'd spent two years and a half sitting next to that snake at this table and on the wall and on a cart, and Suzu asleep was a heavy loose softness, like a scarf left on a chair. This wasn't that. This was the other kind. The kind a cat has, on a windowsill, when something's moved in the garden. Every scale of her held. Her head up off Yan's shoulder, very slightly. Her green eyes open.
+Not the stillness she had asleep. Wendy knew that one. She'd spent more than two years sitting next to that snake at this table and on the wall and on a cart, and Suzu asleep was a heavy loose softness, like a scarf left on a chair. This wasn't that. This was the other kind. The kind a cat has, on a windowsill, when something's moved in the garden. Every scale of her held. Her head up off Yan's shoulder, very slightly. Her green eyes open.
 
 And turned south.
 
@@ -258,7 +258,7 @@ Wendy went along the wall and stood beside him. She didn't sit. You didn't sit o
 
 Wendy didn't say anything for a while.
 
-She was a skeptic. It was what she was for. She'd come out of a floor in a hall in Solmere two years and a half ago into a world with magic and windows and a demon kingdom, and spent the first year believing none of it, and the second year believing about half, and this autumn, on the grey grass, watching the red go quiet round a man's feet, she'd believed the rest. All at once. And it had been the worst feeling she'd ever had, and also the best, and she still hadn't decided which.
+She was a skeptic. It was what she was for. She'd come out of a floor in a hall in Solmere more than two years ago into a world with magic and windows and a demon kingdom, and spent the first year believing none of it, and the second year believing about half, and this autumn, on the grey grass, watching the red go quiet round a man's feet, she'd believed the rest. All at once. And it had been the worst feeling she'd ever had, and also the best, and she still hadn't decided which.
 
 She didn't believe in songs. She believed in what she'd seen twice.
 
@@ -310,7 +310,7 @@ Yan didn't say anything.
 
 Wendy thought about that.
 
-She thought about it the way she'd thought about everything for two years and a half, as a skeptic, from the bottom up. What she'd seen. What she knew. What she could put in a column. A snake in Thornwall who could hear a snake in Cinderhold, if they were in the same room. A cat girl in Solmere who made cords that warmed when the other half was held. Who'd made one for every guide in the kingdom, and they talked through them now, every day, a few words on a strip of blue ink, and the channel said the cords carried what you *meant*. Not the words. The meaning. That was why the binding had mistaken them for its own and nearly eaten the channel. Thea had explained it, at length, at two in the morning, with diagrams.
+She thought about it the way she'd thought about everything for more than two years, as a skeptic, from the bottom up. What she'd seen. What she knew. What she could put in a column. A snake in Thornwall who could hear a snake in Cinderhold, if they were in the same room. A cat girl in Solmere who made cords that warmed when the other half was held. Who'd made one for every guide in the kingdom, and they talked through them now, every day, a few words on a strip of blue ink, and the channel said the cords carried what you *meant*. Not the words. The meaning. That was why the binding had mistaken them for its own and nearly eaten the channel. Thea had explained it, at length, at two in the morning, with diagrams.
 
 *They carry what you meant*.
 
@@ -361,7 +361,7 @@ But her tail, which had been lying along Yan's collarbone the whole time, very s
 
 Salty was waiting when she came off the wall.
 
-He always was. At the bottom of the north stair, in the snow, with a lantern, at the change of the watch, the way he'd waited for her at the bottom of every stair she'd come down for two years and a half. He didn't say anything. He held the lantern up so she could see her feet on the last steps, and when she got to the bottom he put his free arm round her and she leaned on him, because she was cold and tired and it was two in the morning and there was nobody in the yard to see.
+He always was. At the bottom of the north stair, in the snow, with a lantern, at the change of the watch, the way he'd waited for her at the bottom of every stair she'd come down for more than two years. He didn't say anything. He held the lantern up so she could see her feet on the last steps, and when she got to the bottom he put his free arm round her and she leaned on him, because she was cold and tired and it was two in the morning and there was nobody in the yard to see.
 
 "Did Yan ask?" said Salty.
 
@@ -415,7 +415,7 @@ She lay in her bunk in the women's barracks, under three blankets and her cardig
 
 She was a skeptic. She'd been one all her life. On Earth she'd been the one in the call at two in the morning saying *that's not going to work* about every plan anyone had, and being right about half of them, and being loved for it anyway, which she'd never understood. She'd been the one who said *he's dead, Yan* when Yan didn't want to hear it, three years and a whole world ago. She'd been the one on the cart the first week who said *there's no way home, there's no Sun mage, this is a lie they tell you so you'll fight*.
 
-She'd been wrong about that last one. Or about to be wrong. A girl in Wrenhaven had said *it parses* over a page of rings and lines, three weeks ago, and the channel had gone mad, and Wendy had sat at the east table and read it and felt, for the first time since the hall, the thing under her skepticism move. The thing she'd been sitting on for two years and a half. The hope.
+She'd been wrong about that last one. Or about to be wrong. A girl in Wrenhaven had said *it parses* over a page of rings and lines, three weeks ago, and the channel had gone mad, and Wendy had sat at the east table and read it and felt, for the first time since the hall, the thing under her skepticism move. The thing she'd been sitting on for more than two years. The hope.
 
 She didn't like it. Hope was a thing that could be taken off you.
 

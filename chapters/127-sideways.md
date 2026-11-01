@@ -59,7 +59,7 @@ He didn't have to raise his voice. He never did. That was the other half of the 
 
 That was all, for a moment. He let them look at him. Then at the bracket. Then back.
 
-"Two years ago," he said, "we were in a hall. All of us. In Solmere. Thirty-five people, in a room, at once. And somebody looked at us, and sorted us." He let that sit. "In fives. By who knew who. By who'd brought who. Group 1 were the streamers Ice watched. Group 2 were Alice's. Group 4 knew Deston. Group 6 were his class. Group 7 came through Yan." He nodded up at the water-carrier on his step. "It was a good sort. It was the right sort. If you're going to send people to the edges of a kingdom on their own, you send them with the people they know."
+"Two years ago," he said, "we were in a hall. All of us. In Solmere. Thirty-five people, in a room, at once. And somebody looked at us, and sorted us." He let that sit. "In fives. By who knew who. By who'd brought who. Group 1 were the streamers Ice watched. Group 2 were Hana's. Group 4 knew Deston. Group 6 were his class. Group 7 came through Yan." He nodded up at the water-carrier on his step. "It was a good sort. It was the right sort. If you're going to send people to the edges of a kingdom on their own, you send them with the people they know."
 
 He paused.
 
