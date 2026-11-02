@@ -45,7 +45,7 @@ Hyvred opened her eyes. Hild had pushed up her blindfold and was looking at her 
 
 "I couldn't see well," Hyvred said. "Before. On Earth. Only a little circle in the middle. Everything else was dark." She shrugged, suddenly shy. "So I listened."
 
-Hild looked at her for a long time.
+Hild looked at her.
 
 "So you've been training for this," she said at last, "your whole life."
 
@@ -61,7 +61,7 @@ They were all in the long room at the top of the north tower that Corvin had giv
 
 She'd been drawing every night since they arrived. Her pens hadn't come through, and neither had her tablet, so she drew with charcoal from the fire, on anything that would hold still: the hearthstone, the backs of Corvin's discarded maps, the plaster wall by the door. She drew without talking, very fast, with her tongue between her teeth and the two Pollen Puffs perched on her shoulders, watching.
 
-That night she drew a bird. A small one, a sparrow, in about six lines.
+That night she drew a bird. A small one, a sparrow, in about six lines, because Hyvred had spent the whole evening at the window watching the last of the swallows go over the valley, and Bee had wanted to give her one she could keep.
 
 And it moved.
 
@@ -119,7 +119,7 @@ Tiger lay back down on the floor and stared at the ceiling. "I hate that you're 
 
 They looked at her.
 
-"It's the sight," she said. "It's getting stronger. At first I could only see the light in people. Now I can see it in everything. The sheep. The grass. Hild's sword, a bit, where she's held it for years." She hesitated. "The mountains, when the sun's on them. They're so *bright.*"
+"It's the sight," she said. "It's getting stronger. At first I could only see the light in people. Now I can see it in everything. The sheep. The grass. Hild's sword, a bit, where she's held it for years." She hesitated. "The mountains, when the sun's on them. They're so *bright.*" She'd tested how far it went, every dawn on the wall, because she couldn't not: the gate below, easily; the sheep on the valley floor, like sparks in the grass; the ridge, only when the sun was full on it. A little further every week.
 
 "Sounds nice," said Tiger, a little enviously.
 
@@ -223,7 +223,7 @@ Hild didn't look at the ridge. She didn't need to. She shifted in the embrasure,
 
 They waited.
 
-After a long time, the hole on the ridge turned, and was gone.
+After the sentries had changed at the far corners, the hole on the ridge turned, and was gone.
 
 ***
 

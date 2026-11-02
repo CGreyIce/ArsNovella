@@ -103,7 +103,7 @@ He bent and picked it up. He didn't decide to. It just seemed wrong to leave it.
 
 There was a woman on the hillside.
 
-She was walking along the shepherd's track, a quarter of a mile off, across the slope above the hut. A village woman in a brown dress and an apron, with her hair tied back, walking at an easy, ordinary pace, the way you'd walk to market. She wasn't hurrying. She wasn't looking at them.
+She was walking along the shepherd's track, a quarter of a mile off, across the slope above the hut. A village woman in a brown dress and an apron, with her hair tied back, walking at an easy, ordinary pace, a market-day walk. She wasn't hurrying. She wasn't looking at them.
 
 "That's the miller's wife," whispered Corvin. "From Coldwater. I've bought flour from her. That's—"
 
@@ -125,9 +125,9 @@ Kei never really saw it. None of them did, except Hild. It was low and long and 
 
 And Kei saw, for the first time, what the sixth tier meant.
 
-The light came off Hild's sword the way Group 6 had described Petra's, in the letter they'd sent round to every group after Azac was hurt: running a hand's width past the edge. But it didn't stop there. It *grew*. It came off the blade in a sheet, like water off a weir, and spread, and hardened, and became a wall: a curved shield of pale shimmering light, taller than she was, standing in the air between the doorway and the thing. The thing hit it and stopped as if it had run into stone.
+The light came off Hild's sword the way Group 6 had described Petra's, in the letter they'd sent round to every group after Azac was hurt: running a hand's width past the edge. But it didn't stop there. It *grew*. It came off the blade in a sheet, like water off a weir, and spread, and hardened, and became a wall: a curved shield of pale shimmering light, taller than she was, standing in the air between the doorway and the thing. The thing hit it with a boom Kei felt in his back teeth, and the wall bowed, and held, and the thing stopped dead against it as if it had run into stone. For one heartbeat it was still, pressed flat against the light, and Kei saw it at last: a long low body like a hound made of wet clay, the colour of bracken, with legs that had too many joints in them and feet with no heels, the feet from the tracks on the sheep path. Its head was mostly mouth. It was smiling. So, on the hill, was the miller's wife.
 
-Then the light changed shape again. It drew back into the blade and *out* along it, longer and longer, thinning to an edge that stretched three paces beyond the steel, and Hild swung it once, low and flat, without any hurry at all.
+Then the light changed shape again. It drew back into the blade and *out* along it, longer and longer, thinning to an edge that stretched three paces beyond the steel, and Hild swung it once, low and flat, without any hurry at all. The bracken went down in a line three paces long, every stem cut at the same height, as if a scythe had been through it. The thing's near foreleg came off at the second joint and went spinning away into the ferns.
 
 The thing screamed.
 
@@ -169,7 +169,7 @@ The old woman was still in her garden in Coldwater, shelling peas into a bowl, a
 
 "Afternoon." He held out the little wooden horse. "I found this. Up on the hill. I think it belongs to someone from the cottage at the end of the lane."
 
-The old woman looked at the horse for a long moment. Then she put down her bowl, and took it from him in both hands, and turned it over, and touched the place where the leg was missing.
+The old woman looked at the horse. Then she put down her bowl, and took it from him in both hands, and turned it over, and touched the place where the leg was missing.
 
 "Little Tam's," she said. "He was always losing it." She was quiet for a while. "Did you see them? Up there? Visiting?"
 
@@ -209,7 +209,7 @@ At the end, he wrote one more thing.
 
 *He's never asked me to write anything nice before.*
 
-He sealed it, and put it with the others for the morning, and sat by the fire in the long room at the top of the north tower with the two walls of maps: Corvin's on the east wall, with all its pins, and Drew's bracket on the west, half finished. Hisui was a cool weight around his wrist, very quiet. Hyvred was asleep in the big chair with her glasses pushed up into her hair and Bee asleep on the floor beside her, holding her hand. Tiger was awake, staring at the fire. Drew was at the table, writing something, slowly, with his free hand pressed flat against the wood as if to keep it still.
+He sealed it, and put it with the others for the morning, and sat by the fire in the long room at the top of the north tower with the two walls of maps: Corvin's on the east wall, with all its pins, and Drew's bracket on the west, half finished. Hisui was a cool weight around his wrist, very quiet. Hyvred was asleep in the big chair with her glasses pushed up into her hair and Bee asleep on the floor beside her, holding her hand. On the hearthstone by the chair there was a new drawing, very small: not a sparrow this time, a single feather. Bee had shown him when they came in, in a whisper, with her hands black to the wrist. She'd drawn it in the afternoon, while they were up on the hill, thinking about Hyvred the whole time. And when she'd put her finger to it, its tip had lifted. Just a little. As if somebody had breathed on it. *Forty-one birds for nobody*, she'd whispered, *and one feather for her*. She hadn't written it down yet. She was going to, first thing. Tiger was awake, staring at the fire. Drew was at the table, writing something, slowly, with his free hand pressed flat against the wood as if to keep it still.
 
 "You all right?" Kei asked him.
 

@@ -117,15 +117,17 @@ Nobody asked her to explain that. They all knew what she meant.
 
 "Twelve," said Kei. "Hisui and I can name every plant in this valley that'll heal you and every one that'll kill you. Some of them are the same plant." He held up his hand, Hisui's head resting on his knuckles. "He's been teaching me. In his way. Mostly by saying *no, not that one, idiot.*"
 
-"Eleven," said Bee. "And nothing's moved since the sparrow. Not once." She said it flatly, as if it didn't matter, and her Pollen Puffs pressed themselves against her neck on both sides the way they did when it did. "I draw every night. Nothing."
+"Eleven," said Bee. "And nothing's moved since the sparrow. Not once." She said it flatly, as if it didn't matter, and her Pollen Puffs pressed themselves against her neck on both sides the way they did when it did. "I draw every night. Nothing." She ticked them off on black fingers. "Forty-one birds. Charcoal from the fire, charcoal from the forge. Corvin's ink. The wall, the hearth, the back of a map. One with my eyes shut. Same six lines every time. Nothing."
 
 "It'll come back," said Hyvred.
 
 "You don't know that."
 
-"No," Hyvred agreed. "But I saw it the first time. So I know it's in there."
+"No," Hyvred agreed. "But I saw it the first time. So I know it's in there. What was different? The first time?"
 
-Bee looked at her for a long moment, and then down at her charcoal-stained hands, and didn't say anything else. But she drew another bird on the hearthstone before she went to bed, and stared at it for a long time.
+"Nothing. I was just drawing." Bee frowned at the fire. "You were at the window. Looking at the swallows." She stopped, as if she'd half heard something a long way off, and then shook her head. "Nothing."
+
+She looked at Hyvred, and then down at her charcoal-stained hands, and didn't say anything else. But she drew another bird on the hearthstone before she went to bed, the forty-second, and stared at it until the fire burned down.
 
 "Eight," said Tiger, with great bitterness. Then, grudgingly: "Something happened, though. In the yard. With Hild. She swung at me and I moved before I'd decided to move. Like my legs knew before I did." He frowned. "It only happened once. I tried for an hour to make it happen again."
 
@@ -136,6 +138,22 @@ Bee looked at her for a long moment, and then down at her charcoal-stained hands
 "Once is the hardest one."
 
 "Nine," Drew said, when they looked at him. He'd chosen the brawler's path, the bladed knuckles, the counter-fighter who waited and read. Hild had been teaching him, in between Hyvred's blindfold sessions. "It's slow. But I don't mind slow. I've watched people play the same game for ten years to get one rank higher. This is just that."
+
+Chris's other page had come in the same satchel as the tournament letter, square capitals and all: *LOGGED 40 SESSIONS. % MOVES MORE ON DAYS I'M WRECKED. COULD BE NOISE. SOMEBODY TEST IT.* Tiger read it twice. The next afternoon he went down to the yard and asked Hild to keep swinging at him until he couldn't stand.
+
+She did. It took three hours. By the end of the second he'd stopped trying to block and was only trying to stay upright, and Hild's stick kept coming, unhurried, from the left and the right and once from behind. And somewhere in the third hour, with nothing left in his legs at all, his body moved without him again. Twice. Three times. Once it put him a full step to the side of a blow he never saw coming, and he heard the stick go past his ear and hit the sand.
+
+Drew and Kei carried him up the tower stairs between them. He lay on the floor of the long room and couldn't lift his own arm, and opened his window lying on his back, and stared at it.
+
+"Twelve," he croaked. "From eight. In one afternoon."
+
+"And you'll not walk right for three days," said Hild from the doorway. "Was it worth it?"
+
+Tiger thought about it, which for Tiger was a long time.
+
+"Yes," he said.
+
+"Then do it again in a week," said Hild. "Not before."
 
 ***
 

@@ -123,17 +123,23 @@ Azac laughed. It hurt his side, badly. He laughed anyway.
 
 The windows, that night, were as slow as they always were. They did them round his bed now, because he couldn't get downstairs.
 
-"Ten," said John. "The light's getting easier to read."
+"Ten," said John. "The light's getting easier to read." He'd tested it in the tavern corridor, with the shutters closed and a single lamp, while the others came round the corner at the far end whenever they felt like it. The lamplight leaned before they came, every time but two. "Eight of ten," he said. "And both of the two were RX."
 
-"Nine," said Malcolm. "I expected eight."
+"Of course they were," said Malcolm.
 
-"Eleven," said Xav. "It went up two today. Standing still."
+"Nine," said Malcolm. "I expected eight." He had a table, of course: every number from every letter, by group and by week. "At about two points a week," he said, "the first tier's a year away for most of us. Thea's an outlier. Everybody else, a year. Give or take a winter."
+
+"Eleven," said Xav. "It went up two today. Standing still." He frowned. "Not from standing, though. I stood still for an hour yesterday on my own in the yard, just to see. Nothing. Today, with her in front of me, two. It only moves when I'm waiting *for* something."
+
+"So it's not stillness," said John. "It's attention."
+
+Malcolm wrote that down.
 
 "Ten," said RX, and then he stopped. He was looking at his window with a strange expression, his mouth slightly open, the way he looked at a map he hadn't seen before. "Wait. Wait, hold on."
 
 "What?"
 
-"The slot. The grey one. On my skill page." RX turned his window toward them, as if they could see it, which they couldn't. "It's been a blur for weeks, right? A shape, like a word through fogged glass. I told you." He swallowed. "I can read it now."
+"The slot. The grey one. On my skill page." RX turned his window toward them, as if they could see it, which they couldn't. "It's been a blur for weeks, right? A shape, like a word through fogged glass. I told you. And it gets clearer when nobody's looking at me. I tested it. Fish market at noon, nothing. Up on the roof at night, alone, clearer every time." He swallowed. "I can read it now."
 
 They all leaned in, uselessly.
 

@@ -41,7 +41,7 @@ Garrick watched them do it for six weeks with his eyebrows getting slowly higher
 
 "It keeps being true."
 
-Every night in that same tavern they compared windows, the way they'd promised to. John was at ten, and swore the light down in the Hollow was "talking to him." RX was at nine, and one of the grey slots on his skill page had started to show the faint outline of a word he couldn't read yet. Malcolm was at seven and expected it to go down. Azac was at eight. Xav was at eight too, and didn't mind. Slow was fine. Slow was how you learned a map.
+Every night in that same tavern they compared windows, the way they'd promised to. John was at ten, and swore the light down in the Hollow was "talking to him": a lantern's glow would lean toward a corner half a breath before something came round it, and he'd started calling them before anyone saw them. RX was at nine, and one of the grey slots on his skill page had started to show the faint outline of a word he couldn't read yet. Malcolm was at seven and expected it to go down. Azac was at eight. Xav was at eight too, and didn't mind. Slow was fine. Slow was how you learned a map.
 
 Petra didn't say anything. She came down with them every time, at the back, with her sword at her hip, and she never drew it. She just watched. Mostly, Xav had noticed, she watched him.
 
@@ -65,11 +65,11 @@ Xav would never be able to describe it properly. None of them would. It was low 
 
 Azac didn't go back. He went forward. He did what he'd done in every game, every dungeon, every raid for three years since the person who used to stand there had stopped standing anywhere. He put himself between the thing and the rest of them, shield up, and planted his feet.
 
-The thing hit the shield and the shield split.
+The thing hit the shield, and for one heartbeat Xav saw it whole in the lantern light: as long as a man and as low as a hound, grey as the wall it had come out of, on legs with too many joints, with a head that was mostly mouth and nothing at all where eyes should be.
 
-It didn't break. It split, clean down the middle, as if it had been made of paper, and Azac went backwards into the wall with a sound Xav would hear for weeks. Then the thing was on him, and there was blood, a lot of it, on the stone and on Azac's arm and on his side, and Malcolm was shouting, and RX had his knives out and was going in, and Xav heard himself shouting *no, no, RX, don't—*
+Then the shield split. It didn't break. It split, clean down the middle, with a crack like a plank across a knee, both halves still strapped to Azac's arm, and Azac went backwards into the wall with a sound Xav would hear for weeks: a flat, heavy thud, and his breath going out of him all at once. Then the thing was on him, and there was blood, a lot of it, on the stone and on Azac's arm and on his side, and Malcolm was shouting, and RX had his knives out and was going in, and Xav heard himself shouting *no, no, RX, don't—*
 
-Then there was a flash of something bright, and a sound like tearing silk, and the thing was in two pieces on the floor.
+Then there was a flash of something bright at the edge of the lantern light, and a sound like silk tearing, and the thing came apart in the middle of turning toward it. The front half hit the wall beside the gap and slid down it. The back half went on a step without it, legs still working, and folded up in Azac's blood. Where it had been cut it was dry and black and smoking faintly, and the smell that came off it was a snuffed candle in a cold room.
 
 Petra was standing over it.
 
