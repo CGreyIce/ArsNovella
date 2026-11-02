@@ -25,6 +25,8 @@ So he'd written them all.
 
 Thirty-one pages. All on the left. IF after IF after IF. And all of them, every single one, ended in the same place: a man by a lake, saying no, or not saying anything, and five people at a long table in Duskhollow looking at each other.
 
+His window had said ninety-seven for two months. It had moved, all through the Hollow years, a point at a time, every time he wrote down a contingency that kept somebody alive. It hadn't moved once for these.
+
 He hadn't written the other one.
 
 He'd noticed that on the twentieth page. He'd been sitting at the end of Mother Annick's long table late at night, with the lamp low and everybody else gone up, and he'd turned back through the green book to see how many he'd done. And seen it. Thirty-odd pages of what to do if it went wrong. And no page, anywhere, for what to do if it didn't.

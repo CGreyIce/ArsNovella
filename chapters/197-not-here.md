@@ -17,6 +17,8 @@ That was all. It wasn't much. Nobody ever saw it.
 
 He'd been doing it at Thornwall for two years and a half. He hadn't known that was what he was doing until the autumn, when somebody had opened a door on him.
 
+His window had said ninety-seven since then. He'd stopped looking. Hild said a counter-fighter's bar always sat high and still for a long time at the end, because a counter was the one thing you couldn't practise alone: you needed somebody coming at you who meant it.
+
 ***
 
 It had come back to him in pieces, over the winter.

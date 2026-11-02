@@ -21,6 +21,8 @@ He'd said it the morning Sergeant Dunmore's ten rode out. Sitting in the mud wit
 
 There hadn't been one.
 
+Tiger's own number had said ninety-nine since the thaw, and he knew what it was waiting for, the way you know which tooth is going to hurt. The same thing *Go* had been, the first time, only all the way. Not three paces. All of it. He'd tried it on the wall road every morning since the passes opened, and every morning he'd done three hundred paces in a blur and then his legs had gone to water from the hip down and he'd sat in the slush; and Hild had stood over him and said *once a day*, the way she had in the first year.
+
 ***
 
 Tiger had never been up the north tower.
