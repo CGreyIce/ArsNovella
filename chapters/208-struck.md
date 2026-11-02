@@ -11,7 +11,11 @@ He'd thought about that afterwards and decided it was the most important thing h
 
 He didn't look at it once on the knoll.
 
-He didn't have time. That was all it was, at first. There was a gap on the east side of the ring, by a rock, where the edge of the green dipped and the slope went down to the riverbeds, and Rhea had put him in it and said *hold it*, and he'd said *holding*, and then he'd held it. That was all. A gap the width of a man between two old soldiers with spears. Every so often something came up the slope at it in bursts, step-step-step and stop, grey and thin and bent forward, and came through it exactly where he knew it would, because there was only one place it could come through, and he put the short sword in under its arm and out again and stepped back into the gap.
+He didn't have time. That was all it was, at first. There was a gap on the east side of the ring, by a rock, where the edge of the green dipped and the slope went down to the riverbeds, and Rhea had put him in it and said *hold it*, and he'd said *holding*, and then he'd held it. That was all. A gap the width of a man between two old soldiers with spears. Every so often something came up the slope at it in bursts, step-step-step and stop, grey and thin and bent forward, and came through it exactly where he knew it would, because there was only one place it could come through.
+
+The first came an hour after dark. Close to, it was two heads taller than he was and no wider than a ladder, with a smooth grey nothing where a face should be, and a cold coming off it like the air from an open cellar door. It stepped into the gap and he put the short sword in under its arm, where the long bones met, and felt the point go through something like wet leather and grate on something like gristle. He pulled it out. The thing folded down onto the green in front of him, all its joints at once, and lay there with its long fingers opening and closing on the grass.
+
+He stepped back into the gap. After that he stopped counting them.
 
 He'd done it before. He'd done it on the red two summers ago, in a broken ring round a black sword. He'd done it on Earth ten thousand times, at three in the morning, with his headset half off and his eyes on a doorway in a game, holding an angle. You didn't look at the thing coming. You looked at the gap it had to come through. You didn't peek. You let it peek into you.
 
@@ -295,17 +299,15 @@ It jumped.
 
 ***
 
-It came up off the slope into the air above him, huge, all of it at once, against the gold of the sun coming up over Kharvos behind it, so that for a moment it was only a shape: horns and long arms and the black line of the mountains under it and the thin white moon. Up and over. Not at him. Past him. Over the gap, over his head, at the stone, at Salty's back, coming down.
+It came off the slope into the air, all of it at once, and the ground it left jumped under Niko's feet. For a moment it was only a shape against the sun coming up over Kharvos: horns, and long arms flung wide, and the black line of the mountains under it, and the thin white moon. Its shadow went over him, cold. It wasn't jumping at him. It was jumping over him: over the gap, over his head, at the stone and Salty's back, and coming down.
 
 *You let it go up*, he thought. *And you're there when it comes down.*
 
 He tossed it.
 
-Both candles. Up. Out of his chest, out along his arm, the aura and the mana, together, the way he'd never once done it on the wall: not into the air, not apart, but out through his hand into the short sword. Into the iron. The warm one and the cold one, going round each other, catching. The way a flint catches. The way the food catches on the pan.
+Both candles. Up out of his chest and down his arm, the aura and the mana together, the way he'd never once done it on the wall. On the wall he'd tossed them into the air. This time he tossed them into his hand, and through his hand into the short sword, into the iron: the warm one and the cold one going round each other inside the steel, and catching, like a flint on a striker.
 
-And his wrist came up.
-
-Not his arms. His arms hardly moved. A flick, forward and up, small, the way the man's had at the fire on the eleventh night; and the short sword came up off the grass in a short bright arc, into the place where the thing was going to be when it came down.
+His wrist came up. His arms hardly moved. A flick, forward and up, small, the way the man's had at the fire on the eleventh night; and the short sword came up off the grass in a short bright arc into the place where the thing was going to be when it came down.
 
 It came down.
 
@@ -315,13 +317,13 @@ He was there.
 
 It *rang*.
 
-That was the first thing. Before anything else. Before he felt the sword go in, before he saw anything, before he knew what he'd done. A sound. Clear and huge and pure, going out from the short sword in his hand the way a sound goes out from a bell when somebody swings the clapper into it. One note. Not loud. *Everywhere*. Out across the knoll and down the slope and over the red, and up into the gold air, and down, down through the soles of his feet into the green.
+That came first, before anything else: before he felt the sword go in, before he knew what he'd done. One note, clear and pure, going out from the short sword the way a note goes out from a bell when the clapper hits it. It wasn't loud. It was everywhere: out across the knoll and down the slope and over the red, up into the gold air, and down through the soles of his feet into the green.
 
-And the sword went in.
+Then the weight arrived.
 
-Into the long arm. The one that was reaching, as it came down, over his head, for Salty. Just below the elbow. And the edge went through it the way the man's line had gone through the one in the air two summers ago, as if there were nothing there; and as it went through, along the edge, all the way along it, a thin bright line of *fire*.
+The long arm came down onto his edge just below the elbow, the arm that was reaching past him for Salty's back, and the whole falling weight of the thing came down with it. He felt it in his wrist and his elbow and his shoulder and all the way down into his heels, like catching a sack of grain thrown off a cart. His knees bent. His boots slid back a hand's width on the grass. And the edge went in.
 
-Not a flame. Not a spell, the way Aldous's spells were, a chant and a ring of fire on the ground. Just the edge. Burning. As if the blade had been struck on a flint and caught. A line of fire exactly the width of the cut, gold-white, running along the steel and into the grey hide behind it and through.
+It went in hot. A line of fire ran along the steel, gold-white, exactly the width of the edge; where it touched the grey hide, the hide hissed and blackened and parted in front of it, and the smell came up into his face, the cold snuffed-candle smell of them with something scorched in it now, like hair caught in a lamp. He felt the edge meet bone. It checked there for half a heartbeat, the way an axe checks on a knot. Then the fire went into the bone too, and the bone gave with a sound like a log cracking in a grate, and the edge came out the other side into the open air.
 
 Struck.
 
@@ -329,17 +331,17 @@ The word came to him at the exact moment the arm came off. Not before. It wasn't
 
 He gave it.
 
-And the arm, the long reaching arm with its long grey fingers stretched out for Salty's back, came off below the elbow and went past him in the air, burning, and fell on the green.
+And the arm, the long reaching arm with its grey fingers spread for Salty's back, came off below the elbow and went past his ear, turning over, burning at the cut like a torch, and hit the green behind him with a heavy wet slap. The fingers closed on the grass once, and opened, and lay still.
 
 ***
 
 The big one came down.
 
-Not on Salty. Its whole weight had been going toward him, down, out of the jump, and the arm it had been reaching with was gone, and something in its balance went. It came down on the green beside the cairn, past Salty, past the stone, on its side, with a sound like a cart going over. And rolled. And came up, on its knees, with its one arm out and the stump of the other burning gold-white where he'd cut it, and the fire running into it, along the inside of it, the way fire runs along a fuse.
+It missed Salty by an arm's length. Its whole weight had been thrown at him out of the jump, and the arm it had been reaching with was gone, and its balance went with the arm. It landed on its side on the green beside the cairn, past Salty, past the stone, with a thud that bounced Niko's heels off the ground and threw a spray of torn turf and white flowers over Salty's back. It rolled. It came up onto its knees with its one arm out and the stump of the other burning gold-white where he'd cut it, and the fire running up inside it, under the grey hide, a glow climbing toward the shoulder like a coal going up a flue.
 
-It screamed.
+It screamed: high and thin and enormous, like wind in a crack.
 
-Like wind in a crack. High and thin and enormous.
+Salty didn't let go. Niko saw that. Turf all over his back, and the thing on its knees an arm's length from him, screaming, and he hadn't moved.
 
 And the note was still ringing.
 

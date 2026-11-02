@@ -31,7 +31,7 @@ Salty didn't take his eyes off the slope.
 
 They walked through the fire.
 
-He'd known they would. He'd seen it before. They didn't jump it and they didn't go round. They came up the slope at a steady heavy trot, the three of them, horned heads down, arms hanging, and when they got to Aldous's fire they just walked into it, the way you'd walk through a curtain. And came out the other side smoking, with the fire still clinging to their grey hides in patches, and kept coming.
+He'd known they would. He'd seen it two summers ago. They didn't jump it and they didn't go round. They came up the slope at a steady heavy trot, the three of them, as tall as the scouts and twice as deep through the chest, their grey hides hanging off them loose and creased like wet canvas, horned heads down, arms so long the knuckles brushed the grass. When they got to Aldous's fire they walked into it. Salty heard it on them: a hiss, like fat thrown on a griddle. And a smell came up the slope that wasn't burning meat, colder than that, a cellar with a candle just pinched out in it. They came out the other side smoking, with the fire still stuck to their hides in patches, and kept coming.
 
 The south one came straight at Rhea.
 
@@ -39,17 +39,17 @@ The south one came straight at Rhea.
 
 The shields came up. The spears came down over them, the old ones' spears, eight of them on the south side, levelled over the shoulders of the front rank in a long bristling line, the way they'd drilled it all Saturday a hundred paces from the gate. And the south one hit the line.
 
-Salty felt it. In his feet. The whole ring rocked.
+Salty felt it in his feet. The whole ring rocked, and somewhere on his left a shield-rim cracked against a helmet with a sound like a dropped pan.
 
-It went into the spears. Three of them went into it, deep, into its chest and its shoulder, and two of them snapped like kindling. It didn't stop. It just leaned into them, and the old men holding them went back a step, two steps, their heels skidding on the green, and it raised one long arm over the shields—
+Three spears went into it, deep: one in the chest, two in the thick of the shoulder. The ash shafts bowed. Two of them snapped, *crack, crack*, and the old men holding them went down on their knees with the broken ends in their fists. It didn't stop. It leaned into the rest, and the men behind them went back a step, two steps, their heels gouging long brown skids in the green, and it raised one long arm over the shields—
 
 And Rhea cut it.
 
-She went in under the arm. Low, fast, the way she did everything, the silver line on her sword going across its ribs and out the other side, and the black stuff that wasn't blood coming out of it in a sheet. It screamed. It was the first time Salty had ever heard one make a sound. High and thin, like wind in a crack. And the arm came round anyway, the way it had two summers ago, and hit her.
+She went in under the arm, low and fast, the way she did everything. The silver line on her sword went in at its ribs and came out at its back, and the grey hide opened behind the edge like a sack slit with a knife, and the black stuff that wasn't blood came out of it in a sheet and smoked where it hit the grass. It screamed, high and thin, like wind in a crack: the sound one of them had made two summers ago, going over Rhea's head on the end of a line. And the arm came round anyway, the back of it, the whole long weight of it, the way it had two summers ago, and caught her across the left side.
 
-She went back. Not twenty feet this time. Ten. She hit the green on her shoulder inside the ring and rolled, and Salty heard something go in her with a sound like a stick breaking under a boot.
+She went ten feet. She'd been low, or it would have been twenty. She hit the green on her shoulder inside the ring and rolled over the arm underneath her, and Salty heard it go: a short wet *snap*, like green wood over a knee.
 
-She came up on one knee. Her left arm was hanging wrong. Her sword was in her right.
+She came up on one knee. Her left arm hung from the shoulder with the hand turned the wrong way round. Her sword was in her right.
 
 "*AGAIN*," said Rhea.
 
@@ -63,13 +63,13 @@ Two summers ago his sword had stuck. He remembered. He'd swung the best swing of
 
 He didn't leave it in.
 
-The greatsword went into its side under the arm, a hand's width, two, and he felt it bite, and he felt it start to stick, the way it had, the grey hide closing on it like wet clay. And he *pulled*. Not the way he'd pulled before, with his arms. With everything. Down through his legs into the green. The way you pull a shoe out of the fire with the tongs, all in one, before it's had time to think about it.
+The greatsword went into its side under the arm. He felt the hide give, and the meat under it, cold and dense, and the blade went in a hand's width, two, and slowed, the grey closing round the steel the way wet clay closes round a spade. He felt it start to grip. And he *pulled*: with his legs, down through his heels into the green and back up through all of him, the way you take a shoe out of the fire with the tongs, in one movement, before the iron's had time to stick.
 
-It came out.
+It came out with a sound like a boot coming out of a bog, and the black came after it in a rope, all down his forearms, so cold it burned.
 
-And Rhea's sword went in after it. Into the same place. Silver. All the way.
+And Rhea was there beside him, one-armed, grey in the face, and her sword went in after his. Into the same hole. Silver. To the hilt.
 
-The south one stood there for a moment, very still, with Rhea's sword in it and the old men's spears in it and Salty in front of it with his sword dripping black. Then it sat down. Not fell. Sat. The way a very tired dog sits. And leaned over sideways onto the green, slowly, and the fire on its hide went out, and it didn't move again.
+The south one stood there for a moment, very still, with Rhea's sword in it and the old men's spears in it and Salty in front of it with black running off his elbows. Then its knees went. It sat down on its haunches on the green, heavily, like a very tired dog, and leaned over sideways, slowly, and the ground took its weight with a thump that came up through Salty's boots. The fire on its hide went out. It didn't move again.
 
 Nobody cheered.
 
@@ -89,13 +89,13 @@ The west one was through the fire and through the shields on the west side and h
 
 It tore free.
 
-Salty saw it happen. He saw it reach down with one long hand, almost lazily, and close its fingers round the white body wrapped round its legs, and *pull*, and Suzu came off it the way a rope comes off a post, and it threw her.
+Salty saw it happen. It reached down with one long hand, almost lazily, and closed its grey fingers round the white body wrapped round its knees. He saw the fingers sink in. He saw Suzu's scales pucker under them and something dark come up between them. It hauled her off its legs in one long unwinding heave, a man dragging a mooring rope off a post, swung her once, and let go.
 
-She hit the cairn.
+She hit the cairn side-on, against the foot of the black stone, with a sound like a wet sack dropped on a step. Two of the children's stones went skittering out across the green. She lay among the rest of them and didn't move.
 
 Yan made a sound Salty had never heard Yan make.
 
-Then Wendy's arrows came down on it. Three. Out of the dark above the ring, glowing, falling straight down out of the air where she'd held them, the way she'd learned in the second winter, into its back and its shoulders, one after another after another, *thock thock thock*. And Aldous turned on his knees at the edge of the ring and lifted his free hand toward it, still singing, and the fire on the edge of the green went *up*, behind it, in a great roaring sheet, and the old ones drove their spears into it from the front and pushed.
+Then Wendy's arrows came down on it. Three. Out of the dark above the ring, glowing, falling straight down out of the air where she'd held them, the way she'd learned in the second winter, into its back and its shoulders, one after another after another, *thock thock thock*. And Aldous turned on his knees at the edge of the ring and lifted his free hand toward it, still singing, and the fire on the edge of the green went *up*, behind it, in a great roaring sheet that Salty felt on his face from forty paces, and the old ones drove their spears into it from the front and pushed.
 
 Back. Toward the fire. Step by step, with its arms going and its horned head down, back across the green, the old men leaning into the spear-shafts with their heels in the grass and their teeth bared, not shouting, not making a sound, back and back, until it was in the fire.
 
@@ -147,7 +147,9 @@ Bursts. Step-step-step and stop. Tall, thin, grey, faceless, bent forward, throu
 
 And the green held them.
 
-Salty saw that. He'd remember it all his life. The scouts came through the fire onto the soft short grass with the white and blue flowers in it, and the grass *took hold*. Not the grass. What was under it. Roots. Up out of the green, thin and pale and very fast, round their long grey ankles, the way a hand comes up out of water and closes round a wrist. And they stopped dead. And didn't start again.
+Salty saw that. He'd remember it all his life. The nearest came through the low place in the fire ten paces from him: taller than any man and thin as a rake, bent forward from the hips, with a smooth grey nothing where a face should be, smoking at the shins where it had stepped through the flames. It put one long foot down on the soft short grass with the white and blue flowers in it, and the grass *took hold*. Roots came up out of the green, thin and pale and very fast, and went round its ankle three times and pulled tight. He heard them creak, like a mooring rope taking a boat's weight. It stopped dead, mid-stride. It leaned against them, and they creaked, and held.
+
+All round the knoll, wherever a scout put a foot on the green, the same.
 
 Two summers ago Maigo had made them stop for a heartbeat. On his knees on the red, with his hands flat, *stay, stay, stay*, and a heartbeat was all he'd had.
 
@@ -157,7 +159,7 @@ Salty looked at the ash. Maigo was sitting against it, where he'd been all night
 
 Two hands, Maigo always said. Three, with the spike.
 
-The old ones went into the stuck scouts with their spears. The archers in the middle with Wendy shot them. And they went down, grey and silent, one after another, on the green, with roots round their ankles, and didn't get up.
+The old ones went into the stuck scouts with their spears. Jory Platt took the one in front of Salty: two steps and a long low thrust with his whole weight behind it, three fingers and all, in under where its ribs should have been. It folded over the shaft without a sound and hung there, held up by its own ankles, until he put his boot on it and pulled the spear out. The archers in the middle with Wendy shot the rest. They went down one after another, grey and silent, with roots round their ankles, and didn't get up.
 
 But there were a hundred and sixty-one.
 
@@ -205,7 +207,7 @@ He dropped his sword.
 
 He crossed the green in six steps.
 
-He didn't remember them afterwards. He remembered the sword hitting the grass behind him, that heavy dull sound, and then he was at the cairn, on the east side, the back of the stone, where the scouts were, and he put his shoulder into the nearest one the way he'd put his shoulder into one two summers ago, and it broke. He felt it go, with a sound like dry wood. He put his fist into the next one. It let go.
+He didn't remember them afterwards. He remembered the sword hitting the grass behind him, that heavy dull sound, and then he was at the cairn, on the east side, the back of the stone, where the scouts were, and he put his shoulder into the nearest one the way he'd put his shoulder into one two summers ago, low, at the hip, with all of him behind it. It was like running into a bundle of cold sticks. Something in it went with a sound like dry kindling snapping, and it folded away from the stone and went down. He put his fist into the next one's long grey wrist where it gripped the iron, and felt the wrist give under his knuckles, and the hand came open.
 
 And he got his arms round the stone.
 
@@ -369,7 +371,9 @@ He stood right.
 
 The thing hit his shield.
 
-It didn't stop. Salty didn't think anything in the world could have stopped it, except a man with a fishing rod. It went through Garth like a cart goes through a gate. The shield split. Garth went backwards off his feet into the air and landed on the green three paces behind Wendy with a sound that went into Salty's teeth, and didn't get up.
+Salty heard it from six paces: a deep wooden *boom*, like a door kicked in. The iron rim folded. The boards split from the boss to the edge, and the boy behind them went with them, off his feet, backwards into the air, his helmet coming off and spinning away into the dark. He landed flat on his back on the green three paces behind Wendy with a sound that went into Salty's teeth: all the air going out of him at once, and something in his chest giving with it. He didn't get up.
+
+The thing came on through the pieces of the shield. Slower. It had had to stop for him.
 
 But he'd stood there.
 
@@ -381,17 +385,15 @@ And Wendy had used it.
 
 Salty saw her do it. He'd never seen anything like it and he'd seen her shoot ten thousand arrows.
 
-She didn't draw. There wasn't time to draw. She'd had an arrow held in the air above her, glowing, the way she always did, and she let it go: not up, not over, *down*, straight down out of the air in front of her into the thing's back as it came through Garth. And in the same moment she had another off the string. From the hip. From two paces. Into the place where its face should have been.
+There wasn't time to draw. She'd had an arrow held in the air above her, glowing, the way she always did, and she let it go *down*, straight out of the air in front of her into the thing's back as it came through Garth; it went in between the shoulders to the feathers with a *thock* like an axe into a stump. In the same moment she had another off the string, from the hip, from two paces, into the smooth grey place where its face should have been. Its head snapped back. And the last one, from one pace, so close the fletching brushed her knuckles going out, into the same place a hand lower.
 
-And another. The last one. From one pace.
-
-It stopped. Not dead. Not even close to dead. But it stopped, the way a big dog stops when you hit it on the nose, with its head going back and its long arms coming up to the place where the arrows were.
+It stopped. It was nowhere near dead. But it stopped, its horned head thrown back and both long arms coming up to claw at the two shafts standing out of its face, and its throat open to the sky.
 
 And Rhea was there.
 
-From the south. One-armed. Her left arm strapped across her chest with a strip of somebody's cloak and her sword in her right, and the silver on it hardly a flicker now, she'd been fighting all night with a broken arm; and she came across the green behind it, and didn't shout, and didn't say *again*, and put the sword into the back of its neck. And leaned on it.
+From the south. One-armed. Her left arm strapped across her chest with a strip of somebody's cloak and her sword in her right, and the silver on it hardly a flicker now, she'd been fighting all night with a broken arm; and she came across the green behind it, and didn't shout, and didn't say *again*. She put the point in at the back of its neck, where the horns met the hide, and leaned her whole weight on the hilt, one-handed, with her broken arm pressed against her chest; and Salty heard the steel go in and in, grinding, like a spade going into gravel, until the crossguard was against the grey.
 
-The thing went down on the green at Wendy's feet.
+The thing's arms dropped. It went down onto its knees, and then onto its face on the green at Wendy's feet, and its horns dug two short furrows in the grass, and it lay there.
 
 Rhea let go of the sword. She sat down on the grass beside it, quite suddenly, the way it had. And put her head between her knees.
 
@@ -553,7 +555,7 @@ Toward Salty.
 
 Nobody moved.
 
-There wasn't anybody to move. Salty saw that. He looked round the knoll with his cheek on the iron and saw it all at once, the way you see the scoreboard at the end of a round you've lost. Rhea on the grass with her arm strapped and her sword across her knees, getting up, trying to, and her legs not doing it. Teague on one knee with his head down. Aldous swaying with his lips moving and no fire. The old men, the ones still standing, too few, too far, on the wrong sides. The archers with nothing left. Maigo against the tree with his foot down, holding everything, holding the roots, holding the green, and nothing left over. Yan grey.
+There wasn't anybody to move. Salty saw that. He looked round the knoll with his cheek on the iron and saw it all at once, the whole board, the way you see it at the end of a game you've already lost. Rhea on the grass with her arm strapped and her sword across her knees, getting up, trying to, and her legs not doing it. Teague on one knee with his head down. Aldous swaying with his lips moving and no fire. The old men, the ones still standing, too few, too far, on the wrong sides. The archers with nothing left. Maigo against the tree with his foot down, holding everything, holding the roots, holding the green, and nothing left over. Yan grey.
 
 Wendy, beside him, with one arrow.
 

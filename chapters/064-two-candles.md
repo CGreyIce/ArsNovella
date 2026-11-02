@@ -45,9 +45,11 @@ He'd seen all of it. That was the thing. He'd been in his gap on the east side, 
 
 He played it back slowly now, sitting on the wall.
 
-The first cast. The east one, in the air, two paces from Wendy. The line going out, a hundred paces, and the cut. Then the reel.
+The east one first. It had been in the air, two paces from Wendy, with its arms flung wide and the long grey fingers of one hand already reaching for her face, and Niko had been forty paces away in his gap with nothing in his hands that could reach that far. And something had gone past his ear. He'd felt it more than seen it: a cold thread drawn through the air an arm's length from his head, with a faint hiss, like a fly line going out over water. Then the thing in the air had stopped dead, as if it had flown into a pane of glass. A black line had opened across it from the shoulder to the hip. A heartbeat late, from a long way off, came a thin high note like a bowstring snapping. The two halves came down either side of Wendy, one skidding away past her across the red in a spray of dust, the other at her feet, and she'd stood over it with black spattered up one side of her face and her last arrow still drawn.
 
-The second. The west one, over Yan. The hook going out, the catch, and then the man *reeling it in*. Pulling it to him. Across a hundred paces of air, off its feet, flailing. And then, as it came, the rod's shaft coming round once, short and flat, and the thing going past him in two pieces.
+Then the line had gone back. He'd watched it go: a glint a hundred paces long, perfectly straight for one heartbeat over the broken ring, and then drawn in, gathering, toward a plain man walking out of the north-west with a fishing rod.
+
+The west one. The one over Yan, tearing at Suzu. The hook went out low and flat and caught it high on the shoulder, *tock*, a small dry sound like a hook in a branch, and then the man *reeled*, and the thing came off its feet. Niko had seen that side-on: a creature as heavy as a bull going backwards through the air with all four limbs thrashing, a hundred paces in two heartbeats, the way a perch comes up out of still water. And as it reached him, the rod's shaft came round, short and flat, and there was a crack like a plank broken over a knee. A gust of cold had come all the way across the ring and hit Niko in the face, smelling of snuffed candles. The two halves went past the man on either side and hit the red thirty paces behind him, *thud*, *thud*, a heartbeat apart, and tumbled, and lay there.
 
 He never went to them. Niko had noticed that at the time, and noticed it again now, and kept noticing it. Not once. Three hunters and fifty scouts, and the man hadn't taken one step toward any of them. He'd walked in a straight line from the north-west to the broken ring, the same steady pace from beginning to end, and everything he'd killed, he'd brought to himself.
 
@@ -57,9 +59,9 @@ That was the reel. Niko sat very still on the wall and felt it go into him, cold
 
 He made them peek.
 
-And the north one. The one with Salty's sword in its side, that came at him on all fours across sixty paces faster than a horse. The man hadn't cast at it. He'd stopped walking, and held the rod low, and *waited*. Niko had felt his own whole body screaming at the man to move, the way you scream at a teammate on a call, *he's right there, he's RIGHT THERE*. And he hadn't moved. Not until five paces. Not until the very last moment, when the thing was already committed, already in the air, already somewhere it couldn't come back from.
+And the north one. The one with Salty's sword in its side, that came at him on all fours across sixty paces faster than a horse, its long arms going like a dog's forelegs and the hilt of the greatsword swinging from its hip. The man hadn't cast at it. He'd stopped walking, and held the rod low, and *waited*. Niko had felt his own whole body screaming at the man to move, the way you scream at a teammate on a call, *he's right there, he's RIGHT THERE*. And he hadn't moved. Not until five paces. Not until the very last moment, when the thing was already committed, all its weight thrown forward onto its arms, somewhere it couldn't come back from.
 
-Then once.
+Then once. The rod going up from low to high in a single smear, and a crack like a log splitting under a maul that Niko had felt in his back teeth from eighty paces. The thing coming apart down the middle, from between its horns to the ground, and its own speed carrying both halves on past the man, so close they brushed his coat, ploughing two long furrows side by side across the red. Salty's greatsword spinning out of the hip as the halves parted, and coming down flat with a clang, and sliding to a stop a pace from the man's boots. The man looking down at it, once. And walking on.
 
 Niko had seen that before. On a community server, at seventeen, a few hundred times.
 
