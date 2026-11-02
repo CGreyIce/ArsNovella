@@ -410,7 +410,7 @@ He didn't wake them. He sat down on the low wall at the far end, and opened his 
 
 They went out by four gates, the next day, the way they had last summer.
 
-East at first light: Group 3, with their cart, and a crock with a cloth over it that had come back from the blue door empty and been filled again by Salty in the Lance's kitchen at midnight, very secretly, very loudly. Yan at the tailboard, with Suzu round his neck, looking back. He'd looked at Higu for a long time in the grey light at the east gate, with that slow look round her face, and smiled, and said *silver*, and nothing else. Niko had said *again* to Ars at the gate, and Ars had said *at the grave, Mashi*, and Niko had grinned all the way down the road until the road went over a hill.
+East at first light: Group 3, with their cart, and Salty walking at the tailboard with nothing in his hands, because the crock wasn't going east. He'd topped it up in the Lance's kitchen at midnight, very secretly, very loudly, and put it on the miller's cart for the north road. For the dinners. Yan at the tailboard, with Suzu round his neck, looking back. He'd looked at Higu for a long time in the grey light at the east gate, with that slow look round her face, and smiled, and said *silver*, and nothing else. Niko had said *again* to Ars at the gate, and Ars had said *at the grave, Mashi*, and Niko had grinned all the way down the road until the road went over a hill.
 
 North-west at the second hour: Group 2, and two castle guards, and Hana at the back with her cords on her wrist and twelve sheets in a lavender ribbon held against her chest in both hands like a bird.
 
