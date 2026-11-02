@@ -235,13 +235,13 @@ Duskhollow existed because of a hole in the ground. Xav had told her that, the f
 
 The *Patient Widow* came round the bend at sunset, and they were on the quay.
 
-Group 6. All five, in a row, the way Group 1 had been on the bollards; she wondered if it was something the summoned did, standing in a row. Xav in the middle, dark and still, with his hands loose. Malcolm with a book. RX beside him, talking, until he saw the barge and stopped. Azac at the end, the biggest, with his shield on his back out of habit and a grin all the way across his face. John with a light on the end of his finger, a little gold one, which he lifted as the barge came in, and which went up off his finger and hung over the quay like a lamp nobody had to hold.
+Group 6. All five, in a row, the way Group 1 had been on the bollards; she wondered if it was something the summoned did, standing in a row. Xav in the middle, dark and still, with his hands loose. Malcolm with a book. Rui Xiang beside him, talking, until he saw the barge and stopped. Azac at the end, the biggest, with his shield on his back out of habit and a grin all the way across his face. John with a light on the end of his finger, a little gold one, which he lifted as the barge came in, and which went up off his finger and hung over the quay like a lamp nobody had to hold.
 
 And behind them, on the steps, with her arms folded, Petra.
 
 Haskett tied up for the night. Haskett always tied up at Duskhollow; he had a cousin with a tavern. Mother Annick fed everyone, at her long table in the house where Group 6 lived, with the Hollow's arch filling the end of the street outside the window like a moon that never set; she fed Alea three times, because Alea kept eating it, and the third time she put her hand on the back of Alea's neck the way you'd check a child for fever and said *you're his girl, then* and went back to the stove without waiting for an answer.
 
-They all asked about him. She'd known they would. RX asked fast and a lot, and Malcolm asked one careful thing at a time and wrote the answers down, and Azac asked about the hens, and John asked about the jetty, the light, the time, how long he sat out there. Xav didn't ask anything. Xav sat at the end of the table with his chin on his fist and listened to all of it, and at the end, when the others had run out, he said, "Did he bring the rod? To the quay?"
+They all asked about him. She'd known they would. Rui Xiang asked fast and a lot, and Malcolm asked one careful thing at a time and wrote the answers down, and Azac asked about the hens, and John asked about the jetty, the light, the time, how long he sat out there. Xav didn't ask anything. Xav sat at the end of the table with his chin on his fist and listened to all of it, and at the end, when the others had run out, he said, "Did he bring the rod? To the quay?"
 
 Alea looked at him.
 
@@ -329,7 +329,7 @@ It was. On the gravel, at the start, before she went. Five days on a deck with h
 
 John played it again.
 
-"You'll wear it out," said RX. "He can't wear it out. Can you wear it out? John, can you wear it out?"
+"You'll wear it out," said Rui Xiang. "He can't wear it out. Can you wear it out? John, can you wear it out?"
 
 "No," said John.
 

@@ -185,7 +185,7 @@ Xav read his whole window twice before he said a word. Rules first. You didn't r
 
 "Bro," said Azac. "Bro. We have *inventories.*"
 
-"Mine's empty," said RX, already up on one knee, eyes moving: exits, soldiers, dais, exits. "Two big doors at the end, a small one behind the stage, guards on all three, windows too high. If this is a dungeon it's a bad one."
+"Mine's empty," said Rui Xiang, already up on one knee, eyes moving: exits, soldiers, dais, exits. "Two big doors at the end, a small one behind the stage, guards on all three, windows too high. If this is a dungeon it's a bad one."
 
 "It's not a dungeon," said John, with total confidence, turning in a slow circle to take it all in. "Dungeons don't have stained glass. It's a tutorial zone."
 
@@ -199,7 +199,7 @@ That was what bothered him. *Whoever made this has played games.*
 
 He filed it away, the way he filed away an enemy's habits in the first round of a match, and stood up. The others turned to him, because that was how it had always worked.
 
-"We don't know the rules yet, so nobody does anything stupid until we do. Azac, front. RX, doors. John, keep looking. Mal—"
+"We don't know the rules yet, so nobody does anything stupid until we do. Azac, front. Rui Xiang, doors. John, keep looking. Mal—"
 
 "I'll be here," said Malcolm, "expecting the worst."
 
@@ -257,7 +257,7 @@ They stood there for a moment, the two of them, in a world their friend would ha
 
 Then Calvin said, "Is that a *dragon* on the ceiling?" and Dennis said, "Forget the dragon, is that real gold?" and the moment was over.
 
-Deston let his gaze travel the hall. He knew more of these faces than he should have. Yan, with a snake around his neck. Aleaka, with fox ears. And by the far pillar—he looked twice—Xav and Malcolm and RX, Declan's friends from polytechnic. Something tugged at him, the shape of a thought, like a word on the tip of his tongue.
+Deston let his gaze travel the hall. He knew more of these faces than he should have. Yan, with a snake around his neck. Aleaka, with fox ears. And by the far pillar—he looked twice—Xav and Malcolm and Rui Xiang, Declan's friends from polytechnic. Something tugged at him, the shape of a thought, like a word on the tip of his tongue.
 
 "YOU WILL FORM GROUPS OF FIVE," bellowed a herald from the steps, and the shape slipped away.
 

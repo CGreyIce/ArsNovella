@@ -183,7 +183,7 @@ Gabe was quiet for a long time.
 
 "Then you know," said Gabe.
 
-She did. That was the thing. She'd felt it, for one long minute in the gorge, through every gold thread at once: every person on that barge, and what they were doing, and what they'd do. Gabe holding the rope with his skin coming off. Azac jumping off a ledge with a shield. Xav waiting. RX in the dark. Dennis moving her a pace at a time so fast that nothing could catch her. Every one of them, all at once, pointing at her the way Deston's hand pointed north.
+She did. That was the thing. She'd felt it, for one long minute in the gorge, through every gold thread at once: every person on that barge, and what they were doing, and what they'd do. Gabe holding the rope with his skin coming off. Azac jumping off a ledge with a shield. Xav waiting. Rui Xiang in the dark. Dennis moving her a pace at a time so fast that nothing could catch her. Every one of them, all at once, pointing at her the way Deston's hand pointed north.
 
 Not past me.
 

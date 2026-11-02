@@ -73,7 +73,7 @@ Yan nodded once, as if he'd been answered. Hanarisu watched him turn back to his
 
 That was somehow worse than any excuse would have been.
 
-"You didn't ask," said RX. He was fast and sharp and, Hanarisu would learn later, almost unreasonably fair. "We had lives. You didn't ask a single one of us."
+"You didn't ask," said Rui Xiang. He was fast and sharp and, Hanarisu would learn later, almost unreasonably fair. "We had lives. You didn't ask a single one of us."
 
 "No. There was no way to ask." The Advisor's voice didn't change. "I won't pretend that makes it right. I decided that the lives of everyone in this kingdom were worth more than your consent. I may have been wrong. I will carry it either way."
 
@@ -217,7 +217,7 @@ Across the hall, Group 6 hadn't moved either.
 
 "He said *status,*" said John. "In English. Not translated. You heard it."
 
-"Inventory too," said RX. "And skills."
+"Inventory too," said Rui Xiang. "And skills."
 
 "The Hero's words," said Azac.
 

@@ -109,7 +109,7 @@ Azac letting go of the rope, because Malcolm's plan said *IF they come, THEN Aza
 
 Petra at the bow, drawing. Xav beside Rachael, not drawing. Waiting. The way he always waited.
 
-RX gone.
+Rui Xiang gone.
 
 Dennis on the pole, white-faced, looking up at the man with the hat.
 
@@ -169,7 +169,7 @@ Xav could hear John.
 
 Not his voice. His *sight*. John at the stern, who saw light change before things came round corners, and Xav beside Rachael felt it come down the thread between them like water down a pipe: *left, high, the east cliff, three of them, now*. And Xav, who'd been waiting, didn't wait anymore. He moved. Once. Low, across the deck, under the reaching hands of the first one as it came over the rail head first; and his sword went up through it from hip to shoulder with a sound like canvas tearing, and the two pieces of it went back over the rail on either side of him and dropped into the dark. The second one, coming over behind it, met Xav's elbow with its face and followed them.
 
-RX could hear John too. Wherever RX was, which was nowhere, which was unseen, which was a gap in the dark on the towpath ledge, John's light came down the thread to him, *there, the boy with the cap, behind the woman*, and RX was there before the boy knew there was anything to be behind. Two knives, low: the backs of both knees. The boy went down on the wet ledge like a dropped coat, with his cap over his eyes, and the cuts opened grey and dry and didn't bleed. The woman with the basket turned and swung it at the place RX had been, hard enough to kill a man, and hit air, because RX was already somewhere else.
+Rui Xiang could hear John too. Wherever Rui Xiang was, which was nowhere, which was unseen, which was a gap in the dark on the towpath ledge, John's light came down the thread to him, *there, the boy with the cap, behind the woman*, and Rui Xiang was there before the boy knew there was anything to be behind. Two knives, low: the backs of both knees. The boy went down on the wet ledge like a dropped coat, with his cap over his eyes, and the cuts opened grey and dry and didn't bleed. The woman with the basket turned and swung it at the place Rui Xiang had been, hard enough to kill a man, and hit air, because Rui Xiang was already somewhere else.
 
 Malcolm could hear Azac. Malcolm, on the deck, with his hand out, and the backup he'd been holding all day in case the first one failed, *Hold*, the line he'd written on Azac's shield in the Hollow, and he felt Azac's shield through the thread, felt exactly where it was and how hard it was being hit, and *Hold* went down the thread into it, and the shield took a blow from something that came off the cliff like a falling sack of stones, with a boom that shook the deck boards under Deston's knees, and didn't break.
 
@@ -265,7 +265,7 @@ The faded thread. From his own chest. North. Out of the gorge, up the river, pas
 
 And he felt everybody else feel it.
 
-All of them. Through every lit thread on the deck. At once. Gabe on the ledge with his blade dripping. Xav beside Rachael. John at the stern. Malcolm with his hand still out. Azac. RX, wherever he was. Dennis. Calvin on the crosstree, with the wind still pouring down into the gorge round him. Rachael. Emrys. Sabine. Petra.
+All of them. Through every lit thread on the deck. At once. Gabe on the ledge with his blade dripping. Xav beside Rachael. John at the stern. Malcolm with his hand still out. Azac. Rui Xiang, wherever he was. Dennis. Calvin on the crosstree, with the wind still pouring down into the gorge round him. Rachael. Emrys. Sabine. Petra.
 
 Every one of them, for one long heartbeat, felt what Deston had been feeling every night for a year, on a roof, with his hand out over a parapet.
 

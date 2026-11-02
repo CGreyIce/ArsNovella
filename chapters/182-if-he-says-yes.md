@@ -63,7 +63,7 @@ Then he'd brought it up the hill to Mother Annick's.
 
 It was on the table when Malcolm came down.
 
-He saw it from the stairs. In the middle of the long table in Mother Annick's kitchen, between the bread and the jug, where she put the things that mattered. A plain willow basket with a lid, the string untied, the lid off and set to one side. And everybody round it. Not eating. Mother Annick at the oven with a cloth in her hands, not moving. Old Pryce at the end, with his pipe unlit. John with his three little motes of light hanging very still over his head, the way they hung when he forgot about them. RX, who was never still, very still. Xav, standing, at the window, with his back to the room. Petra at the far end with her arms folded.
+He saw it from the stairs. In the middle of the long table in Mother Annick's kitchen, between the bread and the jug, where she put the things that mattered. A plain willow basket with a lid, the string untied, the lid off and set to one side. And everybody round it. Not eating. Mother Annick at the oven with a cloth in her hands, not moving. Old Pryce at the end, with his pipe unlit. John with his three little motes of light hanging very still over his head, the way they hung when he forgot about them. Rui Xiang, who was never still, very still. Xav, standing, at the window, with his back to the room. Petra at the far end with her arms folded.
 
 And Azac, in his chair, with his hands flat on the table either side of the basket, looking into it.
 
@@ -97,13 +97,13 @@ Six. Perch. Side by side, on the snow. He counted them a third time, touching ea
 
 Malcolm looked round the table.
 
-He counted that too. He couldn't help it. Azac. John. RX. Xav, at the window. Himself.
+He counted that too. He couldn't help it. Azac. John. Rui Xiang. Xav, at the window. Himself.
 
 Five.
 
 He looked at the fish. He looked at the five of them. He looked at the fish again.
 
-"He can count," said RX, very fast. "He's the best counter of all of us, he counted every grenade in every round we ever played, he used to call out how many we had left before anyone asked, he knows there's five of us. He *knows*."
+"He can count," said Rui Xiang, very fast. "He's the best counter of all of us, he counted every grenade in every round we ever played, he used to call out how many we had left before anyone asked, he knows there's five of us. He *knows*."
 
 "I know he knows," said Malcolm.
 
@@ -163,7 +163,7 @@ Old Pryce caught him on the stairs that night.
 
 Malcolm had known he would. Pryce had been a Hollow-runner forty years ago, before his legs went, and he'd lodged at Mother Annick's ever since, at the end of the long table, eating very slowly and saying very little and watching all of them. He'd been the one, the first winter, who'd told Malcolm to write the bad ones down. *Write them all down. Every way it can go wrong. And then go anyway*. Malcolm had thought it was the wisest thing anybody had ever said to him. He'd built two years on it.
 
-The fish had been very good. Mother Annick had cooked them with butter and leeks, and they'd eaten them at the long table, all of them, Petra too, Petra last and slowest, very carefully, as if it were something she'd been given and wasn't sure she was allowed. Nobody had said much. RX had talked, at the start, and then stopped. John's motes had gone round and round over the table the whole meal, slowly, like moths round a lamp. Azac had eaten his and then sat with his big hands round his cup and his eyes very bright and not said anything at all, which for Azac was like a wall falling down.
+The fish had been very good. Mother Annick had cooked them with butter and leeks, and they'd eaten them at the long table, all of them, Petra too, Petra last and slowest, very carefully, as if it were something she'd been given and wasn't sure she was allowed. Nobody had said much. Rui Xiang had talked, at the start, and then stopped. John's motes had gone round and round over the table the whole meal, slowly, like moths round a lamp. Azac had eaten his and then sat with his big hands round his cup and his eyes very bright and not said anything at all, which for Azac was like a wall falling down.
 
 Afterwards Malcolm had sat at the end of the table with the green book open, the way he did every night, at the page.
 
@@ -377,13 +377,13 @@ He laughed.
 
 It came out of him the way it came out of all of them, when it happened. He'd heard it in the channel twenty-nine times, he'd read about it twenty-nine times, he'd thought, every time, *that'll never be me, that's not how I'm built*. Short and cracked and astonished. Sitting on the frozen gravel with a book on his knee open at a page with nothing on the right-hand side.
 
-"*Then*," said RX. He'd come across the bar at a run, the way RX went everywhere, and was standing over him, reading the window upside down. "Your skill's called *Then*. Not *Hold*. Not *Backup*. *Then*." He was talking very fast. "Mal. Mal. You've got a skill that's half a sentence."
+"*Then*," said Rui Xiang. He'd come across the bar at a run, the way Rui Xiang went everywhere, and was standing over him, reading the window upside down. "Your skill's called *Then*. Not *Hold*. Not *Backup*. *Then*." He was talking very fast. "Mal. Mal. You've got a skill that's half a sentence."
 
 "I know."
 
 "That's the most Malcolm thing I've ever—it's *half an IF*, it's the *answer bit*, you've been writing *THEN* at the top of the right side of every page for two years and now it's—"
 
-"I know, RX."
+"I know, Rui Xiang."
 
 "—it's your *skill*."
 
@@ -471,7 +471,7 @@ Petra looked at him.
 
 He wrote the page that night.
 
-At the end of the long table, with the lamp low, and Mother Annick at the oven pretending not to watch, and old Pryce at the other end with his pipe, very definitely watching. RX had already put it in the channel. Of course he had. In capitals, at nine in the morning, while Malcolm was still sitting on the gravel bar with Azac's arms round him. *MALCOLM. THIRTY. HIS SKILL IS CALLED THEN. IT'S HALF A SENTENCE.* And the channel had gone the way the channel went when somebody broke through: Tiger in capitals, and Maigo in larger capitals, and Kei, careful, *well done*, and Chris, *count stands at 30*, and Gigichi, *it's about time*, and Hana, *Good*.
+At the end of the long table, with the lamp low, and Mother Annick at the oven pretending not to watch, and old Pryce at the other end with his pipe, very definitely watching. Rui Xiang had already put it in the channel. Of course he had. In capitals, at nine in the morning, while Malcolm was still sitting on the gravel bar with Azac's arms round him. *MALCOLM. THIRTY. HIS SKILL IS CALLED THEN. IT'S HALF A SENTENCE.* And the channel had gone the way the channel went when somebody broke through: Tiger in capitals, and Maigo in larger capitals, and Kei, careful, *well done*, and Chris, *count stands at 30*, and Gigichi, *it's about time*, and Hana, *Good*.
 
 And at the very bottom of all of it, much later, alone, from a guild town on the Wren where it was the middle of the night: Xav.
 

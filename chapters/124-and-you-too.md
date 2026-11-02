@@ -167,7 +167,7 @@ There was a roar.
 
 There was pie left. Lucan made sure there was pie left. Lucan, who didn't understand a word of English, understood *pie*, and went into the kitchen weeping and came out with three.
 
-They put him at the middle of the long table, on the bench, between Alea and Gabe. People kept moving so they could sit nearer. Nobody could sit near enough. By the time the third pie was half gone the benches had given up being benches and people were sitting on the table and on the floor and on each other: Group 1 in a row along one side with Xola's squid sprawled across three plates; Group 4 opposite, Calvin with the kettle on the table in front of him like a trophy; Group 6 at the end in a heap, Azac taking up most of it, RX talking very fast about something to John, who had three little motes of light circling his head and was listening with his eyes shut.
+They put him at the middle of the long table, on the bench, between Alea and Gabe. People kept moving so they could sit nearer. Nobody could sit near enough. By the time the third pie was half gone the benches had given up being benches and people were sitting on the table and on the floor and on each other: Group 1 in a row along one side with Xola's squid sprawled across three plates; Group 4 opposite, Calvin with the kettle on the table in front of him like a trophy; Group 6 at the end in a heap, Azac taking up most of it, Rui Xiang talking very fast about something to John, who had three little motes of light circling his head and was listening with his eyes shut.
 
 Group 2 at the top. Group 5 on the floor. Group 7 in the corner by the stairs.
 

@@ -118,8 +118,8 @@ Malcolm: He and I used to talk to everyone. Every single person in our class. We
 Malcolm: I kept saying I'd visit next year. ]
 
 [ John: I was on his facecam streams. Every single one. He'd make me hold things up to the camera. A banana. A cat. Once, my own shoe.
-RX: osu. He was the best of all of us at osu. I chased his scores for six years and never caught him. He played Hidden on everything like it was nothing.
-RX: I was going to go up for his birthday.
+Rui Xiang: osu. He was the best of all of us at osu. I chased his scores for six years and never caught him. He played Hidden on everything like it was nothing.
+Rui Xiang: I was going to go up for his birthday.
 Azac: He was always our tank. Every MMO. First in, last out. When he was gone there was a hole at the front of the party and none of us knew how to stand in it. ]
 
 [ Calvin: I knew him a year. He showed me his kettle like it was a trophy.

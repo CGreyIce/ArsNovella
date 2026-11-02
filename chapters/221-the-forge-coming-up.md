@@ -75,7 +75,7 @@ He thought about that tab sometimes. More than he thought about most things.
 
 The main sand at noon on the fourth day was full.
 
-Not as full as for Xav and RX; nothing would be that full again until the bracket. But full. They'd heard. The whole city had heard: the strong one from the ballad, the one who carried the stone, against the archer who'd counted the scouts, and the boy selling pies at the south gate had told everyone who'd listen that they were *together*, the two of them, like that, and the women at the wells had passed it on. Forty thousand people who'd come out on the fourth morning of a strange tournament to watch a man and a woman who loved each other try very hard to put each other on the sand.
+Not as full as for Xav and Rui Xiang; nothing would be that full again until the bracket. But full. They'd heard. The whole city had heard: the strong one from the ballad, the one who carried the stone, against the archer who'd counted the scouts, and the boy selling pies at the south gate had told everyone who'd listen that they were *together*, the two of them, like that, and the women at the wells had passed it on. Forty thousand people who'd come out on the fourth morning of a strange tournament to watch a man and a woman who loved each other try very hard to put each other on the sand.
 
 Salty came out of the north tunnel with the greatsword on his shoulder. Not his own; his own was on its peg at the Lance, where it had been all week. The Lists' heaviest practice blade, blunted, nearly as long as he was tall, the one he'd lifted Milli off the sand with last summer and fought Xav with and dropped laughing. It pulled on him slightly to the right. He let it.
 

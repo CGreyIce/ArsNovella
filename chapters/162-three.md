@@ -101,17 +101,17 @@ Xav didn't say anything.
 
 "No." Malcolm picked up the pen again and put it down. "That's the problem. I can't write a THEN for a thing nobody's said."
 
-Across the table, John had stopped eating. And RX, beside John, who'd been talking very fast for the last quarter of an hour about Valcrest and the Lists and the king and an arm-wrestle, had stopped talking, which RX never did. And Azac, at the end, the biggest of the five, with his shield on the floor beside his chair out of habit and the old white scar down the side of his face from the Hollow, had put his fork down.
+Across the table, John had stopped eating. And Rui Xiang, beside John, who'd been talking very fast for the last quarter of an hour about Valcrest and the Lists and the king and an arm-wrestle, had stopped talking, which Rui Xiang never did. And Azac, at the end, the biggest of the five, with his shield on the floor beside his chair out of habit and the old white scar down the side of his face from the Hollow, had put his fork down.
 
 They were all looking at the page.
 
 "I'd want to go," said John. Quietly. "To the grave. If he'd let us." He looked at his hands. "I was in the corner of his stream for a year. Every day. He'd say *that's John, he lives here now*." He swallowed. "I'd want to be in the corner of that, too. Just once. If he'd let me."
 
-"I'd go invisible," said RX. "He wouldn't even know I was there."
+"I'd go invisible," said Rui Xiang. "He wouldn't even know I was there."
 
 "He'd know," said Xav.
 
-"He'd know," RX agreed, slightly deflated. "He always knows. He knew in Wrenhaven. *You don't click the circle*." He looked at the page. "I'd go anyway."
+"He'd know," Rui Xiang agreed, slightly deflated. "He always knows. He knew in Wrenhaven. *You don't click the circle*." He looked at the page. "I'd go anyway."
 
 Azac didn't say anything. He was looking at the page. At the blank under THEN. He looked at it for a long time, with his big hands flat on the table either side of his plate.
 
@@ -133,7 +133,7 @@ Malcolm looked at it. Then he looked at Azac. Then, after a long moment, he pick
 
 He shut the book.
 
-"Pass the bread," said RX, very fast, a little thickly, and Mother Annick passed it.
+"Pass the bread," said Rui Xiang, very fast, a little thickly, and Mother Annick passed it.
 
 ***
 
@@ -157,7 +157,7 @@ She didn't wait now.
 
 She'd learned the breath before. On the shingle, on the ninth day, from the man with the driftwood stick, who'd said *Xav says you never move first* and *Good. I'll teach you when to*. And she'd moved first against Xav on the ninth morning, before he'd decided, and the man had nodded at her from the end of the jetty, once. And she'd never stopped.
 
-Every morning on the gravel bar, somebody tried her. Malcolm, with a practice sword he held like a pen. RX, who hushed, and vanished, and came at her from nowhere, and met the driftwood stick in the place where nowhere ended. Azac, with his shield, who she tapped round it. John, who was a mage and shouldn't have been trying at all and tried anyway, because he said Declan would have.
+Every morning on the gravel bar, somebody tried her. Malcolm, with a practice sword he held like a pen. Rui Xiang, who hushed, and vanished, and came at her from nowhere, and met the driftwood stick in the place where nowhere ended. Azac, with his shield, who she tapped round it. John, who was a mage and shouldn't have been trying at all and tried anyway, because he said Declan would have.
 
 Every morning, one move. Every morning, they lost.
 
@@ -195,7 +195,7 @@ The gravel bar, from above. From the height of a man on another man's shoulders,
 
 "*Oh*," said Malcolm.
 
-"*That's us*," said RX. "That's—John, that's *us*. From *above*."
+"*That's us*," said Rui Xiang. "That's—John, that's *us*. From *above*."
 
 John was grinning.
 
@@ -225,27 +225,27 @@ He couldn't stop. That was the thing. Xav watched him not be able to stop. He'd 
 
 And he grinned the whole time. The whole time. For eleven days. Like a man who'd been trying to do one thing for two years and had finally done it, and couldn't believe it, and was going to do it every day for the rest of his life in case it went away.
 
-"You're going to sprain your face," said RX, on the sixth morning.
+"You're going to sprain your face," said Rui Xiang, on the sixth morning.
 
 "I know," said John, grinning.
 
-RX tried to break it, of course. On the seventh morning he hushed, the way he did, and vanished off the gravel bar entirely, and came at Petra from nowhere. And Petra met him with the driftwood stick in the place where nowhere ended, the way she always did. And then everyone turned round to watch it back in John's square of light.
+Rui Xiang tried to break it, of course. On the seventh morning he hushed, the way he did, and vanished off the gravel bar entirely, and came at Petra from nowhere. And Petra met him with the driftwood stick in the place where nowhere ended, the way she always did. And then everyone turned round to watch it back in John's square of light.
 
-And RX was in it.
+And Rui Xiang was in it.
 
-Not hushed. Not invisible. There, in the gold light, from above, plain as day: RX, crouched, creeping across the gravel toward Petra with his practice knives low and his tongue between his teeth and an expression of intense concentration, looking, from directly above, exactly like a man trying to sneak up on a cat.
+Not hushed. Not invisible. There, in the gold light, from above, plain as day: Rui Xiang, crouched, creeping across the gravel toward Petra with his practice knives low and his tongue between his teeth and an expression of intense concentration, looking, from directly above, exactly like a man trying to sneak up on a cat.
 
 The class lost it.
 
-Malcolm sat down on the gravel. Petra put her hand over her face. Azac made a sound like a bear coughing. And RX stood on the gravel bar with his mouth open, looking up at himself creeping across the stones in John's light, very slowly, with his tongue out.
+Malcolm sat down on the gravel. Petra put her hand over her face. Azac made a sound like a bear coughing. And Rui Xiang stood on the gravel bar with his mouth open, looking up at himself creeping across the stones in John's light, very slowly, with his tongue out.
 
-"That's *cheating*," said RX.
+"That's *cheating*," said Rui Xiang.
 
 "That's the stream," said John.
 
 "*Unseen* means *unseen*. It's in the *name*."
 
-"Not from above, apparently," said John, and grinned so hard that RX gave up and started laughing too, and hushed out of sheer embarrassment, and nobody could find him for twenty minutes, except John, who could.
+"Not from above, apparently," said John, and grinned so hard that Rui Xiang gave up and started laughing too, and hushed out of sheer embarrassment, and nobody could find him for twenty minutes, except John, who could.
 
 ***
 
@@ -281,7 +281,7 @@ He didn't plan to. That was the point; you couldn't plan to. He'd lain awake the
 
 Then Petra's class.
 
-The gravel bar in the grey. The river high and quick from rain upstream. The heron on the far bank. The five of Group 6 along the edge of the stones: Malcolm with his book on his knees, RX not hushing for once, Azac with his shield on his back. And John at the far end, where the bar ran out into the shallows, sitting on a big flat stone at the water's edge with his knees up and his eyes shut, because he'd found he could hold the square steadier with his eyes shut and see what the motes saw better. His three motes up over the bar. The gold square hanging over the river beside him, showing the gravel from above.
+The gravel bar in the grey. The river high and quick from rain upstream. The heron on the far bank. The five of Group 6 along the edge of the stones: Malcolm with his book on his knees, Rui Xiang not hushing for once, Azac with his shield on his back. And John at the far end, where the bar ran out into the shallows, sitting on a big flat stone at the water's edge with his knees up and his eyes shut, because he'd found he could hold the square steadier with his eyes shut and see what the motes saw better. His three motes up over the bar. The gold square hanging over the river beside him, showing the gravel from above.
 
 Petra stood at the top of the bar with the driftwood stick.
 
@@ -343,7 +343,7 @@ That was the worst of it. That was the thing he'd see at night for a long time a
 
 Twenty paces. Fifteen.
 
-Nobody could get there. Xav saw that too. In the light, from above, he saw everybody and where they were and how far. Petra, at his side, her face gone white, already knowing. RX on the edge of the bar, ten paces off, starting to move, too late. Malcolm with his book. Azac.
+Nobody could get there. Xav saw that too. In the light, from above, he saw everybody and where they were and how far. Petra, at his side, her face gone white, already knowing. Rui Xiang on the edge of the bar, ten paces off, starting to move, too late. Malcolm with his book. Azac.
 
 Azac, on the edge of the gravel, with his shield on his back. Twenty paces from John. Further than anyone.
 
@@ -449,7 +449,7 @@ John played it again.
 
 The third move. Petra's face, a hand's width away, eyes wide. The line going out from the stick. The post coming up out of the gravel. The ring of stones.
 
-"Again," said RX.
+"Again," said Rui Xiang.
 
 John played it again. And again. And they stood on the gravel bar in the grey with the river going past and watched it eleven times, the way you watch the last round of a match you can't believe you won, and nobody said anything, and John grinned, and grinned, with his face wet, the whole time.
 
@@ -457,7 +457,7 @@ John played it again. And again. And they stood on the gravel bar in the grey wi
 
 Azac posted it that night.
 
-He didn't want to. He said so, at Mother Annick's long table, with his window open and his big fingers hovering. *It's not mine. It's John's. I just put a post in the way*. And Malcolm said *that's what a ward is, Azac. That's the whole thing*. And John said *put it up or I will*. And RX said *I'll put it up for you and I'll spell it wrong*. So Azac put it up.
+He didn't want to. He said so, at Mother Annick's long table, with his window open and his big fingers hovering. *It's not mine. It's John's. I just put a post in the way*. And Malcolm said *that's what a ward is, Azac. That's the whole thing*. And John said *put it up or I will*. And Rui Xiang said *I'll put it up for you and I'll spell it wrong*. So Azac put it up.
 
 [ 21:04 · Azac: Spark. Ward. ]
 

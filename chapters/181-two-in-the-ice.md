@@ -154,8 +154,8 @@ And then nothing, for a minute. The cursor going on and off at the bottom of the
 
 [ 21:43 · Azac: it says yes
 21:43 · Azac: it says yes. all of you.
-21:44 · RX: HE SENT FISH
-21:44 · RX: HE COULDN'T JUST WRITE IT. HE SENT FISH. DOWN A RIVER
+21:44 · Rui Xiang: HE SENT FISH
+21:44 · Rui Xiang: HE COULDN'T JUST WRITE IT. HE SENT FISH. DOWN A RIVER
 21:44 · John: it's the most him thing I've ever seen in my life
 21:45 · Xavier: Okay.
 21:46 · Gabe: WHAT

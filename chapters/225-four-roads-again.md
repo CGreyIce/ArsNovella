@@ -145,7 +145,7 @@ Deston came after him, smiling at nothing. "Same," said Deston. "Kingsferry, the
 
 Then Xav, who didn't sit. He stood beside the table with his chin on his fist and looked at the book for a long time.
 
-"Duskhollow," said Xav. "Group 6. Then up." A pause. "All five of us. Malcolm wants to see the jetty. RX wants to beat him at cards. John wants to film the hens." He thought. "Azac wants to come. He didn't say why. Write that he didn't say why."
+"Duskhollow," said Xav. "Group 6. Then up." A pause. "All five of us. Malcolm wants to see the jetty. Rui Xiang wants to beat him at cards. John wants to film the hens." He thought. "Azac wants to come. He didn't say why. Write that he didn't say why."
 
 *Group 6 to Duskhollow. Then all five up to the lake. (Azac didn't say why.)*
 

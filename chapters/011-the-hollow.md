@@ -21,13 +21,13 @@ For six weeks it worked.
 
 That was the part Xav would think about afterwards. For six weeks it worked so well that it felt like cheating. Garrick took them down into the first ring of the Hollow every other day, through cold stone corridors lit only by the lantern on his staff, and showed them how a party survived down there. And every time, they already knew.
 
-Azac in front, with a big round shield from the outfitters and a short sword he barely used. Malcolm just behind him, with a satchel full of bandages and salves and the pessimist's instinct for where things would go wrong. RX ahead in the dark, quiet, with two knives, scouting the next turn and coming back to whisper what was there. John at the back, watching the light: where it fell, where it didn't, where a shadow moved that shouldn't. And Xav in the middle, calling it.
+Azac in front, with a big round shield from the outfitters and a short sword he barely used. Malcolm just behind him, with a satchel full of bandages and salves and the pessimist's instinct for where things would go wrong. Rui Xiang ahead in the dark, quiet, with two knives, scouting the next turn and coming back to whisper what was there. John at the back, watching the light: where it fell, where it didn't, where a shadow moved that shouldn't. And Xav in the middle, calling it.
 
-"Two crawlers, left wall," RX would breathe, coming back out of the dark. "One big rat behind them."
+"Two crawlers, left wall," Rui Xiang would breathe, coming back out of the dark. "One big rat behind them."
 
-"Azac, hold the corner. RX, wait for the rat. Mal, stay on Azac. John, eyes on the back."
+"Azac, hold the corner. Rui Xiang, wait for the rat. Mal, stay on Azac. John, eyes on the back."
 
-And it would go exactly like that. The crawlers would come at Azac's shield and break on it, and Xav would step in and finish them, and the rat would bolt and RX would be waiting.
+And it would go exactly like that. The crawlers would come at Azac's shield and break on it, and Xav would step in and finish them, and the rat would bolt and Rui Xiang would be waiting.
 
 None of them could use magic. None of them could use aura. They were Initiates with outfitter's weapons and a few weeks' training. But they'd been doing this together for years, in a dozen games, and it turned out that a lot of what made a party work had nothing to do with power at all. It was knowing where everyone was. It was calling early. It was trust.
 
@@ -41,7 +41,7 @@ Garrick watched them do it for six weeks with his eyebrows getting slowly higher
 
 "It keeps being true."
 
-Every night in that same tavern they compared windows, the way they'd promised to. John was at ten, and swore the light down in the Hollow was "talking to him": a lantern's glow would lean toward a corner half a breath before something came round it, and he'd started calling them before anyone saw them. RX was at nine, and one of the grey slots on his skill page had started to show the faint outline of a word he couldn't read yet. Malcolm was at seven and expected it to go down. Azac was at eight. Xav was at eight too, and didn't mind. Slow was fine. Slow was how you learned a map.
+Every night in that same tavern they compared windows, the way they'd promised to. John was at ten, and swore the light down in the Hollow was "talking to him": a lantern's glow would lean toward a corner half a breath before something came round it, and he'd started calling them before anyone saw them. Rui Xiang was at nine, and one of the grey slots on his skill page had started to show the faint outline of a word he couldn't read yet. Malcolm was at seven and expected it to go down. Azac was at eight. Xav was at eight too, and didn't mind. Slow was fine. Slow was how you learned a map.
 
 Petra didn't say anything. She came down with them every time, at the back, with her sword at her hip, and she never drew it. She just watched. Mostly, Xav had noticed, she watched him.
 
@@ -53,7 +53,7 @@ They were in the first ring, on a corridor they'd walked a dozen times, and the 
 
 "Hold on," he said. "That wall. There's light coming through it."
 
-There was. Xav could see it once John pointed: a thin line of grey along the bottom of the left-hand wall, where there had always been solid stone. RX went to look. The stone had cracked. Behind the crack there was a gap, and behind the gap there was a passage they'd never seen before, sloping down.
+There was. Xav could see it once John pointed: a thin line of grey along the bottom of the left-hand wall, where there had always been solid stone. Rui Xiang went to look. The stone had cracked. Behind the crack there was a gap, and behind the gap there was a passage they'd never seen before, sloping down.
 
 "Old collapse, probably," said Garrick, frowning. "Happens. The Hollow shifts." He held his lantern to the gap. "We'll mark it and come back with—"
 
@@ -67,7 +67,7 @@ Azac didn't go back. He went forward. He did what he'd done in every game, every
 
 The thing hit the shield, and for one heartbeat Xav saw it whole in the lantern light: as long as a man and as low as a hound, grey as the wall it had come out of, on legs with too many joints, with a head that was mostly mouth and nothing at all where eyes should be.
 
-Then the shield split. It didn't break. It split, clean down the middle, with a crack like a plank across a knee, both halves still strapped to Azac's arm, and Azac went backwards into the wall with a sound Xav would hear for weeks: a flat, heavy thud, and his breath going out of him all at once. Then the thing was on him, and there was blood, a lot of it, on the stone and on Azac's arm and on his side, and Malcolm was shouting, and RX had his knives out and was going in, and Xav heard himself shouting *no, no, RX, don't—*
+Then the shield split. It didn't break. It split, clean down the middle, with a crack like a plank across a knee, both halves still strapped to Azac's arm, and Azac went backwards into the wall with a sound Xav would hear for weeks: a flat, heavy thud, and his breath going out of him all at once. Then the thing was on him, and there was blood, a lot of it, on the stone and on Azac's arm and on his side, and Malcolm was shouting, and Rui Xiang had his knives out and was going in, and Xav heard himself shouting *no, no, Rui Xiang, don't—*
 
 Then there was a flash of something bright at the edge of the lantern light, and a sound like silk tearing, and the thing came apart in the middle of turning toward it. The front half hit the wall beside the gap and slid down it. The back half went on a step without it, legs still working, and folded up in Azac's blood. Where it had been cut it was dry and black and smoking faintly, and the smell that came off it was a snuffed candle in a cold room.
 
@@ -87,7 +87,7 @@ Petra didn't look round. She was watching the gap in the wall.
 
 They got him out.
 
-Malcolm packed the wound in Azac's side with everything in his satchel and held it there with both hands while John and RX carried him, and Xav walked behind them with his useless sword and Garrick's lantern, and Petra walked behind *him*, all the way up the stair, with her blade drawn the whole time.
+Malcolm packed the wound in Azac's side with everything in his satchel and held it there with both hands while John and Rui Xiang carried him, and Xav walked behind them with his useless sword and Garrick's lantern, and Petra walked behind *him*, all the way up the stair, with her blade drawn the whole time.
 
 There was a healer in Duskhollow, an old woman called Mother Annick who'd patched up adventurers for forty years and was not impressed by any of them. She took one look at Azac and sent everyone out of the room.
 
@@ -101,7 +101,7 @@ They waited in the corridor outside. Nobody said anything for a long time.
 
 "I know."
 
-RX was sitting against the wall with his knees up and his knives still in his hands. "I was going in," he said. "Before she got there. I was going to go in at it."
+Rui Xiang was sitting against the wall with his knees up and his knives still in his hands. "I was going in," he said. "Before she got there. I was going to go in at it."
 
 "I know," said Xav again. "I saw."
 
@@ -109,7 +109,7 @@ RX was sitting against the wall with his knees up and his knives still in his ha
 
 "Yes."
 
-RX put the knives down on the floor, very carefully, as if they might go off.
+Rui Xiang put the knives down on the floor, very carefully, as if they might go off.
 
 John hadn't said anything at all. He was standing by the window at the end of the corridor, looking out at the evening light on the river.
 
@@ -185,7 +185,7 @@ It was long, and careful, and very Deston. It talked about Kingsferry, and Emrys
 
 Xav read the last line three times.
 
-Then he took out paper and a pen, and sat for a long time with the candle burning down, trying to work out how to tell Deston about the Hollow. About the shield splitting like paper. About the blood on the stone, and Malcolm's hands, and RX putting his knives on the floor. About Azac saying *somebody's got to stand there. He always did.*
+Then he took out paper and a pen, and sat for a long time with the candle burning down, trying to work out how to tell Deston about the Hollow. About the shield splitting like paper. About the blood on the stone, and Malcolm's hands, and Rui Xiang putting his knives on the floor. About Azac saying *somebody's got to stand there. He always did.*
 
 About a woman with a sword who'd said *you do that*, and gone away.
 
@@ -193,7 +193,7 @@ In the end he wrote it all down, plainly, the way it had happened. It took four 
 
 *We're not playing anymore. I think we all needed to find that out. I'm sorry it was Azac who had to show us.*
 
-Down the corridor, he could hear Malcolm still awake, pacing. John's door was open; he was sitting at his window, looking at the river. RX had gone out an hour ago and hadn't come back, and Xav knew without asking that he'd gone back to the top of the Hollow stair to look down into the dark, the way you go back to look at a cliff you nearly fell off.
+Down the corridor, he could hear Malcolm still awake, pacing. John's door was open; he was sitting at his window, looking at the river. Rui Xiang had gone out an hour ago and hadn't come back, and Xav knew without asking that he'd gone back to the top of the Hollow stair to look down into the dark, the way you go back to look at a cliff you nearly fell off.
 
 He sealed the letter, and opened his window, and looked at the numbers. Eight percent. Eight percent, after two months, against something that could split a shield like paper.
 

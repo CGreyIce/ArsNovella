@@ -37,7 +37,7 @@ Ahead of Xav, at the front, just behind Alea, Petra was walking very straight.
 
 She'd been at the front since the grey grass gave out.
 
-She hadn't asked. She'd just gone up the line, past Malcolm and Azac and RX and John, past Xav, until she was walking a pace behind the girl, with her sword on her hip and the stick under her arm and her eyes on the road. Alea hadn't said anything. She'd let the pace slow a hair, so that Petra wouldn't have to match it, and Petra had matched it anyway.
+She hadn't asked. She'd just gone up the line, past Malcolm and Azac and Rui Xiang and John, past Xav, until she was walking a pace behind the girl, with her sword on her hip and the stick under her arm and her eyes on the road. Alea hadn't said anything. She'd let the pace slow a hair, so that Petra wouldn't have to match it, and Petra had matched it anyway.
 
 Deston could hear her note.
 
@@ -203,7 +203,7 @@ Deston had never heard that happen. Not between a summoned and a native; not bet
 
 The wall stood there.
 
-He didn't know how long. Nobody did, afterwards. RX said a minute. Malcolm, who'd been counting, said a hundred and twelve heartbeats, and that his own had been going too fast to count right, so it was probably more. Alea, who'd been standing at the edge of the road with her ears all the way forward and her hand on Astra's grip and her face white, said she didn't know, she didn't care, she wasn't counting.
+He didn't know how long. Nobody did, afterwards. Rui Xiang said a minute. Malcolm, who'd been counting, said a hundred and twelve heartbeats, and that his own had been going too fast to count right, so it was probably more. Alea, who'd been standing at the edge of the road with her ears all the way forward and her hand on Astra's grip and her face white, said she didn't know, she didn't care, she wasn't counting.
 
 Petra stood in front of it with her sword level and her feet planted and her face to the wind, and held it, and didn't move.
 
@@ -463,7 +463,7 @@ Deston waited.
 
 They sat there.
 
-The red sang under the stars. The knoll hummed, very faint, an hour out. Somewhere in the fort below them a door shut, and a dog barked once and stopped, and in the barracks Malcolm said something and RX laughed.
+The red sang under the stars. The knoll hummed, very faint, an hour out. Somewhere in the fort below them a door shut, and a dog barked once and stopped, and in the barracks Malcolm said something and Rui Xiang laughed.
 
 Deston heard Declan's note.
 

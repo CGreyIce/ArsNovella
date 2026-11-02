@@ -133,7 +133,7 @@ What had happened was this.
 
 Niko didn't move.
 
-Not the way Xav didn't move, waiting; not the way RX wasn't there. Niko stood in the chalk ring with the short sword low and his hand out of his pocket and his eyes on Chris, and Chris felt the two things in him. He'd never felt them before; he'd only ever read them, in the channel, in a number at the end of a night. The aura, going out, low, slow, the way it went out of every aura user, the way it went out of Chris. And something else. Something cold and bright, coming *in*, like breath. Mana. The mage's thing. Coming in from outside him the way it came into Thea and Ina and Yan.
+Not the way Xav didn't move, waiting; not the way Rui Xiang wasn't there. Niko stood in the chalk ring with the short sword low and his hand out of his pocket and his eyes on Chris, and Chris felt the two things in him. He'd never felt them before; he'd only ever read them, in the channel, in a number at the end of a night. The aura, going out, low, slow, the way it went out of every aura user, the way it went out of Chris. And something else. Something cold and bright, coming *in*, like breath. Mana. The mage's thing. Coming in from outside him the way it came into Thea and Ina and Yan.
 
 Both. At once. In one body. Not catching on each other any more. Going round.
 
@@ -173,7 +173,7 @@ It went down into his aura. Into all of it. All the way to the bottom, to the pl
 
 And every shape his aura had ever held came up.
 
-All at once. Every one. Every cut he'd ever made, every parry, every dropped move and every new one, two years and a half of them, six hundred and forty sessions, every line in every page of the notebook he'd kept on the roof in English pseudo-code because he couldn't write the kingdom's script: they came up out of the bottom of him in the ring of the bell like silt coming up off a riverbed when you strike the water. *IF grip == correct AND stance == correct*. *aura NOT flowing. investigate*. *Release: drop at 0.5, restart at 0.5, no hitch*. Two years. All of it. Every blow he'd ever thrown and every blow he'd ever watched, Ysolde's, Hako's, Winter's frost on the sand, Newish's slow, Ina's fire, Gabe's wall, Jared's feet, RX coming round the left. Every one. Logged.
+All at once. Every one. Every cut he'd ever made, every parry, every dropped move and every new one, two years and a half of them, six hundred and forty sessions, every line in every page of the notebook he'd kept on the roof in English pseudo-code because he couldn't write the kingdom's script: they came up out of the bottom of him in the ring of the bell like silt coming up off a riverbed when you strike the water. *IF grip == correct AND stance == correct*. *aura NOT flowing. investigate*. *Release: drop at 0.5, restart at 0.5, no hitch*. Two years. All of it. Every blow he'd ever thrown and every blow he'd ever watched, Ysolde's, Hako's, Winter's frost on the sand, Newish's slow, Ina's fire, Gabe's wall, Jared's feet, Rui Xiang coming round the left. Every one. Logged.
 
 And Niko's.
 

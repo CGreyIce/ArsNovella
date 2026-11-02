@@ -105,7 +105,7 @@ Pointing at Xav.
 
 ***
 
-He didn't remember going down the quay steps. He was just at the bottom of them, on the landing stage, at the edge of the water, with the barge coming in. John beside him. Malcolm. Azac with his shield on his back out of habit. RX, who'd been there a moment ago and wasn't now, and then was again, standing just behind Xav's shoulder with a grin on his face, because RX had started doing that since he went up a tier, and thought it was hilarious.
+He didn't remember going down the quay steps. He was just at the bottom of them, on the landing stage, at the edge of the water, with the barge coming in. John beside him. Malcolm. Azac with his shield on his back out of habit. Rui Xiang, who'd been there a moment ago and wasn't now, and then was again, standing just behind Xav's shoulder with a grin on his face, because Rui Xiang had started doing that since he went up a tier, and thought it was hilarious.
 
 The barge came in. The sail came down. An old man at the tiller roared something at two boys on the poles, and they threw ropes, and somebody on the landing stage caught them.
 
@@ -133,7 +133,7 @@ Then everybody.
 
 Gabe came off the barge like a wall coming down and put his arms round Xav and lifted him off the landing stage, the way he'd lifted him years ago after the first match the three of them ever won together, and put him down again, and didn't let go. Rachael, from the deck, waving, laughing, calling *Xav!* in a voice that made half the quay turn round. Dennis behind her, very well dressed, carrying a ledger. Calvin coming down the mast so fast he slid the last ten feet and landed on the deck in a heap, shouting *DID YOU SEE IT, DID YOU SEE THE SAIL*.
 
-And Group 6, on the landing stage, all at once. John and Deston gripping each other's arms. Malcolm, who never touched anyone, and Rachael, who didn't either, standing in front of each other on the landing stage and nodding, very seriously, the way two people nod when they've understood each other perfectly, while Malcolm's face did something complicated. Azac and Gabe, the two biggest men on the river, slapping each other on the back so hard it echoed off the warehouses. RX appearing behind Dennis, *hush*, and saying *boo*, and Dennis screaming.
+And Group 6, on the landing stage, all at once. John and Deston gripping each other's arms. Malcolm, who never touched anyone, and Rachael, who didn't either, standing in front of each other on the landing stage and nodding, very seriously, the way two people nod when they've understood each other perfectly, while Malcolm's face did something complicated. Azac and Gabe, the two biggest men on the river, slapping each other on the back so hard it echoed off the warehouses. Rui Xiang appearing behind Dennis, *hush*, and saying *boo*, and Dennis screaming.
 
 The two hundred people of Duskhollow on the quay above watched all of it in total silence.
 

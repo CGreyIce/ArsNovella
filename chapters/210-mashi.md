@@ -420,7 +420,7 @@ He'd been waiting for it. He'd read every one of Chris's counts, every *Updating
 07:15 · Chris: Group 3. Suzuyun, Candle. Salty, Drawn. Wendy, Drawn. Maigo, Spark. Nikorasu, Struck.
 07:16 · Chris: Group 4. Deston, Spark. Gabe, Drawn. Rachael, Spark. Dennis, Spark. Calvin, Spark.
 07:16 · Chris: Group 5. Hyvred, Spark. Bee, Spark. Tiger, Drawn. Drew, Drawn. Kei, Spark.
-07:16 · Chris: Group 6. Xavier, Drawn. Malcolm, Spark. RX, Drawn. Azac, Spark. John, Spark.
+07:16 · Chris: Group 6. Xavier, Drawn. Malcolm, Spark. Rui Xiang, Drawn. Azac, Spark. John, Spark.
 07:17 · Chris: Group 7. Chris, Drawn. Winter, Spark. Ina, Spark. Hako, Drawn. Newish, Spark.
 07:17 · Chris: first: Althea. last: Nikorasu. nobody left out.
 07:17 · Chris: count closed. ]

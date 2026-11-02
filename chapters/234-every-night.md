@@ -19,7 +19,7 @@ The first night on the road he held the square over the fire for an hour and not
 
 He hadn't expected anything to. He'd just wanted to try. He sat on the end of the fallen beech trunk with his knees up and his eyes shut, the way he held it best, and put the motes up into the branches and let them look down; and opened the square in the air over the fire, door-sized, gold, the way he'd opened it on the gravel bar at Duskhollow every dawn for a year. And inside it, from above, from where the motes were: the camp. The fire. Gabe's back, bent over it, blowing. Deston on his back on the beech mast. Declan by the pot, and then not by the pot, sitting down on the trunk between Gabe and Deston with his bowl in both hands, close against his chest.
 
-John held that. Everyone round the fire could see it, if they looked up. RX did, and waved at himself.
+John held that. Everyone round the fire could see it, if they looked up. Rui Xiang did, and waved at himself.
 
 Then John opened his window under it.
 
@@ -171,9 +171,9 @@ And from somewhere in the grass behind her, a little way off, where there was no
 
 An acorn.
 
-RX came out of the air beside her, sheepish, with his hand still half raised.
+Rui Xiang came out of the air beside her, sheepish, with his hand still half raised.
 
-"Sorry," said RX. "Sorry. I wanted to see. If it would stop it. I threw it through the line before it went. Sorry." He looked at the acorn by her boot. "It went straight through."
+"Sorry," said Rui Xiang. "Sorry. I wanted to see. If it would stop it. I threw it through the line before it went. Sorry." He looked at the acorn by her boot. "It went straight through."
 
 Petra looked at the acorn.
 
@@ -181,7 +181,7 @@ Then at the air where the line had been.
 
 "A line isn't a wall," she said.
 
-She said it flatly. To nobody. In the voice she used on the gravel bar for things the class had got wrong, which was a very level voice that made the class feel like they'd been hit with a plank. RX went pink to the ears and disappeared again, completely, the way he did when he wanted the ground to open.
+She said it flatly. To nobody. In the voice she used on the gravel bar for things the class had got wrong, which was a very level voice that made the class feel like they'd been hit with a plank. Rui Xiang went pink to the ears and disappeared again, completely, the way he did when he wanted the ground to open.
 
 And she brought the stick across again.
 
@@ -249,7 +249,7 @@ There was a woman called Annis who ran the posting-house. She came out into the 
 
 "I'm Honed," said Alea.
 
-"I don't know what that means and I don't want to," said Annis. "Is it catching?" She looked at the rest of them. At Gabe with his sledge. At RX, who'd just appeared out of nowhere at the back of the yard and made one of her stable boys drop a bucket. "Rooms," said Annis. "And the big table. And don't let that one near the horses."
+"I don't know what that means and I don't want to," said Annis. "Is it catching?" She looked at the rest of them. At Gabe with his sledge. At Rui Xiang, who'd just appeared out of nowhere at the back of the yard and made one of her stable boys drop a bucket. "Rooms," said Annis. "And the big table. And don't let that one near the horses."
 
 ***
 
@@ -337,7 +337,7 @@ Then he let the picture go on. The hooves came down. The horse flinched off the 
 
 "Again," said Petra.
 
-He did it again. And again. Six times. She watched every one. Round the fire the others were watching too, not pretending not to, Gabe and Deston and Xav and Malcolm and Azac and RX, visible, for once, and the girl on the far side with her ears forward; and Declan, sitting on a stone at the edge of the ring with his bowl, eating, not looking at it. He'd seen it the first time. He didn't need to see it again.
+He did it again. And again. Six times. She watched every one. Round the fire the others were watching too, not pretending not to, Gabe and Deston and Xav and Malcolm and Azac and Rui Xiang, visible, for once, and the girl on the far side with her ears forward; and Declan, sitting on a stone at the edge of the ring with his bowl, eating, not looking at it. He'd seen it the first time. He didn't need to see it again.
 
 "It's not the stick," said Petra.
 
@@ -392,15 +392,15 @@ He read them over porridge. Twice.
 
 ***
 
-RX beat Declan at cards on the fourteenth night.
+Rui Xiang beat Declan at cards on the fourteenth night.
 
 It happened in a barn. A long stone barn on the last of the downs, the last before the grass went grey, where a shepherd let them sleep in the loft for a copper and a story; and Azac told the story, the whole of the Lists, in the right order, with voices, and the shepherd laughed at the bits that were funny and some that weren't, and gave them a lamp and a pack of cards.
 
 They were the kingdom's cards. Five suits. Crowns and Ploughs and Ships and Keys and a fifth one nobody in the poly class could identify that Declan said was Bells, and pictures on the high ones that looked like woodcuts of kings who'd all been drawn by the same not very good artist. Declan taught them the game. It was the game everyone played on the border, he said, in the garrison, in the winter. *Ditch*, it was called. You laid cards in a line and tried to hold it.
 
-RX learned it in ten minutes.
+Rui Xiang learned it in ten minutes.
 
-He'd always been like that. In the poly class, in every game they'd ever played: he'd sit there for ten minutes not saying anything, watching, and then he'd play once and lose and then he'd be better than you. He'd been better than everybody at everything except one thing, and the one thing was Declan, at the rhythm game, with Hidden on everything, for six years. RX had chased his scores for six years and never once caught them.
+He'd always been like that. In the poly class, in every game they'd ever played: he'd sit there for ten minutes not saying anything, watching, and then he'd play once and lose and then he'd be better than you. He'd been better than everybody at everything except one thing, and the one thing was Declan, at the rhythm game, with Hidden on everything, for six years. Rui Xiang had chased his scores for six years and never once caught them.
 
 He beat Declan at Ditch in an hour.
 
@@ -410,9 +410,9 @@ Declan looked at the cards for a long time.
 
 Then he laughed.
 
-The real one. The one John had heard on a hundred streams at three in the morning, the one that came up out of him from somewhere he didn't control, too loud for the barn, so that the dog woke up and the shepherd swore from below. Declan lay back on the hay with his arm over his face and laughed until he couldn't breathe, and RX sat there on the hay looking at him with his whole face lit up, and didn't say anything at all, because he didn't have to.
+The real one. The one John had heard on a hundred streams at three in the morning, the one that came up out of him from somewhere he didn't control, too loud for the barn, so that the dog woke up and the shepherd swore from below. Declan lay back on the hay with his arm over his face and laughed until he couldn't breathe, and Rui Xiang sat there on the hay looking at him with his whole face lit up, and didn't say anything at all, because he didn't have to.
 
-"Six years," said RX, at last. Very quietly. To the cards.
+"Six years," said Rui Xiang, at last. Very quietly. To the cards.
 
 "Six years," said Declan, from under his arm. "And a card game nobody's heard of. In a barn."
 
@@ -420,9 +420,9 @@ The real one. The one John had heard on a hundred streams at three in the mornin
 
 "It counts," said Declan. He took his arm away and looked at the roof. "It counts, RX. Nice one."
 
-He didn't say *again*. John noticed that. He'd said *nice one, again* to Niko once, on a community server, at two in the morning, and it had gone round the whole channel. He didn't say it to RX. He just lay on the hay and looked at the roof and grinned.
+He didn't say *again*. John noticed that. He'd said *nice one, again* to Niko once, on a community server, at two in the morning, and it had gone round the whole channel. He didn't say it to Rui Xiang. He just lay on the hay and looked at the roof and grinned.
 
-RX gathered up the cards very carefully and gave them back to the shepherd in the morning as if they were made of glass.
+Rui Xiang gathered up the cards very carefully and gave them back to the shepherd in the morning as if they were made of glass.
 
 ***
 

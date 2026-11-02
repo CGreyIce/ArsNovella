@@ -9,13 +9,13 @@ Xav woke before the light, the way he had every morning at the lake, and lay on 
 
 Six mornings. He'd counted. Six mornings he'd woken in the dark and lain here with the briar over him and the stars going out one at a time beyond the top of it, and got up, and gone down the shingle, and out along the jetty, thirty-four planks, and sat down on the last one beside Declan. And not done it.
 
-Declan had never asked. He'd been on the end of the jetty every morning before Xav got there, with the rod and the lamp and the hens, and he'd moved over a little on the plank when Xav sat down, and that was all. They'd sat. They'd watched the mist come off the water. Declan had fished. On the third morning a heron had come down in the shallows by the shingle and stood there on one leg for an hour, and they'd watched that too. On the sixth, yesterday, Declan had said, without turning his head, "Good popiah," meaning the night before, meaning RX's shirt, and Xav had laughed so hard the hens got up.
+Declan had never asked. He'd been on the end of the jetty every morning before Xav got there, with the rod and the lamp and the hens, and he'd moved over a little on the plank when Xav sat down, and that was all. They'd sat. They'd watched the mist come off the water. Declan had fished. On the third morning a heron had come down in the shallows by the shingle and stood there on one leg for an hour, and they'd watched that too. On the sixth, yesterday, Declan had said, without turning his head, "Good popiah," meaning the night before, meaning Rui Xiang's shirt, and Xav had laughed so hard the hens got up.
 
 That was all. Six mornings. Not a word about the door.
 
 Xav lay on his bedroll and thought about it. The way he thought about everything: slowly, from every side, until he could see the whole shape.
 
-He'd known it would be here. He'd known on the quay at Duskhollow last summer, standing alone at dawn with an ash stick, looking at the place where the third move should have been. *Next year. On the jetty. For the tenth*. He'd known it on the sand at the Lists with his hand on the handle and RX coming from nowhere. He'd known it with Declan at the back of his neck behind the rail, saying *save one for the jetty*, and himself saying *I am* without turning round.
+He'd known it would be here. He'd known on the quay at Duskhollow last summer, standing alone at dawn with an ash stick, looking at the place where the third move should have been. *Next year. On the jetty. For the tenth*. He'd known it on the sand at the Lists with his hand on the handle and Rui Xiang coming from nowhere. He'd known it with Declan at the back of his neck behind the rail, saying *save one for the jetty*, and himself saying *I am* without turning round.
 
 He'd saved it. He'd brought it here, carefully, the whole year, the way you'd carry a full cup.
 
@@ -63,7 +63,7 @@ Petra was already on the stones. Xav didn't know when she'd come down. She was s
 
 Then the hedge woke.
 
-Xav felt it before he heard it. Deston first, probably; Deston would have heard two threads go down to the shingle in the dark and known exactly which two. Then the others. Shapes at the lake-side gap of the hedge, in the grey, one and two at a time, coming out onto the slope and stopping there, and then coming down. Gabe, enormous, in his shirt. Alea, with Astra in her hand, not on her back, as if she'd grabbed it without thinking. Thea, reading something nobody else could see. Higu with the book. RX, very quiet for once, and Malcolm, and Azac standing between all of them and the slope without noticing. John, with his light already up over the water, gold, a square of it the size of a door, hanging in the mist.
+Xav felt it before he heard it. Deston first, probably; Deston would have heard two threads go down to the shingle in the dark and known exactly which two. Then the others. Shapes at the lake-side gap of the hedge, in the grey, one and two at a time, coming out onto the slope and stopping there, and then coming down. Gabe, enormous, in his shirt. Alea, with Astra in her hand, not on her back, as if she'd grabbed it without thinking. Thea, reading something nobody else could see. Higu with the book. Rui Xiang, very quiet for once, and Malcolm, and Azac standing between all of them and the slope without noticing. John, with his light already up over the water, gold, a square of it the size of a door, hanging in the mist.
 
 Nobody said anything. They came down to the stones at the top of the shingle and sat down on them in a row, the way people sit at the edge of a ring, and waited.
 
@@ -189,7 +189,7 @@ The mist settled. The shingle went quiet. The hens on the jetty lifted their hea
 
 Then he laughed.
 
-Not the short one. Not the one that went up at the end, that he did when somebody said something stupid in a call. The other one. The one Xav hadn't heard since a polytechnic canteen, ten years ago, in another world, when RX had tried to eat a whole cendol in one go and it had come out of his nose. The one that started somewhere in the middle of him and couldn't stop.
+Not the short one. Not the one that went up at the end, that he did when somebody said something stupid in a call. The other one. The one Xav hadn't heard since a polytechnic canteen, ten years ago, in another world, when Rui Xiang had tried to eat a whole cendol in one go and it had come out of his nose. The one that started somewhere in the middle of him and couldn't stop.
 
 It came up out of him. Out of the same place. Out of the bottom of the lake, where the dark thing had come up from a heartbeat ago, and turned, and gone back down; and what came up after it was this. Helpless. Huge. A great shaking gusting laugh, with his head back and the stick still up in one hand and Xav's practice sword still resting on it, so that it shook too.
 
@@ -305,7 +305,7 @@ It hung in the air over the end of the jetty, turned so they could all read it f
 
 Eight. One for every tier. Every one he'd found, one at a time, in a field behind his father's house at fourteen and a garrison at sixteen and a war and a ditch and a rise; every one a word, plain, short, the kind of word you'd use for a knife. *Slice*. *Cut*. *Maim*. And on, and on, getting worse, until the last.
 
-"Bro," said RX. Very quietly. "Bro. *Annihilate*."
+"Bro," said Rui Xiang. Very quietly. "Bro. *Annihilate*."
 
 "That's not a skill," said Malcolm. "That's a sentence."
 
@@ -315,7 +315,7 @@ Nobody laughed. Declan closed the window.
 
 Then he stopped holding it in.
 
-Xav would try for years to say what that was like, and never manage it. He'd try in the channel that night and delete it four times. He'd try to RX, who'd been there, and RX would say *bro, I know, I was there, stop*. He'd try to his own window, alone, on the end of the jetty, and the window would say nothing back.
+Xav would try for years to say what that was like, and never manage it. He'd try in the channel that night and delete it four times. He'd try to Rui Xiang, who'd been there, and Rui Xiang would say *bro, I know, I was there, stop*. He'd try to his own window, alone, on the end of the jetty, and the window would say nothing back.
 
 The nearest he'd get was this: that for two years and a half, without knowing it, he'd been standing next to a man who was holding something in. All the time. Every minute. On the end of the jetty, at the long table, in the north stand, in a polytechnic in another world before he died. Holding it in so carefully, so completely, so far down, that it had never once occurred to anybody that anything was being held.
 
@@ -427,7 +427,7 @@ On the wall, the two children were still sitting on their hands, exactly as they
 
 And John, at the end of the row, was sitting very still with his light hanging over the water, gold, the size of a door, and his eyes shut, and his face white.
 
-"Did you get it?" said RX. His voice cracked.
+"Did you get it?" said Rui Xiang. His voice cracked.
 
 "I got it," said John. He didn't open his eyes. "I got all of it." He swallowed. "I don't think I can watch it."
 
@@ -455,7 +455,7 @@ Nobody breathed.
 
 "The first one," said Declan. He shifted the rod on his shoulder. "From the field. At fourteen. It's the only one I needed." He looked out at the lake, where the mist was lifting again, ordinary, as if nothing had happened; and at the far hills, where the cut in the cloud lay across the sky like a road. "They don't go away when you get the next one. They get bigger. All of them. Everything you've got, the first thing you ever found, it comes up with you." He was quiet. "That was the first thing I ever found."
 
-He looked at them. At all of them, along the row. At Alea with Astra across her knees and her ears all the way up and her face wet. At Gabe sitting on the shingle. At Deston crying. At Xav. At Thea with her hands over her face and Higu with her shaking pencil and PenguChi with the hen that had followed her up the stones and Xola and Gigichi and RX and Malcolm and Azac and John and Petra on her rock with her hand on her chest; and at the two children on the wall, sitting on their hands.
+He looked at them. At all of them, along the row. At Alea with Astra across her knees and her ears all the way up and her face wet. At Gabe sitting on the shingle. At Deston crying. At Xav. At Thea with her hands over her face and Higu with her shaking pencil and PenguChi with the hen that had followed her up the stones and Xola and Gigichi and Rui Xiang and Malcolm and Azac and John and Petra on her rock with her hand on her chest; and at the two children on the wall, sitting on their hands.
 
 "One day," said Declan.
 
@@ -481,7 +481,7 @@ Then Gabe got up off the shingle. He stood there a moment, enormous, with his ha
 
 "I know."
 
-Gabe was silent for a long moment. Then he laughed. A big helpless one, the kind that came out of Gabe about once a year; and Deston started too, still crying; and then RX, and then all of them, the whole row on the stones, fourteen people laughing on a lake shore in the morning with their boots full of lake water, for no reason, because there wasn't anything else to do with it.
+Gabe was silent for a long moment. Then he laughed. A big helpless one, the kind that came out of Gabe about once a year; and Deston started too, still crying; and then Rui Xiang, and then all of them, the whole row on the stones, fourteen people laughing on a lake shore in the morning with their boots full of lake water, for no reason, because there wasn't anything else to do with it.
 
 Breakfast was nasi lemak.
 

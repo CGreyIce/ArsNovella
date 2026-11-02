@@ -117,11 +117,11 @@ Chris looked at him.
 
 ***
 
-The semifinal was Xav and RX and Malcolm.
+The semifinal was Xav and Rui Xiang and Malcolm.
 
-Group 6. Ice's class, from the polytechnic in Singapore, five gamers who'd played MMOs together for years and went into everything like a party going into a dungeon: tank, damage, support, everybody knowing their job. Xav, who fought like Ice thought. RX, who you couldn't see. Malcolm, with a contingency for everything, who'd strengthened Xav's blade before the bell and then stood at the back writing *IF they go left, THEN*.
+Group 6. Ice's class, from the polytechnic in Singapore, five gamers who'd played MMOs together for years and went into everything like a party going into a dungeon: tank, damage, support, everybody knowing their job. Xav, who fought like Ice thought. Rui Xiang, who you couldn't see. Malcolm, with a contingency for everything, who'd strengthened Xav's blade before the bell and then stood at the back writing *IF they go left, THEN*.
 
-"They won't go left," said RX, very fast, at the start. "They never go left. Chris doesn't go left. Everyone knows."
+"They won't go left," said Rui Xiang, very fast, at the start. "They never go left. Chris doesn't go left. Everyone knows."
 
 "*Everyone knows*," said Newish, under her breath, furious. "Why does *everyone* know?"
 
@@ -129,11 +129,11 @@ Group 6. Ice's class, from the polytechnic in Singapore, five gamers who'd playe
 
 They won it. Just. Because Winter, for the first time in two years, went left.
 
-Chris saw her do it. He didn't understand it, at the time. Xav had come at them on the right, the way everybody did now, because everybody knew Chris covered the right and nobody covered the left. And RX had come round the left, unseen, pulled in, nearly impossible to sense, into the hole that everybody knew was there. And Chris had felt his left leg do the thing it always did, the lag on the pivot, the fraction of a second's wait for somebody to go left first.
+Chris saw her do it. He didn't understand it, at the time. Xav had come at them on the right, the way everybody did now, because everybody knew Chris covered the right and nobody covered the left. And Rui Xiang had come round the left, unseen, pulled in, nearly impossible to sense, into the hole that everybody knew was there. And Chris had felt his left leg do the thing it always did, the lag on the pivot, the fraction of a second's wait for somebody to go left first.
 
 And somebody had.
 
-Winter had gone left. Straight into the hole. Into RX, who she couldn't see, who nobody could see. And she'd frosted the sand in front of her as she went, without looking, and RX, who'd been very sure nobody would be there, had stepped on frost that wasn't there a moment before and gone down on his back with a surprised *oh*.
+Winter had gone left. Straight into the hole. Into Rui Xiang, who she couldn't see, who nobody could see. And she'd frosted the sand in front of her as she went, without looking, and Rui Xiang, who'd been very sure nobody would be there, had stepped on frost that wasn't there a moment before and gone down on his back with a surprised *oh*.
 
 "*Out*," said the marshal.
 

@@ -125,7 +125,7 @@ Xav's group had a guide who looked like he'd been carved out of an old door.
 
 "Who goes in quiet and finishes it?"
 
-"RX."
+"Rui Xiang."
 
 "Who's watching for what we haven't seen yet?"
 

@@ -9,7 +9,7 @@ Malcolm's notebook had a page at the back that he'd never written on.
 
 He'd been keeping the book since the month Azac nearly died: a cheap thing from the stationer's on the market square, bound in grey cloth, its pages filling up with his small square handwriting, all in English, all in the same shape. *IF this, THEN that.* IF Azac steps in front when he shouldn't. IF John's light goes out underground. IF Xav and Garrick disagree in the middle of a fight. IF the guild closes the Hollow for good. IF the money runs out. IF one of us gets sick, IF one of us gets hurt, IF one of us doesn't come back. Dozens of them. Hundreds, by the spring. Every bad thing he could think of, and under each one, what they'd do.
 
-The others teased him about it. Gently, mostly. Azac called it *the book of doom*. RX had once flicked through it and said, "Bro, you've planned for us getting eaten by a horse," and Malcolm had said, "It was a very specific horse," and RX had laughed so hard he'd had to sit down.
+The others teased him about it. Gently, mostly. Azac called it *the book of doom*. Rui Xiang had once flicked through it and said, "Bro, you've planned for us getting eaten by a horse," and Malcolm had said, "It was a very specific horse," and Rui Xiang had laughed so hard he'd had to sit down.
 
 But the last page he'd left blank. He'd written a title at the top in the first week, and then never anything under it, all autumn and winter and spring. Every so often he'd turn to it, and look at the title, and turn back.
 
@@ -35,7 +35,7 @@ Malcolm walked out of the guildhall into the rain behind the others, and felt so
 
 Relief.
 
-He was relieved. Nobody was going down that stair. Not John, who'd have been first, because John's light was the only thing that could see in the deep. Not Azac, who'd have been in front, because Azac was always in front. Not Xav, who'd have gone because the others did. Not RX, not Malcolm himself. None of them. They'd be at the top, at the door, safe.
+He was relieved. Nobody was going down that stair. Not John, who'd have been first, because John's light was the only thing that could see in the deep. Not Azac, who'd have been in front, because Azac was always in front. Not Xav, who'd have gone because the others did. Not Rui Xiang, not Malcolm himself. None of them. They'd be at the top, at the door, safe.
 
 He was so relieved his knees felt weak. And he hated it, because the relief meant he'd been sure, somewhere underneath, that if they went down they wouldn't all come back up.
 
@@ -55,9 +55,9 @@ Twelve. Three to five tiers above anything in Group 6. More strength in one squa
 
 "They'll be fine," said Azac, beside him. He said it the way he narrated fights: confidently, a beat before it happened, so that it would. "That's a raid party. That's a proper raid party. Look at the Bonfire guy. He's *bored*."
 
-"He's not bored," said RX quietly. "He's scared. He's just better at hiding it than the Honed lot."
+"He's not bored," said Rui Xiang quietly. "He's scared. He's just better at hiding it than the Honed lot."
 
-Azac looked at him. RX shrugged. He saw things like that now. Since the winter, since the silver had started creeping into the locked slot on his skill page, RX had got quieter and sharper, as if part of him had already started stepping out of sight.
+Azac looked at him. Rui Xiang shrugged. He saw things like that now. Since the winter, since the silver had started creeping into the locked slot on his skill page, Rui Xiang had got quieter and sharper, as if part of him had already started stepping out of sight.
 
 Orla Fane raised her hand. The crowd went quiet. She didn't make a speech. She just looked round at her eleven, nodded once, and walked through the arch into the Hollow. They followed her in a long line, one after another, and the lamp on the scout's pole went bobbing away into the dark, smaller and smaller, until it was gone.
 
@@ -79,7 +79,7 @@ John sat on the step, the way he always did. His eyes were half closed. He wasn'
 
 The hours went by.
 
-Malcolm didn't sit. He couldn't. He stood by the wall with his notebook in his hands, not writing in it, and watched the others. Azac with his shield, the big round guild shield he'd carried since he got out of bed, sitting with it across his knees. RX against the wall, so still and so quiet that Malcolm kept losing track of where he was. Xav standing very straight at the top of the stair, beside Petra, with his hands loose at his sides. Not moving. Not fidgeting. Just waiting, the way Petra had taught him, the way he'd waited for twenty minutes in the yard in the winter until she said *better*.
+Malcolm didn't sit. He couldn't. He stood by the wall with his notebook in his hands, not writing in it, and watched the others. Azac with his shield, the big round guild shield he'd carried since he got out of bed, sitting with it across his knees. Rui Xiang against the wall, so still and so quiet that Malcolm kept losing track of where he was. Xav standing very straight at the top of the stair, beside Petra, with his hands loose at his sides. Not moving. Not fidgeting. Just waiting, the way Petra had taught him, the way he'd waited for twenty minutes in the yard in the winter until she said *better*.
 
 He looked, Malcolm thought, exactly like Declan used to look in the last round of a close match. Holding an angle. Not moving. Waiting for someone to step out.
 
@@ -295,7 +295,7 @@ And then he turned the page, and found that he was already writing the next one.
 
 *Azac's shield holds. (Two lines. Backup.)*
 
-*RX learns to not be there.*
+*Rui Xiang learns to not be there.*
 
 *Xav learns to wait longer than they can.*
 

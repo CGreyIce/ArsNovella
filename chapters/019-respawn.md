@@ -31,7 +31,7 @@ Xav came every evening, after training, and sat in the chair by the bed and told
 
 John came in the mornings, and talked about light. He'd started being able to see it moving in the Hollow, he said, before anyone else could see anything: a faint change in the dark, half a second before something came round a corner. "It's like the game's giving me a sound cue," he said. "Except it's not a sound. And it's not a game."
 
-RX came at odd hours, always without warning, and sat on the end of the bed and talked too fast about everything and nothing, and never once mentioned the thing in the wall. Azac knew why. RX had been going in. He'd had his knives out and he'd been going in, and if Petra had been one second slower, there'd have been two of them in Mother Annick's spare rooms, or one of them in the ground. RX didn't talk about that. He talked about everything else, very fast, as if he could build a wall out of words between himself and the gap in the stone.
+Rui Xiang came at odd hours, always without warning, and sat on the end of the bed and talked too fast about everything and nothing, and never once mentioned the thing in the wall. Azac knew why. Rui Xiang had been going in. He'd had his knives out and he'd been going in, and if Petra had been one second slower, there'd have been two of them in Mother Annick's spare rooms, or one of them in the ground. Rui Xiang didn't talk about that. He talked about everything else, very fast, as if he could build a wall out of words between himself and the gap in the stone.
 
 Malcolm came every day too, and sat in the corner, and wrote in a notebook, and didn't say much at all.
 
@@ -41,7 +41,7 @@ Malcolm didn't look up. "Plans."
 
 "For what?"
 
-"For when it goes wrong." He turned the notebook round. The page was covered in his neat English handwriting, in columns, like a spreadsheet. *IF Azac down → Mal front with spare shield, RX pull aggro left, John light-flash, Xav call fall back to last corner.* *IF John blind → RX eyes, Xav count steps from last junction.* *IF Xav down → Mal calls. Mal hates this. Mal will do it anyway.* There were dozens of them. "Every way I can think of that it goes wrong. And what we do."
+"For when it goes wrong." He turned the notebook round. The page was covered in his neat English handwriting, in columns, like a spreadsheet. *IF Azac down → Mal front with spare shield, Rui Xiang pull aggro left, John light-flash, Xav call fall back to last corner.* *IF John blind → Rui Xiang eyes, Xav count steps from last junction.* *IF Xav down → Mal calls. Mal hates this. Mal will do it anyway.* There were dozens of them. "Every way I can think of that it goes wrong. And what we do."
 
 Azac read the page twice.
 
@@ -57,7 +57,7 @@ Malcolm's pen stopped.
 
 ***
 
-Nobody asked him the question. That was the strange part. Not Xav, not RX, not John or Malcolm or Garrick or even Mother Annick, who asked him everything else, including some very personal questions about his bowels. Nobody asked him *why*.
+Nobody asked him the question. That was the strange part. Not Xav, not Rui Xiang, not John or Malcolm or Garrick or even Mother Annick, who asked him everything else, including some very personal questions about his bowels. Nobody asked him *why*.
 
 Why he'd gone forward when Garrick said *back*. Why he'd planted his feet in front of a thing that none of them could see properly, with an outfitter's shield and an Initiate's nothing, when every instinct he had should have been screaming at him to move.
 
@@ -123,7 +123,7 @@ Azac laughed. It hurt his side, badly. He laughed anyway.
 
 The windows, that night, were as slow as they always were. They did them round his bed now, because he couldn't get downstairs.
 
-"Ten," said John. "The light's getting easier to read." He'd tested it in the tavern corridor, with the shutters closed and a single lamp, while the others came round the corner at the far end whenever they felt like it. The lamplight leaned before they came, every time but two. "Eight of ten," he said. "And both of the two were RX."
+"Ten," said John. "The light's getting easier to read." He'd tested it in the tavern corridor, with the shutters closed and a single lamp, while the others came round the corner at the far end whenever they felt like it. The lamplight leaned before they came, every time but two. "Eight of ten," he said. "And both of the two were Rui Xiang."
 
 "Of course they were," said Malcolm.
 
@@ -135,17 +135,17 @@ The windows, that night, were as slow as they always were. They did them round h
 
 Malcolm wrote that down.
 
-"Ten," said RX, and then he stopped. He was looking at his window with a strange expression, his mouth slightly open, the way he looked at a map he hadn't seen before. "Wait. Wait, hold on."
+"Ten," said Rui Xiang, and then he stopped. He was looking at his window with a strange expression, his mouth slightly open, the way he looked at a map he hadn't seen before. "Wait. Wait, hold on."
 
 "What?"
 
-"The slot. The grey one. On my skill page." RX turned his window toward them, as if they could see it, which they couldn't. "It's been a blur for weeks, right? A shape, like a word through fogged glass. I told you. And it gets clearer when nobody's looking at me. I tested it. Fish market at noon, nothing. Up on the roof at night, alone, clearer every time." He swallowed. "I can read it now."
+"The slot. The grey one. On my skill page." Rui Xiang turned his window toward them, as if they could see it, which they couldn't. "It's been a blur for weeks, right? A shape, like a word through fogged glass. I told you. And it gets clearer when nobody's looking at me. I tested it. Fish market at noon, nothing. Up on the roof at night, alone, clearer every time." He swallowed. "I can read it now."
 
 They all leaned in, uselessly.
 
 "What does it say?" said Azac.
 
-RX read it out slowly, as if he were afraid it would vanish.
+Rui Xiang read it out slowly, as if he were afraid it would vanish.
 
 [ Unseen · locked · requires Tier 1 ]
 
@@ -153,7 +153,7 @@ Nobody said anything.
 
 "Unseen," said John. "That's... yeah. That's an assassin skill. That's *you*."
 
-"It's locked," said RX. "I can't use it. I can't do anything with it. It's just there, waiting." He stared at it. "But it's *mine*. It's got my name on it. It's the first thing in this whole world that's been... mine."
+"It's locked," said Rui Xiang. "I can't use it. I can't do anything with it. It's just there, waiting." He stared at it. "But it's *mine*. It's got my name on it. It's the first thing in this whole world that's been... mine."
 
 He didn't say anything else. He didn't need to. He just sat on the end of Azac's bed with his window open in front of him, reading one word over and over, and for the first time in five weeks he wasn't talking fast at all.
 
@@ -183,7 +183,7 @@ When he finished, nobody said anything for a long time.
 
 He walked for the first time on the last day of the fifth week.
 
-Not far. Down the stairs, holding the rail, with Xav on one side and RX on the other, and Mother Annick at the bottom with her arms folded, ready to say *I told you so*. Across the kitchen. Out the back door into the yard, into the cold bright afternoon, where Petra was standing by the fence as if she'd been waiting for him.
+Not far. Down the stairs, holding the rail, with Xav on one side and Rui Xiang on the other, and Mother Annick at the bottom with her arms folded, ready to say *I told you so*. Across the kitchen. Out the back door into the yard, into the cold bright afternoon, where Petra was standing by the fence as if she'd been waiting for him.
 
 He stood in the middle of the yard on his own two feet, breathing hard, his side aching, and looked at the sky.
 
@@ -201,7 +201,7 @@ She studied him for a moment, with that faraway look she had sometimes, the one 
 
 He thought about it. He'd been thinking about it for five weeks, staring at the crack in the ceiling. And he found, standing in the yard with the light on his face, that the answer had changed while he wasn't looking.
 
-"Because somebody's got to," he said. "But not because the spot has to be full." He looked at Xav, and RX, and John at the window, and Malcolm with his terrible notebook. "He didn't stand in front because he had to. He stood in front because he trusted us behind him. I've been standing there because I didn't trust anyone else to." He took a breath. It hurt. "Next time I'll stand there because I trust them. And I'll move when Xav says move."
+"Because somebody's got to," he said. "But not because the spot has to be full." He looked at Xav, and Rui Xiang, and John at the window, and Malcolm with his terrible notebook. "He didn't stand in front because he had to. He stood in front because he trusted us behind him. I've been standing there because I didn't trust anyone else to." He took a breath. It hurt. "Next time I'll stand there because I trust them. And I'll move when Xav says move."
 
 Petra looked at him for a long moment.
 

@@ -65,7 +65,7 @@ She'd seen it a hundred times now. She still didn't like it, quite. A square of 
 
 The gravel bar at Duskhollow.
 
-From above. From where the little lights went, the ones John sent up over the river at dawn and called *motes*, which wasn't a word anybody she knew used for anything. She saw the long low tongue of stones going out into the Wren where it bent below the town quay; and the river going past it, brown with the thaw; and the dozen of them standing on it in the grey light. Her class. Their heads from above. RX's, very still, at the back. Dunstan, the big slow Hollow guard in his grey coat, near the front, with his sword up. And at the near end, in a hat she'd been meaning to throw in the river all spring, herself.
+From above. From where the little lights went, the ones John sent up over the river at dawn and called *motes*, which wasn't a word anybody she knew used for anything. She saw the long low tongue of stones going out into the Wren where it bent below the town quay; and the river going past it, brown with the thaw; and the dozen of them standing on it in the grey light. Her class. Their heads from above. Rui Xiang's, very still, at the back. Dunstan, the big slow Hollow guard in his grey coat, near the front, with his sword up. And at the near end, in a hat she'd been meaning to throw in the river all spring, herself.
 
 It was strange, seeing yourself from above. You looked smaller. You looked like anybody.
 
@@ -219,7 +219,7 @@ Then the big Kingsferry boy, Gabe, sat down on the bench, very heavily, and took
 
 At the head of the table the king looked at the bread for a long moment. Then he laughed, quietly, the way he did, into his beard, and reached for a piece.
 
-"I'm not eating Salty's cooking," said RX. "I've seen Salty's cooking. On a stream. He set a pan on fire making *toast*—"
+"I'm not eating Salty's cooking," said Rui Xiang. "I've seen Salty's cooking. On a stream. He set a pan on fire making *toast*—"
 
 "You'll eat it," said the man.
 

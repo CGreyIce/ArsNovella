@@ -275,7 +275,7 @@ Chris closed his eyes.
 
 They argued about it, after that. Of course they did. Thirty-five people. They argued about whether it was really him, and how, and *when*. Thea had said nothing since her five lines; nobody seemed to notice. Kei asked, very gently, how a man who died at twenty-six could be writing books about a daughter old enough to boss him about his nets, and Tiger said *maybe he came as a baby, like in the isekai stories*, and for a moment nobody laughed, because for once it didn't sound stupid.
 
-They argued about the Advisor. Wendy, sharp: *He knew. He has to have known.* RX: *Or he didn't. Nobody knew where the Hero came from. That's the whole point.*
+They argued about the Advisor. Wendy, sharp: *He knew. He has to have known.* Rui Xiang: *Or he didn't. Nobody knew where the Hero came from. That's the whole point.*
 
 And they argued about where.
 

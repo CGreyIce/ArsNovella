@@ -150,7 +150,7 @@ And then, on the third day, the arguments started.
 
 It wasn't anyone's fault. It was just thirty-five frightened people, all reading the same bad news at the same moment, with nowhere to put it.
 
-Group 6's cave was still fresh. Everyone had questions. Most of them didn't have answers. And somewhere in the middle of the third night, between Duskhollow and Cinderhold, two people who'd never met in their lives started going at each other: Wendy, saying that if there were circles in the west and circles under the Hollow then the Advisor had to have known, and was lying to them; and someone from Group 6, RX, saying that was paranoid and that the Advisor was the only reason any of them were alive. And then Milli joining in, from the capital, cold and clipped, on Wendy's side. And Rachael joining in, hot and fast, on the other.
+Group 6's cave was still fresh. Everyone had questions. Most of them didn't have answers. And somewhere in the middle of the third night, between Duskhollow and Cinderhold, two people who'd never met in their lives started going at each other: Wendy, saying that if there were circles in the west and circles under the Hollow then the Advisor had to have known, and was lying to them; and someone from Group 6, Rui Xiang, saying that was paranoid and that the Advisor was the only reason any of them were alive. And then Milli joining in, from the capital, cold and clipped, on Wendy's side. And Rachael joining in, hot and fast, on the other.
 
 It went on for twenty lines. Then thirty. The forty-line window filled up with it, top to bottom, all anger, nothing else, so that anyone who opened their window in that hour saw nothing but people they loved being horrible to each other.
 
@@ -176,8 +176,8 @@ And she wrote, for the first time since the channel opened:
 
 [ Gigichi: Hi. Rule one.
 Gigichi: Everyone here is scared. Including you two. Including me.
-Gigichi: Wendy, if the Advisor lied, being mean to RX won't make him tell the truth.
-Gigichi: RX, if he didn't, being mean to Wendy won't prove it.
+Gigichi: Wendy, if the Advisor lied, being mean to Rui Xiang won't make him tell the truth.
+Gigichi: Rui Xiang, if he didn't, being mean to Wendy won't prove it.
 Gigichi: Rachael and Milli, I can see you. Stop it.
 Gigichi: It's two in the morning. Everyone go to sleep. We'll still be scared tomorrow. We can be scared in daylight. ]
 
@@ -187,7 +187,7 @@ Then:
 
 [ Wendy: sorry
 Wendy: rx, sorry. i'm just scared
-RX: same. sorry wendy
+Rui Xiang: same. sorry wendy
 Rachael: Sorry. Two in the morning is a bad time for me.
 Milli: Fair.
 Higu: Thank you, Gigi. ]

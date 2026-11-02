@@ -25,7 +25,7 @@ And at the back, on a page on its own: *WORST CASE*.
 
 He'd written it the night before Orla Fane's expedition went down through the oak-and-iron door below the first ring. *IF the circle under the Hollow is the same kind of circle as the one that brought us here, THEN somebody is summoning. And they didn't ask either.* He'd been right. Eleven people had walked into that circle and not come out.
 
-He'd written a THEN page after that. *THEN John sees further. THEN Azac's shield holds. THEN RX learns to not be there. THEN Xav waits longer.* And at the bottom, the only one that mattered: *THEN nobody goes anywhere alone.*
+He'd written a THEN page after that. *THEN John sees further. THEN Azac's shield holds. THEN Rui Xiang learns to not be there. THEN Xav waits longer.* And at the bottom, the only one that mattered: *THEN nobody goes anywhere alone.*
 
 Azac had read it and called it the most depressing thing he'd ever read, and then asked for a copy.
 
@@ -187,7 +187,7 @@ Malcolm looked at him.
 
 Malcolm sat there for a long time after Deston went to lie down.
 
-The lantern hissed. The river went past in the dark, quiet, black, going south. Petra at the bow, a shape against the stars, not moving. Sabine at the stern, the same. Calvin asleep at the foot of the mast with his arms still wrapped round it, the way he'd slept every night since Ferrow's Bend. Gabe and Azac on either side of Rachael. Xav lying on his back with his eyes open, looking at the sky, waiting. RX somewhere; Malcolm couldn't see him, which meant he was there. John at the stern, beside Sabine, watching the banks for wrong light.
+The lantern hissed. The river went past in the dark, quiet, black, going south. Petra at the bow, a shape against the stars, not moving. Sabine at the stern, the same. Calvin asleep at the foot of the mast with his arms still wrapped round it, the way he'd slept every night since Ferrow's Bend. Gabe and Azac on either side of Rachael. Xav lying on his back with his eyes open, looking at the sky, waiting. Rui Xiang somewhere; Malcolm couldn't see him, which meant he was there. John at the stern, beside Sabine, watching the banks for wrong light.
 
 Ten of the thirty-five. On one deck. In the dark, on a river, going north.
 

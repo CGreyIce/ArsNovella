@@ -219,7 +219,7 @@ Squad A came out first. Gigichi, from Wrenhaven. Jared, from Solmere. Wendy, fro
 
 "It'd better be," said Gigichi.
 
-Squad B. PenguChi. Milli. Salty, in absence. Gabe. Tiger. RX. Ina.
+Squad B. PenguChi. Milli. Salty, in absence. Gabe. Tiger. Rui Xiang. Ina.
 
 Tiger looked at the list. Then at Gabe, the biggest of the thirty-five, a man with forge-black in the creases of his hands who'd spent a year at an anvil in Kingsferry. Then at Salty's name, a man who'd carried a black stone on his back across the Redmarch. Then at Ina.
 
@@ -239,9 +239,9 @@ Tiger looked at the list. Then at Gabe, the biggest of the thirty-five, a man wi
 
 "The House," said Tiger at once. "Because it *stands*."
 
-"Absolutely not," said RX, very fast. "No. Too sad. Everybody'll know why. Next."
+"Absolutely not," said Rui Xiang, very fast. "No. Too sad. Everybody'll know why. Next."
 
-They looked at each other, the five of them in the stand, with Salty's name in the box for a sixth. Tiger with his ears back. Gabe like a wall. RX already thinking of something else. Ina with his mask pushed up. Milli, very still, with his tail round his ankles.
+They looked at each other, the five of them in the stand, with Salty's name in the box for a sixth. Tiger with his ears back. Gabe like a wall. Rui Xiang already thinking of something else. Ina with his mask pushed up. Milli, very still, with his tail round his ankles.
 
 "Stronghold," said PenguChi.
 

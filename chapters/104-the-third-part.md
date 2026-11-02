@@ -245,11 +245,11 @@ Xav made a sound that Deston had never heard him make in all the years he'd know
 
 The others were on the shingle.
 
-They'd come down off the end of the road, the ten of them who weren't Gabe and Deston and Xav, and stopped there, in a loose line, in silence. Rachael with her hands over her mouth. Dennis beside her, very still, with his head tilted, listening the way he listened. Calvin. Malcolm, with his book held shut against his chest. Azac, with his shield on his back and his face doing something complicated. John. RX, who was there, visible, for once, not hushed, as if he didn't want to miss anything by not being anywhere. Emrys, with his blanket round his shoulders, very pale, looking at the man on the shingle as if he'd seen a ghost walk out of a song. Sabine. Petra, at the back, with her sword in her hand and her face perfectly still.
+They'd come down off the end of the road, the ten of them who weren't Gabe and Deston and Xav, and stopped there, in a loose line, in silence. Rachael with her hands over her mouth. Dennis beside her, very still, with his head tilted, listening the way he listened. Calvin. Malcolm, with his book held shut against his chest. Azac, with his shield on his back and his face doing something complicated. John. Rui Xiang, who was there, visible, for once, not hushed, as if he didn't want to miss anything by not being anywhere. Emrys, with his blanket round his shoulders, very pale, looking at the man on the shingle as if he'd seen a ghost walk out of a song. Sabine. Petra, at the back, with her sword in her hand and her face perfectly still.
 
 The man looked past Xav's shoulder at them.
 
-At each of them. One after another. Slowly. The way Group 1 had said, in the channel, before they knew, that the fisherman had looked at them on the market road on the first day: as if he were reading something written on their faces and wanted to get every word. Rachael. Dennis. Calvin. Malcolm. Azac. John. RX.
+At each of them. One after another. Slowly. The way Group 1 had said, in the channel, before they knew, that the fisherman had looked at them on the market road on the first day: as if he were reading something written on their faces and wanted to get every word. Rachael. Dennis. Calvin. Malcolm. Azac. John. Rui Xiang.
 
 His eyes stopped on Petra.
 
@@ -259,7 +259,7 @@ He didn't say anything. Not yet.
 
 He looked back at the others.
 
-"Give me a minute," he said. In English. To all of them. His voice was still wrecked. "I need a minute. And then I'll come up." He looked at Rachael, and Dennis, and Calvin, and Malcolm, and John, and Azac, and RX. "All of you. I'll come and see all of you. I promise."
+"Give me a minute," he said. In English. To all of them. His voice was still wrecked. "I need a minute. And then I'll come up." He looked at Rachael, and Dennis, and Calvin, and Malcolm, and John, and Azac, and Rui Xiang. "All of you. I'll come and see all of you. I promise."
 
 Then something moved at the corner of his mouth again.
 

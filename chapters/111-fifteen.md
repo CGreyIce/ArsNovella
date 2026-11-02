@@ -15,7 +15,7 @@ Now she stood on the flat bit of roof above the militia hall kitchen, in the ear
 
 Five, behind her, in the upper room. Thea asleep on her face with a pencil still in her hand. PenguChi already up and gone, down to the shore, with a penguin under one arm. Xola asleep with Squiddles asleep on her. Gigichi asleep and frowning, the way she frowned at everything, even dreams.
 
-Five more in the town. Rachael and Dennis in Rowan's spare rooms at the top of the square, because Rowan had looked at Rachael on the first day and said *the room with the lock* without anybody asking him. Calvin above the bakery with Malcolm and John, because the baker had said *beds* and meant it, and because Calvin had worked out on the second morning that if you slept above a bakery you woke up to bread. RX at the inn, or possibly not; nobody was ever sure where RX had slept. Azac at the inn too, in a bed that was too short for him, with his feet out of the end.
+Five more in the town. Rachael and Dennis in Rowan's spare rooms at the top of the square, because Rowan had looked at Rachael on the first day and said *the room with the lock* without anybody asking him. Calvin above the bakery with Malcolm and John, because the baker had said *beds* and meant it, and because Calvin had worked out on the second morning that if you slept above a bakery you woke up to bread. Rui Xiang at the inn, or possibly not; nobody was ever sure where Rui Xiang had slept. Azac at the inn too, in a bed that was too short for him, with his feet out of the end.
 
 And the rest down at the lake. Gabe and Deston and Xav on the floor of the cabin, still, every night, under a growing heap of blankets that half the town had quietly left on the step. Nobody had suggested they move. Nobody would. Higu had watched Odette carry up a third mattress on the fourth day, look at the three of them asleep in a heap on the floor beside it, and carry it back down again without a word.
 
@@ -134,7 +134,7 @@ Then she'd sat down across from him and taken a slice of his bread, and he'd let
 
 "It's just a kettle," she'd agreed. "Next time, write it on paper. And give it to me. I'll keep it."
 
-He had. She had a little stack of them now, in the back of the counting book. Calvin's, mostly. One from RX, which was just *HIDDEN* in capitals, three times. One from Rachael, which said *he let me look and it's healing* and nothing else. One from Malcolm, in his small careful hand, which was a single IF and a single THEN, and which Higu had read once and then put away and not read again, because it had made her cry in the militia hall kitchen in front of Maren.
+He had. She had a little stack of them now, in the back of the counting book. Calvin's, mostly. One from Rui Xiang, which was just *HIDDEN* in capitals, three times. One from Rachael, which said *he let me look and it's healing* and nothing else. One from Malcolm, in his small careful hand, which was a single IF and a single THEN, and which Higu had read once and then put away and not read again, because it had made her cry in the militia hall kitchen in front of Maren.
 
 *IF he's up there*
 
@@ -148,7 +148,7 @@ And underneath, in different ink:
 
 The rest of the channel had noticed.
 
-Of course it had. You couldn't take ten people out of a channel of thirty-five, not really, not even when they kept writing, and not have the other twenty notice. Groups 4 and 6 still wrote. Every evening, when Chris put up his numbers, they were there in the column, all ten, the same as always. Rachael's bar. Calvin's Spark. Deston's. Xav's, Azac's, RX's, John's ninety-nine. They wrote goodnight. They answered when someone asked them something.
+Of course it had. You couldn't take ten people out of a channel of thirty-five, not really, not even when they kept writing, and not have the other twenty notice. Groups 4 and 6 still wrote. Every evening, when Chris put up his numbers, they were there in the column, all ten, the same as always. Rachael's bar. Calvin's Spark. Deston's. Xav's, Azac's, Rui Xiang's, John's ninety-nine. They wrote goodnight. They answered when someone asked them something.
 
 They just didn't say anything else. No stories. No places. No *the river was brown today* or *Gabe burned his eyebrows off again*. Not since a line from Xav in the early spring, *see you soon*, and then a long silence, and then, five nights ago, two words from Deston, late, that half the channel hadn't understood and the other half had cried at.
 
@@ -190,7 +190,7 @@ Across the room, Gigichi had sat up too. Higu felt her look over. She didn't loo
 
 Nobody from Groups 4 and 6 answered.
 
-That was the thing that made her chest hurt. She could see them not answering. Ten people in a small town at the top of the world, with their windows open, reading Tiger's four lines and Kei's one and Jared's two, and not writing anything, because they'd promised. Because they were holding the door too. Because Rachael and Calvin and Deston and RX, who'd never in their lives kept anything from anyone, had learned in a week how to sit very still in a channel and not say the one thing everyone wanted them to say.
+That was the thing that made her chest hurt. She could see them not answering. Ten people in a small town at the top of the world, with their windows open, reading Tiger's four lines and Kei's one and Jared's two, and not writing anything, because they'd promised. Because they were holding the door too. Because Rachael and Calvin and Deston and Rui Xiang, who'd never in their lives kept anything from anyone, had learned in a week how to sit very still in a channel and not say the one thing everyone wanted them to say.
 
 Higu put her hand on the window.
 

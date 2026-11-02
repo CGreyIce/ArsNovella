@@ -333,7 +333,7 @@ She opened her window properly, to check.
 
 Forty-one. It had been twenty-nine that morning.
 
-And under it, a line she'd never seen. Grey. The way RX's had been grey for a year before he could use it.
+And under it, a line she'd never seen. Grey. The way Rui Xiang's had been grey for a year before he could use it.
 
 *Handshake · locked · requires Tier 3*
 

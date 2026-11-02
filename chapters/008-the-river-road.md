@@ -35,7 +35,7 @@ Group 6 listened at first. They'd known him in a different way: from a classroom
 
 "I kept meaning to visit," said Malcolm, quietly, when there was a lull. "After he moved. I kept saying next year." He stared into the fire. "We drifted. Not a lot. Enough."
 
-"Same," said RX. "I was going to go up for his birthday."
+"Same," said Rui Xiang. "I was going to go up for his birthday."
 
 "I was on every stream," said John. "Every single one. And then he moved and he stopped doing facecam, and I sort of... didn't know where to put it."
 
@@ -113,7 +113,7 @@ Dennis stopped with his cup halfway to his mouth. "It's been bad since the wagon
 
 "One," said Gabe. "Aura's slow."
 
-From Group 6: Xav two, Malcolm two, Azac two, John three ("I notice light. Where it's coming from. When it changes. I always did, but now it's *loud*"). RX was three as well, and he talked about his skill page for a while, very fast, about how it was empty now but there were faint grey shapes behind the emptiness, like slots in a game that hadn't been unlocked yet.
+From Group 6: Xav two, Malcolm two, Azac two, John three ("I notice light. Where it's coming from. When it changes. I always did, but now it's *loud*"). Rui Xiang was three as well, and he talked about his skill page for a while, very fast, about how it was empty now but there were faint grey shapes behind the emptiness, like slots in a game that hadn't been unlocked yet.
 
 Malcolm listened to all of it and then said, quietly, "We're going to be at this for years."
 
@@ -193,7 +193,7 @@ It was stronger this time. It came up from his chest and into his throat without
 
 A thread.
 
-A thin, fine line of light running from somewhere in the centre of his own chest, across the space between them, to Xav. It was gold. Not bright, but very clear, and taut, as if it had been there all along and he'd simply never had the eyes for it. When he turned his head, there was another, thicker one, running back down the jetty to Gabe: so thick it was almost a rope. Fainter ones, a dozen of them, to the others. Rachael. Calvin. Dennis. John and Malcolm and RX and Azac. Even a thin grey one to Emrys, who'd been teaching him for three days.
+A thin, fine line of light running from somewhere in the centre of his own chest, across the space between them, to Xav. It was gold. Not bright, but very clear, and taut, as if it had been there all along and he'd simply never had the eyes for it. When he turned his head, there was another, thicker one, running back down the jetty to Gabe: so thick it was almost a rope. Fainter ones, a dozen of them, to the others. Rachael. Calvin. Dennis. John and Malcolm and Rui Xiang and Azac. Even a thin grey one to Emrys, who'd been teaching him for three days.
 
 He stared.
 

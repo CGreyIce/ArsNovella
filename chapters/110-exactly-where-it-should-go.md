@@ -217,7 +217,7 @@ And round the fire, one by one, everybody else started to sing.
 
 Alea first. Out loud now, not mouthing. Her father's part, the top part, under her father's voice, so that it was doubled. A girl's voice, low and steady, singing her lullaby back to the man who'd sung it to her.
 
-Then Thea, on the melody, a little shaky, getting stronger. The quiet one. The small one with the creature on her head, who clearly didn't know the words and was singing anyway, loudly, on something approximately like the tune. Rachael, laughing and crying at once, on Deston's part. Calvin with his kettle. John, on his back, singing straight up at the stars. RX, who'd appeared beside Emrys on the log without Emrys noticing, singing with his arm round Emrys's shoulders.
+Then Thea, on the melody, a little shaky, getting stronger. The quiet one. The small one with the creature on her head, who clearly didn't know the words and was singing anyway, loudly, on something approximately like the tune. Rachael, laughing and crying at once, on Deston's part. Calvin with his kettle. John, on his back, singing straight up at the stars. Rui Xiang, who'd appeared beside Emrys on the log without Emrys noticing, singing with his arm round Emrys's shoulders.
 
 Not Xav. Xav sat with his eyes shut and listened. Emrys understood. Somebody had to.
 

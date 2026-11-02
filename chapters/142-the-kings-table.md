@@ -7,7 +7,7 @@ date: 2026-10-31
 
 Milli had been Drawn for three days, and it still felt like wearing somebody else's body.
 
-He'd been told it would. Everybody who'd gone up a tier had said so, in the channel, in the first year, when it was still new: *it's like your body got an update*, Calvin had written, and RX had written *it's like when you change your sensitivity and everything's slightly wrong for a week*. Milli had read it and thought: *that's not proof of anything. That's just people describing feelings*.
+He'd been told it would. Everybody who'd gone up a tier had said so, in the channel, in the first year, when it was still new: *it's like your body got an update*, Calvin had written, and Rui Xiang had written *it's like when you change your sensitivity and everything's slightly wrong for a week*. Milli had read it and thought: *that's not proof of anything. That's just people describing feelings*.
 
 He'd been wrong. He was often wrong, these days. It was an interesting change.
 

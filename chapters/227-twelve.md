@@ -75,11 +75,11 @@ Gigichi didn't write it in the channel. Some things weren't the channel's.
 
 ***
 
-RX and John came at noon, arguing.
+Rui Xiang and John came at noon, arguing.
 
-RX was invisible for the last half-mile, which he'd done on purpose, and which John had said was childish, and which RX had done anyway; so what came down the lake road was John, alone, with his light floating at his shoulder, filming the road and talking to nobody. *This is the lake. That's the jetty. That's the hedge, which I've been told about. That's the hens, which I've been warned about*. And then, from about a yard to John's left, out of thin air, a voice saying *you're narrating to nobody, bro, nobody's watching*, and John saying *everyone's going to watch, that's the point*, and Gigichi, at the slope-side gap of the hedge with a basket of eggs, nearly dropping the basket.
+Rui Xiang was invisible for the last half-mile, which he'd done on purpose, and which John had said was childish, and which Rui Xiang had done anyway; so what came down the lake road was John, alone, with his light floating at his shoulder, filming the road and talking to nobody. *This is the lake. That's the jetty. That's the hedge, which I've been told about. That's the hens, which I've been warned about*. And then, from about a yard to John's left, out of thin air, a voice saying *you're narrating to nobody, bro, nobody's watching*, and John saying *everyone's going to watch, that's the point*, and Gigichi, at the slope-side gap of the hedge with a basket of eggs, nearly dropping the basket.
 
-RX appeared. Right beside her. He grinned.
+Rui Xiang appeared. Right beside her. He grinned.
 
 "Sorry," he said, not sorry.
 
@@ -89,13 +89,13 @@ RX appeared. Right beside her. He grinned.
 
 "It's a hedge."
 
-"It's a *base*," said RX, with tremendous respect. "You built a base." He went in. He walked all the way round the inside of it, touching the briar very carefully between the thorns, the way you'd touch a wall in a game to see if it was real. "Declan's going to cook in here?"
+"It's a *base*," said Rui Xiang, with tremendous respect. "You built a base." He went in. He walked all the way round the inside of it, touching the briar very carefully between the thorns, the way you'd touch a wall in a game to see if it was real. "Declan's going to cook in here?"
 
 "On the shingle. Down there. Then carry it up."
 
-"Fifteen people. In a hedge. Eating his food." RX stood in the middle of it. "Bro."
+"Fifteen people. In a hedge. Eating his food." Rui Xiang stood in the middle of it. "Bro."
 
-That was all. *Bro*. But Gigichi heard the thing in it, under the word; the thing in Xav's voice sometimes, and Malcolm's, and RX's when he wasn't being stupid. They'd known him in Malacca. Not online; there. In a polytechnic, at seventeen, in a computer lab, in the canteen, at the place behind the famous place. They'd eaten what he was going to cook. Not on a list in somebody's spreadsheet. In their own mouths, at a plastic table, in the heat, ten years ago, in a world that had stopped.
+That was all. *Bro*. But Gigichi heard the thing in it, under the word; the thing in Xav's voice sometimes, and Malcolm's, and Rui Xiang's when he wasn't being stupid. They'd known him in Malacca. Not online; there. In a polytechnic, at seventeen, in a computer lab, in the canteen, at the place behind the famous place. They'd eaten what he was going to cook. Not on a list in somebody's spreadsheet. In their own mouths, at a plastic table, in the heat, ten years ago, in a world that had stopped.
 
 John was filming her hedge. Gigichi let him.
 
@@ -181,9 +181,9 @@ She didn't know what that smelled like. Now she did.
 
 Ginger. Something like ginger. And chicken, and a rich steaming smell of rice cooked in something that wasn't water, and garlic, and a sharp green smell she couldn't name, and under all of it, faint, something hot and red and brown that made the back of her nose prickle.
 
-Across the table, RX had stopped talking.
+Across the table, Rui Xiang had stopped talking.
 
-He'd been talking all afternoon. He'd talked through the hedge and through supper-time and through Gabe coming back up the shingle black to the elbows, and through Higu counting the places. And the smell came up the shingle in the dusk, and RX stopped. Mid-word. With his mouth a little open.
+He'd been talking all afternoon. He'd talked through the hedge and through supper-time and through Gabe coming back up the shingle black to the elbows, and through Higu counting the places. And the smell came up the shingle in the dusk, and Rui Xiang stopped. Mid-word. With his mouth a little open.
 
 Beside him, Malcolm had put his book down.
 
@@ -197,11 +197,11 @@ He put them down. All of them. Down the middle of the table, on the white cloths
 
 Nobody moved.
 
-"It's the one behind the famous place," said RX. His voice had gone strange. "Isn't it. It's the one behind."
+"It's the one behind the famous place," said Rui Xiang. His voice had gone strange. "Isn't it. It's the one behind."
 
 "It's as near as I could get," said Ice. "The chicken's wrong. They don't have the right chicken here. And the rice is wrong. And I had to guess the ginger." He was quiet. "The chilli's right. Salty's paste. That's right."
 
-RX picked up a rice ball.
+Rui Xiang picked up a rice ball.
 
 He held it for a long time. Turning it in his fingers. Then he put it in his mouth, the whole thing, and chewed; and Gigichi watched a man she'd known for two years and a half as the loudest person on any road, the one who went invisible to scare people and laughed when they jumped, sit at a long table in a hedge on a lake shore in another world and put his hand over his eyes.
 
@@ -221,7 +221,7 @@ The short one. The one that went up at the end.
 
 "*Twelve*," said Malcolm. "Daylight robbery."
 
-"Daylight *robbery*," said RX, from behind his hand, thickly; and then all three of them were laughing, Group 6, the three of them who'd known him at seventeen, laughing at a long table in a hedge with their mouths full, at a joke about a price that nobody else understood and that didn't matter; and the man at the end of the table stood there with his hands at his sides and his face doing whatever it did, and Gigichi, who couldn't see it, could see his shoulders.
+"Daylight *robbery*," said Rui Xiang, from behind his hand, thickly; and then all three of them were laughing, Group 6, the three of them who'd known him at seventeen, laughing at a long table in a hedge with their mouths full, at a joke about a price that nobody else understood and that didn't matter; and the man at the end of the table stood there with his hands at his sides and his face doing whatever it did, and Gigichi, who couldn't see it, could see his shoulders.
 
 That was the first dinner.
 
@@ -251,7 +251,7 @@ She always did. She'd done it on Earth, at conventions, at the long tables after
 
 PenguChi forgot. Thea forgot when she was reading something. Xola never forgot but sometimes ate only the bits she liked and had to be watched about the rest. Higu ate exactly the same amount every night, which was its own kind of thing.
 
-She watched the new ones too, now. She couldn't help it. Deston ate slowly and listened to everybody while he did it. Gabe ate like a forge. RX ate fast and talked through it, the way people do who grew up at a table where you had to talk fast to be heard. Malcolm ate one thing at a time, all of it, before he started the next. Azac ate with his back to the slope-side gap and his face to the room, and Gigichi didn't think he knew he was doing it. John forgot, because he was filming. Xav ate everything and looked at the man at the end of the table the whole time.
+She watched the new ones too, now. She couldn't help it. Deston ate slowly and listened to everybody while he did it. Gabe ate like a forge. Rui Xiang ate fast and talked through it, the way people do who grew up at a table where you had to talk fast to be heard. Malcolm ate one thing at a time, all of it, before he started the next. Azac ate with his back to the slope-side gap and his face to the room, and Gigichi didn't think he knew he was doing it. John forgot, because he was filming. Xav ate everything and looked at the man at the end of the table the whole time.
 
 Petra ate like a soldier. Quick and complete and without looking at it.
 
@@ -281,7 +281,7 @@ It started with Malcolm.
 
 Malcolm had rules. Malcolm always had rules. He'd written *IF HE COMES BACK FOR THE TENTH, THEN* in a notebook in Duskhollow, and he had rules for the pot too, and he explained them, very reasonably, in order: no double-dipping, a maximum of two skewers per person in the pot at once, and if your skewer fell off its stick into the sauce you weren't allowed to go fishing for it with someone else's.
 
-RX said that was the stupidest set of rules he'd ever heard and that in Malacca nobody had rules for the pot, the pot was a free country.
+Rui Xiang said that was the stupidest set of rules he'd ever heard and that in Malacca nobody had rules for the pot, the pot was a free country.
 
 Malcolm said that was because in Malacca there were four of them at a table and not fifteen.
 
@@ -301,7 +301,7 @@ John was filming.
 
 Petra was eating.
 
-Azac said nothing and put his arm round the pot, quietly, on the side away from RX.
+Azac said nothing and put his arm round the pot, quietly, on the side away from Rui Xiang.
 
 And Ice stood at the end of the table and said nothing at all, and Gigichi, who was watching him, saw his shoulders, and saw that he was trying very hard not to laugh.
 
@@ -311,7 +311,7 @@ Nobody saw her come in. She must have come through the lake-side gap in the hedg
 
 The table exploded.
 
-Xola shrieked. Gabe said *NO* and reached for the hen and the hen went for his hand. RX laughed so hard he fell sideways off the bench into the briar and said a great many things in Malay that Gigichi was glad she didn't understand. Malcolm stood up to restore order and knocked over the rice. Thea was still describing the queue system. Higu was writing *hen* in the book very fast. Somebody's skewer fell in the pot. The hen got an egg and ran down the middle of the table with it, on Odette's white cloths, scattering skewers, with Gabe and Alea and Xola all reaching for her from different sides and none of them getting her, and Deston was laughing with his hands over his ears, and Petra had picked up her plate and was holding it up out of the way and going on eating.
+Xola shrieked. Gabe said *NO* and reached for the hen and the hen went for his hand. Rui Xiang laughed so hard he fell sideways off the bench into the briar and said a great many things in Malay that Gigichi was glad she didn't understand. Malcolm stood up to restore order and knocked over the rice. Thea was still describing the queue system. Higu was writing *hen* in the book very fast. Somebody's skewer fell in the pot. The hen got an egg and ran down the middle of the table with it, on Odette's white cloths, scattering skewers, with Gabe and Alea and Xola all reaching for her from different sides and none of them getting her, and Deston was laughing with his hands over his ears, and Petra had picked up her plate and was holding it up out of the way and going on eating.
 
 Gigichi sat very still at her end of the table, in the middle of all of it, and watched.
 
@@ -331,7 +331,7 @@ And the table sat down.
 
 All of it. All at once. Not because she'd told them to; she hadn't told them anything. Because something went out from her with the word. Gigichi felt it go past. Not magic; not the way her own *Briar* felt, green and slow and coming up through the ground. This was the other thing, the aura thing, the thing Alea had taught PenguChi in the first week: low and warm and from the very bottom of you, the way you'd breathe out. It went out from PenguChi across the table like a breath going out across water, and where it went, people sat down.
 
-Malcolm sat down. Thea stopped describing the queue. RX climbed back out of the briar and sat on the bench and picked up a skewer. Gabe sat down with his bitten hand in his lap. Xola sat down. Alea sat down. Deston took his hands off his ears.
+Malcolm sat down. Thea stopped describing the queue. Rui Xiang climbed back out of the briar and sat on the bench and picked up a skewer. Gabe sat down with his bitten hand in his lap. Xola sat down. Alea sat down. Deston took his hands off his ears.
 
 The hen stopped in the middle of the table.
 
@@ -393,8 +393,8 @@ She didn't think he was eating.
 21:41 · Salty: i wasn't scared of the pot
 21:41 · Wendy: he was scared of the pot ]
 
-[ 21:44 · RX: the hen got an egg
-21:44 · RX: 10/10 dinner. would be attacked by hen again ]
+[ 21:44 · Rui Xiang: the hen got an egg
+21:44 · Rui Xiang: 10/10 dinner. would be attacked by hen again ]
 
 ***
 
@@ -444,7 +444,7 @@ And then, after a while, because nobody could see:
 
 The fourth dinner was nyonya laksa, with no note, and nobody argued about anything.
 
-The fifth was popiah, and it fell apart, all of it, every one, exactly as promised, in fifteen people's hands at once; and Xav laughed so hard at RX's going down his front that he had to get up from the table and walk round the outside of the hedge twice before he could come back.
+The fifth was popiah, and it fell apart, all of it, every one, exactly as promised, in fifteen people's hands at once; and Xav laughed so hard at Rui Xiang's going down his front that he had to get up from the table and walk round the outside of the hedge twice before he could come back.
 
 The morning after the fifth dinner, Gigichi went down to the cabin with a basket of eggs from Robin's mother and found Ice's list on the wall over the table, on its nail beside the drawing. Higu's pencil, most of it crossed through now in his: *Fish*, *A tree*, *Answer them*, *Ask again in the spring*. Three words left standing. *Twelve dinners. Gabe. East*. And at the bottom, in his own hand, *Fish* again.
 
@@ -456,7 +456,7 @@ Gigichi looked at the five ticks for a while. Then at the empty space after them
 
 The twelfth wasn't.
 
-She'd asked him. Everybody had asked him. Xola had asked him every night. Alea had asked him in a voice that meant she already knew he wouldn't say. RX had tried to bribe him with the last of the satay. And every time he'd said the same thing, standing at the end of the table with his hands at his sides, in the voice he used for things that weren't jokes:
+She'd asked him. Everybody had asked him. Xola had asked him every night. Alea had asked him in a voice that meant she already knew he wouldn't say. Rui Xiang had tried to bribe him with the last of the satay. And every time he'd said the same thing, standing at the end of the table with his hands at his sides, in the voice he used for things that weren't jokes:
 
 "Owed."
 

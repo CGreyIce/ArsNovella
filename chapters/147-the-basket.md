@@ -77,7 +77,7 @@ Not well. The way everyone in the Lance had been packing for two days, which was
 
 Malcolm was at the other end of the table with his notebook of contingencies, writing very fast. *IF the apple-seller follows us north, THEN*. He'd been writing since dawn. He'd filled four pages. Higu had read the first one over his shoulder and found it very reassuring and very alarming at the same time, which was how Malcolm's pages always were.
 
-RX was talking. John, with three little motes of light circling his head, was listening with his eyes shut. Azac was asleep on the bench. Xav was sitting with his hands on his knees doing nothing at all, which was what Xav did on the day before a road.
+Rui Xiang was talking. John, with three little motes of light circling his head, was listening with his eyes shut. Azac was asleep on the bench. Xav was sitting with his hands on his knees doing nothing at all, which was what Xav did on the day before a road.
 
 And Rachael was at the end of the Group 4 bench, beside Deston, with her arms folded and her face saying she'd had quite enough of everyone asking her if she was all right.
 

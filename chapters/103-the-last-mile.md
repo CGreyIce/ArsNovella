@@ -79,7 +79,7 @@ He didn't jump, this time. He just stepped off. Onto the shingle. And started wa
 
 Gabe went after him.
 
-He didn't decide to. He just went. Over the rail, onto the shingle, with his blade on his back, after Deston. And behind him, he heard the others come. Xav first, because Xav always came first when it mattered. Then the rest. John, and Malcolm, and Azac, and RX, wherever RX was. Rachael with Dennis on one side and Calvin on the other. Emrys. Sabine. Petra, last, with her sword in her hand and her eyes on everything.
+He didn't decide to. He just went. Over the rail, onto the shingle, with his blade on his back, after Deston. And behind him, he heard the others come. Xav first, because Xav always came first when it mattered. Then the rest. John, and Malcolm, and Azac, and Rui Xiang, wherever Rui Xiang was. Rachael with Dennis on one side and Calvin on the other. Emrys. Sabine. Petra, last, with her sword in her hand and her eyes on everything.
 
 Haskett stayed on the barge with his boys. He watched them go, from the tiller, with his pipe unlit in his teeth. He didn't say anything. He took his cap off.
 

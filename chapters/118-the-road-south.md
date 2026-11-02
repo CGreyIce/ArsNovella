@@ -135,7 +135,7 @@ Maren didn't dare look at the end of the bench.
 
 She looked at the summoned instead. Which was worse.
 
-Calvin had his face in both hands. His shoulders were going. Malcolm was writing something in his book, very fast, and she suspected it was the words. Azac was staring at the ceiling with the expression of a man being slowly crushed under a weight. Xola had Squiddles held up in front of her face like a shield, and Squiddles had gone a colour Maren had never seen him go. John was leaning very gently against RX, who had put his aura so far inward that he was, for all practical purposes, not there. And Dennis, at the end of the next table, with his chin in his hand, was flinching. Every line. A small, sharp, involuntary wince, as if someone were ringing a cracked bell an inch from his ear, again and again and again.
+Calvin had his face in both hands. His shoulders were going. Malcolm was writing something in his book, very fast, and she suspected it was the words. Azac was staring at the ceiling with the expression of a man being slowly crushed under a weight. Xola had Squiddles held up in front of her face like a shield, and Squiddles had gone a colour Maren had never seen him go. John was leaning very gently against Rui Xiang, who had put his aura so far inward that he was, for all practical purposes, not there. And Dennis, at the end of the next table, with his chin in his hand, was flinching. Every line. A small, sharp, involuntary wince, as if someone were ringing a cracked bell an inch from his ear, again and again and again.
 
 *He rode a black horse called Midnight.* Wince.
 

@@ -237,7 +237,7 @@ He'd come up the back stairs behind them without any of them hearing, the way Jo
 
 He'd been at ninety-nine percent since a gorge on the river in the spring.
 
-Everybody knew. The Narrows. The turned coming down both cliffs head first like spiders, and Deston's *Listen* lighting every thread at once, and John's motes going up the cliff in the dark to find a boy in a cap so RX could reach him. He'd been one percent from the first tier ever since. Two and a half months. He'd never once complained. He'd just gone on sending his lights out, every night, wherever they were, and looking.
+Everybody knew. The Narrows. The turned coming down both cliffs head first like spiders, and Deston's *Listen* lighting every thread at once, and John's motes going up the cliff in the dark to find a boy in a cap so Rui Xiang could reach him. He'd been one percent from the first tier ever since. Two and a half months. He'd never once complained. He'd just gone on sending his lights out, every night, wherever they were, and looking.
 
 "I can follow them," said John. He came to the parapet beside Hyvred. "If you tell me where. My lights can. I'll see them." He was quiet. "But that's no good to you, is it. Me seeing them. You want to see them yourself."
 

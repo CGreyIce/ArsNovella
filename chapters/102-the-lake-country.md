@@ -89,7 +89,7 @@ Haskett said its name.
 
 The whole deck went quiet.
 
-John saw it go round them. Face to face. The way a cloud's shadow goes round a field. Malcolm first, who'd stopped writing. Then Dennis, with his ledger shut. Then Rachael, and Calvin, and Azac, and RX, and Gabe. And Xav, sitting on the deck with his back against the mast and his eyes on the dark north, not moving.
+John saw it go round them. Face to face. The way a cloud's shadow goes round a field. Malcolm first, who'd stopped writing. Then Dennis, with his ledger shut. Then Rachael, and Calvin, and Azac, and Rui Xiang, and Gabe. And Xav, sitting on the deck with his back against the mast and his eyes on the dark north, not moving.
 
 Every one of the thirty-five knew where every group was posted. They'd been writing to each other for a year and a half. Thornwall west, Valcrest south, Cinderhold east, the capital in the middle. Kingsferry and Duskhollow on the river.
 

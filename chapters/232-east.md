@@ -331,7 +331,7 @@ He closed it.
 
 They walked eleven miles the first day, which was too many, because Alea set the pace and Petra matched it and nobody else was going to be the one to say so.
 
-Malcolm said so. At the fourth hour, sitting down at the side of the road on a milestone with his boots off and a page of his book open on his knee. *IF we go eleven miles a day THEN by the third day RX will be carried*. He showed it to everyone. RX, who was invisible at the time, made an outraged sound from the hedge.
+Malcolm said so. At the fourth hour, sitting down at the side of the road on a milestone with his boots off and a page of his book open on his knee. *IF we go eleven miles a day THEN by the third day Rui Xiang will be carried*. He showed it to everyone. RX, who was invisible at the time, made an outraged sound from the hedge.
 
 They went eleven miles anyway. RX was not carried.
 

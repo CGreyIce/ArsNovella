@@ -277,7 +277,7 @@ After that the channel went the way it always did, only more. Hana stopped tryin
 07:10 · Ina: hot.
 07:11 · Newish: love you niko. except
 07:11 · Newish: no. including you. today including you
-07:11 · RX: LAST ONE IN
+07:11 · Rui Xiang: LAST ONE IN
 07:11 · John: thirty-five
 07:11 · Azac: okay
 07:11 · Azac: okay okay okay
@@ -307,7 +307,7 @@ Hana had been waiting for it. They all had, she thought; it was why the channel 
 07:15 · Chris: Group 3. Suzuyun, Candle. Salty, Drawn. Wendy, Drawn. Maigo, Spark. Nikorasu, Struck.
 07:16 · Chris: Group 4. Deston, Spark. Gabe, Drawn. Rachael, Spark. Dennis, Spark. Calvin, Spark.
 07:16 · Chris: Group 5. Hyvred, Spark. Bee, Spark. Tiger, Drawn. Drew, Drawn. Kei, Spark.
-07:16 · Chris: Group 6. Xavier, Drawn. Malcolm, Spark. RX, Drawn. Azac, Spark. John, Spark.
+07:16 · Chris: Group 6. Xavier, Drawn. Malcolm, Spark. Rui Xiang, Drawn. Azac, Spark. John, Spark.
 07:17 · Chris: Group 7. Chris, Drawn. Winter, Spark. Ina, Spark. Hako, Drawn. Newish, Spark.
 07:17 · Chris: first: Althea. last: Nikorasu. nobody left out.
 07:17 · Chris: count closed. ]

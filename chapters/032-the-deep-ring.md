@@ -111,13 +111,13 @@ The window numbers that week, in the tavern, were the best they'd ever been.
 
 "Twenty-two," said Xav. "Petra says I stood still for forty minutes yesterday without moving. She says that's nearly halfway to good."
 
-"Twenty-one," said RX, and grinned. "And the *Unseen* slot's gone from grey to... sort of silver. Like it's waking up." He opened his window and looked at it, as he did about fifty times a day. "Still locked. But it's *closer*."
+"Twenty-one," said Rui Xiang, and grinned. "And the *Unseen* slot's gone from grey to... sort of silver. Like it's waking up." He opened his window and looked at it, as he did about fifty times a day. "Still locked. But it's *closer*."
 
 "Twenty," said Azac. "I'm catching up. You lot had a five-week head start while I was in bed."
 
 "Nineteen," said Malcolm. He looked at his own number with deep suspicion. "It's gone up every week since Thea's letter. I don't trust it."
 
-"You don't trust anything," said RX.
+"You don't trust anything," said Rui Xiang.
 
 "That's why I'm still alive."
 
@@ -135,7 +135,7 @@ John hesitated. Then he looked at Xav, and Xav gave him a tiny nod, and John tol
 
 Nobody said anything for a moment.
 
-"You wrote it," said RX. "Like Thea said. You actually wrote something."
+"You wrote it," said Rui Xiang. "Like Thea said. You actually wrote something."
 
 "Once," said John. "Only once. I haven't been able to do it since."
 

@@ -69,7 +69,7 @@ And stopped at the top.
 
 He stood there. On the top step. In the sun, with the kettle in his hands and his daughter beside him. And looked at them. At each of them. Slowly, one after another, the way Group 1 said he'd looked at them on the market road on the very first day. As if he were reading something written on their faces and wanted to get every word.
 
-Rachael. Dennis. Calvin, on the wall. Malcolm with his book. Azac. John. RX, who was there, and visible, and standing very still, as if he'd forgotten for once how to be anything else. Emrys, in his blanket. Sabine, by the steps, with her arms folded.
+Rachael. Dennis. Calvin, on the wall. Malcolm with his book. Azac. John. Rui Xiang, who was there, and visible, and standing very still, as if he'd forgotten for once how to be anything else. Emrys, in his blanket. Sabine, by the steps, with her arms folded.
 
 Nobody said anything.
 
@@ -321,7 +321,7 @@ He didn't say anything first. He just bent down, and took off his left boot, and
 
 The man looked at the boot.
 
-He went completely still for a heartbeat. And then he laughed. Properly. Bent over, with his hands on his knees, on Rowan's terrace, so hard he couldn't breathe. Behind Dennis, RX had started laughing too, and then Azac, and then the girl with the fox ears, who clearly didn't know why it was funny and was laughing anyway because her father was.
+He went completely still for a heartbeat. And then he laughed. Properly. Bent over, with his hands on his knees, on Rowan's terrace, so hard he couldn't breathe. Behind Dennis, Rui Xiang had started laughing too, and then Azac, and then the girl with the fox ears, who clearly didn't know why it was funny and was laughing anyway because her father was.
 
 "Every time," the man said, when he could. "*Every* time. In the middle of a match. In the *final*, John."
 
@@ -345,9 +345,9 @@ No bell.
 
 ***
 
-RX vanished.
+Rui Xiang vanished.
 
-He did it in the middle of everybody laughing at John's shoe. He'd been there, by the terrace wall, grinning, and then he wasn't. Not invisible. Just *not there*, in the way that RX had got better and better at being not there, ever since he went up a tier in the autumn. Your eyes slid over the place he'd been and decided it was empty. Even Dennis's did. Even Deston said he had to look for RX's thread on purpose, these days, and it went thin when he was hushed, like a voice going quiet in a crowd.
+He did it in the middle of everybody laughing at John's shoe. He'd been there, by the terrace wall, grinning, and then he wasn't. Not invisible. Just *not there*, in the way that Rui Xiang had got better and better at being not there, ever since he went up a tier in the autumn. Your eyes slid over the place he'd been and decided it was empty. Even Dennis's did. Even Deston said he had to look for Rui Xiang's thread on purpose, these days, and it went thin when he was hushed, like a voice going quiet in a crowd.
 
 The man didn't turn round.
 
@@ -355,13 +355,13 @@ The man didn't turn round.
 
 There was a pause.
 
-Then RX was there again, standing directly behind him, a pace away, with his hands out as if he'd been about to put them over the man's eyes. His face was outraged.
+Then Rui Xiang was there again, standing directly behind him, a pace away, with his hands out as if he'd been about to put them over the man's eyes. His face was outraged.
 
-"*How*," said RX.
+"*How*," said Rui Xiang.
 
 "You don't click the circle," said the man. "You wait till it isn't there."
 
-RX stared at him.
+Rui Xiang stared at him.
 
 Then he made a sound like a kettle boiling over, and sat down on the terrace with his back against Rowan's wall, and put both hands in his hair.
 
@@ -369,21 +369,21 @@ Then he made a sound like a kettle boiling over, and sat down on the terrace wit
 
 "It still works."
 
-"I chased your scores for *six years*," said RX. "I never got one. Not one. I had your birthday in my phone for *two years*. I was going to fly up. I was *going to*." He looked up. "I'm going to beat you at something. Here. I don't care what. I swear."
+"I chased your scores for *six years*," said Rui Xiang. "I never got one. Not one. I had your birthday in my phone for *two years*. I was going to fly up. I was *going to*." He looked up. "I'm going to beat you at something. Here. I don't care what. I swear."
 
 "I know you will," said the man.
 
-He crouched down in front of RX, on the terrace, so that they were level.
+He crouched down in front of Rui Xiang, on the terrace, so that they were level.
 
 "You nearly did, just then," he said. "I only heard you because I was listening for you. Nobody else on this terrace knew you'd gone." He tilted his head. "The king wouldn't have heard you. Do you know that?"
 
-RX looked at him.
+Rui Xiang looked at him.
 
 "Seriously?"
 
 "Seriously."
 
-RX put his hands over his face.
+Rui Xiang put his hands over his face.
 
 No bell.
 

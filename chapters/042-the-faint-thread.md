@@ -257,7 +257,7 @@ He couldn't sleep.
 
 He lay in the dark in the room he shared with Gabe and Calvin, listening to Calvin talking in his sleep about the wind and Gabe breathing slow and heavy on the other side of the room. He held on to the faded thread, and thought about it, carefully, the way Emrys had taught him to think about a chant he didn't understand yet. One bar at a time.
 
-Every thread he had, he knew. He'd counted them, in the winter, lying awake like this. Gabe, thickest, oldest, nearly rope. Rachael. Dennis. Calvin. Xav. RX, and John, and Malcolm, and Azac; Gabe's friends and his, from before, from home. Then the others, the thirty-five, fainter, newer, bright. Emrys. Sabine. Sister Maud. The baker on the corner. All of them made here, or brought here, and all of them with colour in them. All of them gold or grey or somewhere in between.
+Every thread he had, he knew. He'd counted them, in the winter, lying awake like this. Gabe, thickest, oldest, nearly rope. Rachael. Dennis. Calvin. Xav. Rui Xiang, and John, and Malcolm, and Azac; Gabe's friends and his, from before, from home. Then the others, the thirty-five, fainter, newer, bright. Emrys. Sabine. Sister Maud. The baker on the corner. All of them made here, or brought here, and all of them with colour in them. All of them gold or grey or somewhere in between.
 
 All of them accounted for.
 

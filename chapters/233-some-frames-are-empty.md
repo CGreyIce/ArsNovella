@@ -420,7 +420,7 @@ A long pause.
 [ 21:37 · John: ok ok ok ]
 [ 21:38 · Malcolm: IF John gets excited THEN he holds it too long and passes out in the fire. I'm watching him. ]
 [ 21:38 · John: I'm not excited ]
-[ 21:38 · RX: he's so excited ]
+[ 21:38 · Rui Xiang: he's so excited ]
 [ 21:39 · John: tomorrow night. same time. tell me again. ]
 
 She lay down again, slowly, with her head sore and her heart going.
