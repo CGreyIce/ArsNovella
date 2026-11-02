@@ -147,7 +147,7 @@ It was rising now.
 
 ***
 
-Salty had told Yan once, in the winter, what aura felt like to him. *Like trying to lift something that's bolted to the floor.* He could feel it there. He could get his hands round it. And it just wouldn't come up.
+Salty had told Yan once, their first month at Cinderhold, what aura felt like to him. *Like trying to lift something that's bolted to the floor.* He could feel it there. He could get his hands round it. And it just wouldn't come up.
 
 Niko had said, in the spring, *when he finally does write, it'll come out big and stupid and all at once.*
 

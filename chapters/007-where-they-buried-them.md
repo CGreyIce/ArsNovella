@@ -21,7 +21,7 @@ Around Yan's neck, Suzu had gone tight and still. She hadn't moved since they'd 
 
 She'd eaten, at least. That was the one good thing the road had given him.
 
-For four days out of Solmere she'd lain round his neck getting colder. Not the cold of a snake out of the sun: a slow, inward cold that he could feel down the cord between them, the way you feel a hand go cold in yours. She'd turned her head away from everything he offered her. Bread. Meat. An egg Maigo had bought off a farm wife for a copper, out of pure stubbornness. She'd got smaller, too, smaller than scarf-sized, until on the fourth morning she was barely thicker than his finger, and Yan sat in the back of the wagon with his hand cupped over her and didn't call a single thing all day.
+For four days out of Solmere she'd lain round his neck getting colder. Not the cold of a snake out of the sun: a slow, inward cold that came down the cord between them and settled in his own fingers, so that he sat on his hands in the wagon and it didn't help. She'd turned her head away from everything he offered her. Bread. Meat. An egg Maigo had bought off a farm wife for a copper, out of pure stubbornness. She'd got smaller, too, smaller than scarf-sized, until on the fourth morning she was barely thicker than his finger, and Yan sat in the back of the wagon with his hand cupped over her and didn't call a single thing all day.
 
 On the fifth day, a mile short of a waystation, one of the escort's horses put its foreleg in a rut and broke it.
 
@@ -35,21 +35,29 @@ Aldous had seen. Yan knew he had, from the way the old chaplain didn't look at e
 
 "And when it is a man?"
 
-Yan had been thinking about that all afternoon. He'd been thinking about it while she slept against his throat, warm and heavy and content for the first time since the hall.
+Yan had been thinking about that all afternoon. He'd been thinking about it while she slept against his throat, warm and heavy and content for the first time since the hall; and he'd found that the answer he'd expected to give wasn't the one he had.
 
-"No," he said. "Never."
+"Is he dead?" he said.
 
-"She will be hungry, sometimes. Out there." Aldous looked east, toward the frontier. "Men die on the frontier."
+Aldous didn't answer.
 
-"Then she'll be hungry." Yan put his hand over her. *Yes*, said Suzu, sleepy, in his head. "She'd rather. She told me."
+"If he's already dead," said Yan, "he isn't using it." He said it slowly, because he wanted to get it right, and because the old man deserved the true answer more than the comfortable one. "I watched it go up off the horse. It was leaving anyway. In another minute it would have been gone, and nobody would have had it. I don't think it's worse if she has it." He looked down at her. "I don't know if it's better. But I'm not going to tell you *never*, and then find out one day that I was lying."
 
-"She cannot talk."
+The fire cracked. Out on the road, one of the soldiers laughed at something and was hushed.
 
-"No," said Yan. "But I know what she'd say."
+"Men die on the frontier," said Aldous at last. He was looking east. "The garrison at Cinderhold is two hundred. Some of them will die while you're there; it's the frontier, that's what it's for. And when they do, I'm the one who washes them, and says the words over them, and puts them in the ground." He turned and looked at Yan, and his face in the firelight wasn't angry at all. It was only very tired, and very certain. "Not mine."
 
-Aldous looked at him for a long time, and then at the white snake asleep round his throat, and something in his face eased. Not all the way. He made his two-fingered sign again, small, under his sleeve. But it looked different this time. Less like warding something off. More like a blessing.
+Yan thought about it. He didn't answer quickly; he never had. He thought about two hundred soldiers he hadn't met yet, and an old man with a shovel and a book.
 
-At Cinderhold it was easier. The fort's cook killed a goat every third day and a hen most mornings, and after the first week she stopped asking why the tall pale summoned boy with the snake wanted to be in the kitchen yard when she did it. She decided he was praying. Yan let her think so. It wasn't entirely wrong. A hen's light would hold Suzu a day. A goat's, three. He learned to feel the hunger coming down the cord the way you learn to feel weather coming, and he was never once late.
+"Not yours," he said. "I promise."
+
+Down the cord, sleepy, Suzu gave the small sour twist that meant *fine*, and wasn't entirely pleased about it.
+
+Aldous let out a long breath. He made his two-fingered sign again, small, under his sleeve. But it looked different this time. It wasn't a warding, and it wasn't a blessing either. It looked, Yan thought, like a man folding down the corner of a page so that he could find it again.
+
+At Cinderhold it was easier. The fort's cook killed a goat every third day and a hen most mornings, and after the first week she stopped asking why the tall pale summoned boy with the snake wanted to be in the kitchen yard when she did it. She decided he was praying. Yan let her think so. It wasn't entirely wrong. A hen's light would hold Suzu a day. A goat's, three. He learned to feel the hunger coming, a thin chill down the cord a day ahead of time, and he was never once late.
+
+He noticed something else, too, in the second week, and he didn't say anything about it until he was surer. On the mornings after a goat, his own window moved. Not much: a point. But it moved on those mornings, and on the mornings in between it mostly didn't. He started keeping count with a nail on the underside of the bunk above his, where nobody would see: a stroke for every goat, a dot for every morning his number went up. By the end of the third week there were seven strokes and six dots, and five of the dots sat under strokes.
 
 ***
 
@@ -76,6 +84,8 @@ But the contests were the outside of it. The inside was the same as it was every
 "That's your problem," said Rhea, and then, surprisingly gently for her, "Stop pushing. Let it come up on its own. Like a bruise."
 
 Salty, who had never in his life stopped pushing anything, frowned and tried to stop pushing.
+
+He gave it a week, mostly so he could prove her wrong. A week of sitting in the yard after the push-ups with his hands open on his knees and his jaw unclenched, which for Salty was harder than any push-up; and every evening he opened his window, and every evening it said what it had said the evening before, and he grunted and shut it.
 
 Wendy didn't need to be told. She'd picked up a bow on the second day, a plain soldier's longbow from the armoury, because she'd said the practice swords were stupid, and she'd put three arrows into the centre of the straw target at fifty paces before anyone had shown her how to hold it. The garrison archers came out to watch. She ignored them. She was still wearing her lavender headphones, silent now, around her neck, and sometimes when she was concentrating she put them on, as if listening to nothing helped.
 
@@ -105,17 +115,27 @@ Aldous, on the bench by the wall, had gone rather pale. He said nothing. But Yan
 
 ***
 
-Every night after supper, before Rhea and Salty's arm-wrestling and Maigo's betting, the five of them sat in a corner of the mess hall and compared their windows. They'd been doing it since the night before they left Solmere. It had stopped being a novelty and become something closer to a check-in.
+Every night after supper, before Rhea and Salty's arm-wrestling and Maigo's betting, the five of them sat in a corner of the mess hall and compared their windows. They'd been doing it since the night before they left Solmere. It had stopped being a novelty and become something closer to a check-in, and then, without anyone deciding it, into something more useful than that. Maigo had started chalking the numbers on the mess-hall wall beside the arm-wrestling tally, a column for each of them, so you could see who'd gone up and who hadn't; and the rule, which nobody had made, was that if your number moved you had to say what you'd done that day. It had just happened, the third night, because everybody wanted to know.
 
 "Seven," said Maigo, at the end of the fourth week. He didn't look smug, exactly, but he didn't look not smug either. "I can feel the ground. Like, really feel it. I put my toes in it and it's like putting your hand on someone's chest." His pixel sunglasses had slid down his nose. He pushed them back up. "This ground hurts, though. Out past the wall. It's like touching a burn."
 
-"Five," said Salty. "It moved today. Something did. Just for a second. Rhea says that's it starting."
+"Five," said Salty. "It moved today." He looked a bit embarrassed about it. "I did it her way. Didn't push. A whole week of not pushing and nothing, and then today I was just sitting there thinking about lunch and something *shifted*. For about a second." He frowned at his hands. "It's not that I can't feel it. I can. It's right there. It's like trying to lift something that's bolted to the floor. I can get my hands round it. It just won't come up."
 
-"Rhea says a lot of things," said Wendy.
+"So Rhea was right," said Wendy.
 
-"Three," she said, when they looked at her. "It's the bow. It's always when I'm drawing the bow. The second before I let go, something goes *in.*" She frowned at the table. "I didn't say it was good."
+"Don't tell her."
 
-"Four," said Yan.
+"Three," she said, when they looked at her. "It's the bow. It's always when I'm drawing the bow. The second before I let go, something goes *in.*" She frowned at the table. "Not every time. I counted today. Fifty arrows, and it happened on six." She'd marked them on the inside of her wrist in charcoal, and she held it out: six small strokes. "And on all six, I wasn't really aiming. I was just looking at the target and letting go."
+
+"So don't aim," said Maigo.
+
+"Then I miss," said Wendy. "I didn't say it was good."
+
+"Four," said Yan. He thought about the nail-marks under the bunk, and about whether three weeks was enough to say anything, and decided it wasn't, quite. "I think I know what moves mine. I'm not sure yet. I want to test it first."
+
+"That's so annoying," said Maigo.
+
+"I know."
 
 Niko was last. He always was. He opened his window with the expression of a man reading a bill he already knew was too big.
 
@@ -127,7 +147,11 @@ Niko was last. He always was. He opened his window with the expression of a man 
 
 "Nothing," said Salty. "The Advisor said nobody's ever done both."
 
-"Yeah," said Niko. "He did say that."
+"Yeah," said Niko. "He did say that." Then, because that was the rule: "I'm going to try them one at a time. A week of nothing but aura with Rhea. Then a week of nothing but the chants with Aldous. See which one moves."
+
+"And if neither does?"
+
+"Then that's interesting too," said Niko, and went to watch the arm-wrestling.
 
 There was a letter, that night, too. The first. It had come with the courier from Solmere, by way of a dozen other forts and the long east road, and it was from Kei, and Yan read it aloud because Maigo begged him to.
 
@@ -179,9 +203,13 @@ The chaplain was standing a few paces behind him, his staff in his hand, his fac
 
 "How did you know?"
 
-"I've seen that look before. On old soldiers, mostly. Never on someone who wasn't here." Aldous came and sat down next to him on the red ground, slowly, the way an old man sits. "I buried a great many of them, after. Soldiers. Farmers who didn't leave in time. People from the villages over the ridge. For two years after the battle I came out here every day with a shovel and a book. I put up markers. There are a thousand of them, out past those stones. More, maybe. I stopped counting."
+"I've seen that look before. On old soldiers, mostly. Never on someone who wasn't here." Aldous came and sat down next to him on the red ground, slowly, one hand on his staff and then the other flat on the earth. "I buried a great many of them, after. Soldiers. Farmers who didn't leave in time. People from the villages over the ridge. For two years after the battle I came out here every day with a shovel and a book. I put up markers. There are a thousand of them, out past those stones. More, maybe. I stopped counting."
 
-Yan didn't say anything.
+Yan didn't say anything for a while. Then: "They're not here," he said. "Not like the horse was. Whatever went up off the horse, there's none of that left out here. It all went, a long time ago." He tried to find the word and couldn't. "It's only the fear that stayed. In the ground. Like a smell in a room."
+
+"Yes," said Aldous quietly. "I thought it might be."
+
+Suzu, round his throat, had stopped listening. There was nothing out here for her. There never had been.
 
 "Your path," said Aldous, after a while. "It's going to be the soul, isn't it. That's what the snake means. That's why it frightens me."
 
@@ -205,7 +233,7 @@ Small ones, white and blue, low to the ground. Not many. Enough.
 
 At the head of the cairn, in the earth, there was a hole. A long, deep, narrow wound in the ground, as if something enormous had been driven in there and then pulled out again. The edges had started to crumble.
 
-"There was a sword here," said Aldous. "Planted over the grave as a marker. Black iron, taller than a man. I said prayers beside it for seven years. The soldiers wouldn't come near it. They said the man who put it there was called the Black Blade." He looked at the hole for a long moment. "Last season, the Advisor's people came with a winch and six men and took it away."
+"There was a sword here," said Aldous. "Planted over the grave as a marker. Black iron, taller than a man. I said prayers beside it for seven years. The soldiers wouldn't come near it. They said the man who put it there was called the Black Blade." He looked at the hole. "Last season, the Advisor's people came with a winch and six men and took it away."
 
 Nobody spoke.
 
@@ -231,6 +259,8 @@ And under the grief, very far down, there was something else.
 
 Something cold. Something that had been *done*, here, to someone who hadn't wanted it done. It was faint, very faint, as if most of it had been scoured away. But it was there, and Suzu felt it too: she went so tight around his throat that his vision greyed, and she hissed, loud and sharp, at nothing at all.
 
+And there was one more thing, which he understood least of all. In the middle of it, where the grief was oldest, there was a place he couldn't feel into at all. Not empty. *Shut*. As if two hands, both very strong, had closed round something there years ago and never once opened, and were holding it still, from wherever they were now. Suzu, who would put her head into anything, pulled back from that place as if it were hot, and wouldn't go near it again.
+
 Yan opened his eyes.
 
 The others were all looking at him.
@@ -239,7 +269,7 @@ The others were all looking at him.
 
 "Yes," said Yan. He wasn't. He stood up, and brushed the red dust off his knees, and put two fingers under Suzu's coils until she let him breathe. "It's fine."
 
-He didn't tell them about the cold thing. He didn't know what it was yet. He would think about it first, on his own, until he did.
+He didn't tell them about the cold thing, or the shut place. He didn't know what either of them was yet. He would think about it first, on his own, until he did.
 
 "When the anniversary comes," said Aldous, "the Advisor will send the sword back. I've asked to be the one to bring it. I'd like to see it standing here again." He looked at the five of them. "It'll have to be carried, the last part, across the red. A winch can't come out here. I'm hoping one of you will be able to lift it by then."
 
@@ -267,7 +297,7 @@ He told him about the grave with the flowers, and the hole where the sword had b
 
 He didn't tell him about the cold thing under the grief.
 
-Then he sat for a long time at the little table in the barracks, with the pen in his hand and Suzu asleep around his neck, and thought about someone he'd never met, standing on that rise every year for seven years, planting flowers in ground where nothing grew.
+Then he sat at the little table in the barracks until the lamp had burned down a finger's width, with the pen in his hand and Suzu asleep around his neck, and thought about someone he'd never met, standing on that rise every year for seven years, planting flowers in ground where nothing grew.
 
 He thought about his mother, too. He didn't mean to. It just happened sometimes, at night, when the work was done. A small kitchen, a long way away. He wondered if she'd planted anything.
 

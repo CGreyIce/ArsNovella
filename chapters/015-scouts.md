@@ -25,7 +25,7 @@ Around his neck, Suzu had gone very still.
 
 ***
 
-The chaplain read it in the little chapel with no priest, sitting on the front bench, holding the paper close to a candle. He read it three times. Yan watched his face, and watched it change, slowly, the way the sky changes before rain.
+The chaplain read it in the little chapel with no priest, sitting on the front bench, holding the paper close to a candle. He read it three times. Yan watched his face change, slowly, and settle into something grey.
 
 "Someone wearing someone," Aldous said at last, very quietly.
 
@@ -43,7 +43,7 @@ Aldous closed his eyes.
 
 "Someone wearing someone," said Yan.
 
-"I'll write to the Advisor tonight," said Aldous. "Not in the monthly report. Tonight, by the fast courier." He stood, slowly, the way he did everything. "And Yan."
+"I'll write to the Advisor tonight," said Aldous. "Not in the monthly report. Tonight, by the fast courier." He stood, one hand on the end of the bench. "And Yan."
 
 "Yes?"
 
@@ -53,9 +53,9 @@ Aldous closed his eyes.
 
 They compared windows that night like always, in the corner of the mess hall, with the score of Rhea and Salty's arm-wrestling chalked on the wall behind them (twenty-one to nineteen) and the soldiers at the next table pretending not to listen.
 
-"Fourteen," said Maigo. "The ground's getting louder. I can feel the whole fort now if I stand barefoot in the yard. Like a heartbeat. The red ground's still screaming, though." He pushed his pixel sunglasses up. "It doesn't scream at night as much. I don't know why."
+"Fourteen," said Maigo. "The ground's getting louder. I can feel the whole fort now if I stand barefoot in the yard. Like a heartbeat." He pushed his pixel sunglasses up. "I tried it with boots on. Nothing. Tried it in the chapel, on the flagstones. Nothing. It has to be earth, or stone that's sitting in earth, like the yard. And it's louder at dawn than at noon." He'd chalked that on the wall too, under his column: *BOOTS NO. CHAPEL NO. DAWN YES.* "The red ground's still screaming, though. It doesn't scream at night as much. I don't know why yet."
 
-"Ten," said Salty. Then, unable to help himself: "It moved. Properly. Today. I was doing forms with the practice sword and halfway through it just... got lighter. For about three swings. Then it was heavy again." He looked at his hands. "That was it, wasn't it. That was the aura."
+"Ten," said Salty. Then, unable to help himself: "It moved. Properly. Today." He put his hands flat on the table, because they were still trembling a little. "I tried Chris's thing. From his letter." Chris's letter had come the week before, with a page in it for all of them, written in Chris's square capitals: *LOGGED 40 SESSIONS. % MOVES MORE ON DAYS I'M WRECKED. COULD BE NOISE. SOMEBODY TEST IT.* "So I did the stones with Rhea till my arms quit. All of them. Then I picked up the practice sword and did forms, and halfway through it just... got lighter. For about three swings. Like the bolt shifted. Just a hair." He looked at his hands. "Then it was heavy again. Heavier. That was it, wasn't it. That was the aura."
 
 "That was it," said Rhea from the next table, not pretending at all. "Told you it'd come up like a bruise."
 
@@ -63,15 +63,41 @@ They compared windows that night like always, in the corner of the mess hall, wi
 
 "And I was right about all of them."
 
-"Nine," said Wendy. She had her headphones on, the silent ones, which she'd started wearing almost all the time. "It's still the bow. Always the bow. The second before I let go." She frowned at the table. "Sometimes I can feel where the arrow wants to go before I've aimed it. That's weird, right? That's weird."
+It had cost him, though, and everyone had seen it. At supper he'd picked up his cup and his hand had simply opened, as if it belonged to somebody else, and the cup had gone over; and Wendy had refilled it without a word and held it to his mouth while he drank, and glared at anyone who laughed.
 
-"Nine," said Yan.
+"Don't do that every day," said Rhea, more seriously. "Every other. Your arms have to come back, or there's nothing left to wear down."
+
+"Is that a thing?"
+
+"It's a thing. Ask anyone who's torn a shoulder trying to get to Drawn in a month." She went back to her own table. "Every *other* day, Salty."
+
+"Nine," said Wendy. She had her headphones on, the silent ones, which she'd started wearing almost all the time. "It's still the bow. Always the bow. The second before I let go." She frowned at the table. "Sometimes I can feel where the arrow wants to go before I've aimed it. That's weird, right? That's weird." She held out her wrist. "So I tried not aiming. On purpose. Twenty arrows, just looking and letting go. Eleven in the straw. Four in the middle. That's worse than aiming." She frowned. "But it moved more. So I don't know which one I'm supposed to be practising."
+
+"Nine," said Yan. And then, because he'd said he'd tell them when he was sure: "It's Suzu."
+
+They looked at him.
+
+He told them about the nail-marks under the bunk. Strokes for goats, dots for mornings his number moved. Three weeks of it, then five, and the dots sitting under the strokes almost every time. And then the test. "The cook killed a goat on Tuesday," he said. "I didn't go to the yard."
+
+"Yan," said Wendy.
+
+"I know." He touched the white coils at his throat. Suzu had gone cold down the cord by noon on Tuesday, and thinner by evening, and she'd turned her head away from him all night; and he'd lain awake feeling as if he'd done something cruel, because he had. "Wednesday morning, nothing. First goat-morning in five weeks with no dot. Then on Thursday I went. And Friday morning it moved two." He looked round at them. "It isn't me getting stronger. Not on my own. It's what she brings back. What she takes comes down the cord, and some of it stays in me."
+
+Nobody said anything for a moment.
+
+"So you're eating souls," said Maigo. "Like, technically."
+
+"She is. I get what comes down the cord."
+
+"Is that allowed?" said Salty.
+
+"They're goats," said Yan. He didn't say the rest of it, the thing he'd said to Aldous by the fire on the road. It was goats. For now, it was goats.
 
 Niko was last, as always. "Three," he said. "And three."
 
 "You went up," said Maigo.
 
-"I did." Niko looked almost pleased, which on Niko was a small earthquake. "Both of them, same day. Within an hour of each other." He turned his window toward Yan, as if Yan could see it, which he couldn't. "Hyvred said my light was two colours that don't mix. I've been thinking about that. I think they *want* to. I think they just don't know how yet."
+"I did." Niko looked almost pleased, which on Niko was a small earthquake. "And I did the week. Aura only, mornings with Rhea, nothing else. Both went up one. Then a week of chants only, with Aldous. Both went up one. Same day, both times. Within an hour of each other." He spread his hands. "So it doesn't matter which one I train. They move together. Which means they're not two things. Or they're two things tied together." He turned his window toward Yan, as if Yan could see it, which he couldn't. "Hyvred said my light was two colours that don't mix. I've been thinking about that. I think they *want* to. I think they just don't know how yet."
 
 "Neither do you," said Wendy.
 
@@ -101,7 +127,7 @@ Yan was on the east wall, because he couldn't sleep, because he rarely could any
 
 Yan didn't feel anything. Then Suzu tightened around his neck so hard he choked.
 
-"There," said Rhea, very softly. She'd gone still, the way a cat goes still. "Out past the third row of markers. Don't point."
+"There," said Rhea, very softly. She'd gone still all at once, cloak and all. "Out past the third row of markers. Don't point."
 
 He didn't point. He looked.
 
@@ -123,7 +149,7 @@ The fort woke up around them. Not loudly; a garrison on a frontier knows how to 
 
 They watched.
 
-The shapes had stopped moving. All of them, at once, the way a flock of birds turns in the air. They were standing in a loose line just past the third row of markers, perfectly still. And one of them, in the middle, had lifted one long arm.
+The shapes had stopped moving. All of them at once, as if somebody had pulled a string. They were standing in a loose line just past the third row of markers, perfectly still. And one of them, in the middle, had lifted one long arm.
 
 It was pointing. At the north tower.
 
@@ -149,7 +175,7 @@ Wendy had an arrow on the string. She hadn't drawn it. Her headphones were down 
 
 "Because that's what it wants." His hand was on her shoulder, very gently. "It wants to see what we'll do. How far our arrows reach. How fast we wake. Who comes up on the wall first." He looked down at her. "Give it nothing."
 
-Wendy stood there with her arrow on the string for a long, long moment.
+Wendy stood there with her arrow on the string while the wind went past them twice.
 
 Then she lowered the bow.
 
@@ -177,7 +203,7 @@ Out on the Redmarch, the pointing arm came down.
 
 And all eleven shapes turned, together, as smoothly as if they'd been one creature, and went back the way they'd come, across the red, in their short quick bursts, toward the dark line of the mountains. Within a minute they were gone.
 
-Nobody on the wall moved for a long time.
+Nobody on the wall moved until the horn sounded again for the stand-down.
 
 ***
 
