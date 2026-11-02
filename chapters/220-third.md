@@ -330,7 +330,7 @@ Behind him, he felt it, the way you feel a door close softly in another room: so
 ***
 
 [ 13:12 · Chris: logging. Xavier 3–0. through to the bracket. first to qualify.
-13:12 · Chris: Tier 2 or above: 8 of 35. Updating.
+13:12 · Chris: Tier 2 or above: 7 of 35. Updating.
 13:13 · RX: he stood there doing NOTHING
 13:13 · RX: i came round the left for eleven years and he knew and then he DIDN'T LEAN
 13:13 · Malcolm: IF Xav doesn't lean THEN

@@ -310,7 +310,7 @@ They put it in the channel at noon. Rachael wrote hers in four words. Deston wro
 12:06 · Hanarisu: Rachael. Congratulations. I won't make it a thing.
 12:06 · Rachael: Thank you.
 12:06 · Hanarisu: (it's a thing)
-12:07 · Chris: logging. Tier 2 or above: 7 of 35. Updating.
+12:07 · Chris: logging. Tier 2 or above: 6 of 35. Updating.
 12:07 · Chris: two in one bout. new record. the bout wasn't even theirs. ]
 
 He read it on the healers' bench with Rachael a pace off reading it too, and Dennis, on the sand at their feet with a pink line over his eyebrow, reading it upside down over his shoulder and complaining.

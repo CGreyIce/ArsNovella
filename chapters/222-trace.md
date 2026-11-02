@@ -201,9 +201,15 @@ He didn't decide to. His legs did it. The ring was still going in him, fading, s
 
 He hadn't opened it.
 
-[ Chris · Tier 2: Tempered · Skills: Release, Trace ]
+[ Chris · Tier 1: Drawn · Skills: Release · Progress to Tempered: 99.9% ]
 
-He looked at it for a long time.
+And under it, grey, the way Thea's *Handshake* had been grey since the autumn:
+
+*Trace · locked · requires Tier 2*
+
+He looked at it.
+
+Ninety-nine point nine. Of course it was. It was the most Chris number there had ever been.
 
 *Trace*.
 
@@ -215,6 +221,8 @@ He'd seen it. The line of the next blow. Before it came. Not because he'd guesse
 
 He'd seen it. Too late. He'd been in the gap.
 
+That was the point one, he understood, sitting in the sand. The skill wasn't seeing it. Any fool with a notebook could see where a thing had been going, afterwards. The skill was seeing it *in time*.
+
 He'd lost.
 
 He started to laugh.
@@ -225,7 +233,7 @@ He started to laugh.
 
 The bowl stood up.
 
-Not all at once. In a wave, the way the bowl had stood up for Rachael on the first day, section by section, round the whole of the Lists. They'd heard the bell. They'd heard it on the first day too, faintly, when Niko beat Calvin, and on the second, and they'd heard it in the ballad, which had got to Valcrest a month before the Lists did: *and the boy with two hands struck the stone like a bell*. They knew what they'd heard. A Tier 1. A Tier 1 who'd put a Drawn of two years and a half on the sand with a touch like a knuckle on a bell, and made him go up a tier doing it.
+Not all at once. In a wave, the way the bowl had stood up for Rachael on the first day, section by section, round the whole of the Lists. They'd heard the bell. They'd heard it on the first day too, faintly, when Niko beat Calvin, and on the second, and they'd heard it in the ballad, which had got to Valcrest a month before the Lists did: *and the boy with two hands struck the stone like a bell*. They knew what they'd heard. A Tier 1. A Tier 1 who'd put a Drawn of two years and a half on the sand with a touch like a knuckle on a bell.
 
 Niko was standing over him.
 
@@ -292,8 +300,8 @@ Lucan was crying, obviously. Ysolde, beside him, wasn't. Ysolde looked up at the
 [ 16:02 · Chris: logging. deciders.
 16:02 · Chris: Nikorasu 3–2. through.
 16:02 · Chris: Chris 2–3. out.
-16:03 · Chris: Chris: Tempered. Trace. saw the next blow coming. too late. this time.
-16:03 · Chris: Tier 2 or above: 11 of 35. Updating.
+16:03 · Chris: Chris: 99.9. Trace: locked. saw the next blow coming. too late. this time.
+16:03 · Chris: Tier 2 or above: 8 of 35. Updating.
 16:04 · Chris: bracket: Xavier, Gabe, Wendy, Milli, Jared, Hako, Nikorasu. one decider to go.
 16:04 · Chris: Nikorasu: Tier 1. can't rank him. logged.
 16:05 · Suzuyun: Suzu says the bell rang twice. Once in the steel. Once in you.
@@ -313,7 +321,7 @@ He sat on the roof that night with the notebook on his knee and wrote it all dow
 
 At the bottom of the third page he wrote the count, the way he always did.
 
-*Tier 2 or above: 11 of 35. Tier 3 or above: 0 of 35, Thea close. All 35 present. 33 in Valcrest. 2 on a tower.*
+*Tier 2 or above: 8 of 35. Tier 3 or above: 0 of 35, Thea close. All 35 present. 33 in Valcrest. 2 on a tower.*
 
 He sat with the pencil over the next line for a long time.
 

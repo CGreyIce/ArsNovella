@@ -427,7 +427,7 @@ He sat on the step for a long time with that.
 
 *Both of you*.
 
-[ 22:32 · Chris: logging. Tier 2 or above: 11 of 35. Tier 3 or above: 0 of 35, Thea close. all 35 present.
+[ 22:32 · Chris: logging. Tier 2 or above: 8 of 35. Tier 3 or above: 0 of 35, Thea close. all 35 present.
 22:32 · Chris: line 36: here. ]
 
 He didn't write anything. He never did. He never would.

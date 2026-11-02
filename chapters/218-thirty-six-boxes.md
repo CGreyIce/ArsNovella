@@ -155,6 +155,14 @@ It wasn't a lie. He'd checked. The tier column on line thirty-six had never had 
 
 He just didn't say where.
 
+He kept another page too, the one he'd started after the first Lists, when Drew had asked for the numbers. *AT THE EDGE*. It had a second column now, for the second tier.
+
+*Ina 99. Chris 99 (still not funny). Wendy 98. Rachael 98. Deston 98. Xavier 98. Salty 97. Higu 97. PenguChi 96. Hako 96. Milli 95. Jared 95. Gabe 94.*
+
+Thirteen. Drew had read it over his shoulder on the wall, the second evening, and said what he'd said last year, word for word, as if he'd been saving it. *It'll find out who was going to.*
+
+Last year Chris had guessed four or five, and been right, and been wrong about himself. This year he guessed four. He didn't put himself on the list of guesses at all.
+
 ***
 
 They came in by the north road on the fifteenth day, at dusk, and Chris was on the wall over the north gate when they did.
@@ -265,31 +273,31 @@ The lamp over the thirty-sixth box lit.
 
 Violet. Just for a breath. Then it settled, and went the ordinary yellow of a lamp, and burned.
 
-Then the next one. Hyvred's. And Tiger's. And the next, and the next, down the whole length of the wall, one after another, not all at once but in a line, each one catching off the one before like a rumour going down a street. Forty lamps. The painters at the near end stood with their poles in their hands and their tapers lit, staring, as the last lamp over the first box at their end went up in front of their faces, violet and then yellow, without anybody touching it.
+Then the next one. Hyvred's. And Tiger's. And the next, and the next, down the wall, one after another, not all at once but in a line, each one catching off the one before like a rumour going down a street. Ten. Fifteen. Twenty. The painters at the near end stood with their poles in their hands and their tapers lit, staring, as the line of lamps came toward them along the whitewash.
 
-The whole bracket stood out of the dusk in lamplight. Forty feet. Thirty-six boxes. Thirty-five names in gold, and one with no name, all of it lit.
+At the twenty-sixth it stopped.
 
-On the sand at the far end, Ina took the mask off, and put it back on his shoulder, and Chris, on the roof a quarter of a mile away, heard him laugh. A big surprised laugh that went up out of the bowl of the Lists into the blue, the way the laugh had gone out across the lake on the morning of the bell, so that people on the walls turned round.
+Chris saw it stop. The twenty-sixth lamp caught, violet, and went yellow; and the twenty-seventh flickered, once, a little violet ghost of a flame on the wick, and went out. On the sand at the far end, the small figure in the indigo coat went down on one knee, hard, as if somebody had kicked his legs out from under him, with one hand flat on the sand.
 
-Chris opened his window.
+The painters looked at each other. Then they lifted their poles, very respectfully, and lit the last fourteen themselves.
 
-[ Ina · Tier 2: Candle · Skills: Onibi, Kagaribi ]
+Ina took the mask off, slowly, still on one knee, and put it back on his shoulder; and Chris, on the roof a quarter of a mile away, heard him laugh. A big surprised breathless laugh that went up out of the bowl of the Lists into the blue, the way the laugh had gone out across the lake on the morning of the bell, so that people on the walls turned round.
 
-That was Ina's, not his; he couldn't see Ina's window. But it came up in the channel a moment later, the way they all did, in Ina's own hand, because Ina had never once in his life been able to resist an audience.
+It came up in the channel a moment later, in Ina's own hand, because Ina had never once in his life been able to resist an audience.
 
-[ 21:03 · Ina: Candle
-21:03 · Ina: lit the wall. all forty. didn't mean to do all of them, meant to do one. did the bye first. then it kept going.
-21:04 · Ina: kagaribi. watch-fires. the ones you light along a wall so the people coming home can see the way in.
+[ 21:03 · Ina: not candle. ninety-nine.
+21:03 · Ina: lit the wall. twenty-six of them. meant to do one. did the bye first. then it kept going. then i ran out.
+21:04 · Ina: kagaribi, i think it wants to be called. watch-fires. the ones you light along a wall so the people coming home can see the way in. the window's got it in grey. locked.
 21:04 · Newish: oh you SHOWOFF
-21:04 · Ina: yes
-21:05 · Winter: it's beautiful. all of it. the whole bracket.
+21:04 · Ina: yes. my knees are bleeding
+21:05 · Winter: it's beautiful. twenty-six of it. the whole bit by our end.
 21:05 · Hyvred: INA!!! I CAN'T SEE IT FROM HERE AND I'M STILL CRYING
-21:06 · Drew: i'm standing under it. it's lit.
-21:06 · Chris: logging. Tier 2 or above: 5 of 35. Updating. ]
+21:06 · Drew: i'm standing under it. it's lit. the painters did the rest. they were very polite about it
+21:06 · Chris: logging. Tier 2 or above: 4 of 35. Ina 99, twenty-six of forty. Updating. ]
 
-He wrote it. He looked at it. Five.
+He wrote it. He looked at it. Twenty-six.
 
-Then he looked across the backs of the houses, past the west wall with its forty lamps burning violet-then-yellow in a line, toward the Street of Coopers, a quarter of a mile off in the dusk, where there was a blue door with a back way into the Lists through the painters' yard that nobody used.
+Then he looked across the backs of the houses, past the west wall with its forty lamps burning, twenty-six of them his, toward the Street of Coopers, a quarter of a mile off in the dusk, where there was a blue door with a back way into the Lists through the painters' yard that nobody used.
 
 He couldn't see it from here. You couldn't see the Street of Coopers from the roof of the Lance; the roofs were in the way. He looked anyway.
 

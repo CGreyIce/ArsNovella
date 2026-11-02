@@ -272,10 +272,10 @@ She looked at him. Sideways. With her amber eye and her violet one, both of them
 "The anvil thing," said Wendy. And put her head on his shoulder, there, on the sand, in the middle of the ring, in front of forty thousand people, which she'd never done in front of anyone, ever, in either world; and the bowl of the Lists, which had been roaring, went quiet in pieces the way a hall goes quiet, and then, from the fourth tier of the east stand, where Group 1 was, somebody started to clap. Slowly. And then the stand. And then the bowl.
 
 [ 12:48 · Chris: logging. Wendy 3–1, through. Salty 2–2, deciders tomorrow.
-12:48 · Chris: Tier 2 or above: 10 of 35. Updating.
-12:48 · Chris: two in one bout. again. that's twice this week. the record's not a record if it happens every three days
+12:48 · Chris: Tier 2 or above: 8 of 35. Updating.
+12:48 · Chris: wendy 99. held three aloft. she says it doesn't count because she was crying
 12:49 · Maigo: SALTY. MAIGOTRON SAYS. THE MACHINE IS PROUD
-12:49 · Maigo: WENDY ALSO. EVERYONE IS A MACHINE
+12:49 · Maigo: WENDY NINETY-NINE. NINETY-NINE IS JUST A HUNDRED BUT LATER
 12:49 · Suzuyun: Suzu says the sand jumped. She felt it in the shaft.
 12:50 · Nikorasu: the sand jumped. i felt it in my teeth.
 12:50 · Hyvred: I saw it!!! from the TOWER!!! no I didn't I'm lying I can't see Valcrest but I FELT IT
