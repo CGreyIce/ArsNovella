@@ -223,13 +223,15 @@ He thought about his mother that night, on the wall.
 
 He did, sometimes, when it was very late and very quiet. Not often. It hurt too much to do often. But sometimes, on a night like this, with the stars very clear and something cold somewhere out there in the dark, she came into his head on her own, and he let her stay.
 
-She'd be at work, probably, right now. Or asleep. He didn't know what time it was on Earth. He didn't know how long it had been. Nearly a year here. Nearly a year there, presumably. Nearly a year since he'd left for a weekend and not come back. Nearly a year of her ringing his phone, and it going to voicemail, and her ringing again.
+She'd be at work, probably, right now. Or asleep. He didn't know what time it was on Earth. He didn't know how long it had been. Nearly a year here. Nearly a year there, presumably. Nearly a year since he'd left for a weekend and not come back. Nearly a year of her asking the phone to ring him, in the slow clear voice she used for it because she couldn't see the screen, and it going to voicemail, and her asking again.
 
-His brothers and sisters wouldn't have helped. They never had. They'd have said he'd run off. They'd have said *typical*. They'd have left her on her own with it.
+His brothers and sisters wouldn't have helped. They never had. They'd have said he'd run off. They'd have said *typical*. They'd have left her on her own with it, in a flat where she knew where everything was only because he'd put it there.
 
 He'd asked the Advisor, in the hall, the first day. *How long would it take to reach Sun?* The Advisor hadn't answered. Yan had known, from the not-answering, that it was years. A lot of years. More than his mother had.
 
 So he'd made a decision, that first night, lying on the barracks floor with Suzu round his throat. He'd decided he would reach Sun. Whatever it took. Not for the kingdom. Not for the demon king. For one woman, in a small flat, with a phone in her hand.
+
+He'd thought, that first night, that reaching it meant going. It had taken him most of a year on the red to notice that he'd never once, lying awake, got as far as the other side of the door. He could see himself reach it. He could see his mother's kitchen through it, and her face turning toward the sound of him. And then the picture stopped, every time, as if somebody had put a hand over it. He didn't know if he'd walk through. He didn't know if he'd stay on the other side if he did. He only knew he wanted the door to *exist*: for her, so that she'd never have to stand at that counter wondering. What he'd do in it was a question for a man who'd got there.
 
 He hadn't told anyone. Not even Salty. He carried it the way he carried everything. On his own.
 

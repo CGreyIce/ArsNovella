@@ -299,6 +299,6 @@ He didn't tell him about the cold thing under the grief.
 
 Then he sat at the little table in the barracks until the lamp had burned down a finger's width, with the pen in his hand and Suzu asleep around his neck, and thought about someone he'd never met, standing on that rise every year for seven years, planting flowers in ground where nothing grew.
 
-He thought about his mother, too. He didn't mean to. It just happened sometimes, at night, when the work was done. A small kitchen, a long way away. He wondered if she'd planted anything.
+He thought about his mother, too. He didn't mean to. It just happened sometimes, at night, when the work was done. A small kitchen, a long way away. Her eyes had been going since before he was born; by the time he was nine he was the one who read her the post, and the bus numbers, and the labels in the shop. He wondered who was reading them to her now.
 
 He put the thought away, and blew out the lamp.

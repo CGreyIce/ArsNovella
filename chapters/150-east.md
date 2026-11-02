@@ -225,7 +225,7 @@ Yan went still.
 
 Yan didn't say anything for a long time.
 
-"Two months," he said eventually. "There. Since the hall." His voice was very even. "She'll have been waiting two months. She'll still be waiting. She won't have stopped." He looked at the dark. "She's the only one who would."
+"Two months," he said eventually. "There. Since the hall." His voice was very even. "She'll have been waiting two months. She'll still be waiting. She won't have stopped." He looked at the dark. "She can't see much. I was the one who read her things. Somebody'll be reading her the post every morning now, to see if there's anything from me." He was quiet. "She's the only one who would."
 
 The man didn't say anything.
 
@@ -260,6 +260,26 @@ He sat on the grass at the edge of the firelight beside a man who'd died in his 
 As if it were simple.
 
 As if a man who'd never get his own door would naturally want everyone else to have theirs.
+
+"I don't know if I'd go," said Yan.
+
+He hadn't meant to say it. Not to anyone. Not ever, and not to this man of all people. It came out anyway, very quietly, into the dark beyond the fire.
+
+The man didn't say anything. He waited, the way he waited for everything.
+
+"I want the door," said Yan. "I want her to know. I want to walk into her kitchen and say *I'm here*, so she can stop listening for the phone." He touched the white coils at his throat. "And then I don't know. Suzu was a drawing, there. Everyone I've—" He stopped. "Half of what I am is here now. More than half, some nights. I don't know if I'd walk back out of her kitchen. I don't know if I'd want to." He breathed out. "I've never said that. I'm not sure it's allowed."
+
+"It's allowed," said the man.
+
+"You stayed."
+
+"I didn't get to choose," said the man. "That's the difference. I woke up here and the door was already shut, and I spent thirty years finding out it didn't open from this side, and by the time I'd found out, I didn't want it to." He was quiet a while. "You might get to choose. That's a harder thing than not getting to. Nobody'll blame you whichever way you go. Least of all her."
+
+"How do you know?"
+
+"Because she let you go out the door for a weekend," said the man, "knowing she couldn't see you go. Mothers who do that know what they're doing."
+
+Yan sat with that, while the fire went down.
 
 "Okay," said Yan.
 

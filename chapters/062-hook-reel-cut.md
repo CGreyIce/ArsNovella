@@ -11,7 +11,7 @@ That was how they'd always put it, the squad, and Ice had put it that way loudes
 
 They'd won a tournament like that once. Ice had died in every single round of the final. Yan had carried him through all of them. Afterwards, on the call, with everybody shouting, Ice had said, very seriously, *I was the reason we won. Trust.* And Yan had laughed so hard he'd had to take his headset off.
 
-He'd carried things all his life. That was what he did. His mother, mostly. And a squad. And a dead man's banner, round and round a map at three in the morning, because the dead man was his friend and the game wasn't over yet.
+He'd carried things all his life. That was what he did. His mother, mostly; he'd been her eyes since he was small. And a squad. And a dead man's banner, round and round a map at three in the morning, because the dead man was his friend and the game wasn't over yet.
 
 He'd never once, in all that time, been the one who got carried.
 

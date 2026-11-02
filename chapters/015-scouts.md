@@ -251,6 +251,6 @@ Yan didn't answer that. There wasn't anything to say. He blew out the candle ins
 
 He wondered how long it took a demon to count a fort. He wondered what it did when it was finished.
 
-And somewhere very far away, at the bottom of everything, under the grief and the fear and the long dark of the Redmarch, he thought about a small kitchen, and a woman standing in it, and how many towers there were between him and her.
+And somewhere very far away, at the bottom of everything, under the grief and the fear and the long dark of the Redmarch, he thought about a small kitchen, and a woman standing in it with one hand on the edge of the counter, the way she stood when she wasn't sure where things had been put, and how many towers there were between him and her.
 
 He didn't put that thought away. Not tonight. He let it stay until morning.
