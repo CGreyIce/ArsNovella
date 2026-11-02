@@ -61,7 +61,7 @@ Wendy didn't say anything.
 
 Everyone was very kind about it. That was the worst part.
 
-Nobody said anything. That was how he knew. On the channel, after Tiger, the whole thing had gone very careful round him, the way people go round somebody at a funeral. Maigo, who shouted everything, had written *NIKO YOU'RE GOING TO DO IT AND IT'S GOING TO BE SO COOL* in capitals, and then, an hour later, in lower case, which Maigo never used, *no pressure though*. Chris had put him in the bracket at *0–0 like everyone* and Niko had written *thanks* and meant it so much he'd had to put the window away. Gigichi had written *niko. you okay?* and he'd written *yeah chi 1* and she'd written *liar* and then *that's fine. ask me if you want to know how*. Hyvred had sent a strip by Kei to say she'd looked at his window from Thornwall in her head, which she couldn't do, and it was *fine, it's fine, it's just very full*.
+Nobody said anything. That was how he knew. On the channel, after Tiger, the whole thing had gone very careful round him, the way people go round somebody at a funeral. Maigo, who shouted everything, had written *NIKO YOU'RE GOING TO DO IT AND IT'S GOING TO BE SO COOL* in capitals, and then, an hour later, in lower case, which Maigo never used, *no pressure though*. Chris had put him in the bracket at *0–0 like everyone* and Niko had written *thanks* and meant it so much he'd had to put the window away. Gigichi had written *niko. you okay?* and he'd written *yeah gigi* and she'd written *liar* and then *that's fine. ask me if you want to know how*. Hyvred had sent a strip by Kei to say she'd looked at his window from Thornwall in her head, which she couldn't do, and it was *fine, it's fine, it's just very full*.
 
 Very kind. All of them. And under all of it, the thing nobody said. Thirty-four. One left.
 
@@ -512,7 +512,7 @@ He thought about what to put for a long time. In the end he put what he'd have t
 12:06 · Wendy: He has. He won't take them out until he's dismissed.
 12:06 · Salty: it tasted right. first time. that's all
 12:07 · Gigichi: niko. you okay?
-12:07 · Nikorasu: yeah chi 1
+12:07 · Nikorasu: yeah gigi
 12:07 · Gigichi: true this time
 12:07 · Nikorasu: true this time
 12:08 · Suzuyun: Suzu says good. She says you listened. She says that's rare.

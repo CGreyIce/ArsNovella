@@ -135,7 +135,7 @@ Then it sat down. Right there, in the snow, by the gate. Fluffed itself up, and 
 
 Nobody said anything.
 
-"Chi 2," said Gigichi faintly. "What did you *do*."
+"Chi," said Gigichi faintly. "What did you *do*."
 
 "Nothing," said PenguChi. She sounded as surprised as anyone. "I just told them."
 

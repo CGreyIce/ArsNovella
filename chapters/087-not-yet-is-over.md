@@ -297,7 +297,7 @@ In English. Out loud. The first time he'd said her name out loud in this world. 
 
 The hens stared at him.
 
-"Xola," he said. "Higu." It was coming easier. He could hear his voice doing it. Not his old voice; that was gone, in a body that had been born in a commoner's cottage on the other side of the world from it. But the shape of the names was the same. The shape of his mouth round them. "Chi..." He stopped. "Chi 1. Chi 2."
+"Xola," he said. "Higu." It was coming easier. He could hear his voice doing it. Not his old voice; that was gone, in a body that had been born in a commoner's cottage on the other side of the world from it. But the shape of the names was the same. The shape of his mouth round them. "Chi..." He stopped. "Gigi. Chi."
 
 Captain cocked her head.
 

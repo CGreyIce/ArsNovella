@@ -119,7 +119,7 @@ She'd written that to a dead boy. In a channel she thought only thirty-five peop
 
 "He read it," said Gigichi. Barely a whisper.
 
-"Chi," said Higu.
+"Gigi," said Higu.
 
 "He *read* it. My *answer*. I wrote it to him because I thought he'd never—" She stopped. She put her hands over her face. "Oh, god. Oh, *god*. And the poem. And the night of the sum. *Declan, if you can somehow read this.* Gabe wrote that. Gabe *wrote* that, and he—"
 

@@ -259,7 +259,7 @@ Alea, who was waist-deep in a hole in the Shiver and holding on to a clump of re
 
 She went back to the alders and put her boots on.
 
-"Chi," said Alea.
+"Gigi," said Alea.
 
 "I'm not discussing it," said Gigichi, and went back round the shore path without looking round, and Alea heard her say, very quietly, to the alders, *you're all right, she's all right, she's just stupid*, and the alders didn't say anything back.
 

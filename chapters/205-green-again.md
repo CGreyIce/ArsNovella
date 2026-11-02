@@ -511,7 +511,7 @@ He wrote it in lower case.
 12:07 · Hyvred: I can't see that far. I'm looking anyway.
 12:08 · Gigichi: maigo. you okay?
 12:09 · Maigo: no
-12:09 · Maigo: but she did so well chi 1. she stood out there on her own for three days pointing. every leaf. nobody came till thursday
+12:09 · Maigo: but she did so well gigi. she stood out there on her own for three days pointing. every leaf. nobody came till thursday
 12:10 · Gigichi: you came thursday. that's what thursday's for ]
 
 Maigo looked at that last line for a long time.

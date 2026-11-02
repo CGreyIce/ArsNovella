@@ -279,7 +279,7 @@ In English. Very quietly. So that if anybody had been on the shore, Maren or Bra
 
 Gigichi stood very still.
 
-"No," he said again. "That's not right either. That's just the other half of *yes*." He put his hands flat on the plank on either side of him. "Sit down, Chi. It's going to be a mess. You said I was supposed to give you the mess."
+"No," he said again. "That's not right either. That's just the other half of *yes*." He put his hands flat on the plank on either side of him. "Sit down, Gigi. It's going to be a mess. You said I was supposed to give you the mess."
 
 She sat down. On the plank beside him. With her boots over the black water.
 
@@ -337,7 +337,7 @@ He didn't say anything. His shoulders went down.
 
 "The rest of them are just normal bad. That one's the worst."
 
-"Yes," said the man. And then, after a moment, she heard it in his voice: something that wasn't quite a laugh and wasn't quite the other thing. "You're very bad at this, Chi."
+"Yes," said the man. And then, after a moment, she heard it in his voice: something that wasn't quite a laugh and wasn't quite the other thing. "You're very bad at this, Gigi."
 
 "I know," said Gigichi. "You asked me first. Years. In my chat. Every stream. *You okay?* To everybody. And nobody ever asked you." She was looking at the lake. "I never answered. Not once. On Earth. And then I got here and you asked me again, at a table, and I gave you the mess, and you said *thank you*." She swallowed. "I'm not good at it. I've never done it. I've only been on the other end."
 

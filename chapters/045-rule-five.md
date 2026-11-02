@@ -166,7 +166,7 @@ Thea opened it at once. She was awake too. She had her window open. She looked s
 
 "Can you shut it up?"
 
-"No." Thea rubbed her face. "I can't delete anything. I can't mute anyone. It's *rudimentary*, Chi 1. It's a pipe. Things go in one end and come out the other."
+"No." Thea rubbed her face. "I can't delete anything. I can't mute anyone. It's *rudimentary*, Gigi. It's a pipe. Things go in one end and come out the other."
 
 Gigichi looked at the window over Thea's shoulder. Another line had come in. Rachael, furious. Then Wendy, colder.
 
@@ -190,7 +190,7 @@ Wendy: rx, sorry. i'm just scared
 RX: same. sorry wendy
 Rachael: Sorry. Two in the morning is a bad time for me.
 Milli: Fair.
-Higu: Thank you, Chi 1. ]
+Higu: Thank you, Gigi. ]
 
 Gigichi closed her window. Her hands were shaking a little. She hadn't yelled at anyone like that in years. She'd forgotten how.
 
@@ -234,7 +234,7 @@ Higu named them the next morning. Not in the channel; at breakfast, out loud, ov
 
 "There aren't any mods," said Thea. "It's a pipe."
 
-"Then you're the mods of the pipe," said Higu. "Thea fixes it when it breaks. Chi 1 tells people to go to sleep." She looked at Gigichi with her calm half-lidded eyes. "Someone has to. I can't do it every time."
+"Then you're the mods of the pipe," said Higu. "Thea fixes it when it breaks. Gigi tells people to go to sleep." She looked at Gigichi with her calm half-lidded eyes. "Someone has to. I can't do it every time."
 
 "Why not?"
 
@@ -339,7 +339,7 @@ The answer came after a long time.
 
 [ Tiger: no
 Tiger: not really
-Tiger: but thanks for asking chi 1
+Tiger: but thanks for asking gigi
 Tiger: genuinely. nobody asked ]
 
 Gigichi read it. Then she read it again. Then she put her hand over her mouth and sat on the end of her bed in the dark for a long time.

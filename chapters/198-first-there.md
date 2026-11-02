@@ -473,7 +473,7 @@ Then he said: "Somebody get this lad off that horse and into something dry befor
 23:15 · Tiger: I GOT THERE FIRST AND I GOT BACK FIRST
 23:15 · Tiger: my legs dont work. that's the price i think. worth it
 23:16 · Gigichi: tiger. you okay?
-23:16 · Tiger: yeah chi 1. actually yeah
+23:16 · Tiger: yeah gigi. actually yeah
 23:17 · Nikorasu: nice one. again.
 23:17 · Nikorasu: one left. ]
 

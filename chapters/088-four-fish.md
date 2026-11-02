@@ -43,7 +43,7 @@ Gigichi took her watch out.
 
 She did that, when she couldn't sit still. It was the only thing she'd brought through the floor that wasn't a body or clothes: a gold pocket watch, old, with a leaf engraved on the lid, that had been in her inventory from the first morning in the castle, ticking. It kept the time of nowhere. It didn't match the bells in Wrenhaven, or the sun, or anything. It just ticked. She opened it and closed it, and opened it and closed it.
 
-"Chi," said Higu, beside her. Very quietly. "You'll break it."
+"Gigi," said Higu, beside her. Very quietly. "You'll break it."
 
 Gigichi closed it.
 
@@ -239,7 +239,7 @@ Gigichi went very still.
 
 Gigichi didn't say anything. She couldn't.
 
-"That's what the panic's covering," said Higu. "Not *I don't deserve it*. You've never once in six years thought you didn't deserve something. You just say it, so you don't have to say the other thing." She turned her head, finally, and looked up at Gigichi on the step above her, with her calm half-lidded eyes. "I've known you six years, Chi. I know what your face does when you're lying to yourself."
+"That's what the panic's covering," said Higu. "Not *I don't deserve it*. You've never once in six years thought you didn't deserve something. You just say it, so you don't have to say the other thing." She turned her head, finally, and looked up at Gigichi on the step above her, with her calm half-lidded eyes. "I've known you six years, Gigi. I know what your face does when you're lying to yourself."
 
 ***
 

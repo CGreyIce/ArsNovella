@@ -23,9 +23,9 @@ Gigichi came next.
 
 She had two lanterns. Thea's and her own. She came up onto the step with one in each hand, and stopped in front of him, close, and looked up at him with her jaw set and her eyes very bright, the way she'd looked at him on the market road sixteen months ago when he said *you're blocking the road* and she said *then walk around*.
 
-"Chi 1," he said.
+"Gigi," he said.
 
-In English. The name she'd made with PenguChi in the first week, because they kept both answering to *Chi*. He'd read it a thousand times in the channel. He'd never once said it out loud.
+In English. The name she'd sorted out with PenguChi in the first week, because they kept both answering to *Chi*: PenguChi kept *Chi*, and she became *Gigi*. He'd read it a thousand times in the channel. He'd never once said it out loud.
 
 Gigichi's jaw went tighter. She didn't say anything. She held his eyes for a long moment, furiously, the way you'd hold your breath. Then she pushed one of the lanterns into his hands, hard, so that he had to take it, and walked past him into the house without a word.
 
@@ -53,7 +53,7 @@ Squiddles, on her head, reached out one small purple tentacle and patted him on 
 
 PenguChi came up onto the step slowly, with Waddles' head poking out of the front of her coat. She waited until Xola had let go, and gone in, wiping her face on her sleeve and saying *sorry, sorry, oh my god*. And then she stood in front of him, on the step, quite still, with her golden eyes on his face.
 
-"Chi 2," he said.
+"Chi," he said.
 
 PenguChi looked at him for a long moment. Then she smiled. Slowly. The way she'd smiled at him on the shingle, the day of the stones, when she handed him the biggest stone on the whole lake road and he said *thank you*. Like the sun coming out.
 
@@ -295,7 +295,7 @@ He knew what she was thinking. He'd read it in the summer, in the Ice book, at t
 
 He'd read it on the end of the jetty, and put his window down on his knees, and sat there for a long time.
 
-"Chi 1," he said.
+"Gigi," he said.
 
 "Don't," said Gigichi. Very fast. Not looking up. "Don't you dare."
 

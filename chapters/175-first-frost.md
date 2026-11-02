@@ -25,9 +25,9 @@ The hens were sitting on the field wall watching him with deep and patient hatre
 
 He looked up when she came through the gate. She felt him look. She couldn't see his face. Nobody could. She'd shoved a lamp at him once, in the snow, at a door, so she wouldn't have to try.
 
-"Morning, Chi 1," he said.
+"Morning, Gigi," he said.
 
-*Chi 1*. The name she and PenguChi had made in the first week, in the castle, because they both kept answering to *Chi*. Everybody used it now. Thea, Higu, Tiger in the channel. But he'd said it out loud for the first time at a cabin door in the snow, in English, the way you'd say a name you'd read a thousand times and never once heard yourself say, and she'd shoved a lamp at him.
+*Gigi*. The name she'd taken in the first week, in the castle, because she and PenguChi both kept answering to *Chi*, and PenguChi had got there first. Everybody used it now. Thea, Higu, Tiger in the channel. But he'd said it out loud for the first time at a cabin door in the snow, in English, the way you'd say a name you'd read a thousand times and never once heard yourself say, and she'd shoved a lamp at him.
 
 He said it now as if he'd been saying it for years. She hadn't decided yet whether she minded.
 
@@ -245,7 +245,7 @@ She looked up at him from the mud.
 
 He looked at the hedge. All the way round. At the thorns, dark, thick, taller than a man, with the frost white on the outside and stopping. At the pumpkins inside. At her.
 
-"Chi 1," he said.
+"Gigi," he said.
 
 "*Don't*," said Gigichi. "Don't you dare. I've got mud on my face and I'm crying and I'm not discussing it."
 

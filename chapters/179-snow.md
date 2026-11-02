@@ -279,7 +279,7 @@ It hit her in the ear. The left one. Square inside, full of snow.
 
 Alea stood there with snow in her ear and her mouth open.
 
-"*Chi 1*," said her father, from the step, in English, very gravely.
+"*Gigi*," said her father, from the step, in English, very gravely.
 
 "She was *open*," said Gigichi.
 
