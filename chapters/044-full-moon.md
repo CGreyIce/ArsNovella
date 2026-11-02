@@ -131,6 +131,12 @@ Thea winced. "Not much. A line. A short one. It costs something. Not a lot. Like
 
 Thea laughed. Then she stopped laughing and bent over her window again, muttering.
 
+It didn't work the first time, or the fifth. The first one Thea hooked into her own window and Higu's, and it held for two lines and then folded up into nothing, and her nose bled onto the table. The third echoed every line back forty times, louder each time, until she tore it out by the root and lay on the floor with her eyes shut and her fists against them. Higu fetched a cloth and a cup of water and didn't tell her to stop.
+
+On the seventh try, with the light going, Thea stopped trying to *make* the windows carry anything. She went down to the root instead, the place where every window was copied from the first one, and asked it to let them share what they already shared: the line they all had in common. And it held.
+
+"It was already connected," she said, wiping her nose with the back of her wrist. "All of them. I've been trying to build a road, Gu. There's already a road. I just had to ask to use it."
+
 Higu sat beside her and watched the light in the little room change, slowly, as the afternoon went on. She thought about chats. She'd run one for years: her stream, her little corner of the internet, a few hundred people every night, words scrolling up a screen. She knew what chats were like. She knew what they were like at their best, warm and silly and full of people who'd turned up just to be there with you. And she knew what they were like at their worst.
 
 "Who's going to mod it?" she said.
@@ -349,6 +355,8 @@ She sat beside her on the bed in the dark, with the moon coming up outside the w
 
 ***
 
+Thea was asleep downstairs by then, for the first time in two days, grey in the face. She hadn't been able to call so much as a spark to her fingertip since the channel went live; it had taken everything she had and some of what she didn't, and Maren had put her to bed with a hot stone and the words *three days, at least*. *That's what a road costs*, Thea had said, through her teeth. *Write it down.* Higu had.
+
 She went up on the roof at midnight, the way she had on every full moon since the snow.
 
 The militia hall roof was flat and leaded, with a low wall round it, and from up here you could see the whole of Wrenhaven: the market square with the scorch mark from the autumn bonfire, the church, the dark huddle of roofs, and then the long slope of fields going down to the lake.
@@ -362,6 +370,8 @@ Ninety-eight.
 She'd gone up five since dusk. She could feel it pulling: the moon, on her, the way it pulled on the tide. Up through her chest and out into her fingertips and up into the white light. Like being a cup with the moon pouring into it.
 
 *One small line*, she thought. *In its language.*
+
+She'd tried, every clear night since Thea's letter. *See* had done nothing at all. *Go* had made her dizzy for an hour, with a dreadful feeling of being pulled out of the window by her collar, and she'd been sick over the parapet. *Half of something*, she'd written in the notebook, beside the chart. *Neither half alone.*
 
 She'd been thinking all month about what the moon's language was. Not words. Thea's was code; Bee's, so Maigo's letter said, was drawing; Maigo's was a tree's. Higu had always thought hers would be something gentle. A lullaby. A poem, maybe, the way Ice had written a poem in a ban message.
 

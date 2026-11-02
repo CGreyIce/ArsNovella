@@ -133,7 +133,13 @@ Alea stood on the ice with her practice sword, and breathed out, long and slow, 
 
 It came. Up from the bottom of her, slow and smooth, like water filling a jar, and down through her back foot into the ice, and *stayed*. Just *stayed*, warm and steady, filling her right to the edges, the way it had only ever done once or twice before when she was very tired and not trying at all.
 
-She stood there and felt it. Then she looked up.
+She stood there and felt it. Then, out of habit, something she almost never bothered to do any more, she opened her window.
+
+[ Alea · Tier 1: Drawn · Progress to Tempered: 61% ]
+
+Sixty-one. It had said fifty-six that morning. Five points, on lessons she'd thought she didn't need.
+
+She looked up.
 
 Her father was watching her. Just watching. The way he always did.
 

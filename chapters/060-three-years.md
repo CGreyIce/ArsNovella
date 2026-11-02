@@ -348,7 +348,7 @@ PenguChi tilted her head.
 
 "He told me once," said Alea. "When I was thirteen. Before I'd ever felt it. I didn't understand it then. I think I do now." She took a breath. "He said: *it doesn't come out because you're holding on to it. You've worked so hard to keep it that you won't let it go. Stop keeping it. Give it away.*"
 
-PenguChi was quiet for a long moment.
+PenguChi was quiet.
 
 Then she closed her eyes again. She stood in her wide stance, the way she'd stood every morning for a year. She breathed out, long and slow, until her chest was empty and still. And Alea, standing beside her, felt PenguChi's aura come up from the very bottom of her, slow and smooth, like water filling a jar, and go down through her back foot into the flagstones, and stay.
 
@@ -385,6 +385,8 @@ It wasn't like the first tier.
 The first tier had come slowly. Three years of it, from thirteen to sixteen, on the jetty every morning with her father watching, *your weight's on your heels*. A little more every day. A little more. And then one morning it had just been there, the way the lake was suddenly frozen one morning in winter, from the north shore.
 
 This was different.
+
+She'd been stuck at ninety-four since the spring. All summer. She'd done everything right, every morning, every lesson on the ice, and the number had sat there like a stone, and she'd never known why. She knew now. She'd said it to PenguChi a minute ago without hearing herself. *Stop keeping it. Give it away.* She'd been keeping something for a year: three years, and a fire in the first week, and her father's face. And at midnight, on the jetty, she'd given it away.
 
 It came from inside her bones.
 
@@ -426,7 +428,7 @@ There was a short silence.
 
 "That's not news," said Gigichi. Not unkindly.
 
-And then Thea laughed, and Xola laughed, and PenguChi threw her arms round Alea's neck, and Higu came down off the wall with her notebook and stood in front of Alea and looked at her with her calm half-lidded eyes for a long moment.
+And then Thea laughed, and Xola laughed, and PenguChi threw her arms round Alea's neck, and Higu came down off the wall with her notebook and stood in front of Alea and looked at her with her calm half-lidded eyes.
 
 "Second tier," said Higu quietly. "That's the one where you can carry a big sword, isn't it."
 

@@ -272,7 +272,7 @@ She thought about it all evening. She thought about it at supper, and in bed, an
 
 The hedge ran round the back of the militia hall yard, along the wall, between the yard and the lane behind. Hawthorn, old and tangled, half dead in places, with gaps you could get a goat through. Gigichi had been practising on it since the snow melted. Her path was nature. Thorns and roots and barriers: things that grew between you and what you were afraid of. Maren had been very clear about that, in the autumn, reading her window. *A defender's path. A wall that grows.*
 
-She'd tried everything. Pushing. Pulling. Asking nicely. Standing in front of it for an hour with her hands out, feeling for the place under the bark where the hedge was alive, and finding it, and getting nothing back. It was like talking to someone who was asleep.
+She'd tried everything. Pushing. Pulling. Asking nicely. Standing in front of it for an hour with her hands out, feeling for the place under the bark where the hedge was alive, and finding it, and getting nothing back but the same fine red scratches across her palms she'd been getting since the autumn, as if something were trying to come up through her instead of the hedge. It was like talking to someone who was asleep.
 
 *They're all asking something to do what it already wants to.*
 

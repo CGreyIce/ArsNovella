@@ -57,11 +57,11 @@ Not still. *Moved.*
 
 She'd been making the washbasin go still for months. It was her party trick: get upset, or get calm, or just look at it the right way, and the water in the basin would go flat as glass, no ripple, no tremble, as if it were holding its breath. Everyone had seen her do it. Bram called it "the axolotl stare."
 
-But Thea had written to everyone after the bonfire. Not just to Chris and Cursiffe; to every group, every one of the thirty-five, a long letter in her careful hand that she'd sat up two nights writing. And it said, more or less: *You can't get over the edge by reading. You've all been reading. Sensing. Feeling. That's half of it. The other half is writing. You have to put something back into the world. One small line. In its language, not yours.*
+But Thea had written to everyone after the bonfire. Not just to Chris and Cursiffe; to every group, every one of the thirty-five, a long letter in her careful hand that she'd sat up two nights writing. And it said, more or less: *You can't get over the edge by reading. You've all been reading. Sensing. Feeling. That's half of it. The other half is writing. You have to put something back into the world. One small line. In its language, not yours. And ask it, don't tell it; everything I tried to order about either ignored me or hit back. Start small. It costs. Mine cost a nosebleed and a morning in bed, twice, before I got it right.*
 
 Xola had read it eleven times.
 
-On the third morning, at the washbasin, she didn't make the water go still. She looked at it, and felt for it, the way she always did, and then, for the first time, she *asked* it to do something.
+On the first two mornings she tried *Spin*, firmly, the way you'd tell a dog to sit, and the water didn't so much as shiver, and she had a headache till lunch both days. On the third morning, at the washbasin, she didn't make the water go still. She looked at it, and felt for it, the way she always did, and then, for the first time, she *asked* it to do something.
 
 *Turn,* she thought. *Please. Just once.*
 
@@ -81,7 +81,7 @@ That was the biggest jump any of them had had in a single night since they'd arr
 
 Thea went to the market alone that afternoon, because someone had to buy lamp oil, and because she couldn't sit still.
 
-She hadn't been able to sit still since the bonfire. Not really. She had a little flame she could call to the tip of her finger now, any time she liked, and a skill called *Parse* that let her look at the lattice of the world the way she'd always looked at code: structure and syntax and intent, all laid out in front of her. She spent most of her waking hours doing it. She parsed the fire. She parsed the snow. She parsed the old grumpy tree by the gate and found something in it so slow and deep and ancient that she'd had to stop and sit down.
+She hadn't been able to sit still since the bonfire. Not really. She had a little flame she could call to the tip of her finger now, any time she liked, and a skill called *Parse* that let her look at the lattice of the world the way she'd always looked at code: structure and syntax and intent, all laid out in front of her. She spent most of her waking hours doing it, and paid for it with a dull ache behind her eyes most evenings, which Maren noticed and Thea pretended not to have. She parsed the fire. She parsed the snow. She parsed the old grumpy tree by the gate and found something in it so slow and deep and ancient that she'd had to stop and sit down.
 
 And she parsed her own window, every night, down at the bottom, where the root ran away toward the first window in the world. Still running, she was sure of that now. Still warm.
 
