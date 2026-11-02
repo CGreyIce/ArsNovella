@@ -67,7 +67,7 @@ And there was Valcrest.
 
 Aldous had been right. You'd know it.
 
-It lay on the plain below them in the late gold light like something poured out: walls and roofs and towers and roads going in from every side, and smoke going up straight in the still air from ten thousand chimneys, and in the middle of it all the Lists, a long oval of pale stone, bigger than anything Salty had ever seen built by hand. There were tents outside the walls. Hundreds. Flags on poles. People on every road. It looked, Salty thought, like a LAN. Like the biggest LAN in the world, on the morning of the final, when everybody's arrived and nobody's playing yet.
+It lay on the plain below them in the late gold light like something poured out: walls and roofs and towers and roads going in from every side, and smoke going up straight in the still air from ten thousand chimneys, and in the middle of it all the Lists, a long oval of pale stone, bigger than anything Salty had ever seen built by hand. There were tents outside the walls. Hundreds. Flags on poles. People on every road. It looked, Salty thought, like a festival. Like the biggest festival in the world, on the morning of the first day, when everybody's arrived and nothing's started yet.
 
 And there was something in every window.
 
@@ -105,7 +105,7 @@ And on the road outside it. A little way out, past the last of the gardens, wher
 
 Salty knew him.
 
-He couldn't see his face. He'd never been able to see his face; nobody could; on the red it had slid off your eyes like rain. But he'd stood thirty paces from that man at the edge of a ring of flowers in the dusk and watched him take a sword the size of a door out of his hands and carry it home like firewood. He knew the way he stood. Weight on the back foot. Easy. Ready to go either way. Like a man holding an angle.
+He couldn't see his face. He'd never been able to see his face; nobody could; on the red it had slid off your eyes like rain. But he'd stood thirty paces from that man at the edge of a ring of flowers in the dusk and watched him take a sword the size of a door out of his hands and carry it home like firewood. He knew the way he stood. Weight on the back foot. Easy. Ready to go either way. Like a man waiting in a doorway.
 
 "Oh," said Maigo.
 
@@ -187,7 +187,7 @@ Niko hadn't moved. He was still standing by the far side of the cart with his ha
 
 "I know."
 
-"I knew on the red." Niko didn't take his hands out of his pockets. His voice was perfectly level. "I watched you hold the angle on the rise. Before you came down. You stood exactly where I'd have stood. Same timing. Same patience." He paused. "There was a guy on a community server, years ago. When I was seventeen. Used to sit in mid with an AWP and wait for me. Every single round. Every map. He'd wait so long you'd think he'd gone to make tea, and then you'd peek, and you'd be dead." He looked at the man. "Same guy."
+"I knew on the red." Niko didn't take his hands out of his pockets. His voice was perfectly level. "I watched you wait on the rise. Before you came down. You stood exactly where I'd have stood. Same timing. Same patience." He paused. "There was a guy, years ago. Online. When I was seventeen. Used to wait for me. Every single night. He'd wait so long you'd think he'd gone to make tea, and then you'd move, and he'd already have you." He looked at the man. "Same guy."
 
 "Same guy," said the man.
 
@@ -263,7 +263,7 @@ The man went still.
 
 It had been a running thing. Two years of it. Salty had never told anyone else what it meant, not even Wendy, who'd guessed.
 
-Every time Salty clutched a round in a game with Ice watching, a one-versus-two or worse, Ice had said the same thing in voice. *Okay. That's a dinner. When you come out, dinner's on me*. And Salty would say *that's two*, or *that's five*, and Ice would say *I know, I know, I'm keeping count, trust*. And it had gone up. Every clutch. Six. Eight. Ten. *When you come out*. Salty and Wendy had been going to fly out. Yan too. They'd been looking at dates.
+Every time Salty pulled a night back on his own, with everybody else gone and Ice listening, against two or worse, Ice had said the same thing on the call. *Okay. That's a dinner. When you come out, dinner's on me*. And Salty would say *that's two*, or *that's five*, and Ice would say *I know, I know, I'm keeping count, trust*. And it had gone up. Every time. Six. Eight. Ten. *When you come out*. Salty and Wendy had been going to fly out. Yan too. They'd been looking at dates.
 
 Eleven. The last one had been about a month before. A one-versus-three on a map Salty hated, with Ice dead in the corner narrating it. *That's eleven. Eleven dinners. I'm going to be broke*.
 
@@ -289,7 +289,7 @@ After a while the man came round the cart. He stood beside Salty. He didn't hug 
 
 Yan was last.
 
-He'd stood at the front of the cart the whole time, where he'd been when it stopped. He hadn't moved. He'd stood in the road with Suzu round his neck and his long hair down his back and his hands at his sides, and watched the others go one at a time, Maigo and Niko and Wendy and Salty, the way a captain watches his team load into a round. Calm. Half-lidded. Steady. The one who'd kept everyone together for two years on the edge of the red.
+He'd stood at the front of the cart the whole time, where he'd been when it stopped. He hadn't moved. He'd stood in the road with Suzu round his neck and his long hair down his back and his hands at his sides, and watched the others go one at a time, Maigo and Niko and Wendy and Salty, the way a captain watches his crew go up a gangplank. Calm. Half-lidded. Steady. The one who'd kept everyone together for two years on the edge of the red.
 
 He'd been the first to know. Salty knew that now. Yan had known before anyone. He'd seen it on the red, with whatever it was he saw with: the man's soul, older than his body, not from this world. And he'd said nothing. He'd pondered it alone. He'd counted thirty-six from a grave, in the winter, at the moment he reached his first tier, and written it in a letter. *Thirty-six. I counted*.
 

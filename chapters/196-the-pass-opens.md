@@ -7,7 +7,7 @@ date: 2026-11-01
 
 On Earth, Hyvred had seen the world through a hole.
 
-A small one. About the size of a coin held at arm's length. Everything else had been dark, or nearly, a grey smear round the edge of the hole where shapes moved and you guessed. She'd learned to guess very well. She'd learned to turn her head instead of her eyes, and to listen for doors, and to find a face in a crowd by the sound of it laughing. She'd made a clip once, for her stream, to show people what it was like: a black screen with a little circle of light in the middle, going round a room. It had done very well. A man in her chat had said it looked exactly like the Flashlight mod in osu!, and laughed, and then found out it wasn't a joke, and apologised eleven times. Then, the next stream, *still sorry*.
+A small one. About the size of a coin held at arm's length. Everything else had been dark, or nearly, a grey smear round the edge of the hole where shapes moved and you guessed. She'd learned to guess very well. She'd learned to turn her head instead of her eyes, and to listen for doors, and to find a face in a crowd by the sound of it laughing. She'd made a clip once, for her stream, to show people what it was like: a black screen with a little circle of light in the middle, going round a room. It had done very well. A man in her chat had said it looked exactly like walking round with a flashlight, and laughed, and then found out it wasn't a joke, and apologised eleven times. Then, the next stream, *still sorry*.
 
 She'd laughed for a week. She'd never told him it was the nicest thing anyone had said about it.
 
@@ -29,7 +29,7 @@ Hyvred put her glasses up into her hair. She didn't need them. She never had, he
 
 Then she let her sight go out.
 
-The gold eye. The left one, with the red crosshair in it. She felt it lock, the way it always did, a little click behind her eye like a door shutting. And the valley came up toward her, all of it, eleven miles, sharp as the inside of a cut.
+The gold eye. The left one, with the red mark in it. She felt it lock, the way it always did, a little click behind her eye like a door shutting. And the valley came up toward her, all of it, eleven miles, sharp as the inside of a cut.
 
 The snow was going.
 
@@ -297,7 +297,7 @@ Hyvred watched his light. She couldn't help it. She watched it look at the pass,
 
 The king looked at her.
 
-He looked at her for a long moment, the way he'd looked at all of them in the hall, on the first day, one face at a time, as if he were committing them to memory. At the golden horns. At the glasses in her hair. At the gold eye with the red crosshair in it, locked, because she'd forgotten to unlock it.
+He looked at her for a long moment, the way he'd looked at all of them in the hall, on the first day, one face at a time, as if he were committing them to memory. At the golden horns. At the glasses in her hair. At the gold eye with the red mark in it, locked, because she'd forgotten to unlock it.
 
 "You're the one who sees," said the king.
 

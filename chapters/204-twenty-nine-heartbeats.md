@@ -187,7 +187,7 @@ He'd been embarrassed about it for four months. That was the stupid thing. It wa
 
 Yan looked at him.
 
-"In English. In capitals. Like a class name. Like the thing you pick on the character screen in a game, under the box where you put your name." Niko looked at his hands. "*BATTLEMAGE*. And then it went. And something else came up that I couldn't read."
+"In English. In capitals. Like a class name. Like the word under a picture in a book, over the line where you write your name." Niko looked at his hands. "*BATTLEMAGE*. And then it went. And something else came up that I couldn't read."
 
 "Is that what you are?"
 
@@ -333,7 +333,7 @@ He let it out.
 
 And he thought about the man's wrist.
 
-Not his arms. His arms hadn't done much. Niko had watched; he'd been watching the man's hands since he was seventeen, on a mouse, on a keyboard, on a rifle in a game, holding an angle. He knew those hands better than anyone's. And at the fire, on the eleventh night, the arms had hardly moved. It was the *wrist*. A little flick, forward and up, and then a drop, a give, the hand going down a fraction just as the food left the pan, so the pan got out of the way. So it wasn't throwing the food up. It was taking the pan *away*. Letting go of it for a moment. Letting the food go up on its own, because it was already going, because it wanted to, out of the heat. And then bringing the pan back underneath, at the bottom, to catch it.
+Not his arms. His arms hadn't done much. Niko had watched; he'd been watching the man's hands since he was seventeen, one way or another, still, waiting. He knew those hands better than anyone's. And at the fire, on the eleventh night, the arms had hardly moved. It was the *wrist*. A little flick, forward and up, and then a drop, a give, the hand going down a fraction just as the food left the pan, so the pan got out of the way. So it wasn't throwing the food up. It was taking the pan *away*. Letting go of it for a moment. Letting the food go up on its own, because it was already going, because it wanted to, out of the heat. And then bringing the pan back underneath, at the bottom, to catch it.
 
 You didn't push it up.
 
@@ -443,7 +443,7 @@ And the little upright mark at the start of the third line went on, and off, and
 
 Waiting.
 
-Not for it to guess. He saw that now, at twenty-seven, with everything in him going round and the dawn coming up red over the mountains. The frost-letters were guessing. The cursor wasn't. The cursor had never once guessed anything. It just sat at the start of the box and blinked, the way a cursor does, on the first screen of every game he'd ever started, when he was twelve and fifteen and seventeen and twenty-five, waiting for whoever was holding the keyboard.
+Not for it to guess. He saw that now, at twenty-seven, with everything in him going round and the dawn coming up red over the mountains. The frost-letters were guessing. The cursor wasn't. The cursor had never once guessed anything. It just sat at the start of the box and blinked, the way a cursor does at the start of an empty page, waiting for whoever was going to write.
 
 "Twenty-eight."
 
@@ -501,7 +501,7 @@ She didn't explain. Elves didn't, much. She just smiled at him, a little, shy, t
 
 He wrote it at noon, in the courtyard, on the mounting block, with his window open in front of him.
 
-He thought about what to put for a long time. In the end he put what he'd have typed in all-chat at seventeen.
+He thought about what to put for a long time. In the end he put what he'd been sent at seventeen.
 
 [ 12:04 · Nikorasu: 29.
 12:04 · Nikorasu: no blood. let it go myself
@@ -522,7 +522,7 @@ He thought about what to put for a long time. In the end he put what he'd have t
 
 He looked at that last one for a long time.
 
-He'd written it to Tiger. A spring night, a month ago, after the Bolt. *Nice one. Again*. He'd never told Tiger where it came from. He'd never told anyone. Three words, in an all-chat at two in the morning, from an AWPer who'd killed him four hundred times and never said anything else, to a boy of seventeen on a community server. He'd kept it for more than eleven years. And given it away, a month ago, without thinking, because a friend had got there first and he wanted to say the best thing he knew.
+He'd written it to Tiger. A spring night, a month ago, after the Bolt. *Nice one. Again*. He'd never told Tiger where it came from. He'd never told anyone. Three words, at two in the morning, from a stranger who'd beaten him four hundred times and never said anything else, to a boy of seventeen online. He'd kept it for more than eleven years. And given it away, a month ago, without thinking, because a friend had got there first and he wanted to say the best thing he knew.
 
 And Tiger had given it back.
 

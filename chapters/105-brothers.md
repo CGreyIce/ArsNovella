@@ -27,7 +27,7 @@ The kettle began to whistle, both notes, and on the floor under every blanket th
 
 Gabe considered this, without opening his eyes. "Okay," he said, and sat up.
 
-Xav was already sitting up. He'd been sitting up the whole time, against the wall by the door, with a blanket round his shoulders and his eyes open in the dark. He hadn't been asleep. Xav was never asleep when you thought he was. You learned that, after a few hundred games, the hard way.
+Xav was already sitting up. He'd been sitting up the whole time, against the wall by the door, with a blanket round his shoulders and his eyes open in the dark. He hadn't been asleep. Xav was never asleep when you thought he was. You learned that, after a few hundred nights, the hard way.
 
 He made the tea. He owned three cups and a bowl. He gave Gabe the big cup, and Xav the one with the chip, and kept the bowl for himself, and took the last cup out to the step, where Deston was sitting in the dark with his window closed and his arms round his knees, looking at the lake.
 
@@ -109,11 +109,11 @@ He told them about the garrison. Fifteen, with a borrowed sword and a temper, be
 
 "It's the only one I've got." He looked at Xav. "You'd have pushed too. If you were bored."
 
-"I wasn't bored," said Xav. "You were angry. It's different. You always played worse angry."
+"I wasn't bored," said Xav. "You were angry. It's different. You were always worse angry."
 
 "I know."
 
-"You'd peek."
+"You'd go first."
 
 "I know, Xav."
 

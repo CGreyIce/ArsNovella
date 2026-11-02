@@ -359,17 +359,17 @@ Then Rui Xiang was there again, standing directly behind him, a pace away, with 
 
 "*How*," said Rui Xiang.
 
-"You don't click the circle," said the man. "You wait till it isn't there."
+"You don't look for the thing," said the man. "You wait till it isn't there."
 
 Rui Xiang stared at him.
 
 Then he made a sound like a kettle boiling over, and sat down on the terrace with his back against Rowan's wall, and put both hands in his hair.
 
-"That's *Hidden*," he said. "That's the *Hidden* thing. You told me that in a *Discord call*. About *osu!*. *Years* ago."
+"That's *yours*," he said. "That's the thing you always said. You told me that on a *call*. About *timing*. *Years* ago."
 
 "It still works."
 
-"I chased your scores for *six years*," said Rui Xiang. "I never got one. Not one. I had your birthday in my phone for *two years*. I was going to fly up. I was *going to*." He looked up. "I'm going to beat you at something. Here. I don't care what. I swear."
+"I chased you for *six years*," said Rui Xiang. "At the one thing. I never beat you. Not once. I had your birthday in my phone for *two years*. I was going to fly up. I was *going to*." He looked up. "I'm going to beat you at something. Here. I don't care what. I swear."
 
 "I know you will," said the man.
 
@@ -453,7 +453,7 @@ Not about anything that mattered. Not about the Redmarch, or the healer, or the 
 
 So they talked about everything else.
 
-About Kingsferry, and Duskhollow, and the Hollow. About Sister Maud, who'd given Rachael her needle case. About the bricked door that breathed. About osu!, and Inferno, and a choir in Singapore, and whether the dancing bear had been happy, which turned out to be a question everybody had an opinion on. About a kettle. About the worst inn on the Wren. About a hundred things that were nothing, and that were the most important things in the world, because they'd thought they'd never get to talk about them with him again.
+About Kingsferry, and Duskhollow, and the Hollow. About Sister Maud, who'd given Rachael her needle case. About the bricked door that breathed. About the old calls, and the old flat, and a choir in Singapore, and whether the dancing bear had been happy, which turned out to be a question everybody had an opinion on. About a kettle. About the worst inn on the Wren. About a hundred things that were nothing, and that were the most important things in the world, because they'd thought they'd never get to talk about them with him again.
 
 Dennis sat on the flagstones with his back against the wall and listened.
 

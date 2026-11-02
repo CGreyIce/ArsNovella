@@ -21,7 +21,7 @@ It was Rui Xiang.
 
 ***
 
-He'd known Rui Xiang since he was seventeen. Since the first week of polytechnic, in Singapore, in a classroom with the air-conditioning broken and forty people in it, and a skinny boy in the front row who talked faster than anyone Xav had ever met and typed faster than he talked. Rui Xiang had been the first person in the class to finish every assignment and the last to hand it in, because he'd finished it in an hour and then spent three days making it better. He'd played osu! with the Hidden mod on everything and been very good and very annoyed that Declan was better. He'd meant to visit Declan in Malacca for his birthday, the year Declan was twenty-five, and hadn't, because of work, and then there hadn't been another birthday.
+He'd known Rui Xiang since he was seventeen. Since the first week of polytechnic, in Singapore, in a classroom with the air-conditioning broken and forty people in it, and a skinny boy in the front row who talked faster than anyone Xav had ever met and typed faster than he talked. Rui Xiang had been the first person in the class to finish every assignment and the last to hand it in, because he'd finished it in an hour and then spent three days making it better. He'd been brilliant at the one thing that was all timing and very annoyed that Declan was better. He'd meant to visit Declan in Malacca for his birthday, the year Declan was twenty-five, and hadn't, because of work, and then there hadn't been another birthday.
 
 He'd said so at a fire on the river road out of Solmere, in the first week, in the dark. *I was going to go for his birthday*. And then nothing for two days.
 
@@ -85,13 +85,13 @@ He lay on the floor of the long room at the Lance with Group 6 in a heap round h
 
 Xav lay on the floor and thought about Declan.
 
-Not the man in the north stand. He didn't think about the man in the north stand. He'd sworn that the night the cart came in by the north road and Group 1 sat down at their table and said nothing; he'd looked at Thea's face and Gigichi's and heard what they weren't saying the way you'd hear a footstep on the other side of a wall in a round, and he'd put it away, in the place you put the information you're not going to use yet. He didn't think about it.
+Not the man in the north stand. He didn't think about the man in the north stand. He'd sworn that the night the cart came in by the north road and Group 1 sat down at their table and said nothing; he'd looked at Thea's face and Gigichi's and heard what they weren't saying the way you'd hear a footstep on the other side of a wall at night, and he'd put it away, in the place you put the information you're not going to use yet. He didn't think about it.
 
-He thought about the other one. On Earth. Seventeen. In a polytechnic computer lab after hours, with the fans roaring and nobody else there, and Declan leaning over his shoulder saying *no, wait, don't peek it, just wait. Let him come to you. He's got to come round that corner sometime. He doesn't know you're here*.
+He thought about the other one. On Earth. Seventeen. In a polytechnic computer lab after hours, with the fans roaring and nobody else there, and Declan leaning over his shoulder saying *no, wait, don't go to him, just wait. Let him come to you. He's got to come round that corner sometime. He doesn't know you're here*.
 
 *How do you know he doesn't know?*
 
-*Because you haven't decided anything yet*, Declan had said. *If you've decided, you lean. You can't help it. Your crosshair's already there and he can feel it. If you haven't decided, there's nothing to feel*.
+*Because you haven't decided anything yet*, Declan had said. *If you've decided, you lean. You can't help it. You're already looking there and he can feel it. If you haven't decided, there's nothing to feel*.
 
 *That doesn't make sense*.
 
@@ -149,9 +149,9 @@ Xav stood in the middle of the chalk ring with his practice sword low and his wh
 
 He waited anyway. Not because he decided to. Because it was the only thing he knew how to do, and his body did it before he could stop it. He stood very still and waited for the gather, the way he'd waited for every gather for two years and a half, and felt himself lean.
 
-He felt it. Just slightly. The way you'd feel your crosshair drift toward a corner you've decided someone's coming round. Toward the left. Because Rui Xiang liked the left; Rui Xiang had always liked the left; in every server, on every map, Rui Xiang had come round the left. His weight went a hair to the left, to meet him.
+He felt it. Just slightly. The way you feel your eyes drift toward a corner you've decided someone's coming round. Toward the left. Because Rui Xiang liked the left; Rui Xiang had always liked the left; every night, every time, Rui Xiang had come round the left. His weight went a hair to the left, to meet him.
 
-And Rui Xiang, who'd been in a hundred servers with him, felt the lean, and came from the right.
+And Rui Xiang, who'd been up a hundred nights with him, felt the lean, and came from the right.
 
 Xav felt the dagger touch his ribs on the right side, very lightly, the flat of it, at the same moment as he felt Rui Xiang's aura come back out of nowhere into the strike, all at once, like a candle lit in a dark room.
 
@@ -199,21 +199,21 @@ He'd never done it before. He didn't know it was there until he was doing it. It
 
 It didn't mean that. Or it didn't only mean that.
 
-It meant *decide late*. So late it's the same moment as moving. So late there's no lean. So late that there's no gap between the deciding and the doing for anybody to feel, not a crosshair drifting, not a weight going a hair to the left. Not *from under the thinking*; that was the door, and he kept his hand off the door. Just the thinking, and the moving, at the same time. One thing.
+It meant *decide late*. So late it's the same moment as moving. So late there's no lean. So late that there's no gap between the deciding and the doing for anybody to feel, not an eye drifting, not a weight going a hair to the left. Not *from under the thinking*; that was the door, and he kept his hand off the door. Just the thinking, and the moving, at the same time. One thing.
 
 He stood in the chalk ring with his sword low and didn't decide anything.
 
-Not waiting. *Not deciding*. Which was different. Waiting was a thing you did; you could feel somebody waiting, the way you could feel somebody holding their breath. Not deciding was nothing. It was standing in an empty ring with your weight on both feet exactly and your crosshair nowhere, the way the man stood at the end of a jetty, in the morning, before the fish.
+Not waiting. *Not deciding*. Which was different. Waiting was a thing you did; you could feel somebody waiting, the way you could feel somebody holding their breath. Not deciding was nothing. It was standing in an empty ring with your weight on both feet exactly and your eyes nowhere, the way the man stood at the end of a jetty, in the morning, before the fish.
 
 Rui Xiang was somewhere in eight paces of chalk. Rui Xiang was waiting for him to lean.
 
 He didn't lean. There was nothing to lean toward. He hadn't decided where Rui Xiang was, so he wasn't anywhere. He just stood.
 
-And Rui Xiang, who'd been in a hundred servers with him, and knew every corner he'd ever held, and could feel his crosshair drift from across a map, stood somewhere in the ring and waited for the lean that didn't come, and waited, and Xav felt nothing, nothing, nothing, the way you feel nothing in an empty room.
+And Rui Xiang, who'd been up a hundred nights with him, and knew every corner he'd ever held, and could feel his eyes drift from across a room, stood somewhere in the ring and waited for the lean that didn't come, and waited, and Xav felt nothing, nothing, nothing, the way you feel nothing in an empty room.
 
 Then, very faintly, he felt Rui Xiang *wonder*.
 
-Not gather. Rui Xiang didn't gather. Wonder. A tiny thing. The kind of thing that goes through you in a round when you've been holding an angle for too long and the enemy hasn't come and you start to think *is he even there*. Rui Xiang's aura didn't move. But something in Rui Xiang moved. Just a hair. Toward *should I go*.
+Not gather. Rui Xiang didn't gather. Wonder. A tiny thing. The kind of thing that goes through you when you've been waiting too long and nothing's come and you start to think *is he even there*. Rui Xiang's aura didn't move. But something in Rui Xiang moved. Just a hair. Toward *should I go*.
 
 And the moment it did, Xav decided.
 
@@ -313,7 +313,7 @@ Xav stopped.
 
 He didn't turn round.
 
-He knew the voice. He'd known it in a computer lab at two in the morning, leaning over his shoulder. *Don't peek it. Just wait*. He'd known it on a shingle beach at dawn with a driftwood stick in its hand. *Xav says you never move first*. He'd known it on the end of a jetty in the dark with the lamp lit, telling him and Gabe and Deston about a ditch and a general and a rise with a ring of fire round it, all night, until the lamp went out.
+He knew the voice. He'd known it in a computer lab at two in the morning, leaning over his shoulder. *Don't go to him. Just wait*. He'd known it on a shingle beach at dawn with a driftwood stick in its hand. *Xav says you never move first*. He'd known it on the end of a jetty in the dark with the lamp lit, telling him and Gabe and Deston about a ditch and a general and a rise with a ring of fire round it, all night, until the lamp went out.
 
 He'd know it anywhere. In any crowd. In any world.
 
@@ -335,7 +335,7 @@ Behind him, he felt it, the way you feel a door close softly in another room: so
 13:13 · Rui Xiang: i came round the left for eleven years and he knew and then he DIDN'T LEAN
 13:13 · Malcolm: IF Xav doesn't lean THEN
 13:14 · Malcolm: I've got nothing. that's the first IF I've ever had nothing for.
-13:14 · Azac: AND XAV TAKES THE ROUND. HE DIDN'T EVEN MOVE. HE JUST WAS THERE. THE CROWD IS ON ITS FEET. Rui Xiang IS LAUGHING. I'M CRYING
+13:14 · Azac: AND XAV TAKES IT. HE DIDN'T EVEN MOVE. HE JUST WAS THERE. THE CROWD IS ON ITS FEET. Rui Xiang IS LAUGHING. I'M CRYING
 13:15 · Gabe: xav!!!!
 13:15 · Deston: Xav.
 13:15 · Hyvred: XAV!!! tempered!!! I'm STILL on the tower
@@ -346,10 +346,10 @@ He read it on the floor of the long room at the Lance, with Group 6 in a heap ro
 
 He read the last line he'd written. *That's still saved*.
 
-He thought about a jetty. About the tenth. About a man on the end of it with a driftwood stick in his hand and the lamp lit behind him, who'd caught everything Xav had ever thrown at him for eleven years, in a server and on a shingle, and who'd stood in the thickest crowd in Valcrest at noon close enough to say four words, and gone.
+He thought about a jetty. About the tenth. About a man on the end of it with a driftwood stick in his hand and the lamp lit behind him, who'd caught everything Xav had ever thrown at him for eleven years, online and on a shingle, and who'd stood in the thickest crowd in Valcrest at noon close enough to say four words, and gone.
 
 *Save one for the jetty*.
 
-He'd heard the other thing in it, too. Under the words. The thing you heard in a voice you'd known since you were seventeen, if you knew it well enough. Not *well done*. Not *I saw*. Something more like what Declan used to say at two in the morning when Xav held an angle for four minutes without peeking and the enemy finally came round the corner straight into his crosshair, and Declan, on the call, very quietly, before anyone else had even seen the kill feed, would just say:
+He'd heard the other thing in it, too. Under the words. The thing you heard in a voice you'd known since you were seventeen, if you knew it well enough. Not *well done*. Not *I saw*. Something more like what Declan used to say at two in the morning when Xav waited four minutes without moving and it finally came round the corner straight to him, and Declan, on the call, very quietly, before anyone else had even seen it happen, would just say:
 
 *There it is*.

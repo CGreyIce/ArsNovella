@@ -451,7 +451,7 @@ The third move. Petra's face, a hand's width away, eyes wide. The line going out
 
 "Again," said Rui Xiang.
 
-John played it again. And again. And they stood on the gravel bar in the grey with the river going past and watched it eleven times, the way you watch the last round of a match you can't believe you won, and nobody said anything, and John grinned, and grinned, with his face wet, the whole time.
+John played it again. And again. And they stood on the gravel bar in the grey with the river going past and watched it eleven times, the way you watch the end of a match you can't believe you won, and nobody said anything, and John grinned, and grinned, with his face wet, the whole time.
 
 ***
 
@@ -501,7 +501,7 @@ The third move wasn't a move. It was a door. And you didn't open it on somebody 
 
 Xav stood on the quay and looked at the empty air where nobody was.
 
-There was one person in two worlds who could catch it. He'd caught everything Xav had ever thrown at him for nine years, in two worlds, in a server at two in the morning and on a shingle beach at dawn. He'd catch this. He'd move a third time, and whatever came through the door would come through, and he'd catch it, the way a jetty post catches the lake.
+There was one person in two worlds who could catch it. He'd caught everything Xav had ever thrown at him for nine years, in two worlds, online at two in the morning and on a shingle beach at dawn. He'd catch this. He'd move a third time, and whatever came through the door would come through, and he'd catch it, the way a jetty post catches the lake.
 
 *Next year*, Xav thought. *On the jetty. For the tenth*.
 

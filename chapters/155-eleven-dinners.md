@@ -15,11 +15,11 @@ And then the list.
 
 He could see it now, at the second anvil in the forge at Cinderhold, with a hammer in his hand and a hinge on the anvil for the north gate. He could see the shape of it on the screen. Eleven lines, all lower case, because Ice never used capitals unless he was angry or it was a name, with a note on every line, and the notes were the best part. He'd forgotten most of the notes. He remembered the first one, and the last, and the shape of the thing in between.
 
-It had started at three. That was the other part. The first version of the list, months before, had been three lines long, after the third clutch. And every time Salty clutched a round with Ice dead in the corner watching, Ice had said *that's a dinner*, and the next day the list would be one line longer, and he'd send it again. *updated*. Four. Six. Nine. Eleven.
+It had started at three. That was the other part. The first version of the list, months before, had been three lines long, after the third time. And every time Salty pulled a night back on his own, with everyone else gone and Ice listening, Ice had said *that's a dinner*, and the next day the list would be one line longer, and he'd send it again. *updated*. Four. Six. Nine. Eleven.
 
 Eleven, a month before.
 
-And then nothing. Because there wasn't a twelfth clutch. Because there wasn't a next month.
+And then nothing. Because there wasn't a twelfth time. Because there wasn't a next month.
 
 He hit the hinge. It was a good hinge. Oakes would say it was a hinge, which from Oakes was a medal.
 
@@ -147,7 +147,7 @@ She looked at the man then. For the first time. Straight at where his face was, 
 
 Nobody said anything for a long time.
 
-Salty sat on his bucket by the second anvil and looked at the floor. He'd forgotten that one. He'd forgotten the notes, mostly, but he'd forgotten that one entirely. The eleventh. The one Ice had added a month before, after the last clutch, a one-versus-three on a map Salty hated. *Updated*. Eleven lines. And the last one wasn't food at all. It was *come to my house and I'll make you something terrible*.
+Salty sat on his bucket by the second anvil and looked at the floor. He'd forgotten that one. He'd forgotten the notes, mostly, but he'd forgotten that one entirely. The eleventh. The one Ice had added a month before, after the last time, one against three, on a night Salty hated. *Updated*. Eleven lines. And the last one wasn't food at all. It was *come to my house and I'll make you something terrible*.
 
 He'd been going to do it. Ice had. He'd been going to cook for them in his flat in Malacca, badly, with the cardboard still on the pizza, and they'd been going to eat it anyway.
 
@@ -259,9 +259,9 @@ Salty hadn't seen the float go. He'd been watching it. He hadn't seen it go.
 
 "That's how I played."
 
-Salty thought about that. He thought about a hundred rounds in a hundred games where he'd gone in with the rifle and died, and come back to the call to find Ice still alive in the corner, not moving, holding an angle nobody had looked at, and then at the very end of the round, after everyone else was dead, moving once.
+Salty thought about that. He thought about a hundred nights where he'd gone in first and gone down, and come back to the call to find Ice still there, not moving, waiting where nobody had looked, and then at the very end, after everyone else was out, moving once.
 
-"You were boring to watch," said Salty. "In games."
+"You were boring to watch," said Salty. "At home."
 
 "I know."
 
@@ -567,11 +567,11 @@ Salty didn't say anything for a moment.
 
 The man turned his head.
 
-"I clutched," said Salty. "On the red. Last summer. With the sword. One against fifty." He looked at the dark hearth. "You were watching. From the rise. Niko saw you." He swallowed. "That's a clutch. That's twelve."
+"I did it," said Salty. "On the red. Last summer. With the sword. One against fifty." He looked at the dark hearth. "You were watching. From the rise. Niko saw you." He swallowed. "On my own. With you watching. That's twelve."
 
 There was a long silence in the forge.
 
-And then the man laughed. Not loudly. Not the way he'd laughed on Rowan's terrace with a boot held up in front of him. Quietly, in the dark, the way he must have laughed in the call at two in the morning, with Salty alive in the corner of a round against three and everyone else dead. Helpless. Delighted.
+And then the man laughed. Not loudly. Not the way he'd laughed on Rowan's terrace with a boot held up in front of him. Quietly, in the dark, the way he must have laughed on the call at two in the morning, with Salty on his own against three and everyone else out. Helpless. Delighted.
 
 "Twelve," said the man. "That's fair. That's a dinner."
 

@@ -209,7 +209,7 @@ He stopped in front of him.
 
 Xav looked at him for a long time.
 
-Deston watched his face. He'd known Xav for years, the way you know your best friend's other best friend: in lobbies, on calls, at the edges of things, with Declan in the middle. He'd seen Xav's face at the end of close rounds. He'd seen it on the roof at Duskhollow, in the dark, the night Deston told him everything. He'd seen it on the landing stage, when the barge came in.
+Deston watched his face. He'd known Xav for years, the way you know your best friend's other best friend: on calls, at the edges of things, with Declan in the middle. He'd seen Xav's face at the end of close rounds. He'd seen it on the roof at Duskhollow, in the dark, the night Deston told him everything. He'd seen it on the landing stage, when the barge came in.
 
 He'd never seen it do this.
 
@@ -227,7 +227,7 @@ The man laughed.
 
 It came out of him short and startled and wet, the way you laugh when somebody's said the exact thing you needed and didn't know you needed. He put his hand on the back of Xav's neck and pulled him in, and Xav let him, standing very stiff on the shingle at first, the way Xav always stood when somebody hugged him, and then not stiff at all.
 
-"I've been waiting three years," said Xav, into his shoulder. Very flat. Very steady. "On a quay. In a yard. On a community server. I'm good at it now. You taught me."
+"I've been waiting three years," said Xav, into his shoulder. Very flat. Very steady. "On a quay. In a yard. At a desk at three in the morning. I'm good at it now. You taught me."
 
 "I know."
 

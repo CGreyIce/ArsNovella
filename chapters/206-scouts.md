@@ -594,7 +594,7 @@ She didn't have to think. She'd drilled it all Saturday a hundred paces from the
 
 "Holding," said Niko.
 
-He went and stood in it. Wendy watched him go. A gap in a ring, on the east side, between two of the old ones with spears, with his short sword in his hand and his weight on his back foot and his eyes not on the dark, but on the gaps in the dark. He looked exactly the way he'd looked two summers ago in the gap on the red, and exactly the way he'd looked on Earth, at three in the morning, hunched forward over a keyboard with his headset half off, holding an angle he'd held a thousand times.
+He went and stood in it. Wendy watched him go. A gap in a ring, on the east side, between two of the old ones with spears, with his short sword in his hand and his weight on his back foot and his eyes not on the dark, but on the gaps in the dark. He looked exactly the way he'd looked two summers ago in the gap on the red, and exactly the way he'd looked on Earth, at three in the morning, hunched forward at a desk at three in the morning, waiting the way he'd waited a thousand times.
 
 "Maigo. The tree."
 
@@ -676,7 +676,7 @@ The glow didn't reach that far.
 
 "They're here," said Yan.
 
-He didn't open his eyes. He said it the way he'd said things on a call at three in the morning, in a ranked game, when it had all gone quiet and everybody was holding. Slow and deep and perfectly calm.
+He didn't open his eyes. He said it the way he'd said things on a call at three in the morning, when it had all gone quiet and everybody was holding their breath. Slow and deep and perfectly calm.
 
 "Bottom of the slope," said Yan. "East. Where the rivers meet. All of them." He was quiet a moment. "They've stopped."
 

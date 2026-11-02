@@ -11,9 +11,9 @@ That was the easiest way to explain it, and she'd explained it a lot. Not blind.
 
 She'd made a clip about it once. A little video, for her stream, of what it looked like from the inside. A black screen with a round bright hole in the middle, moving around a room. She'd thought it might help people understand.
 
-And a guy in chat had said it looked exactly like osu!'s Flashlight mod.
+And a guy in chat had said it looked exactly like walking round a dark room with a flashlight.
 
-He'd meant it as a joke. Flashlight was a thing you turned on in a rhythm game to make it harder: the screen went dark except for a circle round your cursor, and you played the whole map through a hole. Good players did it to show off. And this guy had seen her clip and gone *oh, that's just Flashlight*, the way you would, and then somebody else in chat had said *dude she actually has that*, and he had apologised.
+He'd meant it as a joke. Everybody's walked round a dark room with a torch: the whole room's there, and all you get is the circle. And this guy had seen her clip and gone *oh, that's just a flashlight*, the way you would, and then somebody else in chat had said *dude she actually has that*, and he had apologised.
 
 He'd apologised *so much*. Eleven messages. She'd counted. *oh no*. *oh no im so sorry*. *i didnt know*. *im an idiot*. *im so sorry*. On and on, scrolling up her chat, until she'd been laughing too hard to read them. It had been the funniest thing that had happened on her stream that month. She'd told him so. He'd sent one more anyway. *still sorry*.
 
@@ -65,7 +65,7 @@ Hyvred stood on the sand and looked at all of it at once.
 
 She could. That was still the thing. Every tier. Every bench. The forty-foot bracket on the east wall, which was mostly blank boxes, with the spider still in the top corner, sitting in the middle of its web. The paper fishing rods somebody had tied along the rail of the royal box. The moon, and all the stars round it, through the oval at the top. Not through a hole. All of it, edges and all, as far as there was.
 
-And with the other eye, the scope eye, the one with the little red mark in it like a crosshair: she could see the light in things. She'd been able to since the first week. The faint warm glow in the sand where ten thousand people had sat and shouted and been happy. The cold old light in the stone. The light in her friends, moving, the way mana moves in anyone who has any. Tiger's, quick and hot and all in his legs. Drew's, steady, slow, a banked fire. Bee's, sharp and stubborn and fizzing at the fingertips where the chalk was. Kei's, calm, cool, with a little bright knot of something else wound round his neck that was Hisui.
+And with the other eye, the scope eye, the one with the little red mark in it: she could see the light in things. She'd been able to since the first week. The faint warm glow in the sand where ten thousand people had sat and shouted and been happy. The cold old light in the stone. The light in her friends, moving, the way mana moves in anyone who has any. Tiger's, quick and hot and all in his legs. Drew's, steady, slow, a banked fire. Bee's, sharp and stubborn and fizzing at the fingertips where the chalk was. Kei's, calm, cool, with a little bright knot of something else wound round his neck that was Hisui.
 
 And the water-carrier's.
 
@@ -93,7 +93,7 @@ Then he went up to the left-hand post and put his hand flat on it. Not pushing. 
 
 "Why would it fall down?"
 
-"Everything I build falls down." Tiger's voice was very light. Much too light. "That's my thing. It's the joke. Everyone knows. The Minecraft house blew up and since then nothing I build stands. Here. Back home. Doesn't matter. Huts. Sheds. A wall at Thornwall that a cart backed into. A tower that blew over before anyone climbed it." He laughed. It wasn't a very good laugh. "Except one. One thing. A shed, at Thornwall, against the north wall. I built it three times. The third time it got a roof." He looked at the gate. "It stood. All summer, in the storms. All winter, under a foot of snow. It's standing right now. The only thing I ever built that stood."
+"Everything I build falls down." Tiger's voice was very light. Much too light. "That's my thing. It's the joke. Everyone knows. The first house blew up and since then nothing I build stands. Here. Back home. Doesn't matter. Huts. Sheds. A wall at Thornwall that a cart backed into. A tower that blew over before anyone climbed it." He laughed. It wasn't a very good laugh. "Except one. One thing. A shed, at Thornwall, against the north wall. I built it three times. The third time it got a roof." He looked at the gate. "It stood. All summer, in the storms. All winter, under a foot of snow. It's standing right now. The only thing I ever built that stood."
 
 "Whose shed?"
 
@@ -321,11 +321,11 @@ They stayed up there until it got light.
 
 Not talking much. She sat on the parapet with her legs over the drop, the way a boy had sat on a wall at Cinderhold once in a story she'd never heard, and he sat on the walk beside her with his back against the stone and the two Pollen Puffs asleep on his shoulders, and the whole of Valcrest lay under them, going grey, and then pale, and then gold. Far below on the sand the chalk dog had curled up in the middle of the oval and gone to sleep, a white line in the silver. Tiger and Bee had gone back to the inn. Kei was asleep on the bottom tier with Hisui round his neck. Drew was a small figure in the arch, not asleep, never asleep, watching.
 
-"You called it Flashlight mod," said Hyvred, when the sun came up.
+"You called it a flashlight," said Hyvred, when the sun came up.
 
 He went quiet beside her.
 
-"In my chat," said Hyvred. "My clip. You said *that's just Flashlight*."
+"In my chat," said Hyvred. "My clip. You said *that's just a flashlight*."
 
 "I'm sorry."
 
@@ -353,9 +353,9 @@ And then he laughed. Out loud. On the top of the Lists at sunrise, with two Poll
 
 "You've got a *scope*. In your *eye*."
 
-"I *know*. With a *crosshair*. Red." She was laughing too. She couldn't stop. "You were an AWPer. Maigo told us. You were always on the AWP. And I've got a *crosshair*."
+"I *know*. With a *mark* in it. Red. Like a gunsight." She was laughing too. She couldn't stop. "Maigo told us you were the one who never missed. And I've got a *gunsight*."
 
-"Crosshair placement?"
+"Head height?"
 
 "*Head height*," said Hyvred. "Hako told me. He says you told him that first. Every time."
 

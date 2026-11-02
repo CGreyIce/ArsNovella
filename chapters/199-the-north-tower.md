@@ -21,7 +21,7 @@ He was going to have to trust somebody else's colours.
 
 He'd been up three times now.
 
-The first morning, the morning after he came. He'd come up behind the cow girl, slowly, with Kestra behind him counting the steps under her breath in case he wanted to know, which he didn't. And Hyvred had pushed her glasses up into her hair at the top, and turned to him with her gold eye locked, the red crosshair in it like a drawn line on a target, and said *I'll tell you everything, Majesty. You stop me if it's too much*.
+The first morning, the morning after he came. He'd come up behind the cow girl, slowly, with Kestra behind him counting the steps under her breath in case he wanted to know, which he didn't. And Hyvred had pushed her glasses up into her hair at the top, and turned to him with her gold eye locked, the red mark in it like a drawn line on a target, and said *I'll tell you everything, Majesty. You stop me if it's too much*.
 
 He hadn't stopped her.
 
@@ -119,7 +119,7 @@ The road. The pass road, going up between its walls of snow in its long slow swi
 
 He opened his eyes.
 
-"The clear bit," said Hyvred. "It's further down this side than it was. Yesterday it started at the foot of the pass. Today—" She turned her head, very slightly, the crosshair moving. "Today it starts a little way out. Past the bottom. Into the valley." She swallowed. "As if whoever's sweeping it is sweeping toward us."
+"The clear bit," said Hyvred. "It's further down this side than it was. Yesterday it started at the foot of the pass. Today—" She turned her head, very slightly, the red mark moving. "Today it starts a little way out. Past the bottom. Into the valley." She swallowed. "As if whoever's sweeping it is sweeping toward us."
 
 Nobody said anything.
 
@@ -135,7 +135,7 @@ Brannoch's hand had gone white on his hilt.
 
 Hyvred turned her face to it.
 
-He watched her do it. He'd watched her do it twice now, and it was the thing he'd remember about Thornwall, after, when he'd forgotten the rest. Not the rings; he'd never seen the rings. Her face, looking at the absence. A young woman with golden horns and a crosshair in her eye and the whole of the valley open to her like a page, the first person in two worlds, maybe, who'd ever had the whole of the world open to her like a page; and the way her face went, every time, when the page came to the one place that was blank. Like a reader who'd come to a word she didn't know. And kept coming to it. Every morning. And kept not knowing.
+He watched her do it. He'd watched her do it twice now, and it was the thing he'd remember about Thornwall, after, when he'd forgotten the rest. Not the rings; he'd never seen the rings. Her face, looking at the absence. A young woman with golden horns and a red mark in her eye and the whole of the valley open to her like a page, the first person in two worlds, maybe, who'd ever had the whole of the world open to her like a page; and the way her face went, every time, when the page came to the one place that was blank. Like a reader who'd come to a word she didn't know. And kept coming to it. Every morning. And kept not knowing.
 
 "It's there," said Hyvred. "It's the same. Facing out. Facing the road." She was quiet. "Not looking. It's never looking. It's—"
 
@@ -171,7 +171,7 @@ She waited.
 
 Hyvred looked at him for a long moment.
 
-Then she turned. And Severin watched the crosshair move in her eye, away from the blank, back across the valley to the rings; and in, ring by ring, the way you'd count rings in a cut log; to the third.
+Then she turned. And Severin watched the red mark move in her eye, away from the blank, back across the valley to the rings; and in, ring by ring, the way you'd count rings in a cut log; to the third.
 
 She didn't say anything for a long time.
 
@@ -179,7 +179,7 @@ She didn't say anything for a long time.
 
 Tiger shut his eyes.
 
-"He's turned," said Hyvred. Very quietly. "A little. Hardly at all. I'd never have seen it. I check him every morning and I'd never have seen it if you hadn't—" She stopped. "Not up. He's not looking up at the pass any more. He's looking—" The crosshair moved. Measuring. "South. Down the valley. Along the line of the gap. Toward the road. Toward the place you went in and out." She swallowed. "Toward us."
+"He's turned," said Hyvred. Very quietly. "A little. Hardly at all. I'd never have seen it. I check him every morning and I'd never have seen it if you hadn't—" She stopped. "Not up. He's not looking up at the pass any more. He's looking—" The red mark moved. Measuring. "South. Down the valley. Along the line of the gap. Toward the road. Toward the place you went in and out." She swallowed. "Toward us."
 
 "After me," said Tiger.
 
@@ -201,7 +201,7 @@ Not loudly. Not a scream. A small sound, the smallest she'd made in three days. 
 
 Severin turned.
 
-She was still facing north. Her face had gone grey. The gold eye was locked, and the crosshair in it had moved again: off the rings, off the third ring and the freckled face; back to the blank. To the place at the bottom of the pass where her sight went out and found nothing. And she was staring at it. Staring at nothing. And her hand had come up off the parapet and was in the air in front of her, open, the way you'd put your hand up against a light too bright to look at.
+She was still facing north. Her face had gone grey. The gold eye was locked, and the red mark in it had moved again: off the rings, off the third ring and the freckled face; back to the blank. To the place at the bottom of the pass where her sight went out and found nothing. And she was staring at it. Staring at nothing. And her hand had come up off the parapet and was in the air in front of her, open, the way you'd put your hand up against a light too bright to look at.
 
 "It's turned round," said Hyvred.
 
@@ -227,7 +227,7 @@ There's a moment, at the anvil, when the iron's at the colour and you either hit
 
 He stepped round the cow girl.
 
-Between her and the parapet. Between her and the north. Between her gold eye with the crosshair in it and the hole in the valley that was looking back through it. A big grey man in a plain coat, with wet knees, standing at the top of a tower with his back to a young woman who could see everything and his face to a thing that couldn't be seen.
+Between her and the parapet. Between her and the north. Between her gold eye with the red mark in it and the hole in the valley that was looking back through it. A big grey man in a plain coat, with wet knees, standing at the top of a tower with his back to a young woman who could see everything and his face to a thing that couldn't be seen.
 
 "Keep it open," he said to her, over his shoulder. Very gently. "Don't close it. I need you to tell me what it does."
 
@@ -293,7 +293,7 @@ He waited.
 
 "Like it was?"
 
-A pause. The crosshair, measuring.
+A pause. The red mark, measuring.
 
 "No," said Hyvred. "Not like it was." She was very quiet. "It's facing the pass. But it's facing it the way you'd stand with your back to a door you knew somebody was behind." She swallowed. "It knows you're here now."
 
@@ -311,7 +311,7 @@ He turned round.
 
 They were all looking at him. Every one of them. Brannoch with his face slack. Fenwick on one knee, looking for his pen. Corvin very white. Drew with his arm round Tiger, both of them staring, Tiger's ears straight up. Hild on the parapet, the only one who hadn't moved, with her one eye open, looking at him with an expression he'd last seen on the east line nearly thirty years ago, the morning she'd told him his plan was stupid.
 
-And the cow girl. With her glasses in her hair and her face wet and the crosshair in her gold eye still locked, still pointed north, past him, at the place that had looked at her.
+And the cow girl. With her glasses in her hair and her face wet and the red mark in her gold eye still locked, still pointed north, past him, at the place that had looked at her.
 
 "Was that wise, Majesty?" said Corvin. Very quietly. The way you'd ask a man if he'd meant to put his hand in the fire.
 

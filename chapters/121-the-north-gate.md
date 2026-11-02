@@ -111,7 +111,7 @@ Bee looked at the bedsheet on the cobbles.
 
 Hyvred didn't sit down.
 
-She stood in the middle of the square in her borrowed coat, with her tail going slowly side to side behind her, and looked at the gate. Not at it. Through it. Aleaka could see her left eye doing the thing it did, the gold of it gone sharp and still, the little red mark in it like a crosshair locking on something a long way off. Up the road. Past the gate and the farms and the market gardens, toward the Last Look, three hours away for a wagon with a wheel that talked.
+She stood in the middle of the square in her borrowed coat, with her tail going slowly side to side behind her, and looked at the gate. Not at it. Through it. Aleaka could see her left eye doing the thing it did, the gold of it gone sharp and still, the little red mark in it locking on something a long way off. Up the road. Past the gate and the farms and the market gardens, toward the Last Look, three hours away for a wagon with a wheel that talked.
 
 "Can you see them?" said Aleaka.
 
@@ -297,7 +297,7 @@ The fox girl held still.
 
 And the name landed.
 
-It landed the first time like a stone landing in water: a small clean sound, *Alea*, in Xola's voice, in a gate square full of carters. The name. *His* name. The name he'd given every companion in every game she'd ever watched him play: the horse in one, the dog in another, the little robot that followed you about in that terrible space thing he'd played for a fortnight and then abandoned. *Alea*. She'd teased him about it for a year. *You've got no imagination. You've got one name. You're going to name your children Alea*. And he'd said *maybe I will*, in a voice like a man being bossed about, and she'd lost the game, the way she always lost.
+It landed the first time like a stone landing in water: a small clean sound, *Alea*, in Xola's voice, in a gate square full of carters. The name. *His* name. The name he'd given every companion in every story he'd ever told on stream: the horse in one, the dog in another, the little robot that followed you about in that terrible space story he'd started and abandoned after a fortnight. *Alea*. She'd teased him about it for a year. *You've got no imagination. You've got one name. You're going to name your children Alea*. And he'd said *maybe I will*, in a voice like a man being bossed about, and she'd lost the argument, the way she always lost.
 
 It landed the second time a breath later, deeper, where she couldn't hear it.
 
@@ -329,13 +329,13 @@ Then Xola said "there," and the strap was free, and the girl turned and went on 
 
 That was when Hyvred looked.
 
-She'd come back through the gate with the crowd. She'd been standing just inside it, against the wall, under the rods, with her glasses up in her hair, while Group 1 and Group 4 and Group 6 came through past her in a river of noise. She'd looked at all of them. Properly. The way she'd promised. Aleaka had seen her do it: each face, one after another, the gold eye going sharp and still and the crosshair in it locking on and letting go, locking on and letting go, like somebody counting. Deston. Gabe. Xavier. Thea. She'd smiled at every one. She'd said their names, quietly, one at a time, under the noise, as if she were writing them down.
+She'd come back through the gate with the crowd. She'd been standing just inside it, against the wall, under the rods, with her glasses up in her hair, while Group 1 and Group 4 and Group 6 came through past her in a river of noise. She'd looked at all of them. Properly. The way she'd promised. Aleaka had seen her do it: each face, one after another, the gold eye going sharp and still and the red mark in it locking on and letting go, locking on and letting go, like somebody counting. Deston. Gabe. Xavier. Thea. She'd smiled at every one. She'd said their names, quietly, one at a time, under the noise, as if she were writing them down.
 
 The man with the water came through the gate last. Behind the girl. With his buckets half empty now and his front soaked and the yoke still a little crooked.
 
 Hyvred looked at him properly.
 
-Aleaka saw the crosshair lock.
+Aleaka saw the red mark lock.
 
 And it didn't let go.
 
@@ -385,7 +385,7 @@ Aleaka stood in the middle of the gate square of Valcrest, in the sun, with a ha
 
 She could have said a hundred things. She'd rehearsed none of them. She wasn't Newish. She'd decided, somewhere in the winter, that when it happened she'd say whatever came, and let it be clumsy, because she always was, and he'd always liked it.
 
-What came was the game.
+What came was the old bit.
 
 It came up out of her the way it always had, before she could stop it. The rhythm of a hundred calls. She'd boss him about, and he'd go meek, and she'd win, and then he'd turn it round on her and she'd lose. Every time. For a year. She put her chin up. She folded her arms. She looked at a man whose face she couldn't see, in a city at the bottom of another world, and gave it to him in her slowest, sternest, most British voice, the one that had always made him laugh.
 

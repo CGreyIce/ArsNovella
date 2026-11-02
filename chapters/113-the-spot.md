@@ -11,7 +11,7 @@ He wasn't proud of that. He'd said *later* on the mayor's terrace, the second da
 
 There wasn't a crack in this ceiling. He'd looked. He'd got used to having a crack to look at.
 
-He knew why he was putting it off. He wasn't stupid. He'd just never been any good at the bit before the hit. In a game, in the old days, he'd stand at the front and wait for the boss to wind up and his hands would sweat on the keyboard and his heart would go, and he'd *hate* it, the waiting, every second of it. And then the hit would land and he'd be fine. He was always fine once it landed. It was only ever the waiting.
+He knew why he was putting it off. He wasn't stupid. He'd just never been any good at the bit before the hit. In the old days, at home, he'd been the one at the front of everything, and he'd stand there waiting for the bad part to start and his hands would sweat and his heart would go, and he'd *hate* it, the waiting, every second of it. And then the hit would land and he'd be fine. He was always fine once it landed. It was only ever the waiting.
 
 Asking was the waiting. He'd been waiting two weeks.
 
@@ -47,7 +47,7 @@ Azac sat down on the grass with his back against the cabin wall. The hens came r
 
 "Yeah," said Azac. "I know."
 
-He looked at his hands. They were big, and scarred across the knuckles from the shield straps, and they were sweating. The way they'd sweated on the keyboard.
+He looked at his hands. They were big, and scarred across the knuckles from the shield straps, and they were sweating. The way they'd sweated at the desk at home.
 
 He thought: *it's just the waiting. You're always fine once it lands.*
 
@@ -65,7 +65,7 @@ He didn't look up. He sat there with the net across his knees and the needle sto
 
 It came out easier than he'd thought. Once it had started.
 
-"The front. In everything. Every game. Every raid. Every party we were ever in, for years, you stood at the front. You took the first hit. You'd say *don't worry, I've got this, trust*, and then something completely untrustworthy would happen, and you'd laugh about it in the call after." He looked at his hands. "And then you didn't wake up. And there was nobody at the front. And we tried to play without anyone in it, for a few weeks, and it was wrong. Like a missing tooth. So I stood in it."
+"The front. In everything. Every night, every plan, every stupid thing the five of us ever did, for years, you stood at the front. You went first. You'd say *don't worry, I've got this, trust*, and then something completely untrustworthy would happen, and you'd laugh about it in the call after." He looked at his hands. "And then you didn't wake up. And there was nobody at the front. And we tried to go on without anyone in it, for a few weeks, and it was wrong. Like a missing tooth. So I stood in it."
 
 "I know," said Declan quietly.
 
@@ -103,7 +103,7 @@ The stillness had changed.
 
 Azac blinked. "What?"
 
-"At the front. In the games. Can I tell you why I did it?"
+"At the front. At home. Can I tell you why I did it?"
 
 "I know why you did it. You were good at it. You were the best of us."
 
@@ -111,7 +111,7 @@ Azac blinked. "What?"
 
 Azac stared at him.
 
-"In CS I waited," said Declan. "Because Xav needed somebody to show him how, and it's a game where waiting wins, and I'd worked that out. But everything else? Every raid, every dungeon, every stupid party with all of you at two in the morning?" He shook his head. "I couldn't bear it. The bit before the pull. Everyone standing there, buffing, checking, Malcolm going *wait, wait, wait, has everyone got their cooldowns*, and the boss just standing there. I'd sit at my desk and my hands would sweat and my heart would go and I'd *hate* it. Every second. So I'd go in. Before anybody was ready. Before Malcolm finished his sentence. Just to make it *start*. Because once the first hit landed, I was fine. I was always fine once it landed."
+"With Xav I waited," said Declan. "Because Xav needed somebody to show him how, and I'd worked out that waiting wins. But everything else? Every plan, every stupid thing with all of you at two in the morning?" He shook his head. "I couldn't bear it. The bit before it starts. Everyone standing there, checking, Malcolm going *wait, wait, wait, has everyone got everything*, and nothing happening. I'd sit at my desk and my hands would sweat and my heart would go and I'd *hate* it. Every second. So I'd go in. Before anybody was ready. Before Malcolm finished his sentence. Just to make it *start*. Because once the first hit landed, I was fine. I was always fine once it landed."
 
 Azac didn't say anything.
 
@@ -121,7 +121,7 @@ He couldn't. His mouth had gone dry.
 
 Azac shook his head.
 
-"Because I didn't. I didn't have it. I never had it. I was scared every single time and I couldn't stand being scared, so I ran at it." Declan almost laughed. "That's not a tank, Azac. That's a man who can't sit still. You lot thought I was brave. I was just impatient."
+"Because I didn't. I didn't have it. I never had it. I was scared every single time and I couldn't stand being scared, so I ran at it." Declan almost laughed. "That's not being at the front, Azac. That's a man who can't sit still. You lot thought I was brave. I was just impatient."
 
 ***
 
@@ -135,7 +135,7 @@ He looked at the nets.
 
 Azac looked at him.
 
-"You stood in front of a thing in the Hollow at Initiate," said Declan, "with a guild shield. Knowing it could kill you. Knowing, Azac. Not thinking it was a game. Not thinking there'd be a respawn. Knowing. And you did it anyway, because the people behind you were your people." He leaned forward. "That's braver than anything I ever did in a game. Braver than most of what I did here."
+"You stood in front of a thing in the Hollow at Initiate," said Declan, "with a guild shield. Knowing it could kill you. Knowing, Azac. Not thinking it was a story. Not thinking you'd get another go. Knowing. And you did it anyway, because the people behind you were your people." He leaned forward. "That's braver than anything I ever did at home. Braver than most of what I did here."
 
 "I did it for the wrong reason," said Azac. "That time."
 

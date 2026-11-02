@@ -49,7 +49,7 @@ She stopped.
 
 "He sat up with the king," said Drew. "Till late. And then the king went, and he lay down on his bed with his boots on, and Hisui says he went out like a lamp." He held out his hand. "Give it here."
 
-Hyvred looked at him for a long moment, with the gold eye still locked, the red crosshair in it. Looking at him. At the edges of him. He knew what she was looking for. She'd looked at him like that every morning since the autumn.
+Hyvred looked at him for a long moment, with the gold eye still locked, the red mark in it. Looking at him. At the edges of him. He knew what she was looking for. She'd looked at him like that every morning since the autumn.
 
 "You're fine," she said. Very quietly. She hadn't said it to anybody all week.
 
@@ -301,7 +301,7 @@ And then they'd get up. And walk again. Tomorrow, or tonight. With bruises.
 
 She turned her head toward him, with her eye still shut.
 
-"Let me," said Drew. He didn't know what he meant. He didn't know what he was going to do. He only knew, the way you know in the last round when the plan's gone and there's no time to make another one, that he had to be in front of them. Not behind them. Not beside them, with his hands out. In front.
+"Let me," said Drew. He didn't know what he meant. He didn't know what he was going to do. He only knew, the way you know at the end of a bad night when the plan's gone and there's no time to make another one, that he had to be in front of them. Not behind them. Not beside them, with his hands out. In front.
 
 "Let me try something," he said.
 
@@ -475,7 +475,7 @@ There was a window in front of them.
 
 He stood and looked at it for a long time.
 
-Of course it was. He'd been a counter-fighter all his life. In every game he'd ever played. In every green room. You didn't go first. You waited, and you watched, and you let the other one show you what they were going to do, and when they'd done it, when they'd put everything into it and couldn't take it back, you gave it back to them. That was all. That was all he'd ever been good at.
+Of course it was. He'd been a counter-fighter all his life. In every fight he'd ever had. In every green room. You didn't go first. You waited, and you watched, and you let the other one show you what they were going to do, and when they'd done it, when they'd put everything into it and couldn't take it back, you gave it back to them. That was all. That was all he'd ever been good at.
 
 He'd just never thought you could do it to a voice.
 

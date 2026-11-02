@@ -79,7 +79,7 @@ He'd talked to Chris about logging. He'd talked to Hako about head height. He'd 
 
 He hadn't said a word to her.
 
-He'd looked at her. A couple of times. Across the table. And she'd heard it in his beat every time, in the rests, that faint thing she couldn't hear in anybody else's, the laugh. And she'd glared at him. And he'd turned and said something to Hako about crosshair placement.
+He'd looked at her. A couple of times. Across the table. And she'd heard it in his beat every time, in the rests, that faint thing she couldn't hear in anybody else's, the laugh. And she'd glared at him. And he'd turned and said something to Hako about where to keep his eyes.
 
 "*Oh my god*," she'd said, at one point, out loud, to the table at large. "*Oh my god*."
 
@@ -125,7 +125,7 @@ She looked at herself in it. At her melting face.
 
 "*Rude*," she said. Lightly. With her eyebrows up.
 
-It was fine. It was perfect. She'd got it right weeks ago. It was exactly as light as it had been on a call at two in the morning in a room in Malacca, with the fan going, and the CS server lagging, and a man who'd just blamed the server for a shot he'd missed saying *love you guys, except Newish* and laughing.
+It was fine. It was perfect. She'd got it right weeks ago. It was exactly as light as it had been on a call at two in the morning in a room in Malacca, with the fan going, and the internet dying, and a man who'd just blamed the internet for everything saying *love you guys, except Newish* and laughing.
 
 *You can't say rude twice*, she'd told Chris, in the winter. *The second time it's just rude*.
 
@@ -217,7 +217,7 @@ He'd been working up to it all evening. Newish had heard it in his beat, the dru
 
 Ice turned round.
 
-"Anything," said Hako. "I don't care what. You were only getting started. Head height and peeking and that's it, that's all I got, eight months, and then—" He stopped. He went on, still cheerful, the way he always was, the kind of cheerful that made you believe things would work out because it so obviously believed it itself. "So. Teach me something. Here. With a spear. I've been doing head height with a spear for two years and Ysolde thinks I'm weird."
+"Anything," said Hako. "I don't care what. You were only getting started. Head height and waiting and that's it, that's all I got, eight months, and then—" He stopped. He went on, still cheerful, the way he always was, the kind of cheerful that made you believe things would work out because it so obviously believed it itself. "So. Teach me something. Here. With a spear. I've been doing head height with a spear for two years and Ysolde thinks I'm weird."
 
 "You are weird," said Ysolde, from the kitchen door.
 
@@ -357,7 +357,7 @@ Two in the morning. A room, and a fan going somewhere, and everybody on the call
 
 Everybody in the corner knew. She'd told them. She'd told the whole table at the Broken Lance in the summer, the night after she shouted *down* across the sand: the last thing he'd ever said to her, and the last thing she'd ever said to him. Chris knew. Winter knew. Ina and Hako knew. They'd all gone very still too. Kestra on the stairs below her had opened her eyes.
 
-She had it ready. She'd had it ready for three months, in a tin mirror, and for three years before that, without the mirror. It was right behind her teeth. Light. With her eyebrows up. The exact weight of a word said at two in the morning by somebody who's just lost thirteen to nine, partly because of her, to somebody who's just blamed the server.
+She had it ready. She'd had it ready for three months, in a tin mirror, and for three years before that, without the mirror. It was right behind her teeth. Light. With her eyebrows up. The exact weight of a word said at two in the morning by somebody who's had a bad night, partly because of her, to somebody who's just blamed the internet.
 
 *Love you guys. Except Newish.*
 
@@ -387,7 +387,7 @@ He hadn't said *except*. He'd turned it round. The way he'd always turned things
 
 She sat on the stairs with her hands over her mouth.
 
-She could feel her face doing the thing she never let it do in public. She could feel Winter, beside her, very still. She could feel the whole corner of the room waiting, Chris and Ina and Hako, the way you wait at the top of a round when everybody's alive and the bomb's ticking and nobody knows who's going to peek first. And under all of it his beat, mostly rests, and in the rests the laugh, very kind.
+She could feel her face doing the thing she never let it do in public. She could feel Winter, beside her, very still. She could feel the whole corner of the room waiting, Chris and Ina and Hako, the way you wait at the top of a dark stair when nobody knows who's going to move first. And under all of it his beat, mostly rests, and in the rests the laugh, very kind.
 
 She'd only brought the one word. That was the thing. She'd only ever brought the one.
 

@@ -33,11 +33,11 @@ He'd find out at about the third hour of the afternoon on the sixty-fourth day, 
 
 "It's *depressing*."
 
-"It's *Apex*," said Chris. "It's what you say when you lose a teammate. *One down*. We've been one down for three years." He looked at the slip, at his own small square English capitals. "I thought we should own it."
+"It's what he used to say," said Chris. "When one of us dropped off the call. *One down*. We've been one down for three years." He looked at the slip, at his own small square English capitals. "I thought we should own it."
 
 Winter, on his other side, didn't say anything. She'd read it over his shoulder at breakfast, when he wrote it, and her face had done nothing at all, which was how he knew it had landed.
 
-They were sitting on the bottom tier of the east stand with the rest of the trios in the long morning, waiting for the bracket. Drew had painted it last night, a neat sixteen-slot tree under the squad column on the forty-foot wall, with eleven teams in it and five byes. Any three. Any groups. Drew's homage, he called it, to a tournament he'd run once from his bedroom, in which Ice had died in every single round, narrating it, and been carried to a win by his two teammates. *For the one I ran before*.
+They were sitting on the bottom tier of the east stand with the rest of the trios in the long morning, waiting for the bracket. Drew had painted it last night, a neat sixteen-slot tree under the squad column on the forty-foot wall, with eleven teams in it and five byes. Any three. Any groups. Drew's homage, he called it, to a tournament he'd run once from his bedroom, online, in which Ice had gone down first every single time, narrating it, and been carried to a win by his two teammates. *For the one I ran before*.
 
 Chris had watched that tournament. He'd watched the final on the stream, with Drew doing the commentary because he'd muted the casters, and laughed until he cried.
 
@@ -49,7 +49,7 @@ He looked up at the fourth tier of the east stand.
 
 ***
 
-He'd only ever played Apex with Ice in two trios.
+He'd only ever been one of three with Ice two ways.
 
 That was the thing about Group 7 that nobody outside it really understood, and that he'd tried to explain to Lucan once and given up. They hadn't been one squad. They'd been two. Chris and Winter and Ice. Chris and Newish and Ice. Two different trios, on two different nights of the week, with Ice the third in both and Chris the anchor of both, and Winter and Newish had hardly ever played together at all, because whenever one of them was on, the other one was the one Ice was playing with.
 
@@ -57,7 +57,7 @@ And then Ice had died. And both trios had been one down at once.
 
 And then they'd come through a hall in Solmere, and the Advisor had looked at the five of them and sent them to Valcrest together, and Chris had found himself standing on the sand of the Lists in the first week with Winter on one side of him and Newish on the other, and nobody on his left.
 
-He'd always had somebody on his left. In both trios. Ice played left. Always. *I'm left*, he'd say, at the start of every match, in voice, before anyone else could pick. *I'm left, you're centre, she's whatever's left over*. And he'd go left, first through the door, loudly, and die, narrating it, and Chris would come in behind him knowing exactly where everybody was because Ice had just shown him.
+He'd always had somebody on his left. In both trios. Ice played left. Always. *I'm left*, he'd say, at the start of every night, on the call, before anyone else could pick. *I'm left, you're centre, she's whatever's left over*. And he'd go left, first through the door, loudly, and go down, narrating it, and Chris would come in behind him knowing exactly where everybody was because Ice had just shown him.
 
 Chris had been fighting for two years with a gap on his left where a man used to be.
 
@@ -69,9 +69,9 @@ Round one, they beat Gabe and Deston and Calvin.
 
 It took a long time. They were Ice's in-person friends, two of them his brothers, and they fought like brothers: Gabe in front like a wall, *Sto* on his back and his body harder than it had been yesterday, Drawn and still not used to it; Deston in the middle with his threads, listening, telling them where everyone was going in a voice like a held note; Calvin on the wind. They knew each other. They'd known each other half their lives.
 
-But they'd never played Apex. Not once. And Chris had.
+But they'd never been a three. Not like that. Not on a call at two in the morning, every week, for a year. And Chris had.
 
-He'd played Apex with Ice for a year, two nights a week. He knew what a trio was. It wasn't three people standing next to each other. It was three people who knew, without saying anything, which of them was going to go first and which of them was going to come in behind and which of them was going to hold the angle and wait. You didn't decide it. You just knew. And when it worked, it looked like one person with six arms.
+He'd been a three with Ice for a year, two nights a week. He knew what a trio was. It wasn't three people standing next to each other. It was three people who knew, without saying anything, which of them was going to go first and which of them was going to come in behind and which of them was going to hold back and wait. You didn't decide it. You just knew. And when it worked, it looked like one person with six arms.
 
 Gabe and Deston and Calvin were three people standing next to each other. Very good people. Brothers. But three.
 
@@ -95,11 +95,11 @@ Chris didn't say anything. He was already writing it down.
 
 Round two, they beat Ina and Hako and Tiger.
 
-That one hurt. They were Group 7, or two-thirds of it, with a tiger boy bolted on, and they'd been training on the same sand every morning for two years. Ina knew exactly what Winter's frost did. Hako knew exactly how Chris moved, because he'd been holding the far angle behind him for two years watching him do it. Tiger was just fast.
+That one hurt. They were Group 7, or two-thirds of it, with a tiger boy bolted on, and they'd been training on the same sand every morning for two years. Ina knew exactly what Winter's frost did. Hako knew exactly how Chris moved, because he'd been waiting behind him for two years watching him do it. Tiger was just fast.
 
-They won it because Hako peeked.
+They won it because Hako went.
 
-He'd learned to, yesterday, on the side sand, against Milli, flat on his back, laughing at the sky. Now he couldn't stop. He peeked at everything. He went all the way, every time, the whole spear, nothing held back, and it was beautiful and terrifying to watch and he was very, very dangerous. And Newish slowed him by half a beat at exactly the wrong moment, and Winter's frost took his front foot, and he went all the way into nothing and sat down on the sand, laughing again.
+He'd learned to, yesterday, on the side sand, against Milli, flat on his back, laughing at the sky. Now he couldn't stop. He went at everything. He went all the way, every time, the whole spear, nothing held back, and it was beautiful and terrifying to watch and he was very, very dangerous. And Newish slowed him by half a beat at exactly the wrong moment, and Winter's frost took his front foot, and he went all the way into nothing and sat down on the sand, laughing again.
 
 "*Again*," said Hako.
 
@@ -119,7 +119,7 @@ Chris looked at him.
 
 The semifinal was Xav and Rui Xiang and Malcolm.
 
-Group 6. Ice's class, from the polytechnic in Singapore, five gamers who'd played MMOs together for years and went into everything like a party going into a dungeon: tank, damage, support, everybody knowing their job. Xav, who fought like Ice thought. Rui Xiang, who you couldn't see. Malcolm, with a contingency for everything, who'd strengthened Xav's blade before the bell and then stood at the back writing *IF they go left, THEN*.
+Group 6. Ice's class, from the polytechnic in Singapore, five friends who'd done everything together for years and went into everything like a crew: front, edge, support, everybody knowing their job. Xav, who fought like Ice thought. Rui Xiang, who you couldn't see. Malcolm, with a contingency for everything, who'd strengthened Xav's blade before the bell and then stood at the back writing *IF they go left, THEN*.
 
 "They won't go left," said Rui Xiang, very fast, at the start. "They never go left. Chris doesn't go left. Everyone knows."
 
@@ -157,11 +157,11 @@ The other half of the bracket had gone the way everyone said it would.
 
 Yan and Niko and Wendy. Group 3, or three-fifths of it: Salty was in the Singles and Maigo had entered the Trios with Thea and Higu, as *the Tree*, and been beaten in the first round by Yan's trio because Maigo couldn't stop talking. They'd come through four rounds without dropping anyone. They'd beaten Jared and Milli and Hana in the semifinal, and Hana had come off the sand afterwards saying *I've never been beaten so politely in my life*.
 
-They were Ice's CS squad.
+They were Ice's old crowd.
 
-That was the thing everyone kept saying, in the stands. Chris kept hearing it. *That's his old squad. That's his CS squad. That's the one that won the Apex thing with him*. Yan had carried Ice in Apex. Ice had carried Yan in CS. They'd played every night for years. Niko had known Ice since he was seventeen, on a community server, getting AWPed in mid. Wendy had been in every call.
+That was the thing everyone kept saying, in the stands. Chris kept hearing it. *That's his old squad. That's the one he stayed up with every night. That's the one that won the tournament with him*. Yan had carried Ice, at home, through a thousand bad nights. Ice had carried Yan. They'd been on calls every night for years. Niko had known Ice since he was seventeen, online, losing to him every night. Wendy had been in every call.
 
-And Chris and Winter and Newish were Ice's Apex trios. Both of them.
+And Chris and Winter and Newish were Ice's threes. Both of them.
 
 *Ice's two old squads*, somebody said, in the stand above Chris, while the marshals chalked the final ring. *In a final. With him watching*.
 
@@ -435,7 +435,7 @@ He'd been wrong. They hadn't been one down. They'd been three, the whole time. H
 
 Yan came over from the frost, when the marshals had finished, with the scythe on his shoulder and Suzu on the shaft. Niko and Wendy came behind him.
 
-The two trios stood on the sand of the Lists in front of each other. Ice's CS squad, and Ice's Apex trios. Six people. Chris had played with half of them every night for a year, and against the other half on the community servers, and in the tournament Drew ran, and they'd all, every one of them, been in the same calls at two in the morning with the same voice in their ears saying *I'm left*.
+The two trios stood on the sand of the Lists in front of each other. Ice's old squad, and Ice's threes. Six people. Chris had been on calls with half of them every night for a year, and up against the other half online, and in the tournament Drew ran, and they'd all, every one of them, been in the same calls at two in the morning with the same voice in their ears saying *I'm left*.
 
 Yan held out his hand.
 
@@ -443,7 +443,7 @@ Yan held out his hand.
 
 Chris laughed. He couldn't help it. "GG," he said, and shook it.
 
-Niko held out his hand too. "GG," he said. "You closed it. I'm still annoyed." He paused. "I learned his left side for years. On the server. I knew exactly where the hole would be." He shook his head slowly. "You filled it with somebody else."
+Niko held out his hand too. "Good one," he said. "You closed it. I'm still annoyed." He paused. "I learned his left side for years. Online. I knew exactly where the hole would be." He shook his head slowly. "You filled it with somebody else."
 
 "I didn't fill it," said Chris. "She did. She'd been trying to for two years." He looked at Winter. "I just stopped standing in the way."
 

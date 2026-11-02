@@ -9,7 +9,7 @@ The paper came at dawn, in eleven carts, and Lucan met it in his dressing gown.
 
 Chris saw it from the training yard. He was on the sand behind the Lists with his longsword in both hands and Hako's spear point a foot from his chest, in the grey half-light before the sun got over the east stand, and he was thinking about his left foot, which was behaving, and his right wrist, which wasn't. *Session 571*, he'd written at the top of the page an hour ago, in the cheap notebook on the fence post. *Spear drill, Hako. Release on the bind. Right wrist: late.* And under it, after the first ten passes, *still late*.
 
-Hako came in again. He always came in the same way, which was the trick of it: no feint, no peek, nothing, just the whole of him going down the shaft of the spear in one straight line, *Commit*, the way he'd done it in the Singles last summer against Milli, so hard and so honest that you couldn't believe a man at Drawn could put that much behind a point. It was like standing in front of a door that had decided to be somewhere else.
+Hako came in again. He always came in the same way, which was the trick of it: no feint, no waiting, nothing, just the whole of him going down the shaft of the spear in one straight line, *Commit*, the way he'd done it in the Singles last summer against Milli, so hard and so honest that you couldn't believe a man at Drawn could put that much behind a point. It was like standing in front of a door that had decided to be somewhere else.
 
 Chris went to meet it. Blade up, on the bind, the way Ysolde had taught him two years ago with a wooden sword and a great deal of patience. And halfway there, with his weight already going and his arms already committed and every bit of him saying *this way*, he let go of it.
 
@@ -365,7 +365,7 @@ He'd never painted anything in his life. He found it was like writing a layout b
 
 It came out left to right. That was how a Swiss read. At the far left, the first column: a long stack of boxes, from the top of the wall nearly to the Fledgling tree, in pairs, joined by short gold lines. *0–0*, Lucan's painter wrote above it in black, very carefully, in the kingdom's figures, copying off Chris's sheet, with Chris's own figures small underneath for the thirty-five. Then the second column, split down the middle: *1–0* above, *0–1* below. Then three stacks: *2–0*, *1–1*, *0–2*. Then the edges began to fall away. Top right, the ones who'd won three: *3–0*, *3–1*, *3–2*, and a gold line going on from each of them to the right, toward the end of the wall, where Chris had left room for Drew. Bottom right, the ones who'd lost three. Short black boxes, going nowhere.
 
-It looked like a Major. It looked exactly like every Major Chris had ever watched, at three in the morning, on a second monitor, with Ice in his ear calling the rounds. He hadn't expected that. He stood at the foot of the ladder when the second column was done and looked at it and had to go and stand in the tunnel under the south stand for a few minutes.
+It looked like a Major. It looked exactly like every Major Chris had ever watched, at three in the morning, on a second monitor, with Ice in his ear talking him through it. He hadn't expected that. He stood at the foot of the ladder when the second column was done and looked at it and had to go and stand in the tunnel under the south stand for a few minutes.
 
 Hako explained it to Lucan.
 
@@ -387,7 +387,7 @@ Hako stopped.
 
 Hako didn't say anything. His smile had gone, the way it hardly ever did.
 
-"It's just a way of talking," said Hako. "At home. In the game. You're out, that's all. You've lost. You go home." He looked at his own hands. "It doesn't mean—"
+"It's just a way of talking," said Hako. "At home. When we played. You're out, that's all. You've lost. You go home." He looked at his own hands. "It doesn't mean—"
 
 "I know what it doesn't mean," said Lucan. "I know about the ring at the edge of the circle with nothing in it. The whole city knew by the end of the Lists week." He wiped his eyes with the heel of his hand, without embarrassment. Lucan was never embarrassed about crying; he said it was the one thing in his life he'd never once had to rehearse. "I only meant that in three hundred years nobody on this sand has ever minded going home. And this summer some of them will. And some of them won't." He looked at the wall. "And I'll say it to them at the gate anyway. *Go home. You fought well*. And I'll have to decide, each time, which way I mean it."
 

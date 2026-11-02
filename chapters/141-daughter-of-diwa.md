@@ -7,7 +7,7 @@ date: 2026-10-31
 
 *I didn't teach her that.*
 
-He'd thought it standing at the edge of the near ring, with a paper fishing rod in one hand and his real one in the other, watching his daughter go at a hook instead of away from it. He'd thought it so loudly that he'd been half sure he'd said it, and looked round, and found Xav beside him with his practice sword still in his hand, looking at him the way Xav looked at a round he'd just watched somebody else win.
+He'd thought it standing at the edge of the near ring, with a paper fishing rod in one hand and his real one in the other, watching his daughter go at a hook instead of away from it. He'd thought it so loudly that he'd been half sure he'd said it, and looked round, and found Xav beside him with his practice sword still in his hand, looking at him the way Xav looked at a fight he'd just watched somebody else win.
 
 He thought it again now, at the end of the afternoon, sitting on the bank of the river outside the west gate under the willow where Group 2 had sat with him four days ago. It was a good willow. He'd decided that on the first day. It hung over the water the way the old alder hung over the end of the jetty at home, and if you sat under it with a rod across your knees and looked at the water you could almost believe you were on Lake Ilse.
 

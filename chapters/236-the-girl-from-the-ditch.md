@@ -409,7 +409,7 @@ Petra turned and looked up at the walls.
 
 Then she laughed. The way she'd laughed on the shingle the first summer, startled, out loud, as if somebody had shoved it out of her. And put her sword away, and came and sat down on the barracks step at the end beside Xav, very straight, and didn't try again.
 
-It came back four days later. Deston heard it from the barracks, in the middle of a morning, the wet finger on the rim of the glass. A count of twenty, in the yard, in front of a recruit who'd dropped a practice blade on his foot. But that was later.
+It came back three days later. Deston heard it from the barracks, in the middle of a morning, the wet finger on the rim of the glass. A count of twenty, in the yard, in front of a recruit who'd dropped a practice blade on his foot. But that was later.
 
 ***
 

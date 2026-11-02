@@ -7,9 +7,9 @@ date: 2026-10-31
 
 Xav had been waiting his whole life, and he was good at it.
 
-He'd been good at it on Earth. In a polytechnic classroom in Singapore at seventeen, waiting for the lecture to end so he could go home and play. In the last round of every Counter-Strike match he'd ever played, the one where everyone else on his team was dead and it was him against three and the bomb ticking, waiting for the one sound that told him where they'd come from. He was famous for it, in the calls. *Xav's still alive*, somebody would say, and everyone would go quiet, because Xav still being alive at the end of a round meant something was going to happen, eventually, and nobody would see it coming.
+He'd been good at it on Earth. In a polytechnic classroom in Singapore at seventeen, waiting for the lecture to end so he could go home and play. At the end of every long night he'd ever had with Declan and the others, when everything had gone wrong and it was him on his own against all of it, waiting for the one sound that told him where it was coming from. He was famous for it, in the calls. *Xav's still here*, somebody would say, and everyone would go quiet, because Xav still being there at the end meant something was going to happen, eventually, and nobody would see it coming.
 
-Declan had talked him into Counter-Strike. In the first year at the poly. Xav had been playing something else. Declan had leaned over his shoulder in the lab one afternoon and said *you'd be good at CS. You wait. Nobody waits*. And Xav had tried it, and been good at it, and it had been the thing the two of them did for years, until Declan moved to Malacca at twenty-four and they drifted, the way you drift, and then there'd been a phone call.
+Declan had taught him that. In the first year at the poly. Declan had leaned over his shoulder in the lab one afternoon and said *you'd be good at this. You wait. Nobody waits*. And Xav had tried it, and been good at it, and it had been the thing the two of them did for years, until Declan moved to Malacca at twenty-four and they drifted, the way you drift, and then there'd been a phone call.
 
 He'd been waiting for the next round ever since. He hadn't known it.
 
@@ -23,7 +23,7 @@ He was standing on the side sand at dawn on the sixty-fifth day, the last mornin
 
 The man in front of him on the wet sand didn't say anything. He was holding a stick. Driftwood, grey and smooth, a little longer than his arm, that he'd picked up on the bank of the river outside the west gate on the second day because the shingle at the lake was too far away and he needed a stick. He held it loosely. The rod was leaning on the fence.
 
-The rule was the same as at the lake. Anyone could try him once a morning, with a practice sword, against his stick. Everyone lost on one move. Petra had tried him every morning for two months and lost every morning on one move. Tiger had tried him yesterday and lost so fast he'd sat down on the sand and laughed. Hako had tried him with his new peek, all the way, nothing held back, and found himself on his back looking at the sky again.
+The rule was the same as at the lake. Anyone could try him once a morning, with a practice sword, against his stick. Everyone lost on one move. Petra had tried him every morning for two months and lost every morning on one move. Tiger had tried him yesterday and lost so fast he'd sat down on the sand and laughed. Hako had tried him with his new *go*, all the way, nothing held back, and found himself on his back looking at the sky again.
 
 Xav had made him move twice.
 
@@ -73,11 +73,11 @@ The great sand was half full at the second hour.
 
 The big crowd was coming at noon, for the Fledgling final. But the city had heard about the Singles final, and about one touch, the old way, and about two of the summoned who were both, somehow, the Black Blade, and the stands were filling up anyway in the long gold light: people with breakfast in their hands, children on shoulders, a few old soldiers who'd come in from the plain and sat together on the third tier of the south stand with their arms folded, very still, the way old soldiers sit.
 
-The king was in the royal box. Halvard beside him. The thirty-five on the bottom tiers, in pairs, never alone, the way Yan had written in the channel last night. *Don't go anywhere alone*. *Thirty-nine*. Xav had felt Hyvred go still, coming in, as they passed the north gate; had seen her crosshair lock on a woman with a basket and a man in a green coat and a boy in a cap, and let go, and lock on someone else.
+The king was in the royal box. Halvard beside him. The thirty-five on the bottom tiers, in pairs, never alone, the way Yan had written in the channel last night. *Don't go anywhere alone*. *Thirty-nine*. Xav had felt Hyvred go still, coming in, as they passed the north gate; had seen the red mark in her eye lock on a woman with a basket and a man in a green coat and a boy in a cap, and let go, and lock on someone else.
 
 They were still here. Counting.
 
-He put it away. You put things away, in the last round. You didn't think about the other team's economy. You thought about the sound.
+He put it away. You put things away, at the end. You didn't think about what you'd lose. You thought about the sound.
 
 And on the fourth tier of the east stand, at the end of a bench, a man with a rod across his knees and two bees on his head.
 
@@ -151,7 +151,7 @@ That changed things.
 
 He'd thought it would be simple. He'd lain awake last night thinking about it, and he'd thought: Salty goes in. Salty always goes in. So you wait for him to go, and in the breath before he goes, while he's still deciding to, you move. Sideways. The way Petra taught you on the shingle. And he goes through where you were. And you touch him. One move.
 
-That was the plan. It was a good plan. It had worked on everyone Xav had ever fought, here and on Earth. Everyone went in, eventually. Everyone peeked.
+That was the plan. It was a good plan. It had worked on everyone Xav had ever fought, here and on Earth. Everyone went in, eventually. Everyone moved first.
 
 Salty wasn't going in.
 
@@ -159,7 +159,7 @@ Salty was standing in the middle of the ring doing the thing Xav did. Waiting. B
 
 And you can't move in the breath before somebody moves, if they aren't going to.
 
-Xav stood at the edge of the ring and felt the plan go, the way you feel a round go when the other team does something you didn't expect. It went cleanly. He didn't mind. Plans went. That was what the last round was for.
+Xav stood at the edge of the ring and felt the plan go, the way you feel a night go when somebody does something you didn't expect. It went cleanly. He didn't mind. Plans went. That was what the end was for.
 
 He did what he always did.
 
@@ -193,13 +193,13 @@ And just before it went white, you moved.
 
 Xav said something under his breath.
 
-He always did. He didn't know when he'd started. Some time in the first year, on the sand at Duskhollow, before Petra or the lake or anything. Before every last move. Three words, under his breath, in Latin, that Declan used to say in voice at the start of every clutch, every single time, in the last round, with the bomb ticking and everyone else dead.
+He always did. He didn't know when he'd started. Some time in the first year, on the sand at Duskhollow, before Petra or the lake or anything. Before every last move. Three words, under his breath, in Latin, that Declan used to say on the call at the start of every last stand, every single time, with everything gone wrong and everyone else out.
 
 Xav had never once asked him what they meant.
 
 He'd found out, in the spring, on the shingle, from Petra. *Before he moved*, Petra had said, *every time, the Black Blade said three or four words under his breath. In no language anyone knew. I thought it was a prayer*. She'd stopped. *Now I think it might have been a joke*.
 
-It was a joke. Xav was fairly sure. It was the kind of joke Declan made: something grand and Latin and absurd, said with complete seriousness at the worst possible moment, so that you laughed in the middle of the round and lost your nerves. He'd been saying it before every clutch for nine years so that his friends would laugh. He'd been saying it on the Redmarch before he killed things.
+It was a joke. Xav was fairly sure. It was the kind of joke Declan made: something grand and Latin and absurd, said with complete seriousness at the worst possible moment, so that you laughed in the middle of it and lost your nerves. He'd been saying it before every last stand for nine years so that his friends would laugh. He'd been saying it on the Redmarch before he killed things.
 
 Xav said it now. Under his breath. On the great sand of the Lists, in the half-full stands, with one touch to win.
 
@@ -351,7 +351,7 @@ She came out with Astra on her back and her hair tied up and her ears forward, a
 
 Xav considered.
 
-"Something he used to say," he said. "On Earth. Before every clutch. In Latin."
+"Something he used to say," he said. "On Earth. Before every last stand. In Latin."
 
 "What does it mean?"
 
@@ -493,7 +493,7 @@ He looked up at the fourth tier.
 
 The man at the end of the bench was looking down at him. Not at Alea. At him. Xav couldn't see his face. He'd stopped minding, about two months ago, on a jetty, when a stranger with a different face had sung the third part of a song too loud and said *Gabe. Deston.* and then walked back along the boards and said *Xav*.
 
-The man lifted his hand. Very slightly. The way you'd lift a hand in a call at the end of a round, to say *nice*.
+The man lifted his hand. Very slightly. The way you'd lift a hand across a room at the end of a long night, to say *nice*.
 
 Xav lifted his back.
 

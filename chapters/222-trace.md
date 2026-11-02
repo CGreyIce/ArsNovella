@@ -35,7 +35,7 @@ CHRIS. NIKORASU.
 
 ***
 
-He'd known Niko through Yan. Everybody had known everybody through Yan, a little. Yan had been the middle of a wheel on Earth the way Hana was the middle of one here, except Yan never noticed. Chris had met Niko in a voice call in Yan's server, three or four years before any of this, and thought, the way everybody thought, *quiet guy*. Chill. Hands in his pockets, if a voice could have hands in its pockets. Played every class in every game and never picked one.
+He'd known Niko through Yan. Everybody had known everybody through Yan, a little. Yan had been the middle of a wheel on Earth the way Hana was the middle of one here, except Yan never noticed. Chris had met Niko in a voice call through Yan, three or four years before any of this, and thought, the way everybody thought, *quiet guy*. Chill. Hands in his pockets, if a voice could have hands in its pockets. Did both of everything and never picked one.
 
 And then, in the second autumn, a line in the channel that had stopped Chris dead on a roof in Valcrest with his notebook on his knees.
 

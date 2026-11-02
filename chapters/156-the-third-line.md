@@ -11,7 +11,7 @@ He'd never tell anybody that. It was too stupid. Two years on the edge of the re
 
 But it was true. He'd been on the step.
 
-He'd been on the step outside Oakes's forge every night of the eleven, with Maigo, eating what came out of the pot and watching. That was what he did. He watched. He'd always watched, on Earth, in games, for years: other people's hands, other people's habits, where they went when they were frightened and where they went when they were sure. It was how he'd got good. Not by having the fastest hands. By watching somebody long enough that he knew where they'd be before they did.
+He'd been on the step outside Oakes's forge every night of the eleven, with Maigo, eating what came out of the pot and watching. That was what he did. He watched. He'd always watched, on Earth, for years: other people's hands, other people's habits, where they went when they were frightened and where they went when they were sure. It was how he'd got good. Not by having the fastest hands. By watching somebody long enough that he knew where they'd be before they did.
 
 He'd been watching the man for thirty-eight days now. Since the east gate of Valcrest. Every day, all day, from the tailboard. The way he carried the buckets. The way he stood on a stone over a stream for an hour and then moved once. The way he arm-wrestled Rhea, which wasn't strength at all, Niko had noticed by the third night; it was the opposite of strength; he just wasn't there when she pushed, and then he was. The way he cut shallots. The way he slept, on his back, with one hand on the rod.
 
@@ -73,7 +73,7 @@ He'd been hitting it for six weeks.
 
 Since a morning in the empty Lists, when he'd gone from five to eleven in one go with the man watching from the bottom tier. Eleven. And then nothing. Every dawn since, on the wall at Cinderhold and on the tailboard of the cart all the way across the kingdom, with Wendy counting: eleven. Ten, once. Eleven. Never twelve.
 
-It wasn't a wall, exactly. That was the word he used, in his head, because he didn't have a better one. It was more like the moment in a game when you've held an angle as long as you can hold it and your hand starts to shake on the mouse, and you know, you *know*, that if you don't move now you'll move wrong. At eleven the two candles stopped wanting to go round. They wanted to stop. Everything in him wanted them to stop, all at once, to come apart and go back to their own sides and be two things again, and the wanting got so big and so loud that he couldn't hold the circle against it, and he'd push, and push, harder, holding them together by main force, with everything he had—
+It wasn't a wall, exactly. That was the word he used, in his head, because he didn't have a better one. It was more like the moment when you've held still as long as you can and your hand starts to shake, and you know, you *know*, that if you don't move now you'll move wrong. At eleven the two candles stopped wanting to go round. They wanted to stop. Everything in him wanted them to stop, all at once, to come apart and go back to their own sides and be two things again, and the wanting got so big and so loud that he couldn't hold the circle against it, and he'd push, and push, harder, holding them together by main force, with everything he had—
 
 And his nose would bleed, and the circle would break, and Wendy would say *eleven*.
 
@@ -95,7 +95,7 @@ Not all the way. Not of the circle. He kept it going, round, out and in, out and
 
 It was the most frightening thing he'd ever done.
 
-It felt like falling. It felt like taking his hand off the mouse in the middle of a round. For half a heartbeat there was nothing in his chest at all, nothing, the two candles gone out of him into the air over the red, and he thought *that's it, that's what Aldous meant, that's how the heart stops*—
+It felt like falling. It felt like letting go of a rail in the dark. For half a heartbeat there was nothing in his chest at all, nothing, the two candles gone out of him into the air over the red, and he thought *that's it, that's what Aldous meant, that's how the heart stops*—
 
 And they came back.
 
@@ -141,7 +141,7 @@ It went on. And off. And on.
 
 Niko stared at it.
 
-He knew what that was. He'd seen it ten thousand times. He'd seen it on the first screen of every game he'd ever started, when he was twelve and fifteen and seventeen and twenty-five: a box, on a black screen, with a word above it, and nothing in the box, and that little upright line at the start of it going on and off. On and off. Waiting.
+He knew what that was. He'd seen it ten thousand times. He'd seen it a thousand times, on a screen, at twelve and fifteen and seventeen and twenty-five: a box, with a word above it, and nothing in the box, and that little upright line at the start of it going on and off. On and off. Waiting.
 
 *Enter name*.
 
@@ -207,7 +207,7 @@ Niko hadn't heard him come. Nobody ever did.
 
 "You said don't," said the man.
 
-Niko looked at him. He couldn't see his face. Nobody could. It slid off your eyes like rain off a window, and he'd stopped trying on a road outside Valcrest. But he didn't need it. He'd never needed it. He'd spent four hundred rounds learning this man from a name in a kill feed and the way a rifle sat on an angle, and the way he waited, and he knew him from the shoulders the way you'd know a friend's handwriting.
+Niko looked at him. He couldn't see his face. Nobody could. It slid off your eyes like rain off a window, and he'd stopped trying on a road outside Valcrest. But he didn't need it. He'd never needed it. He'd spent four hundred nights learning this man from a name in grey and the way he waited, and the way he waited, and he knew him from the shoulders the way you'd know a friend's handwriting.
 
 The shoulders were very still.
 
@@ -225,7 +225,7 @@ The man didn't say anything.
 
 The man was still.
 
-"Like a name box," said Niko. "At the start of a game. *Enter name*. And the letters in it keep changing. Like it's guessing. Like it's trying things." He looked at the grey line in his window. "Like it's waiting for somebody to type."
+"Like a name box," said Niko. "On a form. *Enter name*. And the letters in it keep changing. Like it's guessing. Like it's trying things." He looked at the grey line in his window. "Like it's waiting for somebody to type."
 
 ***
 
@@ -363,7 +363,7 @@ He didn't answer it. Not yet. He closed his window and lay on his bunk in the da
 
 Not yet.
 
-He'd know it when he saw it. The way the man knew a fish was there before the float went. The way an AWPer knows the angle before anyone peeks. He didn't have to guess. He just had to wait, and keep going round, and watch, and not be in a hurry.
+He'd know it when he saw it. The way the man knew a fish was there before the float went. The way a patient man knows the door before anyone opens it. He didn't have to guess. He just had to wait, and keep going round, and watch, and not be in a hurry.
 
 He was very good at not being in a hurry.
 

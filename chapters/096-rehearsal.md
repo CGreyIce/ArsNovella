@@ -7,7 +7,7 @@ date: 2026-10-30
 
 The last thing he ever said to Newish was *love you guys, except Newish*.
 
-She'd said *rude*. That was the whole conversation. It was nearly two in the morning in Malacca and she'd been playing Counter-Strike for about three days in her entire life, and they'd lost thirteen to nine, partly because of her, and Ice had blamed the server for a shot he'd missed and promised to be on early tomorrow, *trust*, and Yan had said he'd never been early in his life. And then he'd said goodnight to everyone, one at a time, the way he did. *Love you guys. Except Newish.*
+She'd said *rude*. That was the whole conversation. It was nearly two in the morning in Malacca and they'd been on the call since nine, and the night had gone badly, partly because of her, and Ice had blamed his internet for it and promised to be on early tomorrow, *trust*, and Yan had said he'd never been early in his life. And then he'd said goodnight to everyone, one at a time, the way he did. *Love you guys. Except Newish.*
 
 *Rude*, she'd said.
 
@@ -117,7 +117,7 @@ Winter didn't say anything for a very long time.
 
 "No," said Winter. Not unkindly. "It's not ours to give you. It's not even ours."
 
-And Newish, who'd played Apex with all of them until four in the morning, and trusted them with her life on the sand, had lain in the dark and thought about it, and decided that was fine.
+And Newish, who'd stayed up on calls with all of them until four in the morning for years, and trusted them with her life on the sand, had lain in the dark and thought about it, and decided that was fine.
 
 She'd hear it, when it was time. She always heard things.
 
@@ -141,13 +141,13 @@ The cup had a beat.
 
 Falling things did. She'd never noticed before. A fast one, too fast, like a song played at double speed by somebody who didn't know it. The cup going over the edge of the table, and the wine going over the edge of the cup, and everything going down toward Ina's hands much too fast, *tak-tak-tak-tak*, like a drum roll.
 
-It was wrong. It was the wrong tempo. She heard it the way you hear a bandmate rushing, and every part of her that had ever played a game with someone who was panicking wanted to say the same thing.
+It was wrong. It was the wrong tempo. She heard it the way you hear a bandmate rushing, and every part of her that had ever played in a band with someone who was panicking wanted to say the same thing.
 
 She found the edge. She didn't look for it. It was just there, the way it was always there when you didn't look for it. At the bottom of the beat.
 
 She didn't write *stop*. You couldn't stop a song. That was what she'd learned, a year and a half of hearing beats; you couldn't make anything stop. You could only change how fast it went.
 
-She wrote the thing she'd have said to a panicking friend on a call, at three in the morning, in a game they were losing.
+She wrote the thing she'd have said to a panicking friend on a call, at three in the morning, on a night that was going badly.
 
 *Easy.*
 

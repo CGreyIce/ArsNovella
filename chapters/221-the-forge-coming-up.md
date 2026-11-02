@@ -41,7 +41,7 @@ He didn't make anything. He just stood at the anvil with the fire going and a ba
 
 Not hard. He'd learned that. From Garrow, in the first snow of the winter before last, at the second anvil at Cinderhold, with the pass shut and the war asleep across the red and a king's father's hammer in his hand with a nick in its face like a fingernail. *Slower*. *Wait for it*. *The heat stops being angry if you wait for it*.
 
-He'd never waited for anything. On Earth, he'd been the one who went in. In every game, every round, every server: the one who heard the call and went, first, all of him, before anyone else had finished deciding. *Salty doesn't wait*, they said. In the channel. On the sand. On the wall at Cinderhold, where Rhea said it with something like love. *Salty goes in and hits things and they fall over*. It was true. It had always been true. He'd lifted a champion of the Lists off a gate last summer like a sack of grain, and lost the Singles final to Xav because Xav had stood still and let him swing at nothing, and laughed so hard he'd dropped the greatsword.
+He'd never waited for anything. On Earth, he'd been the one who went in. In everything, every night, every call: the one who heard it and went, first, all of him, before anyone else had finished deciding. *Salty doesn't wait*, they said. In the channel. On the sand. On the wall at Cinderhold, where Rhea said it with something like love. *Salty goes in and hits things and they fall over*. It was true. It had always been true. He'd lifted a champion of the Lists off a gate last summer like a sack of grain, and lost the Singles final to Xav because Xav had stood still and let him swing at nothing, and laughed so hard he'd dropped the greatsword.
 
 He'd learned to wait at the anvil. He'd had to. Iron didn't care how much you wanted it to be a scythe. You heated it and you watched the colour and you waited, and the colour went from angry red to straw to the deep quiet orange that meant *now*, and if you hit it before *now* it cracked and if you hit it after it was cold and you'd wasted the heat. You couldn't hurry it. You couldn't go in. You had to stand there with the tongs in your hand and your whole body wanting to go and *wait*.
 
@@ -59,13 +59,13 @@ It rang.
 
 ***
 
-He'd met Wendy through Yan. Everybody had met everybody through Yan; Yan was the middle of a wheel the way Hana was, except Yan never noticed. He'd been in a Discord call with Yan and three people he didn't know, playing CS at two in the morning, and somebody new had joined the call, a girl with a quiet voice who said *hi* and then nothing else for an hour, and then, at the end of a round they'd lost badly, said very flatly, *that was the worst rotate I've ever seen*, and Salty had laughed so hard he'd had to mute.
+He'd met Wendy through Yan. Everybody had met everybody through Yan; Yan was the middle of a wheel the way Hana was, except Yan never noticed. He'd been in a call with Yan and three people he didn't know, at two in the morning, and somebody new had joined, a girl with a quiet voice who said *hi* and then nothing else for an hour, and then, at the end of a night that had gone badly, said very flatly, *that was the worst plan I've ever heard*, and Salty had laughed so hard he'd had to mute.
 
-She'd been right. It had been his rotate.
+She'd been right. It had been his plan.
 
 She'd always been right. That was the thing about Wendy. She was a skeptic; she'd been a skeptic on Earth and a skeptic on the floor of the hall in Solmere and a skeptic on the cart going east the first week, saying *there's no way home, there's no Sun mage, this is a lie they tell you so you'll fight*. She didn't believe anything she hadn't counted. And she counted everything. She'd counted the scouts on the red, a hundred and sixty-one and four hunters, from the wall, and the forty who went out, and the forty-eight living at dawn. She counted for the people who couldn't see. That was what she'd said, at the gate, the night of the knoll. *That's what I'm for*.
 
-They'd been going to go to Malacca. To see Ice. That autumn, the autumn before, the one that hadn't come. She'd found the flights. She'd had them in a tab on her laptop for three months, open, not booked, because she was a skeptic and something might come up, and something had: a call at three in the morning that wasn't a game.
+They'd been going to go to Malacca. To see Ice. That autumn, the autumn before, the one that hadn't come. She'd found the flights. She'd had them in a tab on her laptop for three months, open, not booked, because she was a skeptic and something might come up, and something had: a call at three in the morning that wasn't like the others.
 
 She'd never closed the tab. She'd told him that, in the first winter, on the wall at Cinderhold, with the snow coming down and Yan asleep against a merlon. *It's still open. On my laptop. In another world. Three years. Nobody's closed it*.
 
@@ -139,7 +139,7 @@ She'd counted them into the air.
 
 Her window was open. He could see the edge of the light of it, in front of her face. She wasn't looking at it. She was looking at him.
 
-He knew what was going to happen. He could see it the way you see a round end before the kill feed comes up. She was going to drop them. All three, at once, from three places over his head, onto his back and his shoulders and the top of his head. He couldn't block three. Not with a greatsword at the end of a swing. He'd lose. Three–nought, three touches, in the time it took to breathe out.
+He knew what was going to happen. He could see it the way you see a glass go off the edge of a table before it falls. She was going to drop them. All three, at once, from three places over his head, onto his back and his shoulders and the top of his head. He couldn't block three. Not with a greatsword at the end of a swing. He'd lose. Three–nought, three touches, in the time it took to breathe out.
 
 And he could stop it.
 

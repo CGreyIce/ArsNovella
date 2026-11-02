@@ -7,7 +7,7 @@ date: 2026-11-01
 
 Maigo had been not-talking for a whole day and it was the hardest thing he'd ever done.
 
-Harder than the first winter. Harder than the red, which hurt, all the time, through his bare foot, like standing on a bruise that went all the way down. Harder than the night among the markers when the ground stopped flinching and he wrote *stay* and a tree came up out of the dirt in front of him. He'd been talking since he was two. His mum said so. *First word, and then no last word, ever*. He'd talked through school, and work, and every game he'd ever played, and every call, and two years of being a tree in a world where nobody had ever seen one. He'd talked to the horse for two years. He'd talked to the tree every month since he planted it.
+Harder than the first winter. Harder than the red, which hurt, all the time, through his bare foot, like standing on a bruise that went all the way down. Harder than the night among the markers when the ground stopped flinching and he wrote *stay* and a tree came up out of the dirt in front of him. He'd been talking since he was two. His mum said so. *First word, and then no last word, ever*. He'd talked through school, and work, and every call, and two years of being a tree in a world where nobody had ever seen one. He'd talked to the horse for two years. He'd talked to the tree every month since he planted it.
 
 And yesterday, from the gate to the moon, he hadn't said anything at all.
 
@@ -125,7 +125,7 @@ The leaves moved.
 
 He didn't look at the man at the edge of the green. He looked at the tree.
 
-"He was standing on the road outside the gate when we got there," said Maigo. "On his own. Waiting. And he said my name." His voice went, a little. "Not my name. *The* name. The one he used to call me when I got four kills with a pistol on a round where I had no business getting any. *Maigotron*." He laughed, wet. "*THE MACHINE*. And every leaf on my head came out at once. In Valcrest, in the road, in front of everybody. Full leaf. Like spring." He looked up at the branches above him. "You'd have liked that. You'd have done it too."
+"He was standing on the road outside the gate when we got there," said Maigo. "On his own. Waiting. And he said my name." His voice went, a little. "Not my name. *The* name. The one he used to call me when I did something at three in the morning I had no business pulling off. *Maigotron*." He laughed, wet. "*THE MACHINE*. And every leaf on my head came out at once. In Valcrest, in the road, in front of everybody. Full leaf. Like spring." He looked up at the branches above him. "You'd have liked that. You'd have done it too."
 
 The leaves moved. All of them. A long slow ripple through the whole tree, from the bottom branches to the top, the way a field of barley moves when wind goes over it. In no wind.
 

@@ -15,15 +15,15 @@ She pushed her glasses up into her hair. She didn't need them. She hadn't needed
 
 Then she looked.
 
-On Earth she'd seen the world through a hole. That was how she'd explained it, on stream, once, with a clip she'd made of what it looked like: a little circle of picture in the middle of black, and everything outside the circle just not there, so that you turned your whole head to look at things other people saw out of the sides of their eyes. Ice had watched it and said, in the chat, *oh it's osu! Flashlight*, and then, about a minute later, when somebody had told him, *oh no. oh no I'm so sorry*, in capitals, eleven times. She'd laughed so hard she'd had to mute.
+On Earth she'd seen the world through a hole. That was how she'd explained it, on stream, once, with a clip she'd made of what it looked like: a little circle of picture in the middle of black, and everything outside the circle just not there, so that you turned your whole head to look at things other people saw out of the sides of their eyes. Ice had watched it and said, in the chat, *oh it's like a flashlight*, and then, about a minute later, when somebody had told him, *oh no. oh no I'm so sorry*, in capitals, eleven times. She'd laughed so hard she'd had to mute.
 
 Here she saw it through a scope.
 
-The left eye did it. It always had. The right one was just an eye, a golden one with dark rings in it, and it saw what eyes see, everything, the whole valley, more than she'd ever seen before she came. But the left one had a crosshair in it, a little red reticle set right in the gold, and when she really looked at something, it locked on. She felt it lock. Like a lens turning. And then she wasn't looking at the valley any more; she was looking at the thing, and the thing was close.
+The left eye did it. It always had. The right one was just an eye, a golden one with dark rings in it, and it saw what eyes see, everything, the whole valley, more than she'd ever seen before she came. But the left one had a mark in it, a little red reticle set right in the gold, and when she really looked at something, it locked on. She felt it lock. Like a lens turning. And then she wasn't looking at the valley any more; she was looking at the thing, and the thing was close.
 
 She looked at the rings.
 
-Eleven miles. Fenwick had chained it, the first winter, with stakes, and sent it to the capital, and the capital had sent it back asking why. Nobody else in Thornwall could see that far. Not the sentries, not Hild, not the king, who'd stood beside her on this roof for a month now and felt what was out there the way you'd feel heat from a forge with the door shut, and asked her what it looked like. She could see it. She'd always been able to see it, since the first summer, since the night at the top of the pass when she'd looked down at it for the first time and Tiger had nearly gone. But she'd seen it the way you see something through a keyhole: there, and gone, and there. A glimpse. She'd lock on a face and hold it a breath, two, and then it would slip, and she'd have to find it again, and her head would ache, and by the time she came down the hundred and twelve steps she'd have a headache like a nail behind the crosshair that lasted till noon.
+Eleven miles. Fenwick had chained it, the first winter, with stakes, and sent it to the capital, and the capital had sent it back asking why. Nobody else in Thornwall could see that far. Not the sentries, not Hild, not the king, who'd stood beside her on this roof for a month now and felt what was out there the way you'd feel heat from a forge with the door shut, and asked her what it looked like. She could see it. She'd always been able to see it, since the first summer, since the night at the top of the pass when she'd looked down at it for the first time and Tiger had nearly gone. But she'd seen it the way you see something through a keyhole: there, and gone, and there. A glimpse. She'd lock on a face and hold it a breath, two, and then it would slip, and she'd have to find it again, and her head would ache, and by the time she came down the hundred and twelve steps she'd have a headache like a nail behind the red mark that lasted till noon.
 
 She held it now.
 
@@ -41,7 +41,7 @@ Still a hair. She held it. She could see the freckles.
 
 She held it.
 
-She'd been holding it, she realised, for a long time. Not a breath, not two. Twenty. Thirty. She'd stopped counting. Ossie's face was there in the crosshair, eleven miles off, every lash of it, and it wasn't slipping. It wasn't going anywhere. And her head didn't hurt.
+She'd been holding it, she realised, for a long time. Not a breath, not two. Twenty. Thirty. She'd stopped counting. Ossie's face was there in the red mark, eleven miles off, every lash of it, and it wasn't slipping. It wasn't going anywhere. And her head didn't hurt.
 
 She let go of Ossie and looked at the next face. A shepherd. She held him. The next. The girl in the red shawl. She held her. And the next and the next, round the third ring, face after face, every one of them close, every one of them staying where she put it, like coins on a table, like books on a shelf, like the stars on a clear night over the Redmarch, Yan had written once, when there was nothing between you and them and they just stayed where they were.
 
@@ -91,9 +91,9 @@ She looked at it for a long time.
 
 "Is that a word that means something," said Hild, "or is it one of yours?"
 
-"Both," said Hyvred. She was laughing now. She didn't know when she'd started. "It's a thing in games. How far something can reach. How far you can shoot. It's a thing for—" She stopped. "It's a thing for snipers. It's what you call it when you can hit something from far away. Ice would have—" She stopped again.
+"Both," said Hyvred. She was laughing now. She didn't know when she'd started. "It's a word for how far something can reach. How far you can shoot. It's a thing for—" She stopped. "It's a thing for archers. It's what you call it when you can hit something from far away. Ice would have—" She stopped again.
 
-She looked at the window. *Range*. In a world where nobody had ever played a game with a scope in it. Where the window had picked the word out of her, the way the windows always picked the words out of them, from somewhere they didn't know they kept things. From an AWPer saying *oh it's osu! Flashlight*, eleven times, *I'm so sorry*.
+She looked at the window. *Range*. In a world where nobody had ever looked through a scope. Where the window had picked the word out of her, the way the windows always picked the words out of them, from somewhere they didn't know they kept things. From a man in her chat saying *oh it's like a flashlight*, and then *I'm so sorry*, eleven times.
 
 "He'd have loved it," said Hyvred. "He'd have been so annoying about it."
 
@@ -117,7 +117,7 @@ She held them, one at a time.
 
 A man in a long coat with the hem torn. An old woman with a stick. Two men in dockers' smocks, the kind you'd see on a wharf, with their sleeves rolled. A young woman with her hair in a net. A boy, older than Joss, younger than Tiger, in a sailor's jersey.
 
-And a woman with a basket on her arm. A wicker basket, the market kind, with a cloth over it, and under the edge of the cloth, very small, very far, through a crosshair that had never held anything eleven miles off before today, something round. Something red.
+And a woman with a basket on her arm. A wicker basket, the market kind, with a cloth over it, and under the edge of the cloth, very small, very far, through a red mark that had never held anything eleven miles off before today, something round. Something red.
 
 Hyvred stopped breathing.
 
@@ -335,7 +335,7 @@ Tiger nodded slowly. He didn't look at her. He was looking north, at the dark wa
 
 Hyvred looked.
 
-She'd never tried from the ground. From the ground there was the north wall in the way, and the roofs of the barracks, and the shoulder of the hill. But she looked anyway, the way she'd looked at the hare, the way she'd looked at the star, with the crosshair locking on, and she found she didn't need the wall to not be there. She went over it. She went over the hill. She went down the long dark valley, eleven miles, past the swept road, to the rings, and the third, and the north side, and a boy in a soldier's coat with his face turned a hair.
+She'd never tried from the ground. From the ground there was the north wall in the way, and the roofs of the barracks, and the shoulder of the hill. But she looked anyway, the way she'd looked at the hare, the way she'd looked at the star, with the red mark locking on, and she found she didn't need the wall to not be there. She went over it. She went over the hill. She went down the long dark valley, eleven miles, past the swept road, to the rings, and the third, and the north side, and a boy in a soldier's coat with his face turned a hair.
 
 She held it.
 

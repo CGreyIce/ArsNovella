@@ -269,7 +269,7 @@ Her hands were white. She looked at them. Not pale; white. Dead white, the finge
 
 And watched them come back.
 
-Not fast. Not like magic in a game. Slowly. The white going, from the tips inward, the way frost goes off a window when the sun gets to it. Pink coming up under it. Then red. Then her own fingers, her own hands, aching, stinging, burning, alive. Ten fingers. All of them. Like they'd never been touched.
+Not fast. Not like magic in a story. Slowly. The white going, from the tips inward, the way frost goes off a window when the sun gets to it. Pink coming up under it. Then red. Then her own fingers, her own hands, aching, stinging, burning, alive. Ten fingers. All of them. Like they'd never been touched.
 
 *Would you grow back a finger if you lost one?* Alea had asked her, the first week, in the militia hall kitchen, sixteen, curious, all ears.
 

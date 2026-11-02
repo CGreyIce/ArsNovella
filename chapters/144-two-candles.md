@@ -7,11 +7,11 @@ date: 2026-10-31
 
 Niko had lost to him about four hundred times.
 
-He'd counted, once, when he was seventeen. Not on purpose. He'd just noticed, one night, on a community server, after the fortieth or fiftieth time in a week that he'd walked into mid on a map he knew better than his own bedroom and been killed by the same AWPer from the same angle, that he'd started keeping a tally in his head. And once you start a tally you can't stop. So he hadn't.
+He'd counted, once, when he was seventeen. Not on purpose. He'd just noticed, one night, online, after the fortieth or fiftieth time in a week that he'd walked into the same trap set by the same patient stranger, that he'd started keeping a tally in his head. And once you start a tally you can't stop. So he hadn't.
 
-Four hundred and something. Over two years. The same AWPer. The same mid. The same patience.
+Four hundred and something. Over two years. The same stranger. The same trap. The same patience.
 
-He'd never once seen him peek first. That was the thing about him that had driven a seventeen-year-old Niko up the wall. Everybody peeked, eventually. Everybody got bored, or nervous, or greedy, and stuck their head out to see where you were, and you shot it. This one never did. He sat in mid with his AWP and waited, so long you'd think he'd gone to make tea, and then you'd get bored, or nervous, or greedy, and stick your head out to see where he'd gone, and you'd be dead.
+He'd never once seen him move first. That was the thing about him that had driven a seventeen-year-old Niko up the wall. Everybody moved, eventually. Everybody got bored, or nervous, or greedy, and stuck their head out to see where you were, and you had them. This one never did. He sat and waited, so long you'd think he'd gone to make tea, and then you'd get bored, or nervous, or greedy, and stick your head out to see where he'd gone, and he'd already have you.
 
 Four hundred times.
 
@@ -91,7 +91,7 @@ He'd seen it every time since. Every time the candles touched. One heartbeat, th
 
 The man didn't say anything.
 
-"I learned you before," said Niko. "On the server. Four hundred times. I learned how you waited. I learned your angles. I learned where you'd be before you were there." He was quiet. "I learned you by losing to you. That's the only way I've ever learned anything from you." He looked at him. "I want to lose to you once more. Properly. Close. So I can see."
+"I learned you before," said Niko. "Online. Four hundred times. I learned how you waited. I learned your corners. I learned where you'd be before you were there." He was quiet. "I learned you by losing to you. That's the only way I've ever learned anything from you." He looked at him. "I want to lose to you once more. Properly. Close. So I can see."
 
 The man looked at him for a long time.
 
@@ -177,7 +177,7 @@ His candles touched.
 
 He didn't decide to. He didn't do anything. He was sitting on the bottom tier with his back against the stone and the weight just lifted off him, and he was watching with both, and something in him saw the circle with no seam and simply went *oh*, and copied it.
 
-The way you copy an angle you've died to four hundred times. Without thinking. Because you've seen it so often your body knows where to stand before your head does.
+The way you copy a trap you've walked into four hundred times. Without thinking. Because you've seen it so often your body knows where to stand before your head does.
 
 Aura out. Mana in. On the breath.
 
@@ -339,7 +339,7 @@ Niko closed his window.
 
 "Go on."
 
-"Do you remember it? The one time." He didn't look round. "On the server. When I was seventeen. Four hundred times you killed me in mid, and once I got you."
+"Do you remember it? The one time." He didn't look round. "Online. When I was seventeen. Four hundred times you had me, and once I got you."
 
 The man was quiet for a moment.
 
@@ -349,23 +349,23 @@ Niko turned his head. He hadn't expected that. He'd thought the man would say *n
 
 "You remember?"
 
-"I remember," said the man. "You didn't peek."
+"I remember," said the man. "You didn't move first."
 
 Niko stared at him.
 
-"Everybody peeked," said the man. "Everybody, eventually. Four hundred times you peeked. And then one night you didn't. You didn't wait, either. You did both. You threw something over to make me look and you came through behind it at the same time, both at once, and I was looking at the wrong thing." He was quiet. "Nobody had ever done both at once. Not to me. I sat there dead in mid and I thought: *that kid's going to be dangerous*."
+"Everybody moves," said the man. "Everybody, eventually. Four hundred times you moved. And then one night you didn't. You didn't wait, either. You did both. You threw something over to make me look and you came through behind it at the same time, both at once, and I was looking at the wrong thing." He was quiet. "Nobody had ever done both at once. Not to me. I sat there dead in mid and I thought: *that kid's going to be dangerous*."
 
 Niko didn't say anything. He couldn't.
 
-"And I typed something in all-chat," said the man.
+"And I typed something to you," said the man.
 
 "I know," said Niko. His voice had gone. "I know what you typed."
 
-He'd kept it. For eleven years. On Earth, and then here. He'd never told anyone what it was, not even Yan, because it was stupid, and it was three words, and it was the only thing that AWPer had ever said to him in two years of killing him four hundred times.
+He'd kept it. For eleven years. On Earth, and then here. He'd never told anyone what it was, not even Yan, because it was stupid, and it was three words, and it was the only thing that stranger had ever said to him in two years of killing him four hundred times.
 
 The man didn't make him say it.
 
-He stood up off the bottom tier. He picked up his rod from where he'd leaned it against the stand. He put it on his shoulder. And he looked down at Niko on the stone, with a cloth full of blood beside him and a nosebleed and a grey line in his window with a word on it he couldn't read yet, and said it, in English, in a voice that wasn't the voice of a boy in a community server at two in the morning any more and was exactly the same:
+He stood up off the bottom tier. He picked up his rod from where he'd leaned it against the stand. He put it on his shoulder. And he looked down at Niko on the stone, with a cloth full of blood beside him and a nosebleed and a grey line in his window with a word on it he couldn't read yet, and said it, in English, in a voice that wasn't the voice of a boy online at two in the morning any more and was exactly the same:
 
 "Nice one. Again."
 

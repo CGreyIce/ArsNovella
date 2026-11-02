@@ -7,17 +7,17 @@ date: 2026-10-31
 
 Hako had a theory about waiting.
 
-He'd had it since he was about twelve, playing hero shooters until three in the morning. His theory was this: most people who say they're good at waiting are just good at not doing anything. They stand there. They hold the angle. They look patient. And then the moment comes, the one they've been waiting for, and they're so used to not doing anything that they don't do anything then, either.
+He'd had it since he was about twelve, staying up until three in the morning. His theory was this: most people who say they're good at waiting are just good at not doing anything. They stand there. They hold still. They look patient. And then the moment comes, the one they've been waiting for, and they're so used to not doing anything that they don't do anything then, either.
 
 Real waiting, Hako's theory went, wasn't about the waiting. It was about the moment at the end of it. You waited so that you'd be *ready*. You waited the way a spring waits.
 
-He'd explained this once to Ice, on a call, about a month after Ice started teaching him CS. Ice had been trying to get him to hold an angle for more than four seconds without peeking, and Hako had peeked, and died, and explained his theory about springs.
+He'd explained this once to Ice, on a call, about a month after Ice started teaching him to wait. Ice had been trying to get him to hold still for more than four seconds without going, and Hako had gone, and lost, and explained his theory about springs.
 
 There'd been a pause on the call.
 
-*Hako*, Ice had said. *That's a great theory. You're very wise. Hold the angle.*
+*Hako*, Ice had said. *That's a great theory. You're very wise. Hold still.*
 
-He'd held the angle. For two years, he'd held the angle. For eight months on Earth with Ice in his ear, and then for two years here, in Valcrest, with a spear, on the far side of every fight, the patient one, the one who waited at the edge of the sand for somebody to come into his reach. Ysolde said he had the best patience she'd seen in a fledgling. Chris said his logs showed it: *Hako waits*. Newish said his beat was a drum somebody played because they liked drums, and that it never once sped up when it shouldn't.
+He'd held still. For two years, he'd held still. For eight months on Earth with Ice in his ear, and then for two years here, in Valcrest, with a spear, on the far side of every fight, the patient one, the one who waited at the edge of the sand for somebody to come into his reach. Ysolde said he had the best patience she'd seen in a fledgling. Chris said his logs showed it: *Hako waits*. Newish said his beat was a drum somebody played because they liked drums, and that it never once sped up when it shouldn't.
 
 He'd thought he'd got it. Waiting. He'd thought he was the spring.
 
@@ -57,7 +57,7 @@ Hako opened his mouth. Shut it.
 
 "But what if I'm wrong?"
 
-"Then you're wrong," said the man. "And you're on your back on the sand and you get up and do it again." He looked at Hako. "You've been holding the angle for three years, Hako. You're very good at it. You're the best I've seen at it." A pause. "At some point you have to peek."
+"Then you're wrong," said the man. "And you're on your back on the sand and you get up and do it again." He looked at Hako. "You've been waiting for three years, Hako. You're very good at it. You're the best I've seen at it." A pause. "At some point you have to go."
 
 ***
 
@@ -77,7 +77,7 @@ It was the optimist's thing, he thought. You believed it would all be fine. You 
 
 "You never think. You just say *it'll be fine* and then it is." She narrowed her eyes at him. "What did he say to you?"
 
-"That I should peek," said Hako.
+"That I should go," said Hako.
 
 Newish looked at him for a long moment. Then she laughed. "*Oh*," she said. "Oh, that's *so* him."
 
@@ -121,7 +121,7 @@ Hako stepped into the ring.
 
 They looked at each other.
 
-Hako had never really known Milli. That was the strange thing. Two years in the channel, and they'd talked maybe a dozen times. Milli was Hana's husband. Milli was Group 2, the capital, the rational one, the one who'd wanted proof. Milli had known Ice for a year and called him *the Minecraft bingo guy*. Hako had known Ice eight months and called him *the guy who taught me to stop looking at the floor*.
+Hako had never really known Milli. That was the strange thing. Two years in the channel, and they'd talked maybe a dozen times. Milli was Hana's husband. Milli was Group 2, the capital, the rational one, the one who'd wanted proof. Milli had known Ice for a year and called him *the bingo guy*. Hako had known Ice eight months and called him *the guy who taught me to stop looking at the floor*.
 
 Neither of them had known him long enough.
 
@@ -139,7 +139,7 @@ Hako's grin went, just for a moment.
 
 Milli's ears went forward.
 
-"He taught me to hold an angle," said Hako. He didn't look at the end of the rail. He didn't need to. "Eight months. On Earth. And then he was gone, and I've been holding it for three years, and I've never once won anything that mattered. Not here. Not in the Banner. Not anywhere." He tightened his hands on the spear. "He's at the end of the rail. He's been teaching me every morning for a week. I want him to see what I kept."
+"He taught me to wait," said Hako. He didn't look at the end of the rail. He didn't need to. "Eight months. On Earth. And then he was gone, and I've been holding it for three years, and I've never once won anything that mattered. Not here. Not in the Banner. Not anywhere." He tightened his hands on the spear. "He's at the end of the rail. He's been teaching me every morning for a week. I want him to see what I kept."
 
 The two of them stood in the chalk ring and looked at each other for a long time.
 
@@ -157,7 +157,7 @@ Hako had known he would. Everybody on the rail had known he would. Two years of 
 
 It was a very good cut. It was early. It was impatient.
 
-Hako's spear was already there. He hadn't even had to decide. Three years of holding the angle: the spear came round low and long and patient and met Milli's sword in the air and turned it, and the butt end came up the other way and touched Milli very lightly on the ribs.
+Hako's spear was already there. He hadn't even had to decide. Three years of waiting: the spear came round low and long and patient and met Milli's sword in the air and turned it, and the butt end came up the other way and touched Milli very lightly on the ribs.
 
 "*One*," said the marshal. "Spear."
 
@@ -185,7 +185,7 @@ And he didn't.
 
 He stood there. And he looked at Hako. Not at the spear. At Hako. At his feet and his hands and his breath. At the spear's tip, moving very slightly in the air with each breath, in and out, like a float on still water.
 
-Hako held the angle.
+Hako held still.
 
 He was good at it. He'd been doing it for three years. He stood at the edge of the chalk ring with the spear low and waited, the way a spring waits, the way he always did, for the cat to come into his reach. The cat didn't come.
 
@@ -195,17 +195,17 @@ On the rail, Hako heard somebody say *oh*. Hana. Very quietly. As if she were wa
 
 Milli didn't move.
 
-And Hako, holding the angle, standing at the edge of the ring with his spear low, realised that the cat had stopped trying to come to him. The cat was doing what Hako did. Waiting. The way Hako waited. Holding the angle.
+And Hako, waiting, standing at the edge of the ring with his spear low, realised that the cat had stopped trying to come to him. The cat was doing what Hako did. Waiting. The way Hako waited. Holding still.
 
-Two people holding the same angle at each other. In a chalk ring. On the side sand.
+Two people holding still at each other. In a chalk ring. On the side sand.
 
-*At some point you have to peek*.
+*At some point you have to go*.
 
 ***
 
-Hako peeked.
+Hako went.
 
-He didn't mean to. He told himself afterwards that he hadn't decided to. But he'd been holding that angle for three years, and the cat had stopped coming, and the man at the end of the rail had said *peek*, and his body moved before his head had finished thinking about it. The spear came forward. Early. While Milli was still deciding to.
+He didn't mean to. He told himself afterwards that he hadn't decided to. But he'd been waiting for three years, and the cat had stopped coming, and the man at the end of the rail had said *go*, and his body moved before his head had finished thinking about it. The spear came forward. Early. While Milli was still deciding to.
 
 And at the very end, the last tenth, he held it back.
 
@@ -255,7 +255,7 @@ Hako laughed. He couldn't help it.
 
 Two to one. Then two to two.
 
-It went quickly, after that, and very slowly at the same time. Hako would never be able to tell it right afterwards, not even to Chris, who logged it all. The two of them in the chalk ring on the side sand, both waiting now. Both holding the angle. Neither of them going first.
+It went quickly, after that, and very slowly at the same time. Hako would never be able to tell it right afterwards, not even to Chris, who logged it all. The two of them in the chalk ring on the side sand, both waiting now. Both holding still. Neither of them going first.
 
 The queue outside the fence had started to turn round. Hako noticed it at the edge of his sight: people on the cobbles with their baskets and their paper horns, who'd been waiting since dawn for the Gate, looking over their shoulders through the fence at the side sand. At two people in a chalk ring who weren't moving. A few of them stood up to see better. Then a few more.
 
@@ -281,7 +281,7 @@ He looked at the end of the rail.
 
 He told himself not to. It was the wrong time. You didn't look away from the man in front of you in a chalk ring at two touches each. He looked anyway. Just for a breath.
 
-The man with the rod was leaning on the rail at the far end, on his own, with two bees on his head. Very still. He wasn't doing anything. He wasn't calling anything. He was just there. The way he'd been there on calls, on Earth, at two in the morning, when Hako was holding an angle and couldn't hold it any longer and Ice's voice in his ear went quiet, so as not to put him off. Not telling him what to do. Just there.
+The man with the rod was leaning on the rail at the far end, on his own, with two bees on his head. Very still. He wasn't doing anything. He wasn't calling anything. He was just there. The way he'd been there on calls, on Earth, at two in the morning, when Hako was waiting and couldn't wait any longer and Ice's voice in his ear went quiet, so as not to put him off. Not telling him what to do. Just there.
 
 *I wanted to know you better*, Hako had said, at the gate. *I was only getting started*.
 
@@ -289,7 +289,7 @@ The man with the rod was leaning on the rail at the far end, on his own, with tw
 
 Hako looked back at Milli.
 
-He'd been holding back the last tenth his whole life. In every game. In every fight. He'd believed it would be fine, all of it, always, so completely that he'd never once let himself find out what happened if it wasn't. He'd kept the last bit in reserve. Just in case.
+He'd been holding back the last tenth his whole life. In everything. In every fight. He'd believed it would be fine, all of it, always, so completely that he'd never once let himself find out what happened if it wasn't. He'd kept the last bit in reserve. Just in case.
 
 He thought, very clearly, in the middle of the chalk ring: *what would I be keeping it for?*
 
@@ -307,7 +307,7 @@ Milli went exactly. The way he'd learned three touches ago. Not early, not fast.
 
 And Hako went all the way.
 
-He felt it go. The last tenth. The bit he'd kept back his whole life, the reserve, the *what if*. He felt it leave him like a held breath going out, all of it, into the spear, into his arms, into his feet on the sand. He didn't keep anything. He peeked. The spear came forward in its long arc, early, while Milli was still deciding to, and this time there was nothing left behind it at all.
+He felt it go. The last tenth. The bit he'd kept back his whole life, the reserve, the *what if*. He felt it leave him like a held breath going out, all of it, into the spear, into his arms, into his feet on the sand. He didn't keep anything. He went. The spear came forward in its long arc, early, while Milli was still deciding to, and this time there was nothing left behind it at all.
 
 Something happened in his hands.
 
@@ -471,7 +471,7 @@ He was still at the far end of the rail. On his own. He hadn't come over. He was
 
 Not loudly. Slowly. Everyone else on the side sand had stopped clapping a while ago; they were shouting, or hugging, or writing things down, or climbing over rails. The queue outside the fence had started turning back round toward the Lists, because a bell had gone somewhere and the Gate was coming. And at the far end of the rail, on his own, a man nobody looked at was still clapping. Slowly. Steadily. As if he'd started when it happened and hadn't noticed that everyone else had stopped.
 
-He'd taught one of them to hold an angle. On Earth. In eight months, at two in the morning, in his ear.
+He'd taught one of them to wait. On Earth. In eight months, at two in the morning, in his ear.
 
 He'd written the book the other one read at midnight in a castle in Solmere, in the first winter, about waiting for a fish. *Most people miss the first tug, because they are too busy pulling*.
 
@@ -499,9 +499,9 @@ Hako looked at him. At a face he couldn't see.
 
 "You said."
 
-"I think I do," said Hako. "Now. A bit." He grinned, wobbly. "You're the guy who tells people to peek."
+"I think I do," said Hako. "Now. A bit." He grinned, wobbly. "You're the guy who tells people to go."
 
-"I'm the guy who tells people to hold the angle," said the man. "For years. And then, once, at the right time, to peek." He reached over the rail and put his hand on Hako's shoulder, briefly, the one without the spear on it. "You've got the angle. You've had it for three years. Now you've got the peek." A pause. "Now you're dangerous."
+"I'm the guy who tells people to wait," said the man. "For years. And then, once, at the right time, to go." He reached over the rail and put his hand on Hako's shoulder, briefly, the one without the spear on it. "You've got the wait. You've had it for three years. Now you've got the go." A pause. "Now you're dangerous."
 
 Hako laughed so hard he had to hold the rail.
 
@@ -525,4 +525,4 @@ He'd found out what was at the end of the waiting.
 
 It wasn't the waiting. It had never been the waiting.
 
-It was the peek.
+It was the go.

@@ -7,13 +7,13 @@ date: 2026-10-30
 
 John used to hold things up to the camera.
 
-That was what he'd been, on Earth, for a while. When Declan streamed with a facecam, in the first year of poly, John had been in the background of almost every stream. Sitting on the bed behind him. Leaning in at the edge of the frame. And every so often Declan would turn round in his chair, in the middle of a game, in the middle of a sentence, and say *John, hold that up*, and point at something, and John would hold it up to the light so the camera could see.
+That was what he'd been, on Earth, for a while. When Declan streamed with a facecam, in the first year of poly, John had been in the background of almost every stream. Sitting on the bed behind him. Leaning in at the edge of the frame. And every so often Declan would turn round in his chair, in the middle of a stream, in the middle of a sentence, and say *John, hold that up*, and point at something, and John would hold it up to the light so the camera could see.
 
-A banana, once. A cat, once, which hadn't been John's cat and hadn't wanted to be held up. Once, and Declan had laughed so hard at this that he'd lost the round, John's own shoe.
+A banana, once. A cat, once, which hadn't been John's cat and hadn't wanted to be held up. Once, and Declan had laughed so hard at this that he'd had to stop the stream, John's own shoe.
 
 He'd written about the shoe in Hako's book, in the summer, in the channel. Everybody had laughed. He'd sat in the common room at Mother Annick's and read them all laughing at a shoe, three years later, in another world, and had to go and stand in the yard.
 
-He'd drifted, after Declan moved to Malacca. They all had, the poly lot. Not on purpose. The way you do. Fewer calls, fewer games, then *we should catch up*, then nothing for months. If they hadn't drifted, John thought, he'd have been one of the closest. He'd been close, once. At orientation camp, at seventeen, sitting on a dormitory floor at two in the morning with a boy he'd met that afternoon who wouldn't stop talking.
+He'd drifted, after Declan moved to Malacca. They all had, the poly lot. Not on purpose. The way you do. Fewer calls, fewer late nights, then *we should catch up*, then nothing for months. If they hadn't drifted, John thought, he'd have been one of the closest. He'd been close, once. At orientation camp, at seventeen, sitting on a dormitory floor at two in the morning with a boy he'd met that afternoon who wouldn't stop talking.
 
 He'd meant to fix it. He'd meant to fly up.
 
@@ -195,7 +195,7 @@ Somebody sitting beside it.
 
 John didn't answer.
 
-He'd held things up to the light for Declan. A banana. A cat. His own shoe. *John, hold that up.* And Declan had laughed so hard he'd lost the round.
+He'd held things up to the light for Declan. A banana. A cat. His own shoe. *John, hold that up.* And Declan had laughed so hard he'd had to stop the stream.
 
 He held his hand up now. Flat, palm out, toward the north. Toward the loud lamp at the end of the road by the water. The way you'd hold your hand up to the light of a fire to feel how warm it was.
 

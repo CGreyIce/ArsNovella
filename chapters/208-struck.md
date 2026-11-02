@@ -17,13 +17,13 @@ The first came an hour after dark. Close to, it was two heads taller than he was
 
 He stepped back into the gap. After that he stopped counting them.
 
-He'd done it before. He'd done it on the red two summers ago, in a broken ring round a black sword. He'd done it on Earth ten thousand times, at three in the morning, with his headset half off and his eyes on a doorway in a game, holding an angle. You didn't look at the thing coming. You looked at the gap it had to come through. You didn't peek. You let it peek into you.
+He'd done it before. He'd done it on the red two summers ago, in a broken ring round a black sword. He'd done it on Earth ten thousand times, at three in the morning, with his eyes on a doorway, waiting. You didn't look at the thing coming. You looked at the gap it had to come through. You didn't go out to it. You let it come to you.
 
 He'd learned that from somebody.
 
 The old man on his left, whose name was Jessop and who'd lost an eye on this plain nine years ago, said to him at about two in the morning, between bursts, very quietly, "Where'd you learn that, lad?"
 
-"Off a man," said Niko. "Who never peeked first."
+"Off a man," said Niko. "Who never moved first."
 
 Jessop thought about that for a while, leaning on his spear.
 
@@ -39,7 +39,7 @@ He didn't mind. He'd bled all over the east wall at dawn for two and a half year
 
 ***
 
-He heard everything. You do, in a gap. You can't see much, because you're not looking; you're looking at the gap. But you hear all of it, the way you hear a whole round on a headset.
+He heard everything. You do, in a gap. You can't see much, because you're not looking; you're looking at the gap. But you hear all of it, the way you hear a whole house from one room at night.
 
 He heard Rhea's arm go. He heard Teague shouting *ring*. He heard the first big one sit down and not get up, and Jory Platt say *that's one*. He heard Suzu hit the cairn, and the sound Yan made, which he'd never heard Yan make and never wanted to again. He heard the stone start to come out of the ground and Maigo scream, and Salty's sword hit the grass, and then, a long moment later, a sound from the middle of the knoll that he'd never in his life expected to hear on a battlefield.
 
@@ -77,7 +77,7 @@ And the fourth one stood up.
 
 It was bigger than the others.
 
-Of course it was. That was why it had waited. You keep your best one back. You let the others go in and find out where the walls are, and then you send the one that matters at the place where the walls aren't. He'd done it himself, a thousand times. In a game. On a map he knew better than his own flat. You sent three to make noise on one site and you sat on the other with the AWP and waited.
+Of course it was. That was why it had waited. You keep your best one back. You let the others go in and find out where the walls are, and then you send the one that matters at the place where the walls aren't. He'd done it himself, a thousand times, at home, at three in the morning, on calls. You sent three to make noise in one place and you sat in the other and waited.
 
 He'd played against somebody who did that better than anyone. For years.
 
@@ -93,7 +93,7 @@ Niko was in it.
 
 ***
 
-He looked round once. He couldn't help it. He knew you weren't supposed to; you never took your eyes off the angle. He looked anyway. One look, quick, the way you check the minimap.
+He looked round once. He couldn't help it. He knew you weren't supposed to; you never took your eyes off the gap. He looked anyway. One look, quick, over his shoulder.
 
 Everyone was down.
 
@@ -125,7 +125,7 @@ On the east wall. The summer before. With the sun coming up over Kharvos, while 
 
 He'd thought it was a kind thing to say. It was. He'd thought it was all it was.
 
-He understood now, at seventy paces, what it actually meant. It meant: the last one is the one who's still standing when everyone else is down. It's not the worst seat. It's the one that matters. It's the one at the end of the round when it's one against one and the whole team's watching from the ground and it's on you.
+He understood now, at seventy paces, what it actually meant. It meant: the last one is the one who's still standing when everyone else is down. It's not the worst seat. It's the one that matters. It's the one at the end when it's one against one and everybody's watching from the ground and it's on you.
 
 He'd been last in a lot of rounds.
 
@@ -241,7 +241,7 @@ He tossed it again. Up. Out. Gone. There.
 
 And the little upright mark at the start of the third line, under all the guessing, went on, and off, and on.
 
-Not guessing. It had never once guessed anything. It just sat at the start of the box and waited, the way a cursor waits, on the first screen of every game he'd ever started, when he was twelve and fifteen and seventeen and twenty-five, for whoever was holding the keyboard.
+Not guessing. It had never once guessed anything. It just sat at the start of the box and waited, the way a cursor waits at the start of an empty page, for whoever was going to write.
 
 *Enter name.*
 
@@ -251,13 +251,13 @@ He'd been twelve.
 
 That was the thing he thought of. Of all the things. With a thing the size of a cart at fifteen paces and his heart going like a hammer on a bench and the whole of him spun up into a circle on the edge of breaking. He thought of being twelve.
 
-A bedroom in a flat that was too hot. A second-hand computer his uncle had given him, with a fan that screamed. The first screen of a game he'd saved up for. *Choose your class*. And a row of little pictures: a man with a sword, a man with a staff, a man with a bow. And one at the end, a man with a sword in one hand and fire in the other, and under it, in gold letters, a word he'd never seen before.
+A bedroom in a flat that was too hot, with a fan that screamed. A book he'd saved up for, a big one, with a soft cover gone white at the corners. The first page of it. *Who are you?* And a row of little pictures: a man with a sword, a man with a staff, a man with a bow. And one at the end, a man with a sword in one hand and fire in the other, and under it, in gold letters, a word he'd never seen before.
 
-He'd picked it. Of course he had. He'd picked it in every game since, if a game had one. He'd been told it was a waste in every party he was ever in. *Pick one, mate. You're half as good at both*. Rhea, at supper, in the first year: *it's a waste, lad, pick one*. And he'd never picked one. He didn't know why. He'd just always wanted to be the man at the end of the row with the fire in one hand and the blade in the other, and he'd never once in his life wanted to be anything else.
+He'd picked it. Of course he had. He'd been that one in every story he'd told himself since. He'd been told it was a waste by everybody he ever told. *Pick one, mate. You're half as good at both*. Rhea, at supper, in the first year: *it's a waste, lad, pick one*. And he'd never picked one. He didn't know why. He'd just always wanted to be the man at the end of the row with the fire in one hand and the blade in the other, and he'd never once in his life wanted to be anything else.
 
-He'd typed his name into the box under it, at twelve, in a hot bedroom, with a fan screaming.
+He'd written his name on the line under it, in pencil, at twelve, in a hot bedroom, with a fan screaming.
 
-Nobody had guessed that word for him. Nobody had needed to. He'd read it in gold letters on the first screen of a game and picked it, and it had been his ever since, and he'd forgotten it was a word at all.
+Nobody had guessed that word for him. Nobody had needed to. He'd read it in gold letters on the first page of a book and picked it, and it had been his ever since, and he'd forgotten it was a word at all.
 
 The frost-letters had never guessed it. They never would have. It wasn't anywhere in this world to guess. It was in his.
 
@@ -706,7 +706,7 @@ And then, at seven in the morning: *35*.
 
 He wouldn't write. He never did. Niko knew that. That was all right.
 
-He thought about the all-chat, at two in the morning, when he was seventeen. A community server. An AWPer who never peeked first, who'd killed him four hundred times and never said a word, and then, the one time Niko got him, typed three words and left.
+He thought about two in the morning, when he was seventeen. Online. A stranger who never moved first, who'd beaten him four hundred times and never said a word, and then, the one time Niko got him, typed three words and left.
 
 *nice one. again.*
 

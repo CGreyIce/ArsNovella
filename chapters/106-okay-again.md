@@ -23,7 +23,7 @@ Declan was on the end of the jetty.
 
 Of course he was. He was sitting where he'd sat all night, in the place at the very end, with his legs over the water and the rod held out in front of him and the line going down into the grey. He hadn't been to bed. Xav could tell by the set of his shoulders. He'd sat up the rest of the night on his own, after the rest of them went in, and put the kettle on again at some point, because there was a cup beside him on the boards, and then come back out here to watch the light come up on the lake.
 
-Xav walked out along the jetty. He didn't try to be quiet. There wasn't any point. You couldn't sneak up on Declan in a game and you obviously couldn't sneak up on him here.
+Xav walked out along the jetty. He didn't try to be quiet. There wasn't any point. You'd never once been able to sneak up on Declan at home and you obviously couldn't sneak up on him here.
 
 "Morning," said Declan, without turning round.
 
@@ -41,7 +41,7 @@ Xav sat down.
 
 They didn't say anything for a while.
 
-That was the thing. That had always been the thing, with Declan. Everybody else Xav had ever played with filled the silences. Talked between rounds, talked during rounds, talked about the round after the round was over. Declan talked more than any of them, most of the time. Too loud. Laughing in the middle of his own sentences. But in the last round, in the last thirty seconds, when it came down to the two of them, he'd go completely quiet. And so would Xav. And they'd sit there on comms not saying anything, two people in two rooms across a city, waiting, and it had been the most comfortable silence of Xav's life.
+That was the thing. That had always been the thing, with Declan. Everybody else Xav had ever stayed up with filled the silences. Talked over each other, talked about nothing, talked about what they'd just talked about. Declan talked more than any of them, most of the time. Too loud. Laughing in the middle of his own sentences. But at the end, in the last minutes, when it came down to the two of them, he'd go completely quiet. And so would Xav. And they'd sit there on the call not saying anything, two people in two rooms across a city, waiting, and it had been the most comfortable silence of Xav's life.
 
 This was the same silence.
 
@@ -87,7 +87,7 @@ Xav looked at the whole lake.
 
 He found, after a minute, that he was good at it.
 
-He'd have known that, if he'd thought about it. It was the same thing. It was exactly the same thing as holding an angle. You picked your place, and you settled, and you stopped wanting anything, and you let everything else in the world get bored before you did. The mist moved on the water. The heron stood on its one leg. Xav breathed out and let his shoulders come down and sat on the end of the jetty with the rod held out in front of him, and stopped being in a hurry for the first time since he'd woken up on a stone floor a year and a half ago.
+He'd have known that, if he'd thought about it. It was the same thing. It was exactly the same thing as sitting beside Declan at three in the morning, waiting. You picked your place, and you settled, and you stopped wanting anything, and you let everything else in the world get bored before you did. The mist moved on the water. The heron stood on its one leg. Xav breathed out and let his shoulders come down and sat on the end of the jetty with the rod held out in front of him, and stopped being in a hurry for the first time since he'd woken up on a stone floor a year and a half ago.
 
 Beside him, Declan watched him do it.
 
@@ -127,7 +127,7 @@ Declan didn't ask what he meant. Declan never had to ask what he meant.
 
 "I know. You told me yesterday."
 
-"I'm telling you again." Xav kept his eyes on the water. "You had the AWP. I had a pistol and forty-one health and I was in the car, at the bottom, and I wanted to go so badly I could hear my own heart. And you said *wait*. On comms. That's all. Nothing else. For a minute and a half. And I waited. And they got bored. They came round the corner one at a time, the way you said they would, the way you always said they would, and you took the first one and I took the second one, with a pistol, from the car, with forty-one health." He breathed. "That was the first round I ever won on my own. In my whole life."
+"I'm telling you again." Xav kept his eyes on the water. "We were losing. Badly. It was three in the morning and I wanted to go so badly I could hear my own heart. And you said *wait*. On the call. That's all. Nothing else. For a minute and a half. And I waited. And they got bored. They came one at a time, the way you said they would, the way you always said they would, and it turned. It just turned." He breathed. "That was the first time I ever won anything by waiting. In my whole life."
 
 "You didn't win it on your own. I was there."
 
@@ -147,11 +147,11 @@ Xav didn't move. Didn't strike. Didn't look at it.
 
 "What did you say," said Xav.
 
-It had taken him nine years to ask. He'd thought about it, on and off, for all of them. At three in the morning, on comms, in the last round, in the gap before Declan moved. That low mutter under his breath, too quiet to catch properly, a handful of words in a language Xav had never had a name for. He'd asked once, at nineteen. *What's that you say?* And Declan had laughed and said *you'll find out*, and never told him.
+It had taken him nine years to ask. He'd thought about it, on and off, for all of them. At three in the morning, on calls, in the last minute, in the gap before Declan moved. That low mutter under his breath, too quiet to catch properly, a handful of words in a language Xav had never had a name for. He'd asked once, at nineteen. *What's that you say?* And Declan had laughed and said *you'll find out*, and never told him.
 
 And then a yard in Duskhollow, in the summer, in the dew. Petra touching her own mouth as if it belonged to somebody else. *My mouth doesn't know the shapes.*
 
-"Before the last round," said Xav. "Every time. And on the Redmarch, Petra said. Before you moved. You said something."
+"At the very end," said Xav. "Every time, at the last minute. And on the Redmarch, Petra said. Before you moved. You said something."
 
 Declan was quiet for a moment.
 
@@ -221,7 +221,7 @@ Then he reeled it in. Slowly. The way he'd watched Declan do it. Checked the hoo
 
 Declan took his hands off his face.
 
-He looked at Xav for a long moment. Something moved in his face. Xav couldn't hold on to it, the face. Nobody could. Everyone said so. His eyes slid off it like rain off a window. But he didn't need the face. He'd never needed the face. He knew exactly what it was doing, from the shoulders, from the breath, from the way Declan went still beside him on the boards. The same way he'd always known, through a headset, from two words, whether Declan was about to laugh or about to cry.
+He looked at Xav for a long moment. Something moved in his face. Xav couldn't hold on to it, the face. Nobody could. Everyone said so. His eyes slid off it like rain off a window. But he didn't need the face. He'd never needed the face. He knew exactly what it was doing, from the shoulders, from the breath, from the way Declan went still beside him on the boards. The same way he'd always known, on a call, from two words, whether Declan was about to laugh or about to cry.
 
 Both.
 
@@ -367,7 +367,7 @@ Petra looked at him.
 
 Petra didn't say anything.
 
-Xav, on the end of the jetty, felt something go through him. Something cold and bright, like a door opening. He knew what that was. He'd heard Declan say it, a hundred times, to a hundred different people, in a hundred different games. Never quite the same words. Always the same thing. *You're not bad. You're just waiting too long. I'll show you the moment. Once. Then it's yours.*
+Xav, on the end of the jetty, felt something go through him. Something cold and bright, like a door opening. He knew what that was. He'd heard Declan say it, a hundred times, to a hundred different people, on a hundred different nights. Never quite the same words. Always the same thing. *You're not bad. You're just waiting too long. I'll show you the moment. Once. Then it's yours.*
 
 "For a while," said Petra slowly.
 

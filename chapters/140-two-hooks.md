@@ -131,7 +131,7 @@ The marshal said *begin*.
 
 Sorrel didn't wait.
 
-Alea had known she wouldn't. She'd watched Sorrel fight all week from across the sand. Sorrel didn't stand still, didn't hold an angle, didn't wait for anything. She came in, the way the sea comes in, all at once and from the side, with one hook high and one low, cheerful and quick and barefoot on the sand.
+Alea had known she wouldn't. She'd watched Sorrel fight all week from across the sand. Sorrel didn't stand still, didn't hold back, didn't wait for anything. She came in, the way the sea comes in, all at once and from the side, with one hook high and one low, cheerful and quick and barefoot on the sand.
 
 Alea waited.
 

@@ -99,7 +99,7 @@ Aldous considered it. He looked at the cart. He looked at the downs. He looked a
 
 She'd heard about Group 3 all her life.
 
-Not as Group 3. As the squad. The four he'd played with every night, on Earth, in the hours after work, in the dark, with voices in his ears. She'd had them as bedtime stories from the age of seven, the way other girls had giants and princesses. Yan, who was calm, and called the plays in the other game, the one where Yan carried him. Maigo, who never stopped talking. Niko, whom her father only ever called Mashi, who was quiet and chill and watched everything, and had lost to her father four hundred times in the game at night when they were on opposite sides, which her father said was an exaggeration, and was probably more. Salty, who her father owed something to that she'd never understood. And Wendy, who wasn't one of the four but was always in the call, who said what she thought, and was usually right, and had once made her father laugh so hard he'd fallen off his chair.
+Not as Group 3. As the squad. The four he'd stayed up with every night, on Earth, in the hours after work, in the dark, with voices in his ears. She'd had them as bedtime stories from the age of seven, the way other girls had giants and princesses. Yan, who was calm, and called the plays, and carried him through the bad nights. Maigo, who never stopped talking. Niko, whom her father only ever called Mashi, who was quiet and chill and watched everything, and had lost to her father four hundred times at night, years ago, when they were on opposite sides, which her father said was an exaggeration, and was probably more. Salty, who her father owed something to that she'd never understood. And Wendy, who wasn't one of the four but was always in the call, who said what she thought, and was usually right, and had once made her father laugh so hard he'd fallen off his chair.
 
 She'd thought she knew them.
 
@@ -165,7 +165,7 @@ Her father didn't say anything. But Alea saw his mouth, at the corner. And she s
 
 The callouts were the thing she hadn't expected.
 
-She'd heard about them. *Callouts*. Her father had tried to explain them once, when she was eight, and failed. In the game, he'd said, you couldn't see everything, so everyone told everyone else what they could see, very fast, in as few words as possible, and if everyone did it right it was like having one pair of eyes with five heads. She hadn't understood. She'd asked him why they didn't just look.
+She'd heard about them. *Callouts*. Her father had tried to explain them once, when she was eight, and failed. When you can't see everything, he'd said, everyone tells everyone else what they can see, very fast, in as few words as possible, and if everyone does it right it's like having one pair of eyes with five heads. She hadn't understood. She'd asked him why they didn't just look.
 
 She understood now.
 

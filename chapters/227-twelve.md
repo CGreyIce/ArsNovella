@@ -89,7 +89,7 @@ Rui Xiang appeared. Right beside her. He grinned.
 
 "It's a hedge."
 
-"It's a *base*," said Rui Xiang, with tremendous respect. "You built a base." He went in. He walked all the way round the inside of it, touching the briar very carefully between the thorns, the way you'd touch a wall in a game to see if it was real. "Declan's going to cook in here?"
+"It's a *fort*," said Rui Xiang, with tremendous respect. "You built a fort." He went in. He walked all the way round the inside of it, touching the briar very carefully between the thorns, the way you'd touch a wall in a dream to see if it was real. "Declan's going to cook in here?"
 
 "On the shingle. Down there. Then carry it up."
 

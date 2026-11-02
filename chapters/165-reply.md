@@ -9,7 +9,7 @@ The letter came on the hundred-and-eleventh day, in the afternoon, while he was 
 
 He'd been at Cinderhold three weeks. He'd carried the water every day. Aldous still told him so every morning at the tail of the line, *water*, though there was no cart now and no line, only Group 3 in the courtyard at dawn with the chaplain's book under the chaplain's arm, because Aldous said a day was still a thing you carried from one end to the other, and you'd better know before you picked it up. So he carried the water. From the well to the kitchen, from the well to the stables, from the well to the forge for Oakes's quenching trough. With the blue bucket. Pim had been very clear about the blue bucket.
 
-He'd cooked eleven dinners. He'd paid. Salty had said *twelve*, and he'd laughed until he couldn't breathe, on a forge floor, in the dark, for the first time in he didn't know how long. He'd fished the stream half a mile west of the fort every dawn and caught perch and chub and once a trout that Oakes said nobody had caught in that stream in twenty years. He'd watched Rhea hold him for a count, once, in front of the whole fort, and watched the whole fort lose its mind about it. He'd sat on the gatehouse steps before dawn and watched a boy he'd killed four hundred times on a server get to nineteen without any help at all.
+He'd cooked eleven dinners. He'd paid. Salty had said *twelve*, and he'd laughed until he couldn't breathe, on a forge floor, in the dark, for the first time in he didn't know how long. He'd fished the stream half a mile west of the fort every dawn and caught perch and chub and once a trout that Oakes said nobody had caught in that stream in twenty years. He'd watched Rhea hold him for a count, once, in front of the whole fort, and watched the whole fort lose its mind about it. He'd sat on the gatehouse steps before dawn and watched a boy he'd beaten four hundred times at seventeen get to nineteen without any help at all.
 
 And every morning and every evening, he'd gone up on the east wall and stood at the tenth merlon north of the gate, and his daughter had stood at the twelfth, and they'd looked at a tree a long way out on the red, beside a dark stone. And neither of them had stepped into the gap.
 
@@ -113,7 +113,7 @@ He knew. He'd been there. He'd been on the wall that night when the commander ca
 
 *I was wrong. It was the other way round.*
 
-He'd known that by midnight. In the ditch. With the line holding. Too easily. He'd stood in the ditch with the scouts falling back in front of him, not pressing, not dying, just *falling back*, and listened past them, east, toward the fort, and heard nothing. And known. The way you know, in the middle of a round, that the noise on your side of the map is the noise they want you to hear.
+He'd known that by midnight. In the ditch. With the line holding. Too easily. He'd stood in the ditch with the scouts falling back in front of him, not pressing, not dying, just *falling back*, and listened past them, east, toward the fort, and heard nothing. And known. The way you know, in the middle of a fight, that the noise in front of you is the noise they want you to hear.
 
 He'd stayed. He'd held the ditch till dawn. There'd been forty soldiers in it, and they'd have died, and he'd known that too.
 

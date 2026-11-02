@@ -11,7 +11,7 @@ Green. A good green coat, a grain factor's coat, with brass buttons, buttoned to
 
 Into the valley.
 
-She didn't say anything. She stood on the tower with her hands on the cold stone and her left eye doing the thing it did now, the red crosshair in the gold locking on, the world going narrow and very sharp, the way it had gone on Earth through a hole the size of a coin. Only now the hole could reach eleven miles. Now the hole could see everything.
+She didn't say anything. She stood on the tower with her hands on the cold stone and her left eye doing the thing it did now, the red mark in the gold locking on, the world going narrow and very sharp, the way it had gone on Earth through a hole the size of a coin. Only now the hole could reach eleven miles. Now the hole could see everything.
 
 She watched him walk down into the valley.
 
@@ -159,7 +159,7 @@ Hyvred felt it.
 
 She didn't see it. The Scope showed her the same thing it had shown her all afternoon: a valley, and a burned circle, and rings of people standing round it with their faces up. Nothing moved. Nobody turned.
 
-But she felt it, in the gold eye, under the crosshair. The way you feel a sound in your teeth before you hear it. Something going *shut*. Not loudly. Like a book closing in another room. Like a sum being finished, the last number written in at the bottom of the column, and the pen put down.
+But she felt it, in the gold eye, under the red mark. The way you feel a sound in your teeth before you hear it. Something going *shut*. Not loudly. Like a book closing in another room. Like a sum being finished, the last number written in at the bottom of the column, and the pen put down.
 
 *They finished counting*.
 
@@ -339,7 +339,7 @@ That was what she'd remember. That was the thing she'd see at night. Drew's face
 
 She looked at him with the gold eye.
 
-She didn't mean to. It locked on before she could stop it. The crosshair. The true sight. And she saw, on Drew, faint, so faint she'd never have seen it if she hadn't spent two years looking at the rings in the valley, the thing she'd seen on the miller's wife on the ridge track, and on the boy in the cap at the Narrows, and on thirty-nine people walking out of Valcrest at night.
+She didn't mean to. It locked on before she could stop it. The red mark. The true sight. And she saw, on Drew, faint, so faint she'd never have seen it if she hadn't spent two years looking at the rings in the valley, the thing she'd seen on the miller's wife on the ridge track, and on the boy in the cap at the Narrows, and on thirty-nine people walking out of Valcrest at night.
 
 The wrong light.
 

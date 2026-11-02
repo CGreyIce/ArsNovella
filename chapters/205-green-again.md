@@ -433,7 +433,7 @@ He'd been asleep when Teague shouted. Maigo knew because his hair was still flat
 
 Now he shut his own eyes all the way, and tilted his head.
 
-Maigo watched him do it. He'd watched Yan do it on Earth, too, on a voice call at three in the morning in a ranked game, when it had gone quiet and he wanted to know where the other squad was. *Hang on. Let me listen*.
+Maigo watched him do it. He'd watched Yan do it on Earth, too, on a voice call at three in the morning, when it had gone quiet and he wanted to know what was coming. *Hang on. Let me listen*.
 
 The room waited.
 

@@ -407,7 +407,7 @@ He didn't say anything. He moved over a little, and went on fishing.
 
 She'd sat beside him on this jetty a hundred times now. Since the winter, the second winter, the night he'd said *hi* at the bottom of the lake road and she'd heard his voice for the first time in three years. She still wasn't used to it. She didn't think she ever would be. You don't get used to a dead friend sitting next to you with a fishing rod. You just stop being surprised by it, and the not-being-surprised is its own kind of thing.
 
-She'd sung to him, on Earth. On calls, late, when he couldn't sleep. He'd play some game with the sound off, and she'd sing, whatever she was learning, badly, and he'd say *that was nice* in the voice he used when he meant it, and go quiet, and she'd know he'd gone to sleep with the call still running. She hadn't sung here. Not once. Not to him. She didn't know why.
+She'd sung to him, on Earth. On calls, late, when he couldn't sleep. He'd have something on his screen with the sound off, and she'd sing, whatever she was learning, badly, and he'd say *that was nice* in the voice he used when he meant it, and go quiet, and she'd know he'd gone to sleep with the call still running. She hadn't sung here. Not once. Not to him. She didn't know why.
 
 "Six," said Thea. In English. "Clean."
 
@@ -447,7 +447,7 @@ Out on the lake a fish rose, a long way out, and the rings went out from it slow
 
 "Good," he said.
 
-She heard it. She'd known him since she was eighteen. She'd heard him say *good* a thousand times, in a thousand voices, on calls and in games and at the bottom of a lake road, and she heard this one.
+She heard it. She'd known him since she was eighteen. She'd heard him say *good* a thousand times, in a thousand voices, on calls and on streams and at the bottom of a lake road, and she heard this one.
 
 It was the true one. He meant it. It was good; he wanted it; he wanted them to have it, all thirty-five of them, a way home, written down in a clean hand. She could hear that.
 

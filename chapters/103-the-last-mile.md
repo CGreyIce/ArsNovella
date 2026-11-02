@@ -7,9 +7,9 @@ date: 2026-10-30
 
 The last thing Gabe ever said to him was *sleep, Declan. Seriously.*
 
-He'd said it every night for eleven years. On calls, in chats, at the door of his flat when Declan stayed over too late. *Sleep.* Because Declan never did. He'd stay up till four playing one more game, one more round, one more match, and then drag himself through the next day like a man walking through mud, and Gabe would tell him off, and he'd say *trust*, and do it again.
+He'd said it every night for eleven years. On calls, in chats, at the door of his flat when Declan stayed over too late. *Sleep.* Because Declan never did. He'd stay up till four on one more call, one more hour, one more thing, and then drag himself through the next day like a man walking through mud, and Gabe would tell him off, and he'd say *trust*, and do it again.
 
-That night, the last night, there'd been five of them on the call. Yan and Niko and Newish and Gabe, and Declan blaming the server for a shot he'd missed. And at nearly two in the morning, Declan had said goodnight to everyone, one at a time, the way he did. And Gabe had said what he always said.
+That night, the last night, there'd been five of them on the call. Yan and Niko and Newish and Gabe, and Declan blaming his internet for everything. And at nearly two in the morning, Declan had said goodnight to everyone, one at a time, the way he did. And Gabe had said what he always said.
 
 *Sleep, Declan. Seriously.*
 
@@ -167,7 +167,7 @@ Nobody said anything. Gabe couldn't. He was standing at the corner of a market s
 
 "How do you—" said Deston. His voice didn't work properly.
 
-"Bedtime stories," said the fox girl. "Every night. One winter. When I was thirteen. All thirty-five of you." She looked at Xav, behind them. "And you're Xav. You're the one he talked into Counter-Strike, and then you got better than him, and he never forgave you."
+"Bedtime stories," said the fox girl. "Every night. One winter. When I was thirteen. All thirty-five of you." She looked at Xav, behind them. "And you're Xav. You're the one he taught to wait, and then you got better at it than him, and he never forgave you."
 
 Xav made a sound Gabe had never heard him make.
 
@@ -185,7 +185,7 @@ He didn't decide to. His knees just went. He sat down on the low stone wall at t
 
 *Alea.*
 
-He knew that name. He'd known it since he was fifteen. Declan had called everything Alea. Every horse in every game. Every pet. Every companion, every party member, every NPC that followed you round. Every single one, for eleven years. *Alea.* Gabe had asked him once, at sixteen, why. And Declan had said, very seriously, the way he said things he wasn't joking about, *it's a good name. One day I'm going to give it to someone who deserves it.*
+He knew that name. He'd known it since he was fifteen. Declan had called everything Alea. Every horse he ever named. Every pet. Every companion in every story he ever told, every made-up friend that followed you round. Every single one, for eleven years. *Alea.* Gabe had asked him once, at sixteen, why. And Declan had said, very seriously, the way he said things he wasn't joking about, *it's a good name. One day I'm going to give it to someone who deserves it.*
 
 And then *trust*.
 
@@ -201,7 +201,7 @@ He had.
 
 Deston was crying. Openly. Standing at the top of the road with his hands at his sides and his face wet, not wiping it.
 
-Xav, behind them, had put his hand over his eyes and was laughing. Very quietly. Helplessly. The way you laugh at the end of a round when somebody's done something so completely, ridiculously *them* that there's nothing else you can do.
+Xav, behind them, had put his hand over his eyes and was laughing. Very quietly. Helplessly. The way you laugh at the end of a long night when somebody's done something so completely, ridiculously *them* that there's nothing else you can do.
 
 "Of course you are," said Xav, through his hand. "Of *course* you are. Of course he did."
 
@@ -285,7 +285,7 @@ Gabe looked at his back. At the shape of his shoulders. He didn't know them. It 
 
 But the way he was sitting.
 
-Hunched, a little, forward, with his elbows on his knees. Patient. Not doing anything. Just waiting. The way he'd sat at his desk at three in the morning at the end of a lost round, holding an angle, waiting for somebody to make up their mind.
+Hunched, a little, forward, with his elbows on his knees. Patient. Not doing anything. Just waiting. The way he'd sat at his desk at three in the morning at the end of a bad night, perfectly still, waiting for somebody to make up their mind.
 
 Gabe had seen him sit like that a thousand times.
 

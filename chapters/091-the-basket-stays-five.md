@@ -274,7 +274,7 @@ He looked up the lake road. At the five lanterns going up it, and the lights of 
 
 He thought about it.
 
-"When I can," he said. "He always found me first. Every time. In every game, every city. He always turned up." Something moved at the corner of his mouth. "He'll probably turn up."
+"When I can," he said. "He always found me first. Every time. In every town, every city. He always turned up." Something moved at the corner of his mouth. "He'll probably turn up."
 
 Thea looked at him for a long moment.
 

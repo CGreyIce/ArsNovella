@@ -400,7 +400,7 @@ They were the kingdom's cards. Five suits. Crowns and Ploughs and Ships and Keys
 
 Rui Xiang learned it in ten minutes.
 
-He'd always been like that. In the poly class, in every game they'd ever played: he'd sit there for ten minutes not saying anything, watching, and then he'd play once and lose and then he'd be better than you. He'd been better than everybody at everything except one thing, and the one thing was Declan, at the rhythm game, with Hidden on everything, for six years. Rui Xiang had chased his scores for six years and never once caught them.
+He'd always been like that. In the poly class, at everything they'd ever done: he'd sit there for ten minutes not saying anything, watching, and then he'd try once and lose and then he'd be better than you. He'd been better than everybody at everything except one thing, and the one thing was Declan, at the one thing that was all timing, for six years. Rui Xiang had chased him for six years and never once caught him.
 
 He beat Declan at Ditch in an hour.
 
@@ -420,7 +420,7 @@ The real one. The one John had heard on a hundred streams at three in the mornin
 
 "It counts," said Declan. He took his arm away and looked at the roof. "It counts, RX. Nice one."
 
-He didn't say *again*. John noticed that. He'd said *nice one, again* to Niko once, on a community server, at two in the morning, and it had gone round the whole channel. He didn't say it to Rui Xiang. He just lay on the hay and looked at the roof and grinned.
+He didn't say *again*. John noticed that. He'd said *nice one, again* to Niko once, online, at two in the morning, and it had gone round the whole channel. He didn't say it to Rui Xiang. He just lay on the hay and looked at the roof and grinned.
 
 Rui Xiang gathered up the cards very carefully and gave them back to the shepherd in the morning as if they were made of glass.
 

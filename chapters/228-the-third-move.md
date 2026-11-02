@@ -21,7 +21,7 @@ He'd saved it. He'd brought it here, carefully, the whole year, the way you'd ca
 
 And for six mornings he'd sat beside the one person in two worlds who could catch it and not opened the door, because he was afraid.
 
-Not of losing. He'd lost to Declan more times than he could count, in two worlds. He'd lost to him in a server at two in the morning and on a shingle beach at dawn and in a computer lab at seventeen, at a game neither of them was supposed to be playing in class. Losing was fine. Losing was the most ordinary thing in the world.
+Not of losing. He'd lost to Declan more times than he could count, in two worlds. He'd lost to him online at two in the morning and on a shingle beach at dawn and in a computer lab at seventeen, at something neither of them was supposed to be doing in class. Losing was fine. Losing was the most ordinary thing in the world.
 
 He was afraid of the other thing. The thing he'd worked out on the quay at Duskhollow and never said out loud to anyone except Petra, once, on the gravel bar, with the river going past.
 
@@ -115,7 +115,7 @@ So Xav did the other thing. The thing he'd found on the sand at the Lists with h
 
 He decided late.
 
-So late it was the same moment as moving. So late there was no lean, no weight, no crosshair drifting a hair to the left before the shot. He didn't decide what to do next. He let the stick come. He felt it come, the way you feel a draught; and at the very last instant, when it was a hand from his neck, he decided and moved in the same breath, both at once, nothing between them for anybody to feel.
+So late it was the same moment as moving. So late there was no lean, no weight, no eye drifting a hair to the left before the cut. He didn't decide what to do next. He let the stick come. He felt it come, the way you feel a draught; and at the very last instant, when it was a hand from his neck, he decided and moved in the same breath, both at once, nothing between them for anybody to feel.
 
 Down. Under the stick. And up, inside it, on Declan's other side, where the answer had left him open.
 

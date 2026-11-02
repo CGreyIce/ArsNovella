@@ -7,9 +7,9 @@ date: 2026-10-30
 
 They used to call every night.
 
-Thea thought about that a lot, that winter, walking down the lake road at dusk with the others. On Earth, for years, before school got busy: a call that opened at ten and closed at two or three, most nights of the week. Sometimes he played a game for her, because she'd asked, because she wanted to see the ending and couldn't be bothered to get there herself. Sometimes he played with her. Sometimes they didn't play anything at all; they just left the call open while they did other things, and talked when they felt like it, and didn't when they didn't.
+Thea thought about that a lot, that winter, walking down the lake road at dusk with the others. On Earth, for years, before school got busy: a call that opened at ten and closed at two or three, most nights of the week. Sometimes he showed her something on his screen, because she'd asked, because she wanted to see how it ended and couldn't be bothered to get there herself. Sometimes they talked. Sometimes they didn't do anything at all; they just left the call open while they did other things, and talked when they felt like it, and didn't when they didn't.
 
-And she sang. That was the part she'd never told anyone. Late, when the game was paused and he'd gone quiet, she'd start humming, and then singing, half to herself, whatever was in her head. He never asked her to. He never asked her to stop, either. He just went quiet on the other end of the call and listened, and she knew he was listening, and that had been the whole of it.
+And she sang. That was the part she'd never told anyone. Late, when the screen had gone quiet and so had he, she'd start humming, and then singing, half to herself, whatever was in her head. He never asked her to. He never asked her to stop, either. He just went quiet on the other end of the call and listened, and she knew he was listening, and that had been the whole of it.
 
 And then school had got busy. And the calls went from every night to some nights, to sometimes, to *we should call soon*. And she'd meant to. She'd had the button right there. And then one morning a message came at six a.m. and she'd sat on the edge of her bed with her phone in her hand and not been able to read it properly for a long time.
 
@@ -91,7 +91,7 @@ This was the letter.
 
 She hadn't meant to say it out loud. She was Parsing it, reading it the way she read everything, and it was coming up into her head in shapes, and the shape of it was *simple*. Not stupid. Simple, the way a child's drawing of a house is simple: a square and a triangle and a door, and everything you need to know about a house is there.
 
-"The words," said Thea. "At the bottom. Where it starts. They're..." She stopped. "They're a kid's words. *Status.* *Inventory.* *Skills.* *Tier.* *Progress.* It's the words a kid would know from games. Nothing fancy. Nothing anybody would choose if they were building it on purpose." She looked at him. "It's the words *you* knew. When you were six."
+"The words," said Thea. "At the bottom. Where it starts. They're..." She stopped. "They're a kid's words. *Status.* *Inventory.* *Skills.* *Tier.* *Progress.* It's the words a kid would know. Nothing fancy. Nothing anybody would choose if they were building it on purpose." She looked at him. "It's the words *you* knew. When you were six."
 
 "It's the only ones I had," said Ars.
 

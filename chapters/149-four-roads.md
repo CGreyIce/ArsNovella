@@ -109,7 +109,7 @@ In the end Gabe just walked up to him and stood in front of him, the way Gabe ha
 
 Xav didn't hug him. Xav never did.
 
-He stood in front of him in the gateway with his hands at his sides and his face doing nothing at all, the way it had done nothing in a polytechnic lab in Singapore at seventeen when a boy leaned over his shoulder and said *you'd be good at CS, you wait, nobody waits*.
+He stood in front of him in the gateway with his hands at his sides and his face doing nothing at all, the way it had done nothing in a polytechnic lab in Singapore at seventeen when a boy leaned over his shoulder and said *you'd be good at this, you wait, nobody waits*.
 
 "Okay," said Xav.
 

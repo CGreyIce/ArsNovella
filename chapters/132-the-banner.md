@@ -11,7 +11,7 @@ Kestra had said it to Jared in the third week, in the castle courtyard at Solmer
 
 *Who taught you to stand there?*
 
-And he hadn't had an answer. Nobody had taught him. He just always had. In games, on Earth, every night for years: he was the one who went in front. The one his friends stood behind. It wasn't a decision. It was just where he went. Like water going downhill.
+And he hadn't had an answer. Nobody had taught him. He just always had. On Earth, every night for years: he was the one who went in front. The one his friends stood behind. It wasn't a decision. It was just where he went. Like water going downhill.
 
 He'd said *nobody*, in the end.
 
@@ -19,7 +19,7 @@ Kestra had looked at him for a moment longer. Then she'd said *good*, and gone t
 
 He'd thought about it every day for two years.
 
-Because it was a lie. Somebody had taught him. Not on purpose; nobody taught you that on purpose. But he'd learned it somewhere, the way you learn anything you do every night for years. In voice. In the dark. From a guy in Malaysia who said *I would never betray you in this game, trust*, and then went in first through every door anyway, every single time, and died loudly, narrating it, so the rest of them could see where the enemy was.
+Because it was a lie. Somebody had taught him. Not on purpose; nobody taught you that on purpose. But he'd learned it somewhere, the way you learn anything you do every night for years. In voice. In the dark. From a guy in Malaysia who said *I would never betray you, trust*, and then went first through every door anyway, every single time, loudly, narrating it, so the rest of them could see what was on the other side.
 
 He'd learned to stand in front from a man who'd always stood in front of him. Half a world away. On a screen.
 
@@ -79,7 +79,7 @@ Nobody had argued with her. Jared had found, in the year and a half he'd watched
 
 They went up the mound.
 
-Azac first, because he was biggest, planting himself at the front of the flat top facing west, with his feet wide. He didn't have barriers yet. His window said he was a barrier mage on the mage path, and his window hadn't let him cast one in two years. So he was the barrier. He'd been the barrier since Ice died; he'd taken the tank role in every game after, because somebody had to, because Ice had always done it. He stood at the front of the mound in his borrowed jerkin and looked at the six guards a hundred yards away and said, in his big cheerful voice, to nobody:
+Azac first, because he was biggest, planting himself at the front of the flat top facing west, with his feet wide. He didn't have barriers yet. His window said he was a barrier mage on the mage path, and his window hadn't let him cast one in two years. So he was the barrier. He'd been the barrier since Ice died; he'd taken Ice's place at the front, because somebody had to, because Ice had always stood there. He stood at the front of the mound in his borrowed jerkin and looked at the six guards a hundred yards away and said, in his big cheerful voice, to nobody:
 
 "And here we are, folks, the Kettle takes the hill, they're looking nervous, they're looking *sweaty*, the big man at the front has never been more scared in his life—"
 
@@ -493,13 +493,13 @@ Jared thought about it.
 
 The man didn't say anything for a long time.
 
-"I saw," he said. Quietly. "From the fourth tier. Half a pace in front of the pole. A little to the left." He paused. "That's where I used to stand. In every game. Half a pace in front. A little to the left."
+"I saw," he said. Quietly. "From the fourth tier. Half a pace in front of the pole. A little to the left." He paused. "That's where I used to stand. Always. Half a pace in front. A little to the left."
 
 Jared stared at him.
 
 "I didn't know that."
 
-"Nobody did," said the man. "I didn't either, till today. I watched you go up the mound and stop and I thought: *that's my spot*." He turned the rod in his hands. "Azac's got the tank spot. He's had it since I died. He's earned it. But that one. Half a pace in front of somebody, between them and the door. That one was always yours. You just never knew where you'd learned it."
+"Nobody did," said the man. "I didn't either, till today. I watched you go up the mound and stop and I thought: *that's my spot*." He turned the rod in his hands. "Azac's got the front. He's had it since I died. He's earned it. But that one. Half a pace in front of somebody, between them and the door. That one was always yours. You just never knew where you'd learned it."
 
 "I knew," said Jared. "I told her. On the mound."
 

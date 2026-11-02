@@ -320,15 +320,15 @@ And he laughed.
 
 It came up out of him before he knew it was there.
 
-Not the laugh he used. He had a laugh he used, here; a small one, through the nose, mostly, at hens and at Gigichi and at Rowan's terrible jokes over a cup. It wasn't that one. It was the other one. The one he'd had on Earth, on calls, at three in the morning, at his own deaths, narrating them. The one that had made the casters stop casting at an Apex final once. He'd heard it come out of himself once in this world, on a forge floor at Cinderhold in the dark, when Salty said *twelve*. It came up now from the same place, somewhere at the bottom of him that he'd thought was shut, and went out across the water in the morning sun, louder than that, and he couldn't stop it.
+Not the laugh he used. He had a laugh he used, here; a small one, through the nose, mostly, at hens and at Gigichi and at Rowan's terrible jokes over a cup. It wasn't that one. It was the other one. The one he'd had on Earth, on calls, at three in the morning, at his own disasters, narrating them. The one that had made two commentators stop talking at a final once. He'd heard it come out of himself once in this world, on a forge floor at Cinderhold in the dark, when Salty said *twelve*. It came up now from the same place, somewhere at the bottom of him that he'd thought was shut, and went out across the water in the morning sun, louder than that, and he couldn't stop it.
 
 *Spellblade*.
 
-Of course it was. Of course it was *spellblade*. A boy of twelve in a hot bedroom with a fan screaming had picked the man at the end of the row with fire in one hand and a sword in the other, in some game nobody remembered, and been told *pick one* in every party he was ever in for the rest of his life. Ice had told him. Ice had said it himself, once at least, at three in the morning in some dungeon with Mashi dead on the floor for the fourth time, *bro just pick one*, and Mashi had said *no* and come back to life and died again.
+Of course it was. Of course it was *spellblade*. A boy of twelve in a hot bedroom with a fan screaming had picked the man at the end of the row with fire in one hand and a sword in the other, in some book nobody remembered, and been told *pick one* by everybody he ever told for the rest of his life. Ice had told him. Ice had said it himself, once at least, at three in the morning on a call, *bro just pick one*, and Mashi had said *no*, and gone on being both, badly, for years.
 
 Rhea had told him. Salty had told him every week. A whole kingdom of people who knew what they were talking about, and two worlds, had told him. *Pick one*.
 
-And he'd stood in a gap on a knoll at sunrise with everything down behind him, and been last, all the way, and given the thing a name. The plainest, nerdiest, most obvious name in the world. The one on the first screen of a game. The one nobody in this world could ever have guessed and nobody in his would ever have dared.
+And he'd stood in a gap on a knoll at sunrise with everything down behind him, and been last, all the way, and given the thing a name. The plainest, nerdiest, most obvious name in the world. The one on the first page of a book. The one nobody in this world could ever have guessed and nobody in his would ever have dared.
 
 And it was right. That was the thing. That was why he couldn't stop. It was *exactly* right.
 
@@ -450,9 +450,9 @@ There was a thing he'd never written. Not in two years and a half. Not once.
 
 He thought about it now. On the end of the jetty, in the sun, with the count closed.
 
-A community server, eleven years ago, Earth time. A long time before any of this. He'd been an AWPer, then, with a name in grey on a scoreboard, who never peeked first, and there'd been a kid on the other team, seventeen, all aggression and no patience, who'd died to him four hundred times in a year and come back every night for more. And one night, at two in the morning, the kid had got him. Waited. Hadn't peeked. Let him come. And got him clean.
+Eleven years ago, Earth time, online. A long time before any of this. He'd been the patient one, then, a name in grey that never moved first, and there'd been a kid, seventeen, all aggression and no patience, who'd lost to him four hundred times in a year and come back every night for more. And one night, at two in the morning, the kid had got him. Waited. Hadn't moved first. Let him come. And got him clean.
 
-He'd typed three words in the all-chat and logged off. He'd forgotten them for the best part of two lives.
+He'd typed three words to him and logged off. He'd forgotten them for the best part of two lives.
 
 He'd remembered them in the spring. Reading the channel, on the end of this jetty. A line from Mashi to Tiger, the night Tiger broke through in the west. *nice one. again*. And then Tiger writing it back to Mashi, on the morning of the skillet, twenty-nine heartbeats. *nice one. again*. And Mashi writing, under it: *again*.
 

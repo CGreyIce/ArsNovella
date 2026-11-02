@@ -83,7 +83,7 @@ He'd come in quietly, without trumpets, the way he did everything. A big grey ma
 
 Drew was in the master's chair.
 
-He'd set it on the platform himself, at dawn, beside Lucan's old place. It rocked very slightly on its short leg. He was sitting in it now with his arms on its pale-worn arms and his 88EXP nameplate catching the sun, perfectly calm, the way he'd been calm all week, looking out at the bowl of the Lists as if it were a lobby that had just finished loading.
+He'd set it on the platform himself, at dawn, beside Lucan's old place. It rocked very slightly on its short leg. He was sitting in it now with his arms on its pale-worn arms and his 88EXP nameplate catching the sun, perfectly calm, the way he'd been calm all week, looking out at the bowl of the Lists as if it were a hall that had just finished filling.
 
 He turned his head and looked at Lucan.
 

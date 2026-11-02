@@ -411,7 +411,7 @@ Tiger didn't say anything for a long time.
 
 Tiger hugged him.
 
-On the edge of the horse trough, in the moonlight, in the yard of the Broken Lance, on the last night. Properly. With nothing in the way. No buckets, no yoke, no forty thousand people. Just a tiger boy from a Minecraft server whose house had blown up, and a man who'd been dead for three years, sitting on the edge of a horse trough.
+On the edge of the horse trough, in the moonlight, in the yard of the Broken Lance, on the last night. Properly. With nothing in the way. No buckets, no yoke, no forty thousand people. Just a tiger boy whose first house had blown up, and a man who'd been dead for three years, sitting on the edge of a horse trough.
 
 The man let him. He put one hand on the back of Tiger's head, the way he put his hand on Alea's at night, and left it there.
 

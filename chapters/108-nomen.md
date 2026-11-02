@@ -37,7 +37,7 @@ She was in the yard behind the fence in an old coat, scattering grain from a bow
 
 "Nobody makes him do anything."
 
-"I know. I've known him longer than you." Gabe leaned on the fence. "He used to stay up till all hours, every night, on calls, playing games. For years. I told him to sleep every single night. Every night, on the call, at the end. *Sleep, Declan. Seriously.* Every night." He looked at the cabin. "He never listened. Not once."
+"I know. I've known him longer than you." Gabe leaned on the fence. "He used to stay up till all hours, every night, on calls, with you lot. For years. I told him to sleep every single night. Every night, on the call, at the end. *Sleep, Declan. Seriously.* Every night." He looked at the cabin. "He never listened. Not once."
 
 "He listened once," said Alea quietly.
 
@@ -371,7 +371,7 @@ Something went across his face. Gabe couldn't hold on to it. He didn't need to.
 
 "Huh," said Declan, very quietly.
 
-That was all. Just *huh*. The way he'd said it in a game, at three in the morning, when a shot went in that shouldn't have.
+That was all. Just *huh*. The way he'd said it on a call, at three in the morning, when something worked that shouldn't have.
 
 ***
 

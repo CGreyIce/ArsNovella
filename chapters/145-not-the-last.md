@@ -179,7 +179,7 @@ Winter was on her feet before she'd finished.
 
 "Which ones?"
 
-"*All* of them." Hyvred's glasses were up in her hair and her left eye had gone the way it went, sharp and gold, the little red crosshair in it locked on something a long way off. She went to the parapet and put both hands on it and looked out over the city. "Yan felt it. Downstairs. He went white and said *they're going*. And I came up to see." She was breathing hard. "Look."
+"*All* of them." Hyvred's glasses were up in her hair and her left eye had gone the way it went, sharp and gold, the little red mark in it locked on something a long way off. She went to the parapet and put both hands on it and looked out over the city. "Yan felt it. Downstairs. He went white and said *they're going*. And I came up to see." She was breathing hard. "Look."
 
 Winter looked. She couldn't see what Hyvred saw. Nobody could. She saw the city, at night, lamps and roofs and the dark bowl of the Lists, and the gates in the wall, four of them, north and south and east and west, each with its lamps.
 
@@ -191,7 +191,7 @@ Winter looked. She couldn't see what Hyvred saw. Nobody could. She saw the city,
 
 Thirty-nine.
 
-Hyvred counted them out. Standing at the parapet of the Broken Lance with her scope eye locked on the city, turning her head very slowly, a little at a time, the way she'd turned it in the Lists in the torchlight, the crosshair locking and letting go.
+Hyvred counted them out. Standing at the parapet of the Broken Lance with her scope eye locked on the city, turning her head very slowly, a little at a time, the way she'd turned it in the Lists in the torchlight, the red mark locking and letting go.
 
 "Green coat," she said. "In the Street of Coopers. Walking. North. Toward the north gate." Lock, let go. "The woman with the shawl. By the fountain. Walking east." Lock, let go. "The boy in the cap. On the west road. The old woman who was knitting. The two men with the nuts. By the Lists, going south." Lock, let go, lock. "All of them. Every one. Walking. Out of the city. At the same time."
 
@@ -493,7 +493,7 @@ Then, a moment later, the window opened again. All the way. And stayed open.
 
 "So will she," he said. "She's been keeping herself her whole life. She's very good at it."
 
-Winter looked at him. Two paces off. A face she couldn't see. A man she'd known for four months on Earth, playing Apex with Chris, who'd have made the joke about a girl called Winter with ice magic if he'd been there to see it, and who'd died while she was in Vietnam with her phone off, and who'd stood two paces off at a north gate a week ago and said *you're not the last*.
+Winter looked at him. Two paces off. A face she couldn't see. A man she'd known for four months on Earth, on calls with Chris, who'd have made the joke about a girl called Winter with ice magic if he'd been there to see it, and who'd died while she was in Vietnam with her phone off, and who'd stood two paces off at a north gate a week ago and said *you're not the last*.
 
 "I'm going to keep watching," said Winter. "Whatever happens next. Whichever way it moves. I'm going to see it first."
 

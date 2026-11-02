@@ -131,7 +131,7 @@ He felt sick.
 
 "*Hyvred*," he said.
 
-Hyvred had put her cup down. She was already looking. Her left eye had gone sharp and still, the gold of it, the little red mark in it like a crosshair locked on something. The woman in the brown shawl on the third tier of the north stand.
+Hyvred had put her cup down. She was already looking. Her left eye had gone sharp and still, the gold of it, the little red mark in it locked on something. The woman in the brown shawl on the third tier of the north stand.
 
 "*Oh*," said Hyvred, very quietly. "Oh, no. Oh, no, no."
 
@@ -141,7 +141,7 @@ Hyvred had put her cup down. She was already looking. Her left eye had gone shar
 
 "How many can you see?"
 
-Hyvred turned her head slowly, all the way round the bowl, the crosshair locking and letting go. Locking and letting go.
+Hyvred turned her head slowly, all the way round the bowl, the red mark locking and letting go. Locking and letting go.
 
 "Forty," she said. "I think. I can't—there might be more on the far side. Forty." She was very pale. "Yan. They've been here all week. I saw one on the first day. The opening. By the north gate. I thought it was one. I thought it was the apple woman from the downs. I told Deston. I thought it was one." Her hands had closed into fists in her lap. "It's forty. It's been forty all week."
 
@@ -207,7 +207,7 @@ And something was counting them.
 
 "*Rachael*," said Hyvred.
 
-She'd gone very still beside Kei. Her crosshair had locked on something on the fifth tier and wasn't letting go.
+She'd gone very still beside Kei. The red mark in her eye had locked on something on the fifth tier and wasn't letting go.
 
 Yan looked.
 

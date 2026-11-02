@@ -7,11 +7,11 @@ date: 2026-10-30
 
 Xav was good at waiting.
 
-He hadn't always been. On Earth, at seventeen, in a polytechnic computer lab in Singapore, he'd been the opposite: the one who peeked first, who pushed, who got bored halfway through a round and ran round a corner into somebody's crosshair. Declan had talked him into Counter-Strike in the first place, and then cured him of that. Not by telling him. By playing beside him, a thousand late-night rounds, holding an angle so long that the other team forgot he was there, and then, every single time, when they finally moved, already looking at exactly the place they were moving to.
+He hadn't always been. On Earth, at seventeen, at a polytechnic in Singapore, he'd been the opposite: the one who went first, who pushed, who got bored halfway through anything and ran at it. Declan had cured him of that. Not by telling him. By sitting beside him, a thousand late nights, so patient that everybody else forgot he was there, and then, every single time, when they finally moved, already looking at exactly the place they were moving to.
 
 *You just have to wait longer than them*, Declan had said, once, on a call, when Xav asked how. *That's all it is. Everyone gets bored. You just get bored last.*
 
-And then, under his breath, before the last round, something in Latin that he never translated.
+And then, under his breath, at the last moment, something in Latin that he never translated.
 
 Petra had finished the job here. Twenty minutes standing still in the yard behind Mother Annick's. Then forty. Then two hours, in the cold, with her watching from the gate, until Xav could stand in front of anyone in the world and wait them out. *Better*, she'd said. And then, the morning he went up a tier, with one stroke that landed half a heartbeat before he did: *That's how he moved.*
 
@@ -61,7 +61,7 @@ They all looked at her.
 
 She didn't look at Xav when she said it. She didn't have to.
 
-He'd never told her. None of them had. Not *Declan*, not *Ice*, not *the Hero of the Redmarch*. Not the faded thread or the lake country or anything Deston had written. Petra had stood at the gate every morning for a year and a half and watched Xav fight like a man she'd seen once, for less than a minute, from a ditch on the Redmarch, eight years ago. She'd told him he'd had two teachers. She'd asked him, in the first week: *where did you learn to fight like that?* And he'd said *Counter-Strike*, and she'd said *where is he?*, and he'd said *he died*.
+He'd never told her. None of them had. Not *Declan*, not *Ice*, not *the Hero of the Redmarch*. Not the faded thread or the lake country or anything Deston had written. Petra had stood at the gate every morning for a year and a half and watched Xav fight like a man she'd seen once, for less than a minute, from a ditch on the Redmarch, eight years ago. She'd told him he'd had two teachers. She'd asked him, in the first week: *where did you learn to fight like that?* And he'd said *a friend, at home*, and she'd said *where is he?*, and he'd said *he died*.
 
 She'd never asked again.
 
@@ -263,11 +263,11 @@ Deston was there. With his hand out over the water, flat, palm down. Pointing no
 
 Xav stood beside him and looked north too.
 
-He'd waited three years. He'd waited on a community server at seventeen for a man who never peeked first. He'd waited in the yard behind Mother Annick's for two hours in the cold until Petra said *better*. He'd waited on this quay for nine days.
+He'd waited three years. He'd waited at seventeen, night after night, beside a man who never moved first. He'd waited in the yard behind Mother Annick's for two hours in the cold until Petra said *better*. He'd waited on this quay for nine days.
 
 He could wait a little longer.
 
-He found, standing at the bow of a salt barge going upriver against the wind, that he was saying something under his breath. He hadn't known he was going to. He didn't know where it came from. Something he'd heard on a call, years ago, before the last round, in a language Declan had never once translated.
+He found, standing at the bow of a salt barge going upriver against the wind, that he was saying something under his breath. He hadn't known he was going to. He didn't know where it came from. Something he'd heard on a call, years ago, at the last moment before Declan moved, in a language Declan had never once translated.
 
 He didn't know what it meant.
 

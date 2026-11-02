@@ -134,7 +134,7 @@ Then she'd sat down across from him and taken a slice of his bread, and he'd let
 
 "It's just a kettle," she'd agreed. "Next time, write it on paper. And give it to me. I'll keep it."
 
-He had. She had a little stack of them now, in the back of the counting book. Calvin's, mostly. One from Rui Xiang, which was just *HIDDEN* in capitals, three times. One from Rachael, which said *he let me look and it's healing* and nothing else. One from Malcolm, in his small careful hand, which was a single IF and a single THEN, and which Higu had read once and then put away and not read again, because it had made her cry in the militia hall kitchen in front of Maren.
+He had. She had a little stack of them now, in the back of the counting book. Calvin's, mostly. One from Rui Xiang, which was just *HE FOUND ME* in capitals, three times. One from Rachael, which said *he let me look and it's healing* and nothing else. One from Malcolm, in his small careful hand, which was a single IF and a single THEN, and which Higu had read once and then put away and not read again, because it had made her cry in the militia hall kitchen in front of Maren.
 
 *IF he's up there*
 

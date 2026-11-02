@@ -9,7 +9,7 @@ The job wasn't the bracket.
 
 Drew had said that to himself so many times, over so many years, that it had worn smooth, like a stone you keep in your pocket. Anybody could draw a bracket. You needed a ruler and a list of names and a bit of patience. The job wasn't the rules, either, or the prizes, or the stream, or the casters. The job was being the person who stood in the middle of it all when it went wrong and smiled and said *okay*, in a voice that made everybody else believe it was.
 
-He'd been doing it for ten years. On Earth, from a bedroom, with a headset on and four tabs open and somebody's internet dying in the deciding round. Here, from the top of a wall at Thornwall, with a hand on his oldest friend's chest. It was the same job. It was always the same job.
+He'd been doing it for ten years. On Earth, from a bedroom, with four tabs open and somebody's internet dying at the worst possible moment. Here, from the top of a wall at Thornwall, with a hand on his oldest friend's chest. It was the same job. It was always the same job.
 
 But he'd be lying if he said he didn't love the bracket.
 
@@ -37,7 +37,7 @@ They started coming in at the third hour.
 
 He'd told everyone the fourth. They came at the third anyway, because they were who they were, and because nobody in the Broken Lance had slept properly in three nights, and because a draw was a draw. Tiger first, with his hair on end, straight from the dawn class, still talking about being early, *earlier, not faster, Drew, earlier*. Then Group 7, from the inn, in their loose line. Then Groups 1 and 4 and 6 in a crowd, with the squid, and the penguin, and Calvin's kettle, which had become a sort of banner. Then Group 2 down the hill, Hana with her wrist held against her chest in a way she didn't seem to know she was doing, and Oswin still carrying a book in both arms as if somebody might take it off him.
 
-They spread out on the bottom tiers of the east stand, under the bracket, the way people spread out at the start of a lobby. Thirty of them. Guides and guards round the edges. Maren with a list. Kestra on the rail of the royal box, one boot up. Lucan, who had been in the Lists since dawn and had changed his cloak twice, in the middle of the sand, walking in small circles, weeping in anticipation.
+They spread out on the bottom tiers of the east stand, under the bracket, the way people spread out at the start of a party. Thirty of them. Guides and guards round the edges. Maren with a list. Kestra on the rail of the royal box, one boot up. Lucan, who had been in the Lists since dawn and had changed his cloak twice, in the middle of the sand, walking in small circles, weeping in anticipation.
 
 And the water-carrier.
 
@@ -45,7 +45,7 @@ He came in last, with Alea, from the practice ground. He didn't sit with any of 
 
 Drew watched him do it.
 
-*He always ran in*, he'd said to Tiger once, on a shed roof at Thornwall, in the autumn, in the dark. *In every game. First through the door. And he's been standing at the back for a year, by a lake, and I think he hates it.*
+*He always ran in*, he'd said to Tiger once, on a shed roof at Thornwall, in the autumn, in the dark. *In everything. First through the door. And he's been standing at the back for a year, by a lake, and I think he hates it.*
 
 He wasn't standing at the back now. He wasn't running in, either. He was sitting halfway up, off to the side, where you could see the whole thing at once. The caster's seat. Drew knew it. He'd sat in it for ten years.
 
@@ -53,7 +53,7 @@ He wasn't standing at the back now. He wasn't running in, either. He was sitting
 
 At the fourth hour he stood up on the sand in front of the bracket and turned round, and thirty people went quiet.
 
-He didn't have to raise his voice. He never did. That was the other half of the job. You learned, over enough years and enough lobbies, where to stand and how to breathe so that a room would listen without your having to ask it to. Lucan had never even seen him do it, the first time. He'd only read about it, in the autumn, in a letter Corvin had written for him. *I've never once been in a room with all of them. Let me run it*. Lucan had read that and wept and written back the same day.
+He didn't have to raise his voice. He never did. That was the other half of the job. You learned, over enough years and enough rooms, where to stand and how to breathe so that a room would listen without your having to ask it to. Lucan had never even seen him do it, the first time. He'd only read about it, in the autumn, in a letter Corvin had written for him. *I've never once been in a room with all of them. Let me run it*. Lucan had read that and wept and written back the same day.
 
 "Okay," said Drew.
 
@@ -87,7 +87,7 @@ Twelve names. Twelve people who'd come to Valcrest a hair from the first tier, a
 
 But you could do this.
 
-"Five squads," said Drew. "Seven to a squad. One from every posting." He touched the bracket's left-hand column: five empty boxes, each with seven empty lines. "One from Wrenhaven. One from Solmere. One from Cinderhold. One from Kingsferry. One from Thornwall. One from Duskhollow. One from here." He looked round at them. "Nobody stands next to anyone from their own group. Not once. Not all week. Every squad's a lobby of strangers who've been reading each other in the channel for two years and never shared a fire."
+"Five squads," said Drew. "Seven to a squad. One from every posting." He touched the bracket's left-hand column: five empty boxes, each with seven empty lines. "One from Wrenhaven. One from Solmere. One from Cinderhold. One from Kingsferry. One from Thornwall. One from Duskhollow. One from here." He looked round at them. "Nobody stands next to anyone from their own group. Not once. Not all week. Every squad's a room of strangers who've been reading each other in the channel for two years and never shared a fire."
 
 The stand had gone very quiet.
 
@@ -107,7 +107,7 @@ He hadn't told anyone about the third one. Not even Tiger.
 
 He'd said it in the channel. Everybody knew. But he said it again now, out loud, on the sand of the Lists, because some things you have to say in the room.
 
-"Apex. Trios. Online. Thirty-odd teams, a bracket in a spreadsheet, two casters who'd never cast before and a stream that crashed twice. I ran it from my bedroom. I didn't sleep for three days." He smiled. He couldn't help it. "And in the final, there was this one team. And one of them died in every single round. Every round. First. Loudly. Narrating it. *And he's down. He's gone. A tragic loss for the team. He had so much to live for.*" A few people in the stand laughed. Most of them knew the voice he was doing. "The casters were laughing so hard they couldn't cast. So I muted them. And I did the commentary myself. And his two teammates won it anyway. Carried him the whole way."
+"Online. Thirty-odd teams of three, a bracket in a spreadsheet, two commentators who'd never done it before and a stream that crashed twice. I ran it from my bedroom. I didn't sleep for three days." He smiled. He couldn't help it. "And in the final, there was this one team. And one of them went down first, every single time. Every time. First. Loudly. Narrating it. *And he's down. He's gone. A tragic loss for the team. He had so much to live for.*" A few people in the stand laughed. Most of them knew the voice he was doing. "The commentators were laughing so hard they couldn't talk. So I muted them. And I did the commentary myself. And his two teammates won it anyway. Carried him the whole way."
 
 He didn't look up at the step. He felt it, though. The way you feel somebody in the crowd go still.
 
@@ -261,7 +261,7 @@ Squad C came out of the helmet one slip at a time, and with every slip the stand
 
 Thea. Hana. Yan, in absence. Deston. Hyvred. Xav. Chris.
 
-Seven names in the box. Drew wrote the last one and stood back and looked at it and felt something inside him that was nearly despair and nearly joy, the exact feeling of a tournament organiser who has just watched a fair random draw produce the most unbalanced lobby in history.
+Seven names in the box. Drew wrote the last one and stood back and looked at it and felt something inside him that was nearly despair and nearly joy, the exact feeling of a tournament organiser who has just watched a fair random draw produce the most unbalanced draw in history.
 
 "That's," said Calvin, from the stand, and stopped.
 
@@ -459,7 +459,7 @@ Drew looked at him. At a face he couldn't see.
 
 "It's a good seat."
 
-"It's *my* seat," said Drew. "It's been my seat for ten years." He paused. "You used to always run in. In every game. First through the door. Tiger asked me once, on a shed roof, if I thought you'd come. And I said I thought you'd been standing at the back for a year, and you hated it." He looked at the bracket. "You're not standing at the back. You're not running in, either."
+"It's *my* seat," said Drew. "It's been my seat for ten years." He paused. "You used to always run in. In everything. First through the door. Tiger asked me once, on a shed roof, if I thought you'd come. And I said I thought you'd been standing at the back for a year, and you hated it." He looked at the bracket. "You're not standing at the back. You're not running in, either."
 
 "No."
 

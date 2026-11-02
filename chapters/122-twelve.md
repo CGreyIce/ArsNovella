@@ -139,7 +139,7 @@ He was looking at Declan over her head. Rational. Realistic. The one who'd wante
 
 Milli stared at him.
 
-"Minecraft bingo," said Declan. "You needed one square. You were looking for it for forty minutes. Alice had to mute because she was laughing so hard you could hear it through the mute."
+"Bingo," said Declan. "On stream. You needed one square. You were looking for it for forty minutes. Alice had to mute because she was laughing so hard you could hear it through the mute."
 
 Milli's face did something complicated.
 
@@ -217,11 +217,11 @@ Tiger's mouth opened and shut. Then Declan said, quite seriously, as if he were 
 
 For a second Tiger didn't understand. Deston saw him not understand. Then he did.
 
-A house. A house built for weeks in a game, on a server, three years ago. A home. And a super-modded boss that had come up out of nowhere one evening and blown up the entire spawn, and the house with it, while Tiger watched, and screamed, and the whole call had screamed with him. Tiger had told that story in the channel in the first month. He told it to everybody. He told it to soldiers at Thornwall and to the cook and to a goat. *My house didn't survive*. Here, nothing he built survived either. Huts. Sheds. A wall. A watchtower that fell down in a high wind before anybody had climbed it. It had become the joke of the whole kingdom: Tiger's houses don't stand.
+A house. A house he'd spent weeks building, three years ago, with the whole call watching. A home. And one evening something had come out of nowhere and blown the whole place up, the house with it, while Tiger watched, and screamed, and the whole call had screamed with him. Tiger had told that story in the channel in the first month. He told it to everybody. He told it to soldiers at Thornwall and to the cook and to a goat. *My house didn't survive*. Here, nothing he built survived either. Huts. Sheds. A wall. A watchtower that fell down in a high wind before anybody had climbed it. It had become the joke of the whole kingdom: Tiger's houses don't stand.
 
 But nobody had asked him, here. Not like that. Not as if it mattered whether it had.
 
-"*No*," said Tiger, with tremendous feeling. "*NO*. It did *NOT* stand. It *blew up*. The *whole spawn*." His voice cracked into pieces. "You were *there*. You were *on the call*. You *laughed*."
+"*No*," said Tiger, with tremendous feeling. "*NO*. It did *NOT* stand. It *blew up*. The *whole place*." His voice cracked into pieces. "You were *there*. You were *on the call*. You *laughed*."
 
 "I'm sorry I laughed."
 
@@ -305,7 +305,7 @@ He'd been grinning the whole time. Sitting on the bedsheet with his wrapped spea
 
 Hako's grin got bigger.
 
-"Always," he said. "You told me. First day. *Keep your crosshair at head height. Stop looking at the floor*." He laughed. "I still do it. Here. With a spear. Ysolde thinks I'm weird."
+"Always," he said. "You told me. First day. *Keep your eyes at head height. Stop looking at the floor*." He laughed. "I still do it. Here. With a spear. Ysolde thinks I'm weird."
 
 "You are weird."
 
@@ -379,7 +379,7 @@ And her face, which had been doing nothing very hard all morning, at every stran
 
 Declan looked at Ina. At the grey fanged mask, with its red-rimmed eyes and its red cords and its grin. The demon's face. The one everybody in this city looked away from.
 
-"*Ina*," he said, in a tone of enormous relief, the tone of a man who's been waiting in a lobby for twenty minutes for the last player to load in. "*Finally*. Okay. You're on support."
+"*Ina*," he said, in a tone of enormous relief, the tone of a man who's been waiting at a station for twenty minutes for the last friend off the train. "*Finally*. Okay. You're on support."
 
 There was a silence behind the mask.
 

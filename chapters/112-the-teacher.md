@@ -313,7 +313,7 @@ Xav didn't say anything.
 
 For a long moment, he didn't say anything at all. He stood on the shingle in the mist with his practice sword low and his face perfectly still and his eyes very bright, and the whole beach waited to see what he would say. The town on the wall. The children. Gabe, and Alea, and Petra, and PenguChi with her penguin, and Sabine on the wall with her eyebrow.
 
-And then he said what Petra would have bet her sword he would say. What he'd said every morning for eleven mornings. What he'd said, she'd learned, after every round he'd ever lost with this man, on the other side of the world, in a game, at three in the morning, for nine years.
+And then he said what Petra would have bet her sword he would say. What he'd said every morning for eleven mornings. What he'd said, she'd learned, after every bad night he'd ever had beside this man, on the other side of the world, at three in the morning, for nine years.
 
 "Okay," said Xav. "Again."
 

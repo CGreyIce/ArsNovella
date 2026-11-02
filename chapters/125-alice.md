@@ -99,7 +99,7 @@ It should have been strange. It *was* strange. Five people from a castle in Solm
 
 It was like being on a call.
 
-That was the only way she could put it. It was like three in the morning on a call, when the game had finished an hour ago and nobody had hung up, and everybody was just *there*, doing something else, talking about nothing, the way you do with people you've spent a thousand nights with. Cursiffe had his book open on his knee and wasn't reading it. Aleaka was lying on her back in the grass looking at the willow. Milli was sitting very straight with his hands on his knees, being rational. Jared sat at the end of the bank, nearest the path, between the rest of them and anyone who might come along it, and looked at the river.
+That was the only way she could put it. It was like three in the morning on a call, when whatever they'd been doing had finished an hour ago and nobody had hung up, and everybody was just *there*, doing something else, talking about nothing, the way you do with people you've spent a thousand nights with. Cursiffe had his book open on his knee and wasn't reading it. Aleaka was lying on her back in the grass looking at the willow. Milli was sitting very straight with his hands on his knees, being rational. Jared sat at the end of the bank, nearest the path, between the rest of them and anyone who might come along it, and looked at the river.
 
 And the water-carrier sat in the middle, with his rod across his knees, and looked at the river too, and every so often said something, and every time he did, it was exactly the kind of thing he'd have said in chat.
 
@@ -137,15 +137,15 @@ Just that. In a drawl like a man calling across a parking lot.
 
 The water-carrier looked at him.
 
-"*Trust*," said Jared again. And then his voice broke, and he put his hand over his eyes, and laughed, the low cool collected laugh he'd had on every call for years, only cracked straight down the middle. "*Trust*. You've been saying that for *years*. Every time. *I would never betray you in this game. Trust*. And then you'd sell me out in the first five minutes. Every single time. Every *game*."
+"*Trust*," said Jared again. And then his voice broke, and he put his hand over his eyes, and laughed, the low cool collected laugh he'd had on every call for years, only cracked straight down the middle. "*Trust*. You've been saying that for *years*. Every time. *I would never betray you. Trust*. And then you'd sell me out in the first five minutes. Every single time. Every *night*."
 
-"Not every game."
+"Not every night."
 
-"*Every game*."
+"*Every night*."
 
 "There was one in—"
 
-"There was *not*," said Jared. He took his hand away from his eyes. They were wet, and he didn't care. "There was not one single game. Not *one*. I kept count. I've got a *spreadsheet*. Somewhere. On a computer. In a different *universe*." He was laughing properly now, helplessly, the way he'd laughed at three in the morning when they were twenty-one and twenty-two and nothing had happened yet. "I knew. I knew the second I read it. In the book. Cursiffe showed me. A man who lies about the weather and says *trust*. I knew it was you. I knew it in the first *line*."
+"There was *not*," said Jared. He took his hand away from his eyes. They were wet, and he didn't care. "There was not one single night. Not *one*. I kept count. I've got a *spreadsheet*. Somewhere. On a computer. In a different *universe*." He was laughing properly now, helplessly, the way he'd laughed at three in the morning when they were twenty-one and twenty-two and nothing had happened yet. "I knew. I knew the second I read it. In the book. Cursiffe showed me. A man who lies about the weather and says *trust*. I knew it was you. I knew it in the first *line*."
 
 "I know," said the water-carrier. "I'm sorry."
 
@@ -167,7 +167,7 @@ Cursiffe had the book open on his knee the whole time. She noticed it after a wh
 
 "The hens chased it off."
 
-"The hens chased it off," agreed Cursiffe. "And then there's this line about how the fox didn't seem to mind. *It had the air of a fox who'd been beaten by poultry before and had made its peace with it*." He looked up. "I've heard that joke. On a stream. About a year before you died. You said it about Jared in a game, after he got killed by a chicken. You said it on the fly. It was the funniest thing anybody said all night."
+"The hens chased it off," agreed Cursiffe. "And then there's this line about how the fox didn't seem to mind. *It had the air of a fox who'd been beaten by poultry before and had made its peace with it*." He looked up. "I've heard that joke. On a stream. About a year before you died. You said it about Jared, on stream, after he lost a fight with a chicken. You said it on the fly. It was the funniest thing anybody said all night."
 
 "I remember."
 
@@ -183,7 +183,7 @@ Cursiffe had the book open on his knee the whole time. She noticed it after a wh
 
 "Turn me in," said the water-carrier, and Cursiffe laughed, the slow relaxed laugh that turned, like it always did, a bit hyped at the end.
 
-"I was *killed by a chicken*," said Jared, from the end of the bank, in a tone of deep wounded dignity. "In *one* game. *One*."
+"I *lost to a chicken*," said Jared, from the end of the bank, in a tone of deep wounded dignity. "*Once*. *One* time."
 
 "It was a very strong chicken," said the water-carrier.
 
