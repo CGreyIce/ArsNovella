@@ -133,15 +133,15 @@ Severin was standing behind him on the shingle. Ars didn't know how long he'd be
 
 "Nobody can," said Ars. "Nobody here."
 
-He heard Alea come down the shingle behind the king. She stopped beside him. She looked at the stone, and her eyes didn't slide off it. They went along the line of letters, one by one, slowly, the way he'd taught her to read them, on the slate, the winter she was thirteen. And her lips moved.
+He heard Alea come down the shingle behind the king. She stopped beside him. She looked at the stone, and her eyes didn't slide off it. They went along the line of letters, one by one, slowly. She couldn't read them; nobody born here could. But she knew their shapes. He'd drawn them for her on a slate the winter she was thirteen, the only words in his language he'd ever written down for her, and told her what they said. And her lips moved.
 
 "To Diwa," said Alea. Very quietly. "My love."
 
 Severin didn't say anything for a long time.
 
-"She could read it," he said at last. "Couldn't she. Your healer. She could read those."
+"She knew it," he said at last. "Didn't she. Your healer. She knew those."
 
-"She could."
+"She knew those."
 
 "And the girl."
 
