@@ -141,7 +141,7 @@ It always did, with the mask on. Hotter. Brighter. As if the face of the thing e
 
 He felt for the gap.
 
-He'd been feeling for it since Thea's letter. All year. He'd found it, once or twice, in the dark, alone, and never known what to say into it. *Burn* felt crude. *Fire* felt like a label. He was a man who cared about words, who'd always cared, who'd spent years finding the right ones for every occasion; and he'd never found the right one for this.
+He'd been feeling for it since Thea's letter. All year. He'd found it, once or twice, in the dark, alone, and never known what to say into it. He'd tried *Burn*, once, in the yard behind the Broken Lance with the mask on and nobody watching, and the heat had gone into his own hands instead of out of them: two fingertips blistered white, and he couldn't hold a cup for a week, and Winter had wrapped them for him without asking a single question. He'd tried *Fire*, and nothing had happened at all. It was a label, not a word. He was a man who cared about words, who'd always cared, who'd spent years finding the right ones for every occasion; and he'd never found the right one for this.
 
 He found it now. With a demon on the sand in front of him, and a horned girl crouched behind his guard with her hands in the frost, and Newish's hand on his sleeve.
 

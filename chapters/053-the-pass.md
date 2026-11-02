@@ -167,6 +167,8 @@ But there was *something* there. At the far end of the valley. She could feel it
 
 "I can't," she said. "It's too far. There's something. I can't—"
 
+She'd been trying since Thea's letter in the winter. *See*, on the wall at dawn, a hundred mornings running, and nothing. *Further*, which had given her a stabbing pain behind her left eye that lasted till noon and made her sick on the stairs. She'd been telling her eye what to do, she thought now. She'd never once asked it what it wanted.
+
 And then she felt it.
 
 Her left eye. The one with the crosshair in it. The one that had always looked a little different from the other, a red reticle set in a gold iris, the way it had been on her model on Earth, the way it had come through the floor. The eye she used when she *really* looked at something.

@@ -115,7 +115,23 @@ So that night, very late, at the table in the sitting room, he didn't try to cop
 
 He wrote it down line by line, in words, the way you'd describe a map to someone over the phone. And the ink, his own English ink, that held on skin and wouldn't wash off and that no scribe in the castle could copy, went down onto the page warm and steady and stayed there, and when he'd finished there were three pages of it. A circle written in words.
 
-He looked at it for a long time. Then he folded it into his letter to Thea, along with everything else.
+He looked at it. And then, because he was the kind of man who wrote STATUS on his own hand on the first day to see what would happen, and because the whole channel had been testing everything for months, he tried it.
+
+Not the whole circle. He wasn't a fool. A small one: the same words, in the same order, written very small in a ring on a scrap of paper no bigger than a coin. He set a candle beside it on the table in the prince's sitting room, late, with everyone in bed, and wrote the last word, *blade*, into the gap at the centre.
+
+The candle flame bent toward it.
+
+Not flickered. *Bent*, the whole flame leaning over sideways toward the little ring of words, as if somebody had opened a door in the middle of the paper and the air of the room were going out through it. The ink on the scrap lifted. He watched it: the tiny English letters peeling up off the paper at their edges, all at once, like leaves in a draught, all pointing inward. And he felt it pull. Not at the paper. At *him*. A tug behind his breastbone, small and patient and enormous, as if the coin-sized gap went down a very long way.
+
+He put the candle to the paper. It caught at once and burned with a thin blue flame, and the pull stopped as if it had been cut, and he sat there in the dark sitting room with his heart going and ash on the table.
+
+Then he took out his ledger and wrote one word at the bottom of the page, in letters so large they took up three lines:
+
+*DON'T.*
+
+He told Oswin in the morning. Oswin went very white and said, *nobody has ever written one small enough to try*, and then, after a while, *good*. And then he went to Kestra, and Kestra went to the king, and by noon there was a royal order on the archive door in the king's own hand that nobody was to draw, copy, carve or write the circle at any size, for any reason, without his leave. Cursiffe didn't argue. He'd felt how far down that gap went.
+
+He folded the three pages into his letter to Thea, along with everything else, with the burned corner of the ledger page on top. *Read this one. Don't write it,* he put across it. *I mean it.*
 
 And at the end, on its own page, he copied out *On Waiting*. All of it. Every word.
 

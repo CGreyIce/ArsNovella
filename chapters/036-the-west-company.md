@@ -97,7 +97,7 @@ At the edge of the yard, Hild had pushed up her blindfold. She was looking at hi
 
 "Again," she said.
 
-He tried. He couldn't. Not that day, or the next. But his window said twenty-four that night, up four, and every time he closed his eyes he could feel where the gap had been. Like the place a tooth used to be.
+He tried. He couldn't. His legs had gone to water from the hip down, as if he'd run ten miles, and when he reached for the gap it simply wasn't there, and he sat down in the sand. Hild let him. "Tomorrow," she said. "Once a day, until your legs learn to pay for it." He couldn't do it the next day either. But his window said twenty-four that night, up four, and every time he closed his eyes he could feel where the gap had been. Like the place a tooth used to be.
 
 "Once is the hardest one," said Drew, at supper.
 

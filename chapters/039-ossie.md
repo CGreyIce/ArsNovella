@@ -59,6 +59,8 @@ The sparrow had flown off the wall.
 
 Not far. Not for long. It had lifted out of the plaster, flat and black and made of lines, and flapped twice in the air in front of her face with a sound like paper, and then come apart into charcoal dust and fallen on her boots.
 
+She'd drawn it for Hyvred. She knew that now. She'd written it down the night of the feather, in large letters, on the first page of a fresh pad: *IT ONLY WORKS IF IT'S FOR SOMEBODY.* Hyvred had been standing beside her at the granary wall, looking up at the empty sky where the swallows used to be.
+
 Four heartbeats. Out of the wall. In the air.
 
 She hadn't told anyone. She'd just stood there with her black fingers, looking at the dust on her boots, while the Puffs went mad around her head. Then she'd gone back to work.

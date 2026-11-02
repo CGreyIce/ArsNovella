@@ -97,9 +97,9 @@ And for one heartbeat there was a mote of light in his palm.
 
 Tiny. A speck. Whiter than the brazier, cleaner, like a single star. It sat there above his skin, and turned once, and was gone.
 
-He'd sat on the step afterwards for an hour, shaking.
+He'd sat on the step afterwards for an hour, shaking. His eyes had ached and watered all the next day, as if he'd stared at the sun.
 
-He hadn't been able to do it again since. Not once, in twenty nights of trying. But he'd done it once. He'd *written* something. And his window had jumped four percent overnight, and that had never happened before, not even after the Hollow.
+He hadn't been able to do it again since. Not once, in twenty nights of trying. He'd tried other words in those nights: *Light*, which did nothing at all, and *Shine*, which gave him a headache like a hot wire behind the eyes and nothing else. Orders, both of them. Thea's letter had said *ask it, don't tell it*, and he'd read that and nodded and then gone straight back to telling, because that was what you did with a torch. *Here. Look* was the only one that had been asking. It was what you said to somebody when you wanted to show them something. But he'd done it once. He'd *written* something. And his window had jumped four percent overnight, and that had never happened before, not even after the Hollow.
 
 [ John · Tier 0: Initiate · Progress to Spark: 24% ]
 
