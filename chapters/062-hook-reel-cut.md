@@ -41,7 +41,7 @@ Yan saw the line.
 
 He was the only one who'd been looking the right way. He'd turned his head toward the sea, the way you'd turn toward a sound. And he saw the line come out of the north-west, a long way off, very fast, so fine it was only a flicker in the sunlight. He saw it go past him, over his head, across the broken ring. He saw it touch the east one, in the air, in the middle of its jump, two paces from Wendy.
 
-He didn't see the cut. Nobody could have. It was just there, and then the thing was in two halves on the red, and Wendy was standing over them with her last arrow drawn.
+He didn't see the cut. Nobody could have. He saw the thing stop in the air as if it had flown into a pane of glass. He saw a black line open across it from shoulder to hip, and heard, a heartbeat late, a thin high note like a snapped bowstring a long way off. Then the halves came apart and went on past Wendy, one either side, the top one skidding away across the red in a spray of dust and black, the other dropping at her feet; and Wendy was standing over it with her last arrow drawn and black spattered up one side of her face.
 
 And the line was still hanging in the air, perfectly straight, perfectly still, for one heartbeat. Then the man at the end of it reeled in.
 
@@ -73,7 +73,11 @@ It didn't fall. It *flew*. Backward and up, off the red, toward him, as if it we
 
 Once.
 
-Yan saw that much, this time. The rod came round. Not the line, the *rod*: the shaft of it, the long plain wooden shaft, coming round in a short flat stroke, the way you'd swat a fly. And it went through the west one as if the west one were smoke. And the man took one step to the side, and the two halves of it went past him on either side and hit the red behind him and rolled, and he didn't look round at them.
+Yan saw that much, this time. The rod came round. Not the line, the *rod*: the shaft of it, the long plain wooden shaft, coming round in a short flat stroke, the way you'd swat a fly. And Yan heard it, this time: a hard flat *crack*, like a plank snapping over a knee, and a gust of cold came off the west one and hit him in the face from a hundred paces, smelling of snuffed candles. The rod went through it at the waist as if it were smoke.
+
+The man took one step to the side. The two halves came on past him, still flying, one either side of him, the way water goes past a jetty post; and hit the red behind him with two heavy thuds a heartbeat apart, and tumbled end over end, throwing up red dust and black spatter, and fetched up thirty paces back in two broken heaps that twitched once and didn't again.
+
+He didn't look round at them.
 
 He was still walking.
 
@@ -89,7 +93,9 @@ Yan watched him wait. He'd stopped walking. He was standing on the red with the 
 
 At five paces, he moved. Once.
 
-The north one went past him on both sides. Salty's greatsword fell out of it and clattered on the red.
+Yan felt the ground jump under his knees. The rod went up from low to high, the whole shaft of it, in a single rising stroke that Yan saw only as a smear in the air; and there was the crack again, louder, like a log splitting under a maul. The north one came apart down the middle, from between its lowered horns to the ground. Its own speed carried both halves on. They went past the man on either side, so close they brushed his coat, and on across the red for twenty paces, ploughing two long furrows through the dust side by side before they rolled and lay still.
+
+Salty's greatsword came out of the hip as the halves parted. It went spinning end over end through the air, and came down flat on the red with a clang, and slid, and stopped a pace from the man's boots.
 
 The man looked down at the greatsword for a moment. Then he went on walking.
 
@@ -103,7 +109,11 @@ It was a hundred and fifty paces away when the man cast.
 
 It was two hundred when the hook caught it.
 
-He reeled it all the way back. Two hundred paces, across the red, off its feet, through the air. Rhea watched it go over her head with her mouth open. And when it came to him, he moved once, and it went past him in two pieces, and he didn't look round.
+He reeled it all the way back. The line sang taut. The thing dug in: Yan saw its long hands rake the red, gouging furrows, its legs scrabbling, one horn ploughing up a spray of dust as it tried to drag itself east by its face; and none of it mattered. It came off its feet. Two hundred paces, back across the red, through the air, and it was screaming now, a high rattling shriek, the first sound Yan had ever heard one of them make. Rhea watched it go over her head with her mouth open.
+
+When it came to him, he moved once. A flat stroke, side to side, at the height of a man's chest. The crack. The shriek stopped in the middle. The top half went on spinning past him and hit the red behind him like a dropped saddle, and the rest of it came down at his heels and lay there with its legs still running at nothing.
+
+He didn't look round.
 
 ***
 

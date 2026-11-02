@@ -101,11 +101,11 @@ He was looking at Rachael.
 
 Everything happened at once. It always did.
 
-Sabine on the ledge, drawing, her Reaching edge going a hand's width past the steel, and the first of the cliff-crawlers coming down the rock beside her and her blade going through it, and it didn't bleed. It just fell, into the river, without a sound.
+Sabine on the ledge, drawing, her Reaching edge going a hand's width past the steel; and the first of the cliff-crawlers coming down the rock beside her head first, a man in a carter's smock, upside down, his face a foot from hers and his fingers splayed on the wet stone like a lizard's. Her blade went through his neck. There was no blood. The cut opened grey and dry, like a split in clay, and the skin round it rippled once, the way a pond ripples when a stone goes in; and he let go of the cliff and fell past her into the river with his eyes still open, and the white water took him without a splash.
 
 Gabe on the ledge, not drawing, holding the rope, because if he let go of the rope the current would take the barge and smash it on the rocks, and he knew it, and he stood there on the wet ledge with the rope in his hands and his feet planted and something coming down the cliff toward him head first, and didn't let go.
 
-Azac letting go of the rope, because Malcolm's plan said *IF they come, THEN Azac to Rachael*, and jumping. Off the ledge. Onto the deck of the barge, six feet, with his shield, landing badly, rolling, coming up in front of Rachael with the shield up.
+Azac letting go of the rope, because Malcolm's plan said *IF they come, THEN Azac to Rachael*, and jumping. Off the ledge. Onto the deck of the barge, six feet, with his shield, landing so hard the deck boomed like a drum under him, rolling, coming up in front of Rachael with the shield up.
 
 Petra at the bow, drawing. Xav beside Rachael, not drawing. Waiting. The way he always waited.
 
@@ -129,7 +129,7 @@ He could see them all, and he couldn't do anything with any of them.
 
 He was weak on his own. He'd always been weak on his own.
 
-And something came over the rail at the bow, head first, out of the dark, and reached for him with hands that were mostly fingers, and Petra cut it in half without looking, and it fell back into the river, and Deston stood there and did nothing.
+And something came over the rail at the bow, head first, out of the dark. A woman in a farm apron, upside down, with her neck bent back so far that her face came up over the rail the right way round, smiling at him, and both her hands reaching. Petra cut her in half without looking. The blade went through her at the waist with a sound like a wet sack splitting, and the two halves of her slid back over the rail without a drop of blood, the edges of the cut already going grey and crumbling like old clay; and the river took them, and Deston stood there and did nothing.
 
 ***
 
@@ -167,11 +167,11 @@ He didn't know how else to say it, afterwards. He tried, in the channel, that ni
 
 Xav could hear John.
 
-Not his voice. His *sight*. John at the stern, who saw light change before things came round corners, and Xav beside Rachael felt it come down the thread between them like water down a pipe: *left, high, the east cliff, three of them, now*. And Xav, who'd been waiting, didn't wait anymore. He moved. Once. And the first of the three came off the rail in two pieces.
+Not his voice. His *sight*. John at the stern, who saw light change before things came round corners, and Xav beside Rachael felt it come down the thread between them like water down a pipe: *left, high, the east cliff, three of them, now*. And Xav, who'd been waiting, didn't wait anymore. He moved. Once. Low, across the deck, under the reaching hands of the first one as it came over the rail head first; and his sword went up through it from hip to shoulder with a sound like canvas tearing, and the two pieces of it went back over the rail on either side of him and dropped into the dark. The second one, coming over behind it, met Xav's elbow with its face and followed them.
 
-RX could hear John too. Wherever RX was, which was nowhere, which was unseen, which was a gap in the dark on the towpath ledge, John's light came down the thread to him, *there, the boy with the cap, behind the woman*, and RX was there before the boy knew there was anything to be behind.
+RX could hear John too. Wherever RX was, which was nowhere, which was unseen, which was a gap in the dark on the towpath ledge, John's light came down the thread to him, *there, the boy with the cap, behind the woman*, and RX was there before the boy knew there was anything to be behind. Two knives, low: the backs of both knees. The boy went down on the wet ledge like a dropped coat, with his cap over his eyes, and the cuts opened grey and dry and didn't bleed. The woman with the basket turned and swung it at the place RX had been, hard enough to kill a man, and hit air, because RX was already somewhere else.
 
-Malcolm could hear Azac. Malcolm, on the deck, with his hand out, and the backup he'd been holding all day in case the first one failed, *Hold*, the line he'd written on Azac's shield in the Hollow, and he felt Azac's shield through the thread, felt exactly where it was and how hard it was being hit, and *Hold* went down the thread into it, and the shield took a blow from something that came off the cliff like a falling sack of stones, and didn't break.
+Malcolm could hear Azac. Malcolm, on the deck, with his hand out, and the backup he'd been holding all day in case the first one failed, *Hold*, the line he'd written on Azac's shield in the Hollow, and he felt Azac's shield through the thread, felt exactly where it was and how hard it was being hit, and *Hold* went down the thread into it, and the shield took a blow from something that came off the cliff like a falling sack of stones, with a boom that shook the deck boards under Deston's knees, and didn't break.
 
 Dennis could hear the hat man.
 
@@ -207,6 +207,8 @@ That was the thing. That was the thing he'd remember for the rest of his life. N
 
 And everybody, at the same moment, stood a little straighter.
 
+Gabe met the thing on the ledge. A big man in a drover's coat, upside down on the rock, all elbows and splayed fingers, coming down the last of the cliff at him head first. Gabe didn't step back. He set his feet on the wet stone and brought his blade round once, short and flat and heavy, the way you'd split a round of oak with a maul; and the cleaver-blade went into the thing at the shoulder and through, *chock*, and the drover came off the rock in two pieces and went past Gabe into the river, and Gabe's boots hadn't moved a hair.
+
 ***
 
 The hat man went for Rachael himself.
@@ -237,9 +239,9 @@ He didn't smile.
 
 ***
 
-Then Xav moved. Once. And Petra, from the bow, Reaching, a hand's width past the steel. And Azac's shield came round, with Malcolm's *Hold* in it, and hit the hat man in the chest like a door slamming.
+Then Xav moved. Once. His sword opened the hat man's good coat from the collar to the hem, and under the wool there was no blood: only grey, dry, rippling like a pond in wind. Petra's edge came from the bow, Reaching, a hand's width past the steel, and laid his cheek open to the bone, grey and dry again; and Deston watched the grey ripple, and close, and be a cheek again, the way water closes over a stone. Only his hand stayed grey. Only Rachael's cut had held. And Azac's shield came round, with Malcolm's *Hold* in it, and hit the hat man in the chest with a sound like a door slammed in an empty house.
 
-He went over the rail.
+He went backward over the rail with his grey hand held up in front of his face, looking at it.
 
 Into the river. Into the white water piling up against the rocks. Without a splash. The way they always went.
 

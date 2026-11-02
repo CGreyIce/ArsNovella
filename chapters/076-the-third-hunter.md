@@ -169,9 +169,9 @@ Sabine met it in the middle of the courtyard.
 
 Dennis had seen her fight before. In drills. Once at the night market, in the winter, when she'd cut the stranger's coat with her edge reaching past her steel. He'd never seen her like this. She went at the thing the way a mercenary captain goes at anything that's between her and her pay: without a word, without a wasted movement, low and fast, with her sword up and the light running along it and past it, Reaching, a hand's width past the edge, two.
 
-She took it across the forearm. It screamed. The black stuff came out, the stuff that wasn't blood.
+She went in under its reach and took it across the forearm, and the edge running past her steel went through grey hide and whatever was under it with a sound like a wet sail tearing. It screamed. Dennis had never heard anything like it: a high, rattling, furious shriek, like a fox in a trap with a man's lungs. The black stuff came out in a spray, the stuff that wasn't blood, and hissed where the rain hit it.
 
-It hit her anyway, with the other arm, and she went across the courtyard into the well.
+It hit her anyway. The other arm came round low and fast, and the back of its hand caught her in the ribs, and Sabine left the ground. She went across the courtyard sideways, six paces through the air, and hit the rim of the well with her hip, and folded over it, and went in head first; and Dennis heard her sword ring off the stones on the way down.
 
 Gabe was there.
 
@@ -187,7 +187,7 @@ Emrys sang.
 
 He was on the gallery above the courtyard, in his nightshirt, with his hands on the rail. He'd been hoarse for ten months. Since the night market, when he'd thrown his whole Torch tier into one sung flash of light to blind the stranger, and his voice had never come back right. He sang now anyway. One note. High and clear and cracked down the middle, like a bell that had been dropped, and the light came with it: a flash, white, from the gallery, that lit the whole courtyard like noon for a heartbeat.
 
-The thing flinched. Threw its long arm up over its eyes. Missed the door. Hit the wall beside it, and the stone cracked.
+The thing flinched. It threw its long arm up over its eyes, half blind, and the blow it had meant for Gabe went wide by a hand's breadth and hit the wall beside the door instead. The whole wall shook. A crack ran up the stone from where its fist had landed to the gallery above, fast as a thrown rope, and grit and old mortar came down on Gabe's head. He didn't move his feet.
 
 And Calvin came off the roof.
 
@@ -261,11 +261,11 @@ It went the way the one at Valcrest had gone, Ina had written. Not running. Gath
 
 There was nobody standing in it.
 
-It went through the glass. Through the empty window, through the frame, through the place where she wasn't, into nothing. And out the other side, into the dark, over the river-gate, a storey up, with its long arms reaching for something that had never been there, and down.
+It hit the window horns first. The glass went in a burst of glittering pieces, the leading tore like wet cloth, the whole oak frame went with it, splintering; and the thing went through the place where she wasn't with its long arms closing on nothing. Out the other side, into the dark, over the river-gate, a storey up, still reaching, still twisting in the air to find her, and down.
 
 Into the river.
 
-Dennis heard the splash. Huge, over the rain. Then the river, loud and black and fast with the autumn rains, closing over it.
+The splash went up white in the warehouse lamps across the water, as high as the window it had gone through, and came down on the river-gate like a cartload of gravel. Then the river, loud and black and fast with the autumn rains, closed over it.
 
 ***
 
@@ -313,7 +313,7 @@ Then it went under, and was gone.
 
 ***
 
-They killed the hunter on the quay steps. The river watch, and Sabine, who'd crossed by the river-gate bridge at a run with her face streaming blood, and finished it. Dennis didn't watch.
+They killed the hunter on the quay steps. Dennis didn't watch. He heard it. The river watch got their boathooks into it as it came up out of the water, a dozen of them, and held it there on the slimy steps, shouting, while it thrashed and shrieked and snapped two of the hooks like kindling. Then Sabine came over the river-gate bridge at a run with her face streaming blood and went down the steps at it, and there was one more shriek, cut off short in the middle, and a heavy sound like a sack of grain going off a cart into the water. Then only the rain.
 
 He went into the long ward instead.
 

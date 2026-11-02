@@ -209,7 +209,7 @@ Salty stood up and pulled his own greatsword off his back.
 
 It felt like nothing, after the black one. That was the stupid thing. It was a big sword, longer than he was tall nearly, the kind that had made Rhea laugh at him the first week. *You'll take your own foot off.* It felt like a stick. He stood at the east side of the ring with it in both hands and let the forge come up, all the way up, as fast as it would come, and felt the heat of it in his arms and his chest and behind his eyes.
 
-Beside him, Niko had drawn his short sword. He was standing very calmly, the way he always stood, with his weight on his back foot and his eyes moving. Not at the shapes. At the *gaps* between the shapes. He looked, for a moment, exactly the way he'd looked on Earth, playing CS, hunched forward at three in the morning with his headset half off, watching an angle.
+Beside him, Niko had drawn his short sword. He was standing very calmly, the way he always stood, with his weight on his back foot and his eyes moving. Not at the shapes. At the *gaps* between the shapes. He looked the way a heron looks at water.
 
 Maigo had gone down on his knees. Both hands flat on the red.
 
@@ -243,31 +243,31 @@ They didn't jump it. They didn't go round. They just walked through the fire, on
 
 And the ring broke.
 
-It didn't break all at once. It broke the way things break in a fight, in pieces, too fast to follow, so that afterwards Salty could only remember bits of it, out of order, like a game you'd lost badly and were trying to replay in your head.
+It didn't break all at once. It broke the way things break in a fight, in pieces, too fast to follow, so that afterwards Salty could only remember bits of it, out of order, the way you piece together a bad fall lying in the dirt afterwards.
 
-He remembered Rhea going for the south one. Her sword up, and the light running along the edge of it, the sheen she'd shown them in the spring, *Gleaming*, a thin bright line of silver on the steel. He remembered her cutting it across the arm, deep, and the black stuff coming out of it that wasn't blood. He remembered the arm coming round anyway and hitting her, and Rhea going through the air, twenty feet, past the fire, and landing on the red and rolling and coming up on one knee with her face bloody and her sword still in her hand.
+He remembered Rhea going for the south one. Her sword up, and the light running along the edge of it, the sheen she'd shown them in the spring, *Gleaming*, a thin bright line of silver on the steel. He remembered the sound her blade made going into its forearm, a wet heavy chop like an axe going into green wood, and the black stuff that wasn't blood jumping out of the cut in a gout and steaming where it hit the red. He remembered the arm not stopping. It came round anyway, cut half through and swinging loose below the elbow, and the flat of it took Rhea across the chest with a crack of bursting mail rings; and she went through the air, twenty feet, backward, over the fire, and hit the red on her shoulder and rolled three times in a cloud of dust, and came up on one knee with her face bloody and her sword still in her hand.
 
-He remembered Suzu. A white blur, low on the ground, going for the west one's legs and wrapping round them and *pulling*, so that it staggered, and two of Teague's soldiers went into it with their swords while it was off balance.
+He remembered Suzu. A white blur along the ground, fast as water, hitting the west one at the knees and going round them, twice, three times, coils as thick as Salty's arm cinching tight with a creak like a rope taking a load. The thing's legs locked together. It pitched forward with its long arms wheeling, and two of Teague's soldiers went into its side while it was falling, one, two, the blades going in to the crossguards.
 
-He remembered Wendy's arrows. Going up over the fire and coming down on the other side in a curve no arrow should have made, into the shapes outside the ring, one after another after another, because the shapes had started coming through the fire too now, where Aldous's chant was faltering, and Wendy was putting arrows into every one of them that tried.
+He remembered Wendy's arrows. Going up over the fire and coming down on the other side in a curve no arrow should have made, into the shapes outside the ring, one after another after another, because the shapes had started coming through the fire too now, where Aldous's chant was faltering. *Thock*. A grey shape folding in half mid-burst and dropping into the flames. *Thock*. Another, spun round by the arrow in its neck, falling on its back with its long legs kicking. Wendy was putting arrows into every one of them that tried, and counting them under her breath as she did it.
 
-He remembered Maigo on his knees, with his hands flat on the red and his face screwed up behind his sunglasses, saying *stay, stay, stay* under his breath, and the shapes coming through the gaps in the fire *stopping*, for a heartbeat, with their long grey feet stuck to the ground as if the ground had grabbed them. Just a heartbeat. Long enough for a soldier to get a blade in.
+He remembered Maigo on his knees, with his hands flat on the red and his face screwed up behind his sunglasses, saying *stay, stay, stay* under his breath; and the red clay heaving up round the long grey feet of the shapes coming through the gaps in the fire, closing over them like fists. The shapes jerked to a stop mid-stride, their bodies still going and their feet not, and pitched onto their faces in the dirt. Just a heartbeat. Long enough for a soldier to get a blade in.
 
-He remembered Niko in the gap between two soldiers on the east side, very calm, not moving, not moving, and then moving, once, when a shape came through exactly where he'd known it would, and the short sword going in under its long arm and out again, and Niko stepping back into the gap as if he'd never left it.
+He remembered Niko in the gap between two soldiers on the east side, very calm, not moving, not moving, and then moving, once, when a shape came through exactly where he'd known it would. The short sword went in under its long arm with a sound like a knife through canvas and came out again black to the hilt. The shape ran on three more strides with its hand still reaching for the sword in the middle, and folded up in the dust; and Niko had already stepped back into the gap as if he'd never left it.
 
-He remembered Yan's voice. Deep, slow, perfectly calm, the way it had been on a thousand Apex calls at three in the morning, calling it. *Left. Two. Behind the gap. Wendy, high. Niko, your side, now. Salty. Salty, north, the big one, it's coming for the middle.*
+He remembered Yan's voice. Deep, slow, perfectly calm, the way it had been on a thousand late-night calls, calling it. *Left. Two. Behind the gap. Wendy, high. Niko, your side, now. Salty. Salty, north, the big one, it's coming for the middle.*
 
 ***
 
 It was coming for the middle.
 
-The north one. It had walked through Teague's side of the ring as if Teague's side of the ring wasn't there. Salty saw Teague go down, his shield split, his sword arm opened from elbow to wrist. He saw a young soldier called Dace go down beside him. And then it was in the ring, inside the fire, huge and grey and smoking, with its horns curving back and its long arms hanging, walking toward the sword on its sheepskin. Not toward Yan, standing beside it. Not toward any of them. Toward the sword.
+The north one. It had walked through Teague's side of the ring as if Teague's side of the ring wasn't there. Salty saw Teague go down. The long grey hand hit his shield and the shield split down the middle with a bang like a door kicked in, and the hand came on through the pieces and opened his sword arm from elbow to wrist. He saw a young soldier called Dace go down beside him. And then it was in the ring, inside the fire, huge and grey and smoking, with its horns curving back and its long arms hanging, walking toward the sword on its sheepskin. Not toward Yan, standing beside it. Not toward any of them. Toward the sword.
 
 Salty got there first.
 
 He didn't remember crossing the ring. He was just there, between the thing and the sword, with his greatsword up and the forge in him roaring, and he swung.
 
-It was the best swing he'd ever made. He knew that even while he was making it. Everything in him went into it: the forge, all of it, all at once, the way it had gone into the table. Big and stupid and all at once. The greatsword came round in a long flat arc and hit the thing just above its hip and went in, *deep*, a hand's width, two, into the grey hide, through whatever was under it, and stuck.
+It was the best swing he'd ever made. He knew that even while he was making it. Everything in him went into it: the forge, all of it, all at once, the way it had gone into the table. Big and stupid and all at once. The greatsword came round in a long flat arc and hit the thing just above its hip, and the jolt of it went up Salty's arms into his teeth; it went in, *deep*, a hand's width, two, into the grey hide with a sound like a spade going into wet clay, through whatever was under it, and stuck.
 
 And stuck.
 
@@ -343,9 +343,15 @@ And then it came apart.
 
 ***
 
-It didn't make a sound. That was what Salty remembered afterwards, more than anything. Not the way it looked. The silence of it. The thing hung in the air for one heartbeat, perfectly still, and then a line appeared across it, from one shoulder down to the opposite hip. Thin. Perfectly straight. As if somebody had drawn it with a ruler. And the two halves of it slid apart along the line, very slowly, the way two halves of a melon slide apart after the knife has gone through, and fell on the red ground at Wendy's feet, and didn't move again.
+It didn't make a sound. Not at first. That was what Salty remembered afterwards, more than anything: the silence of it. The thing hung in the air for one heartbeat, two paces from Wendy, perfectly still, with its arms flung wide and its horns down and the long grey fingers of its right hand already reaching for her face. Then a line appeared across it, from the left shoulder down to the right hip. Thin as a hair. Perfectly straight. Black welled up along it all at once, end to end, the way ink runs along a crease in wet paper.
 
-Wendy was standing there with her last arrow still drawn and her mouth open.
+Then the sound came. A single high note, very thin and very far off, like a bowstring snapping on the other side of a hill.
+
+And the jump finished without it. The two halves came on through the air, still going, the way a thrown thing keeps going after the hand's let go, and parted round Wendy as if she were a post in a stream. The top half went past her left shoulder close enough to lift her hair, and hit the red behind her, and skidded on its back through the dust in a long furrow, its arm flopping, and slewed to a stop against the gully bank. The other half dropped at her right foot like a sack of wet sand. Black stuff spattered across the red in a long fan, and up her sleeve, and across one cheek. It smelled like a snuffed candle and cold iron.
+
+Then nothing moved.
+
+Wendy was standing there with her last arrow still drawn and her mouth open, and the dust settling round her boots.
 
 Salty's hands had closed on the grip again. He hadn't told them to. The sword had started to fall and his hands had just caught it, the way they caught everything, out of nothing but habit, and he was standing there with it across his body again, and he couldn't feel his arms.
 
