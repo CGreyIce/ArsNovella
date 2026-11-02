@@ -46,7 +46,7 @@ One frame. Frame seventeen, today; she went through them in order, one a day. A 
 
 And opened Parse.
 
-She'd been able to do that for two and a half years. Before Spark; before she knew what it was. You looked at a thing, and the thing had a shape, and the shape had parts, and the parts had names, and the names were in a language that wasn't any language at all but was the closest thing she'd ever found to the one she'd spent her whole life in at home, sitting at a desk in the dark, reading other people's code. *Ring: circle, instance. Mark: reference, unique. Lines: six, outbound, terminated*. She could read the frame. She'd been able to read the frame since the spring, when the copies came up the south road in a case on a boy's back at three in the morning.
+She'd been able to do that for nearly three years. Before Spark; before she knew what it was. You looked at a thing, and the thing had a shape, and the shape had parts, and the parts had names, and the names were in a language that wasn't any language at all but was the closest thing she'd ever found to the one she'd spent her whole life in at home, sitting at a desk in the dark, reading other people's code. *Ring: circle, instance. Mark: reference, unique. Lines: six, outbound, terminated*. She could read the frame. She'd been able to read the frame since the spring, when the copies came up the south road in a case on a boy's back at three in the morning.
 
 All of it. Except the ticks.
 
@@ -459,7 +459,7 @@ She'd never told anyone she could. She wasn't sure she could. It had only come t
 
 So the register wasn't the leaves. The leaves were a copy. Like Oswin's sheets were a copy, and Higu's chalk was a copy. The register itself was somewhere else. Somewhere that could write on a three-hundred-year-old page by itself when thirty-five people fell out of their rooms onto a stone floor.
 
-In the circle. In the binding. In the thing she'd been reading, a little at a time, for two and a half years, every night, from inside the channel. The channel lived inside the binding; she'd found that out in the first winter. She'd built a chat window in the corner of somebody else's three-hundred-year-old program, and it had held, and she'd never once looked at the rest of the program she'd built it in.
+In the circle. In the binding. In the thing she'd been reading, a little at a time, for nearly three years, every night, from inside the channel. The channel lived inside the binding; she'd found that out in the first winter. She'd built a chat window in the corner of somebody else's three-hundred-year-old program, and it had held, and she'd never once looked at the rest of the program she'd built it in.
 
 She looked now.
 

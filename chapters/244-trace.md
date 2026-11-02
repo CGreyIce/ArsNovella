@@ -7,7 +7,7 @@ date: 2026-11-03
 
 *Session 651*, Chris wrote. *Day 4 after. Still 99.95. Not rounding.*
 
-He wrote it on the sand at the foot of the west wall of the Lists, at dawn, with his back against the stone and his notebook on his knee, the way he'd started every session for two and a half years. Above him, forty feet up, thirty-six gold boxes in a long tree with the names in them, and the bye in the thirty-sixth box with no name, and in the corners of two of the boxes, in his own chalk, *looking* and *making her come down*, which nobody had rubbed out since the Lists, because nobody would. The lamps along the top of the wall were out. The sand was cold and grey and raked smooth, the way Lucan's boys raked it every evening whether anyone was going to use it or not.
+He wrote it on the sand at the foot of the west wall of the Lists, at dawn, with his back against the stone and his notebook on his knee, the way he'd started every session for three years. Above him, forty feet up, thirty-six gold boxes in a long tree with the names in them, and the bye in the thirty-sixth box with no name, and in the corners of two of the boxes, in his own chalk, *looking* and *making her come down*, which nobody had rubbed out since the Lists, because nobody would. The lamps along the top of the wall were out. The sand was cold and grey and raked smooth, the way Lucan's boys raked it every evening whether anyone was going to use it or not.
 
 He'd been at ninety-nine point nine since the Lists. Since a bout on the main sand against a thin quiet man with a short sword who'd told him, before it started, exactly where he was going to hit him, and then hit him there.
 
@@ -167,7 +167,7 @@ He looked at it.
 
 *Wait for commit. Then release*.
 
-He'd written *Release* a thousand times in two and a half years. He'd written *commit* a hundred, because it was Hako's word, Hako's skill, the thing Hako did. He'd never once written them next to each other.
+He'd written *Release* a thousand times in three years. He'd written *commit* a hundred, because it was Hako's word, Hako's skill, the thing Hako did. He'd never once written them next to each other.
 
 *Trace* wasn't seeing the blow early. He'd had that wrong for a month. *Trace* was seeing the plan. The line in the air was what the other person meant to do, before they'd finished meaning it. And a plan wasn't anything; you couldn't dodge a plan; if you moved out of a plan, they made a new one. You had to wait until the plan stopped being a plan. Until the other person had committed: until they'd put enough of themselves into it that they couldn't take it back. Until the line was *true*.
 
@@ -307,7 +307,7 @@ He sat down on the sand where he'd been standing, with Hako's spear across his k
 
 *(Winter said this on Tuesday. Logged Wednesday. Credit Winter.)*
 
-Then he opened his window, and the channel, and wrote what he'd written for every one of them for two and a half years, at the top of every count, the thing that had started as a list in a notebook in the first week and become, somehow, the thing thirty-four people checked first every morning:
+Then he opened his window, and the channel, and wrote what he'd written for every one of them for three years, at the top of every count, the thing that had started as a list in a notebook in the first week and become, somehow, the thing thirty-four people checked first every morning:
 
 [ 06:31 · Chris: Chris · Tier 2: Tempered · Skills: Release, Trace ]
 [ 06:31 · Chris: Tier 2 or above: 13 of 35. ]

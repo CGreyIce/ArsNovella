@@ -15,7 +15,7 @@ He'd opened his window at eleven minutes past midnight and read three words.
 
 He'd read them a great many times since.
 
-Now it was dawn, and the red going from grey to red to gold all the way to the mountains, and the knoll an hour out with its little green flame on top, and the channel open in front of his face in plain white letters, the same as it had been every morning for two and a half years.
+Now it was dawn, and the red going from grey to red to gold all the way to the mountains, and the knoll an hour out with its little green flame on top, and the channel open in front of his face in plain white letters, the same as it had been every morning for three years.
 
 [ 06:02 · Chris: morning. logging. ]
 [ 06:02 · Chris: Tier 1 or above: 35 of 35. ]
@@ -38,7 +38,7 @@ Now it was dawn, and the red going from grey to red to gold all the way to the m
 [ 06:14 · Salty: twelfth dinner tonight. oakes's forge. everyone. he's not allowed near it. ]
 [ 06:14 · Wendy: he means you ]
 
-He read all of it. Every line. The way he'd read every line of it for two and a half years from the end of a jetty, at night, not answering.
+He read all of it. Every line. The way he'd read every line of it for three years from the end of a jetty, at night, not answering.
 
 He didn't answer.
 

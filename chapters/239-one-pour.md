@@ -437,7 +437,7 @@ Maren put her hand on Thea's head. Once. The way you'd put a hand on somebody's 
 
 She wrote it at eleven minutes past midnight.
 
-She didn't think about what to put. She'd thought about it for a year. For two and a half years, maybe, since a boy with ink on both hands said *they're people going home* on the floor of a long room and then said sorry four times; since last summer, in Valcrest, when she wrote *TODO* beside the blank half of a ring; since the first morning on a stone floor in Solmere with a white box in the air in front of her face. She'd said she wouldn't say it until she could read it.
+She didn't think about what to put. She'd thought about it for a year. For three years, maybe, since a boy with ink on both hands said *they're people going home* on the floor of a long room and then said sorry four times; since last summer, in Valcrest, when she wrote *TODO* beside the blank half of a ring; since the first morning on a stone floor in Solmere with a white box in the air in front of her face. She'd said she wouldn't say it until she could read it.
 
 She'd read it.
 
