@@ -239,7 +239,7 @@ Gigichi went very still.
 
 Gigichi didn't say anything. She couldn't.
 
-"That's what the panic's covering," said Higu. "Not *I don't deserve it*. You've never once in six years thought you didn't deserve something. You just say it, so you don't have to say the other thing." She turned her head, finally, and looked up at Gigichi on the step above her, with her calm half-lidded eyes. "I've known you six years, Gigi. I know what your face does when you're lying to yourself."
+"That's what the panic's covering," said Higu. "Not *I don't deserve it*. You've never once in six years thought you didn't deserve something. You just say it, so you don't have to say the other thing." She turned her head, finally, and looked up at Gigichi on the step above her, with her calm half-lidded eyes. "I've known you six years, Chi. I know what your face does when you're lying to yourself."
 
 ***
 

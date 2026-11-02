@@ -491,7 +491,7 @@ She came up out of it gasping, in the dark, with her nose bleeding onto Gigichi'
 
 "You're bleeding."
 
-"I know. I'm all right." She was. She was shaking. She sat up, carefully this time, with her hand under her nose, and Gigichi was already feeling for the handkerchief that Higu kept by the bed for exactly this. "I'm all right, Gi. I just— I went too far down."
+"I know. I'm all right." She was. She was shaking. She sat up, carefully this time, with her hand under her nose, and Gigichi was already feeling for the handkerchief that Higu kept by the bed for exactly this. "I'm all right, Gigi. I just— I went too far down."
 
 Higu was awake. Of course she was. She didn't say anything. She held out the handkerchief.
 

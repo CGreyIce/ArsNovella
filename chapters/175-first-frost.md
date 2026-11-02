@@ -27,7 +27,7 @@ He looked up when she came through the gate. She felt him look. She couldn't see
 
 "Morning, Gigi," he said.
 
-*Gigi*. The name she'd taken in the first week, in the castle, because she and PenguChi both kept answering to *Chi*, and PenguChi had got there first. Everybody used it now. Thea, Higu, Tiger in the channel. But he'd said it out loud for the first time at a cabin door in the snow, in English, the way you'd say a name you'd read a thousand times and never once heard yourself say, and she'd shoved a lamp at him.
+*Gigi*. The name she'd taken in the first week, in the castle, because she and PenguChi both kept answering to *Chi*, and PenguChi had got there first. Everybody used it now. Thea, Higu, Tiger in the channel. Only Higu still said *Chi*, and only when it was the two of them. But he'd said it out loud for the first time at a cabin door in the snow, in English, the way you'd say a name you'd read a thousand times and never once heard yourself say, and she'd shoved a lamp at him.
 
 He said it now as if he'd been saying it for years. She hadn't decided yet whether she minded.
 

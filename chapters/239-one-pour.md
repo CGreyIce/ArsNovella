@@ -35,7 +35,7 @@ She sat at the long table with her hands flat on the wood and let it go through 
 
 "It's ringing."
 
-"I know. The table's shaking." Higu had her hand flat on it too. "Gu, the cups."
+"I know. The table's shaking." Higu had her hand flat on it too. "Gigi, the cups."
 
 Gigichi, who'd been sitting on the bench by the stove with her knees up, got up and went round the table and moved the cups to the middle, one by one, because they were walking very slowly toward the edge on their own.
 
