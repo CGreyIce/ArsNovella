@@ -379,7 +379,7 @@ Newish, in the chair by the fire, made a sound. Chris looked round. She was cryi
 
 "Newish?"
 
-"I said *rude*," said Newish. Her voice was thick. "Last thing. I said *rude*, and he left the call, and I've been sorry for a year." She wiped her face with her sleeve. "And he's *alive*. Somewhere. Probably. And if I ever see him again, I'm going to say it again." She laughed, wetly. "I'm going to walk right up to him and say *rude*, and then I'm going to hit him."
+"I said *rude*," said Newish. Her voice was thick. "Last thing. I said *rude*, and he left the call, and I've been sorry for a year." She wiped her face with her sleeve. "And he's *alive*. Somewhere. Probably. And if I ever see him again, I'm going to say it again." She laughed, and wiped her eyes. "I'm going to walk right up to him and say *rude*, and then I'm going to hit him."
 
 "That seems fair," said Ina gravely.
 

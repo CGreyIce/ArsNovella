@@ -95,7 +95,7 @@ He didn't say anything.
 
 "Every hand," said Deston. "Everybody who came in. Everybody who went past him to sit down. Everybody who came up after. He shook every hand that was held out to him. And he said thank you. *Thank you for coming.* To every one."
 
-"He asked after people," said Gabe. "That's the thing I remember. By name. He knew everybody's name. He asked after their parents. Their jobs. Their studies. Whether they'd had a long drive. He asked me how I was. By name. Like he'd known me for years, Declan. I'd met him twice." Gabe's voice did something. "It was like a wedding. The way he did it. Like he was the host at a wedding, and it was his job to make sure everybody was all right. Not what it was."
+"He asked after people," said Gabe. "That's the thing I remember. By name. He knew everybody's name. He asked after their parents. Their jobs. Their studies. Whether they'd had a long drive. He asked me how I was. By name. Well. He *had* known me for years." Gabe's voice did something. "Every time we came round, Declan. Every single time. You'd still be upstairs finding your shoes, and me and Dest and John would be in the kitchen with your dad for an hour. Him showing John whatever he'd built that week. Asking me about the forge job. Asking Dest about his mum. Life stuff. He sent me links, after. With no message. Just a link to some article about steel at one in the morning." "It was like a wedding. The way he did it. Like he was the host at a wedding, and it was his job to make sure everybody was all right. Not what it was."
 
 "He didn't cry," said Deston.
 
@@ -105,7 +105,7 @@ He looked at the lake.
 
 "No," he said. "He wouldn't."
 
-He'd known that before they said it. He'd known it in his bones, the way you know the shape of a room in the dark. His father had always been like that. A man who said very little and did everything. Who went to work, and came home, and sat in his chair, and got up in the morning and went again.
+He'd known that before they said it. He'd known it in his bones, the way you know the shape of a room in the dark. His father had always been like that. A man who said very little and did everything. Who went to work, and came home, and sat in his chair, and got up in the morning and went again. And who, if you came into the kitchen, turned his laptop round to show you what he was building, every part of it, as if that were the same as saying something. It usually was.
 
 It wasn't that he didn't feel things. It was that he felt them so much he didn't dare let any of it out, in case it all came out at once and he couldn't stop it. So he held it. All of it. Like holding up a wall. And he shook everybody's hand while he did it, so they'd be all right.
 
@@ -185,7 +185,7 @@ He didn't know. He'd never know. That was the thing. That was the thing that sat
 
 Gabe looked at Deston. Deston looked back.
 
-"We saw him a couple of times after," said Deston carefully. "Not often. Not much. He's not..." He spread his hands. "You know what he's like. He's not a man you just drop in on. But we saw him. Gabe and me. And the last time, he was okay, Declan. He was older. He was quieter, even, if you can imagine that. But he was okay."
+"We kept going round," said Deston. "After. Not every week. But we'd go, Gabe and me, and John when he could, and he'd put the kettle on and we'd sit in the kitchen like before. He'd show John whatever he was building. He'd ask us about work, and about life. He talked." He spread his hands. "Not about you, much. Around you. You know how he is. He doesn't say the big thing. He shows you his new monitor instead. And the last time, he was okay, Declan. He was older. He was quieter, even, if you can imagine that. But he was okay."
 
 "He was still working," said Gabe. "He was still getting up every morning and going. Like always."
 
@@ -277,7 +277,7 @@ Alea was quiet for a while.
 
 He looked at the lake.
 
-"He's quiet," he said, after a long time. "He doesn't say much. He never did. He gets up every morning and goes to work, and comes home, and sits in his chair. He'll shake every hand in a room so that nobody feels left out. He'll stand at the front all day so that everybody else can sit down. He holds things up so other people don't have to." He breathed. "I used to think that meant he didn't feel anything. I was wrong. It meant he felt everything, and didn't trust himself to put any of it down."
+"He's quiet," he said, after a long time. "He doesn't say much. He never did. But he isn't cold. People thought he was, and he wasn't. He'd sit you down in front of whatever he was building and show you every part of it. Old servers. A keyboard he'd taken apart and put back together better. He'd send you links at midnight with no message. That was how he said things." He breathed. "He gets up every morning and goes to work, and comes home, and sits in his chair. He'll shake every hand in a room so that nobody feels left out. He'll stand at the front all day so that everybody else can sit down. He holds things up so other people don't have to." He breathed. "I used to think that meant he didn't feel anything. I was wrong. It meant he felt everything, and didn't trust himself to put any of it down."
 
 Alea looked at him.
 
@@ -287,7 +287,7 @@ He didn't answer.
 
 "That's *you*, Dad," said Alea. "That's exactly you. You just described yourself."
 
-Gabe laughed. Wetly. Deston laughed. And after a moment, so did he. Sitting on a wall, with his daughter's cold hands round his, laughing, and crying, and not holding any of it up at all.
+Gabe laughed, unsteadily. Deston laughed. And after a moment, so did he. Sitting on a wall, with his daughter's cold hands round his, laughing, and crying, and not holding any of it up at all.
 
 ***
 

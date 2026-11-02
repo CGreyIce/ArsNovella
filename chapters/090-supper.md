@@ -133,7 +133,7 @@ He watched it land. On all five faces, one after another, the way he'd watched t
 
 "Here," he said, "it's Ars. Mostly. Nobody here can say the other one." He looked at them. "You can call me whatever you like."
 
-"*Ice*," said Xola, wetly, fiercely. "We're calling you *Ice*."
+"*Ice*," said Xola, crying and fierce about it. "We're calling you *Ice*."
 
 From the hearth, very quietly, Alea said: "He answers to *Dad*."
 

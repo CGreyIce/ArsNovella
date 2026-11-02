@@ -245,7 +245,7 @@ Gigichi didn't say anything. She couldn't.
 
 Gigichi looked at her for a long time.
 
-Then she put her face back on her knees, and laughed, a little, wetly.
+Then she put her face back on her knees, and laughed, a little, into her knees.
 
 "I hate you," she said.
 

@@ -391,7 +391,7 @@ Milli's tail moved.
 
 Just once. Just the tip. The first time since the door. A small, slow, curling movement at the very end of it, the way a cat's tail moves when it's decided something is going to be all right and isn't going to discuss it.
 
-Hana, beside him, put her face in his shoulder and laughed, a little wetly, and Milli put his hand up behind him without looking and held the back of her head.
+Hana, beside him, put her face in his shoulder and laughed, a little unsteadily, and Milli put his hand up behind him without looking and held the back of her head.
 
 ***
 

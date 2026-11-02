@@ -309,7 +309,7 @@ She didn't decide to. She just found she was sitting at the kitchen table in the
 
 "She drew it," said Thea. Very softly. "The moon. Over the red. She drew it for you."
 
-"She's terrible at drawing," said Xola, wetly, delighted. "Look at it. Look at the mountains. They're *triangles*."
+"She's terrible at drawing," said Xola, teary and delighted. "Look at it. Look at the mountains. They're *triangles*."
 
 "It's perfect," said PenguChi.
 

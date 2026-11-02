@@ -191,7 +191,7 @@ She put the cat down, and came over, and sat on the floor beside him in the door
 
 Oswin sat there in the doorway and was hugged by a fox girl from another world, and found, to his considerable surprise, that he was crying.
 
-"You worked it out," said Aleaka, into his shoulder. Slowly, the way she said everything, stumbling a little. "On your own. From the *records*. With nobody telling you." She pulled back and looked at him. "We had his voice. We had his jokes. We had a word he used to say that nobody else says, in a book, and a name he used to give everything. We had *everything*. You had a vault full of old paper and a sword you'd never met the owner of." She smiled at him, wetly. "And you got there anyway. That's not foolish. That's the best thing I've ever heard."
+"You worked it out," said Aleaka, into his shoulder. Slowly, the way she said everything, stumbling a little. "On your own. From the *records*. With nobody telling you." She pulled back and looked at him. "We had his voice. We had his jokes. We had a word he used to say that nobody else says, in a book, and a name he used to give everything. We had *everything*. You had a vault full of old paper and a sword you'd never met the owner of." She smiled at him with her eyes swimming. "And you got there anyway. That's not foolish. That's the best thing I've ever heard."
 
 Oswin wiped his face on his sleeve.
 

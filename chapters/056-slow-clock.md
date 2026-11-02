@@ -131,7 +131,7 @@ Xola's crying slowed. Gigichi's grip on her loosened, a little. The candle stopp
 
 "There's still time," said PenguChi softly, at the end. "That's what it means. It means there's still time to go home. More than anyone thought." She smiled her slow enormous smile. "That's good news. Rule three. It's just very loud good news, and it's two in the morning."
 
-Xola laughed, wetly, into Gigichi's shoulder.
+Xola laughed, half crying, into Gigichi's shoulder.
 
 And Higu, sitting very still in the corner with her notebook on her knee, said: "Thea. That isn't all of it. Is it."
 

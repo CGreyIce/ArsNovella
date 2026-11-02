@@ -377,7 +377,7 @@ Thea looked at her. And the sharpness went out of her all at once, the way it al
 
 "I did not."
 
-"You did. When he was being stupid about sleep. He used to go *yes, ma'am*." Xola laughed, wetly. "He liked it."
+"You did. When he was being stupid about sleep. He used to go *yes, ma'am*." Xola laughed, and sniffed. "He liked it."
 
 Thea didn't say anything to that. She didn't trust herself to.
 

@@ -351,7 +351,7 @@ He didn't. He was learning to wait. Kestra had been teaching him for a year. *Ag
 
 "When you're sure," he said instead.
 
-Hana was still for a moment against his shoulder. Then she laughed, very softly, a little wetly.
+Hana was still for a moment against his shoulder. Then she laughed, very softly, through the tears.
 
 "When I'm sure," she said. "You'll be second. After Leaka. I promised."
 

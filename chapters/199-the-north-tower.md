@@ -321,7 +321,7 @@ Severin thought about it.
 
 Hild laughed.
 
-It was a short hard bark of a laugh, the first he'd heard from her in nearly thirty years, and it went off the top of the north tower and down the valley like a dog barking at a door. And then the cow girl laughed too, wetly, with her hands over her face. And then Drew, because Drew always did. And Tiger, because Drew had.
+It was a short hard bark of a laugh, the first he'd heard from her in nearly thirty years, and it went off the top of the north tower and down the valley like a dog barking at a door. And then the cow girl laughed too, crying, with her hands over her face. And then Drew, because Drew always did. And Tiger, because Drew had.
 
 Severin stood at the parapet with his wet knees and his shaking legs and let them laugh. He didn't. He was looking at Hyvred.
 

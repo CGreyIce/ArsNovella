@@ -455,7 +455,7 @@ He stood in front of her and looked at her, and Ars saw his eyes go somewhere ju
 
 "I know," said Alea. "I don't need to see it."
 
-Deston laughed, wetly, and held out his hand. She took it. He felt her cold fingers close round Deston's and saw Deston feel them too, and look down, and look up at him.
+Deston laughed, eyes streaming, and held out his hand. She took it. He felt her cold fingers close round Deston's and saw Deston feel them too, and look down, and look up at him.
 
 "Her mother's hands," he said.
 
