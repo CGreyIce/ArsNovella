@@ -207,7 +207,11 @@ Slowly. The way something very large turns. The whole vast lightless shape of it
 
 Toward her.
 
+She felt it before she understood it: a pressure in her ears, the way your ears go when you dive too deep. Down in the valley, every one of the hundreds of lamps with a hand inside them turned its head at the same moment, toward the pass, with a sound that came up the long road a heartbeat later and that she would hear in her sleep for a month: one soft rustle, like a field of barley in a wind, that was hundreds of necks turning. The air at the top of the pass stopped moving. Beside her, a soldier's breath came out of his mouth in a white cloud, and hung there, and didn't drift.
+
 ***
+
+She let go of the lock. It didn't want to let go of her. She had to pull, the way you pull your hand off frozen iron, and when it came free the crosshair eye went dark. Not dim. Dark. Something warm ran down her cheek from it, and when she touched it her fingertips came away black in the starlight.
 
 She didn't scream. She'd think about that afterwards, and be proud of it. She just took a step back, very carefully, and said, very quietly, "Hild. It's seen us."
 
@@ -227,6 +231,8 @@ It came up out of the dark, up the long switchbacks of the old road, faint and c
 
 Hyvred looked down. She couldn't help it. Her eye was still locked, still pulling the world close. And on the road below, perhaps a quarter of a mile down, standing on one of the great flat grey stones in the starlight, there was a lanky figure with big feet and freckles, waving both arms over his head.
 
+Everyone else's breath was smoking in the cold. Forty-six plumes of white, hanging in the starlight along the top of the pass. His wasn't. He was shouting up the mountain at the top of his voice, and nothing came out of his mouth but the words.
+
 Ossie. The thing with Ossie's face. His lamp, with the hand inside it, holding very still.
 
 "*Come down!*" it called. "*It's warm down here! Everyone's here! Come and see!*"
@@ -238,6 +244,8 @@ Hyvred heard him move. She heard the scuff of his boots on the stones, quick, to
 And Drew.
 
 Drew didn't grab him. That was what Hyvred would remember. Drew didn't grab him or shout or wrestle him to the ground. He just stepped into the way, very calmly, the way he'd stepped into the way of a hundred things in nine years, and put both his hands flat on Tiger's chest, and stood there.
+
+Tiger hit them at full speed, *Go* and all, the gap in him wide open; and it was like watching a cart hit a gatepost. Drew's boots slid a hand's width back on the frosty stone with a long scrape. His elbows bent. And held. The breath went out of both of them at once, in one white cloud.
 
 "Not here," said Drew quietly. "Not this one. It's not him."
 
@@ -253,7 +261,7 @@ Then he turned round, and walked back past Hyvred without a word, into the dark,
 
 They came down off the Greyspine in the dark, forty-six of them, without lights, as fast as they dared.
 
-All night. Hild at the back now, not the front, walking backwards half the time with her blindfold pulled down over her one good eye so that she could listen better, her light gathered up in her like a fist. Hyvred beside her, looking back. Always looking back. Up at the pass, black against the stars.
+All night. Hild at the back now, not the front, walking backwards half the time with her blindfold pulled down over her one good eye so that she could listen better, her light gathered up in her like a fist. Hyvred beside her, looking back with the one eye she had left for now, the other dark and throbbing under a strip of Kei's bandage. Always looking back. Up at the pass, black against the stars.
 
 Nothing came over it. Nothing followed.
 
@@ -275,7 +283,7 @@ Bee was on the wall. Of course she was. She'd been there, the gate sergeant said
 
 She'd drawn them all. Every single one.
 
-Hyvred came through the inner gate and saw them, and saw Bee coming down the steps from the wall two at a time, and burst into tears.
+Her left eye had come back on the second morning, grey first and then gold, and Kei had made her swear not to lock it again for a week. Hyvred came through the inner gate and saw them, and saw Bee coming down the steps from the wall two at a time, and burst into tears.
 
 ***
 

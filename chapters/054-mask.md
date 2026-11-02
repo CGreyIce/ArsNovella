@@ -69,7 +69,7 @@ It came down out of the east stand like a stone falling.
 
 Ina saw it go. A dark shape, rising out of the crowd near the top of the stand, much too tall, throwing off a cloak it had been wearing as it rose. And then it was in the air, over the heads of a thousand screaming people, over the rail, falling, *jumping*, a leap no man could have made, thirty feet down onto the sand of the Lists.
 
-It landed in a crouch, ten paces from Winter.
+It landed in a crouch, ten paces from Winter, and the sand jumped. Ina felt it through his boots: a thud like a full barrel dropped off the back of a cart, and a ring of sand thrown up all round it that pattered down on the old champions' shoes.
 
 It was like the things Group 5 had written about, and not like them. Long, too long, black-skinned, its limbs folded up beneath it the way a spider folds. Too many joints. A head that was the wrong shape, narrow and blind-looking, turning slowly. And cold. Ina could feel it from where he stood: a cold that came off it like the cold from an open door in winter, that made the torches round the arena gutter and lean.
 
@@ -87,19 +87,19 @@ It went for her the way a cat goes for a bird. All at once, with no warning, fro
 
 Ysolde got there first.
 
-She'd come off the fence and across the sand faster than Ina had known anyone could move, and she didn't draw her sword so much as *arrive* with it, already drawn, already moving, between Winter and the thing. Her aura came out of her in a rush that Ina felt on his skin like heat from an oven. The light ran out past the edge of her blade, a hand's width, two, the Reaching edge that only a dozen swordsmen in the kingdom could make. It met the black arm halfway.
+She'd come off the fence and across the sand faster than Ina had known anyone could move, and she didn't draw her sword so much as *arrive* with it, already drawn, already moving, between Winter and the thing. Her aura came out of her in a rush that Ina felt on his skin like heat from an oven. The light ran out past the edge of her blade, a hand's width, two, the Reaching edge that only a dozen swordsmen in the kingdom could make. It met the black arm halfway, with a sound like a wet sheet torn down the middle.
 
-The arm came off.
+The arm came off at the elbow. It went spinning past Winter's head, close enough to lift her hair, and hit the sand behind her, and *kept moving*: the long black fingers clenching and opening in the dust like a crab on its back. Black stuff came out of the stump in a thick slow rope and steamed where it met the air, and the smell reached Ina a heartbeat later, snuffed candle and wet iron.
 
-The thing didn't scream. It didn't make any sound at all. It just folded up, very fast, away from Ysolde's blade, and unfolded again on her other side. A second arm whipped round. Ysolde turned it with her sword, and turned the next, and the next, and then it found a gap, and Ina saw the black edge of its limb go across Ysolde's sword arm above the elbow, and the blood came, bright in the torchlight.
+The thing didn't scream. It didn't make any sound at all. It just folded up, very fast, away from Ysolde's blade, and unfolded again on her other side. A second arm whipped round. Ysolde turned it with her sword, and turned the next, and the next, and then it found a gap, and Ina saw the black edge of its limb go across Ysolde's sword arm above the elbow with a sound like a knife through canvas. Her sleeve opened, and the arm under it, and the blood came, bright in the torchlight, down to her wrist in a heartbeat. Her sword hand opened on its own.
 
-Ysolde didn't make a sound either. She shifted her sword to her other hand, and stood her ground in front of Winter, and kept fighting.
+Ysolde didn't make a sound either. She caught the hilt with her other hand before it reached the sand, and stood her ground in front of Winter, and kept fighting.
 
 ***
 
 Everything after that happened at once.
 
-Lucan was on the master's platform, and fire was coming off him. Real fire, Torch-tier, great rolling gouts of it, thrown down onto the sand like a man throwing buckets of water, and the thing had to fold and twist and dodge to stay out of it. The city watch were coming through the gates with spears. The crowd was a single roaring screaming mass, half of it trying to get out and half of it frozen in its seats.
+Lucan was on the master's platform, and fire was coming off him. Real fire, Torch-tier, great rolling gouts of it, thrown down onto the sand like a man throwing buckets of water. The heat went across Ina's face like an oven door opening, and where it hit, the sand went black and glassy and cracked, and the thing had to fold and twist and dodge to stay out of it. The city watch were coming through the gates with spears. The crowd was a single roaring screaming mass, half of it trying to get out and half of it frozen in its seats.
 
 And the five of them moved.
 
@@ -113,7 +113,7 @@ Winter was already moving. She'd fallen back behind Ysolde, out of reach, white-
 
 It slipped.
 
-Not much. A long black foot sliding, a joint bending wrong for a moment. But it slipped, and for a heartbeat it was off balance, and Ysolde's blade went into the gap and took another limb off at the knee.
+Not much. A long black foot went out from under it on the white, with a squeal like a boot on wet marble, and a joint bent the wrong way with a crack Ina heard over ten thousand people. For a heartbeat it was off balance, and Ysolde's blade went into the gap and took the leg off at the knee. The leg dropped onto the frost and lay there. The thing came down on the stump with a jolt that shook the sand, and kept coming, on three.
 
 "*Ina,*" said Newish.
 
@@ -165,19 +165,23 @@ It went into the thing's face. Into the narrow blind-looking head, just as it li
 
 The thing *recoiled*.
 
-It made a sound, at last. A high thin shriek, like metal on stone. Its head jerked back, wreathed in violet fire, and for one heartbeat it was blind and burning and off balance, all its long folded limbs flailing.
+It made a sound, at last. A high thin shriek, like metal dragged on stone. Its head jerked back, wreathed in violet fire that clung to it like wet paint, smoking, and a stink of burnt hair rolled across the sand; and for one heartbeat it was blind and burning and off balance, all its long folded limbs flailing.
 
 One heartbeat was all Ysolde needed.
 
-She came in from the side, her sword in her off hand, her wounded arm hanging, and her Reaching edge went through the thing's neck like a scythe through wheat.
+She came in from the side, her sword in her off hand, her wounded arm hanging. Ina saw her plant her back foot in Winter's frost and turn her whole body into it, the way she'd shown them on a hundred cold mornings: the blade low and flat, and the light running two hands past the edge.
 
-The head came off. The body folded up on itself, once, twice, and lay still on the sand.
+It went through the thing's neck with almost no sound at all. A hiss, like a hot iron put into water.
+
+For a heartbeat nothing happened. Then the head tipped, very slowly, off the end of the long black neck, still burning violet, and fell, and rolled, and stopped against Hako's boot. Hako looked down at it and very carefully didn't move his foot.
+
+The body stood a moment longer without it. Then it folded up on itself, once, twice, joint by joint, like a cheap chair collapsing, and lay still on the sand; and the cold went out of the air all at once, as if a door had been shut.
 
 And the violet fire, on the head, went on burning for a moment, very quietly, in the sudden enormous silence of the Lists.
 
 ***
 
-The silence lasted a long time.
+The silence went on and on.
 
 Ten thousand people. Lanterns swaying overhead. Somewhere, very faintly, one band still playing, a jaunty tune, because nobody had told them to stop. The torches round the arena, straightening up again now that the cold was gone.
 
