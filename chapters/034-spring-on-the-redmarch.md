@@ -7,7 +7,7 @@ date: 2026-10-29
 
 The thaw came to the Redmarch in a week of grey rain, and when it stopped, Salty went out to the smithy and picked up the anvil.
 
-He hadn't meant to. That was the thing he kept saying afterwards, to everyone, including the smith, who was very upset. He'd gone in to collect a whetstone. The anvil had been in the way, on the floor by the door, where the smith's boy had left it after moving it to sweep. Salty had bent down without thinking, the way you'd bend down to move a chair, and put his hands under it, and lifted.
+He hadn't meant to. That was the thing he kept saying afterwards, to everyone, including the smith, who was very upset. He'd gone in to collect a whetstone. The anvil had been in the way, on the floor by the door, where the smith's boy had left it after moving it to sweep. Salty had bent down without thinking, as he'd have bent to move a chair, and put his hands under it, and lifted.
 
 It came up off the floor.
 
@@ -15,7 +15,7 @@ He stood there in the doorway of the smithy holding a solid iron anvil at chest 
 
 "That," said the smith, very quietly, "weighs as much as a horse."
 
-Salty looked down at it. At his own hands, wrapped round the horn and the heel. At his arms, which were big, they'd always been big, but not *that* big. He could feel something in them. In his back, in his legs, in the soles of his feet: a heat, steady and deep, like a stove with the door shut.
+Salty looked down at it. At his own hands, wrapped round the horn and the heel. At his arms, which were big, they'd always been big, but not *that* big. He could feel something in them. In his back, in his legs, in the soles of his feet: a heat, steady and deep, like a stove with the door shut. And under the heat, for the first time since the autumn, the bolted thing had come *up*. Not all the way. He could feel it straining at its bolts. But it had come up off the floor along with the anvil, a whole hand's width, as if the anvil were the excuse it had been waiting for.
 
 "Huh," he said.
 
@@ -47,9 +47,15 @@ They both looked at him.
 
 "Most of my compliments don't," said Niko cheerfully.
 
+It cost him, that evening. By supper his hands had gone stiff, then hot, then strange, and he couldn't close them round a spoon. By morning his forearms were swollen to the elbow and his fingers wouldn't make a fist, and there was a low fever in him that Rhea took one look at and called by its name.
+
+"You burned it," she said. "You pulled up more than you've got, all in one go. That's what happens when you try to be Tempered from twenty-seven." She put his hands in a bucket of well water herself and held them there. "Two days. Then nothing heavier than a cup for a week. And next time, put the anvil *down* before it puts you down. The second you feel the bottom, you let go. Promise."
+
+He promised. He lay on his bunk for two days with his hands in the bucket, feeling foolish. But he could feel the bolted thing, too, lying there; and it hadn't gone all the way back down. Still bolted. But not flush with the floor any more.
+
 ***
 
-It had been like that since the winter. Since Thea's letter, which had come to every group at once, four pages long, explaining how she'd crossed the edge at the bonfire in Wrenhaven. They'd read it in the corner of the mess hall, all five of them, passing it round, and then sat in silence for a long time.
+It had been like that since the winter. Since Thea's letter, which had come to every group at once, four pages long, explaining how she'd crossed the edge at the bonfire in Wrenhaven. They'd read it in the corner of the mess hall, all five of them, passing it round, and then sat in silence.
 
 *You have to write. One small line. In its language, not yours.*
 
@@ -57,7 +63,9 @@ Since then, things had been happening.
 
 Maigo had knelt in the yard one morning with his bare wooden toes in the thawing mud and *asked* it, he said, the way Thea had asked the fire: just asked, politely, for one small thing. And a green shoot had come up out of the mud between his feet, a single blade of grass, bright and new, in the middle of a fort where nothing had grown in seven years. It had lasted an hour before the red ground choked it. But it had come up.
 
-Wendy had stopped aiming. That was how she put it. She'd stand at the line with her bow drawn and her silent headphones on, and she'd stop deciding where the arrow should go, and just *agree* with it. Let it go where it already wanted to. Her arrows had started doing things arrows shouldn't do: curving, very slightly, round the edge of a post to hit the target behind it. Rhea had seen it happen once and refused to talk about it for a day.
+He'd tried before the thaw, too, and that had been different. In the frost, nothing came at all, however nicely he asked. And once, in a pot by the barracks stove, a bean had split its skin in the night and come up white and twisted and dead by morning, as if he'd dragged it up rather than asked it. "Too early," he'd said, sadly, burying it in the yard. "It didn't want to yet." He'd written that under his column on the wall, and Chris would copy it into the big book in Valcrest a month later: *MAIGO: you can't ask a thing for what it doesn't want yet.*
+
+Wendy had stopped aiming. That was how she put it. She'd stand at the line with her bow drawn and her silent headphones on, and she'd stop deciding where the arrow should go, and just *agree* with it. Let it go where it already wanted to. Her arrows had started doing things arrows shouldn't do: curving, very slightly, round the edge of a post to hit the target behind it. Rhea had seen it happen once and refused to talk about it for a day. Wendy had counted, of course. A post set in front of the straw: forty arrows not-aimed, eleven round it. Then she'd tried *telling* one to curve, and it had gone straight into the post every time, nine of nine, and she'd written *DON'T TELL IT* under her column in letters so large Maigo complained.
 
 And Yan had started to feel the living.
 
@@ -131,7 +139,7 @@ He'd seen them once, in the autumn, the morning Aldous first walked them out: th
 
 At the head of the cairn, the long narrow hole where the sword had stood was full of rainwater.
 
-Salty stood there for a long time.
+Salty stood there until the wind changed.
 
 He wasn't good with feelings. Everyone knew that. He said things how they were and let other people worry about how they felt. Wendy said he had the emotional range of a brick, and she said it lovingly, mostly. But standing on the rise in the grey light, looking at the flowers and the hole full of water, he felt something he didn't have words for. Something big and quiet and heavy, like the anvil.
 
@@ -159,7 +167,7 @@ Wendy was waiting for him at the gate, under the horns, with her arms folded.
 
 "Yeah."
 
-She looked at him for a long moment. He braced himself. Then she unfolded her arms and stepped forward and put her forehead against his chest, which was as high as it reached, and stood there.
+She looked at him. He braced himself. Then she unfolded her arms and stepped forward and put her forehead against his chest, which was as high as it reached, and stood there.
 
 "Don't do that again," she said, into his coat.
 
@@ -193,7 +201,7 @@ That night, in the corner of the mess hall, they did their numbers.
 
 "Twenty-eight," said Wendy. "The arrow curved round the post twice today."
 
-"Twenty-nine," said Yan.
+"Twenty-nine," said Yan. "The cook's old ewe slipped on the ice on Tuesday." Suzu, round his neck, did not look sorry about it at all.
 
 "Twenty-seven," said Salty. "And the anvil."
 
@@ -205,7 +213,7 @@ Niko was last. As always.
 
 They all looked at him. Nine and nine. He'd been at four and four in the winter. He'd more than doubled both of them since the thaw.
 
-"Thea's letter," said Niko, before anyone could ask. He opened his window and looked at it with that small private smile he got sometimes, the one that meant he'd figured something out and wasn't going to tell anyone yet. "You have to write, she said. One line." He closed it. "I've been trying to write *two*. One in each language. At the same time." He shrugged. "It's slower. But it's working."
+"Thea's letter," said Niko, before anyone could ask. He opened his window and looked at it with that small private smile he got sometimes, the one that meant he'd figured something out and wasn't going to tell anyone yet. "You have to write, she said. One line." He closed it. "I've been trying to write *two*. One in each language. At the same time." He shrugged. "It's slower. But it's working. Every other Sunday, with Aldous on the bench, and I stop the second my nose goes."
 
 "Does it hurt?" said Yan quietly. "Like before?"
 
@@ -215,7 +223,7 @@ They all looked at him. Nine and nine. He'd been at four and four in the winter.
 
 "Tell me when they touch," said Niko. "I want to know the second it happens."
 
-Yan looked at him for a long time. Then he nodded, slowly, the way he did when he was making a promise.
+Yan looked at him. Then he nodded, slowly, the way he did when he was making a promise.
 
 "I'll tell you," he said.
 

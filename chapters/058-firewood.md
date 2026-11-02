@@ -125,9 +125,9 @@ The sword moved. Wendy saw it. The pommel end came up off the bed of the cart, a
 
 Salty didn't say anything. He climbed up onto the cart.
 
-He crouched down beside the sword. He looked at it for a long moment, the way he looked at a weight in the yard before he lifted it, measuring. Then he put one hand on the grip, high up, near the blade, and the other hand under the flat of the blade itself, halfway along.
+He crouched down beside the sword. He looked at it the way he looked at a weight in the yard before he lifted it, measuring. Then he put one hand on the grip, high up, near the blade, and the other hand under the flat of the blade itself, halfway along.
 
-Wendy felt it, from where she stood. She couldn't feel aura the way the swordsmen could, not properly. But she'd been standing next to Salty for a year, and she'd felt it come up in him in the mess hall the night he broke the table, *whump*, like oil on a fire. She felt it now. Not all at once, this time. Slowly. Rising. Up from the very bottom of him, steady and deep, like water filling a jar.
+Wendy felt it, from where she stood. She couldn't feel aura the way the swordsmen could, not properly. But she'd been standing next to Salty for a year, and she'd felt it come up in him in the mess hall the night he broke the table, *whump*, like oil on a fire. She felt it now. Not all at once, this time. Slowly. Rising. Up from the very bottom of him, steady and deep, like water filling a jar. He'd been practising that every other morning since the table: not pulling, getting under it, letting it come.
 
 He stood up.
 
@@ -139,7 +139,7 @@ And walked.
 
 Three steps. Four. Five. Across the courtyard, toward the chapel door, with the whole of Cinderhold watching in total silence, and the sword across his body, and his boots scraping on the stones.
 
-On the seventh step, he stopped, and knelt, very carefully, and laid it down on the cobbles. And stayed there, on one knee beside it, with his hands on his thighs, breathing like a bellows.
+On the seventh step he felt the bottom coming, the place where there was nothing left and the burning started, and he'd promised Rhea. So he stopped, and knelt, very carefully, and laid it down on the cobbles. And stayed there, on one knee beside it, with his hands on his thighs, breathing like a bellows.
 
 Nobody made a sound.
 

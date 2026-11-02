@@ -17,6 +17,8 @@ He didn't tell anyone about that. He'd told Aldous about the cold under the grav
 
 That was how Yan did things. It was how he'd always done things. You carried it on your own until you knew what it was.
 
+He'd tested it, though, once he knew it was there, the way the whole channel tested everything now. He'd kept a thread of the cook's goat one Tuesday morning, and felt it go up off the creature at noon, and felt the thread go taut and then snap in his fingers the instant Suzu took it; and felt the warmth come back down the cord into him; and the next morning his window had moved two. He'd kept a thread of Salty for a week to see how far it reached, and found he could feel Salty's furnace from the far side of the fort, and from the gate, and not at all from the grave. Distance mattered, with the living. It didn't seem to matter with the cold.
+
 ***
 
 He felt the cold one cross on a clear night in early summer, and it was nothing like the grave.
@@ -165,7 +167,7 @@ It was a good table. It was oak. It was older than any of them, and three inches
 
 For about three heartbeats, the mess hall was completely silent.
 
-Then Rhea sat up out of the wreckage, with oak shavings in her hair and porridge down one side of her face, and looked at Salty, who was sitting up too, staring at his own hand as if it belonged to someone else.
+Then Rhea sat up out of the wreckage, with oak shavings in her hair and porridge down one side of her face, and looked at Salty, who was sitting up too, staring at his own hand as if it belonged to someone else. His right arm had gone the deep red of a burn from the elbow down. But he'd let go the instant the table went, the way he'd promised Rhea after the anvil, and by morning it would only be stiff.
 
 "*That's not a win,*" said Rhea. "*That's vandalism.*"
 
@@ -173,7 +175,11 @@ The hall exploded.
 
 ***
 
-Salty opened his window sitting in the wreckage of the table, with half of Cinderhold trying to slap him on the back at once. He looked at it for a long time. Then he turned it round and showed it to Wendy, without a word, the way he did everything.
+Salty opened his window sitting in the wreckage of the table, with half of Cinderhold trying to slap him on the back at once.
+
+[ Salty · Tier 1: Drawn · Skills: Bear ]
+
+He looked at it. Then he turned it round and showed it to Wendy, without a word, the way he did everything.
 
 Wendy read it. Her face did something complicated.
 
@@ -192,6 +198,8 @@ Wendy read it. Her face did something complicated.
 Niko, beside Wendy, put his face in his hands and started laughing so hard he had to sit down on half of the table.
 
 "I *told* you," he said, muffled. "I *told* you. In the *spring*."
+
+Across the noise, still sitting in the splinters, Salty caught Yan's eye and held up his good hand, flat, an inch above the floor. *That much*, he mouthed. Then he took the hand away and left the inch there in the air between them, and Yan understood: *and it's staying up on its own*.
 
 Maigo was already at the wall by the door with a fresh lump of chalk, wiping out the tally. Under it, in big loopy letters, he wrote: *SALTY 32, RHEA 31, TABLE 0.* And under that, after a moment's thought: *FOURTH.*
 
@@ -229,7 +237,7 @@ Except that wasn't quite true, and hadn't been since the hall. Suzu knew. She'd 
 
 She'd put her head under his chin that night, on the barracks floor, and kept it there until morning. She hadn't asked him to choose. She never would. That was the worst of it, and the best.
 
-*Thirty-five*, said his window, when he looked. Up one, that week. Slow.
+*Thirty-five*, said his window, when he looked. Up one, that week. Slow. There'd been no goats; the cook was saving them for the anniversary.
 
 He closed it, and sat with Suzu on the wall, and felt for the thread, and held on.
 

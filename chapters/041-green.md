@@ -31,7 +31,7 @@ There were leaves on his antlers.
 
 Not the tiny dry ones he'd had all winter. *New* ones. Small and bright and absurdly green, uncurling from the tips of the branches like fingers opening.
 
-"Sap," said Wendy, when he showed them, at breakfast. She'd looked at the leaves for a long time, with her chin on her hand. "It's spring. You're a tree. Your sap's rising."
+"Sap," said Wendy, when he showed them, at breakfast. She'd looked at the leaves with her chin on her hand. "It's spring. You're a tree. Your sap's rising."
 
 "That's not—" Maigo started, and stopped. "Is that a thing?"
 
@@ -46,6 +46,8 @@ After that it went very fast.
 Forty-four. Fifty-one. Fifty-eight. Every few days he'd open his window and it would have jumped again, three, four, five percent, the way nobody else's ever did. Yan said it was spring. Aldous said it was spring. Rhea, who didn't really understand mage tiers and didn't pretend to, said it was cheating and that she was going to report him to somebody.
 
 He didn't feel like he was cheating. He felt like he was waking up.
+
+It made a kind of sense, when he sat down and thought about it, which he did, on the wall, with the page Chris had sent round at midwinter folded in his pocket. *TRYING doesn't move it. WANTING does.* It wasn't only him that had to want, Maigo thought. The things had to want, too. In the winter nothing around him had wanted anything. Now everything did. The ground wanted to wake, the seeds wanted to split, the sap in his own antlers wanted to run; and every time he asked for anything at all, he was asking downhill. "I'm not doing it," he told Yan. "Spring's doing it. I'm just standing in the way, nicely."
 
 He could feel the whole fort, now. Not just the grass in the cracks. The old ivy on the south wall that everyone thought was dead. The roots of the one stubborn rowan tree by the chapel door, going down and down and down, past the foundations, into the cold. The seeds in the cook's garden that hadn't come up yet, sleeping in the dark like held breaths. The mice in the granary. The swallows that had come back to the eaves. Cinderhold had been a heartbeat, in the autumn: one slow pulse, all of it at once. Now it was a hundred heartbeats, all different, all getting louder.
 
@@ -123,13 +125,15 @@ It was so small. A thread. A thin, stubborn, living warmth, far down in the red 
 
 He knelt.
 
-He didn't decide to. He just found himself on his knees in the cold red earth among the markers, with his hands flat on the ground. And he felt for the gap. The place Thea had written about. *One small line, in its language, not yours.* He'd been looking for it all spring, in the courtyard, in the cracks between the flagstones, and never found it.
+He didn't decide to. He just found himself on his knees in the cold red earth among the markers, with his hands flat on the ground. And he felt for the gap. The place Thea had written about. *One small line, in its language, not yours.* He'd been looking for it all spring, in the courtyard, in the cracks between the flagstones, and never found it. He'd tried words. *Grow*, a hundred times, and got nothing for it but an ache in his antlers like a headache in the wrong place. *Up*, which had worked once on a single blade of grass and choked it a day later, because it hadn't been ready to be up. Orders, all of them. He'd been telling.
 
 It was here. It had been here all along. Right under the hurt.
 
 He didn't have words. He didn't need them. He was a tree. He wrote into the gap the only thing a tree has ever really known how to say, all the way down from his hands into the dark.
 
 *Stay.*
+
+It wasn't an order. That was the difference, and he felt it as he wrote it. The root had been doing it already, alone, for seven years. He was only asking it to keep on.
 
 ***
 
@@ -145,11 +149,11 @@ A small one. A sapling, no taller than his knee. A thin pale stem, and a few sma
 
 Maigo looked up at them. His sunglasses were pushed up on his antlers. His glowing eyes were very bright.
 
-"Hi," he said. "I've been sitting here for ages. I didn't want to leave it."
+"Hi," he said. "I've been sitting here for ages. I didn't want to leave it." His hands, flat on his knees, were grey with cold and shaking, and when Yan took them they were like river stones. Whatever he'd sent down that root, it hadn't only been a word.
 
 Nobody said anything. For once, Maigo didn't fill the silence. He just sat there, and let them look.
 
-Aldous came forward, very slowly, between the markers. He stood over the little tree for a long time. Then he got down on his knees in the red earth, in his old coat, and reached out one hand, and touched one of the leaves with the tip of his finger, as if he thought it might not be real.
+Aldous came forward, very slowly, between the markers. He stood over the little tree without a word. Then he got down on his knees in the red earth, in his old coat, and reached out one hand, and touched one of the leaves with the tip of his finger, as if he thought it might not be real.
 
 It was real. It moved under his finger, the way a leaf does.
 
@@ -169,7 +173,7 @@ Maigo opened his window, sitting there in the red with the tree in front of him 
 
 [ Maigo · Tier 1: Spark · Skills: Root ]
 
-He looked at it for a long time.
+He looked at it.
 
 "Spark," said Yan, reading it over his shoulder. His deep slow voice had gone slightly unsteady. "You did it."
 
