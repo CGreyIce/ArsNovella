@@ -45,7 +45,7 @@ Nobody had quite forgiven them.
 
 That was the truth, and everyone in Cinderhold knew it, and nobody said it, which was how things worked in a fort on a border: you lived with people for months in a space the size of a field, and you didn't say the thing, because you'd still have to eat breakfast with them tomorrow.
 
-The night on the knoll. Twenty-six days ago. Yan had been against the cairn with Suzu in his lap, torn, going grey as ash himself from what he'd given her; he hadn't seen most of it. But he'd felt it. Everyone's light, all night, in a ring on the green round the black stone: the forty, and Group 3, and Rhea's going white with pain when her arm went, and Garth's going small and thin when the hunter's arm took him in the ribs, and Salty's, bearing, all night, steady as a forge. And outside the ring, on the north edge of the green, three lights of old slow silver, burning, watching.
+The night on the knoll. Twenty-six days ago. Yan had been against the cairn with Suzu in his lap, torn, going grey as ash himself from what he'd given her; he hadn't seen most of it. But he'd felt it. Everyone's light, all night, in a ring on the green round the black stone: the forty, and Group 3, and Rhea's going white with pain when her arm went, and Garth's going small and thin when the hunter's arm took him in the ribs, and Salty's, bearing, all night, a furnace with the doors shut, steady. And outside the ring, on the north edge of the green, three lights of old slow silver, burning, watching.
 
 They'd watched it all. They hadn't moved. Oen had moved once, when the second one went past them close enough to touch, on its way to Wendy; Yan had felt his light jump toward it like a dog to a door. And Tavrin's hand had come down on his arm. And he'd stopped.
 
@@ -311,7 +311,7 @@ Wendy stopped counting. She put her hand on the back of his neck.
 
 Yan sat at the end of the row with Suzu on his collarbone.
 
-He looked at all of them, because he couldn't help it. The colours. Maigo's, the colour of the knoll. Wendy's, the green, with the counting going through it like a pulse. Niko's, two candles that weren't two any more, that had gone into one on a knoll at dawn and rung. Salty's, steady as a forge, with a weight in it. Rhea's, down in the arch, with her one good hand still on the bar of the shut gate, gone up.
+He looked at all of them, because he couldn't help it. The colours. Maigo's, the colour of the knoll. Wendy's, the green, with the counting going through it like a pulse. Niko's, two candles that weren't two any more, that had gone into one on a knoll at dawn and rung. Salty's, a furnace banked for the night, with a weight in it. Rhea's, down in the arch, with her one good hand still on the bar of the shut gate, gone up.
 
 And his own.
 

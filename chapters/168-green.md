@@ -171,7 +171,7 @@ The same green. Exactly. A point of it, in the middle of all that quiet, leaning
 
 Down the slope. Along the trunk. His friends.
 
-Salty: a forge. He'd always been a forge. And the forge was green, deep green, the green of the inside of a wood, and leaning toward the woman with her head on his shoulder. Wendy: a candle behind glass. Green behind the glass, a cool clear green like the sea in a bay, leaning back. Two greens under one blanket, so close they were nearly one.
+Salty: a furnace, the way he'd been since the night in the hall when it came up all at once. Bigger than it had been even then. And the furnace was green, deep green, the green of the inside of a wood, and leaning toward the woman with her head on his shoulder. Wendy: a candle behind glass. Green behind the glass, a cool clear green like the sea in a bay, leaning back. Two greens under one blanket, so close they were nearly one.
 
 Maigo: a tree in the sun. Green, of course, Maigo was always going to be green, and gold at the edges, the way his leaves were going gold. Rhea: green and hot and bright as a bonfire, leaning toward everything at once. Niko: two candles. Two greens. Side by side, going round each other, slowly, the way they'd gone round since a frying pan in a forge, so close Yan couldn't see the space between them.
 
@@ -203,7 +203,7 @@ He saw her now.
 
 She was green.
 
-The same green. Exactly. The green of the girl at the top of the knoll, and the spark in the man, and Salty's forge, and every person on that trunk he loved. The green of loving. Coiled round his neck in the moonlight, close, warm, every inch of her, the whole white length of her burning that colour from the inside like a lamp behind white silk.
+The same green. Exactly. The green of the girl at the top of the knoll, and the spark in the man, and Salty's furnace, and every person on that trunk he loved. The green of loving. Coiled round his neck in the moonlight, close, warm, every inch of her, the whole white length of her burning that colour from the inside like a lamp behind white silk.
 
 Leaning toward him.
 

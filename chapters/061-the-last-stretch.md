@@ -93,7 +93,7 @@ He knelt beside the sword. Wendy passed him up the folded blanket, and he laid i
 
 He let it come up.
 
-He felt it fill his legs, and his back, and his arms. The forge. That was what Yan called it. *You're like a forge.* He felt it come up and hold and get hotter, and when it was as hot as it was going to get, he stood.
+He felt it fill his legs, and his back, and his arms. The forge. That was what Yan had called it, in the spring, before the arm-wrestle: *you're like a forge*. A furnace now, Yan said; it had been a furnace since the night it came up all at once in the hall. Salty still called it the forge. He felt it come up and hold and get hotter, and when it was as hot as it was going to get, he stood.
 
 The sword came up with him.
 
@@ -147,7 +147,7 @@ Salty didn't know what Maigo felt, exactly. None of them did. Maigo said it was 
 
 Yan had his eyes closed.
 
-He stood there on the red, very tall, very still, with Suzu wound tight round his neck and his long pale hair moving in the wind, and his face had gone the way it went when he was feeling for the candles. Living things, he'd told them, in the spring. Little warm presences you could feel without looking at them. Salty was a forge. Niko was two candles that kept almost touching. And the things that came across the red at night, the tall thin bent ones, were candles too. Cold ones.
+He stood there on the red, very tall, very still, with Suzu wound tight round his neck and his long pale hair moving in the wind, and his face had gone the way it went when he was feeling for the candles. Living things, he'd told them, in the spring. Little warm presences you could feel without looking at them. Salty had been a stove when they arrived and a forge by the spring, and since the arm-wrestle he was a furnace, the biggest light of the five of them. Niko was two candles that kept almost touching. And the things that came across the red at night, the tall thin bent ones, were candles too. Cold ones.
 
 "They're in the gullies," said Yan. His deep slow voice was very calm. "Both sides. They've been keeping pace with us since the markers." He opened his eyes. "A lot of them, Father. More than came to the wall. More than I've ever felt." He paused. "And three that are different. Bigger. Heavier. Like the cold one. Not as cold."
 
