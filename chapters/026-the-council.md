@@ -39,7 +39,7 @@ The Lord Chancellor, at the far end of the dais, turned his head toward them.
 
 Hanarisu felt the others turn to look at her.
 
-She'd known they would. They'd talked about it the night before, round the fire in the prince's sitting room, and Milli had said *you're the one who talks*, and Jared had said *you're the one who watches*, and Aleaka had said, very quietly, *you're the one who drew the line*. Cursiffe hadn't said anything. He'd just looked at her and nodded.
+She'd known they would. They'd talked about it the night before, round the fire in the prince's sitting room, and Milli had said *you're the one who talks*, and Jared had said *you're the one who watches*, and Aleaka had said, very quietly, *you're the one who knows what it costs*. Cursiffe hadn't said anything. He'd just looked at her and nodded.
 
 She stepped forward.
 
@@ -51,7 +51,11 @@ She'd known it would. It came up the moment she lifted her eyes to the twelve fa
 
 She felt it press against the inside of her chest.
 
-She thought of the Keeper's puzzled face. She thought of Kestra's little book, held out to her in a dark corridor. *She drew her own line tonight.*
+She did the sums, fast, the way she'd done them every week since the archive. One person at a time: that was all she'd ever held. About an hour each. Less the second time. And afterwards, always, the puzzled look, the faint unease, the feeling of something put down and lost. Twelve lords was twelve of those, all at once, all of them coming out of it before supper in the same building, with Vane among them to tell them what it had been. A vote she charmed would last exactly until it wore off. And then it would be proof. *You see, my lords? This is what they can do. This is why they need keeping.*
+
+She thought of Kestra's little book, held out to her in a dark corridor. *She knows exactly what it's worth.*
+
+Not this. It wasn't worth this.
 
 She let it go back down.
 
@@ -91,7 +95,7 @@ Milli's tail curled, very slightly, around her ankle.
 
 ***
 
-The silence went on for a long time.
+The silence went on.
 
 Then a door at the back of the dais opened, the one behind the empty thirteenth chair, and the air in the room got heavier.
 
@@ -137,19 +141,19 @@ She hadn't heard him move. He was very tall, and very broad, and very old, and v
 
 *Only the strong may speak to the king.* She was at fifteen percent. She opened her mouth and closed it again.
 
-"You may listen," said Severin. "You don't need to be strong for that." He looked down at her for a long moment. "Kestra writes to me about you."
+"You may listen," said Severin. "You don't need to be strong for that." He looked down at her. "Kestra writes to me about you."
 
 "I know, Majesty."
 
-"She wrote that you could have turned the Keeper. And Vane, at his banquet. And that you didn't." His eyes were very grey and very steady. "And today, in front of twelve men who were deciding where you'd sleep for the next ten years, you could have turned every one of them. I watched you not do it."
+"She wrote that you turned the Keeper. And a clerk in my own kitchens, for honey, and the Keeper again, to see if it would hold. And that you didn't turn Vane, at his banquet, though you could have." His eyes were very grey and very steady. "And today, in front of twelve men who were deciding where you'd sleep for the next ten years, you could have tried every one of them. I watched you not do it."
 
 Hanarisu didn't say anything. She didn't trust her voice.
 
-"Most people," said the king, "when they find a power like that, spend the rest of their lives using it and calling it something else. Persuasion. Charm. Diplomacy." He was quiet for a moment. "I've known a great many of them. Some of them sat in those chairs."
+"Most people," said the king, "when they find a power like that, spend it on everything, and call it something else. Persuasion. Charm. Diplomacy. Until the day it costs them everything." He was quiet for a moment. "Or they're so frightened of it they never spend it at all, and it rots in them. I've known a great many of both. Some of them sat in those chairs." He looked at her. "You spent it on an archive and a pot of honey, and not on my Council. That's the right way round."
 
 He turned to go. Then he stopped, and looked back at her over his shoulder.
 
-"You drew a line," he said. "Keep drawing it."
+"You count the cost," he said. "Keep counting."
 
 And he went out through the door behind the thirteenth chair, and the weight went with him, and five people on a bare stone floor remembered how to breathe.
 

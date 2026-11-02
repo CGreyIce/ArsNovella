@@ -161,7 +161,7 @@ Tiger looked at the cord with seven halves on it.
 
 Hana's hands stopped for a moment.
 
-"I was always the middle," she said. Quietly. "On Earth. Everyone came through me. Ice met Jared through me, and Milli, and Aleaka. And Cursiffe through Jared, through me." She threaded the last half on. "I was the one people talked through. I liked it." She tied the cord off and held it up, seven half-beads with seven strips of blue ink, swinging. "Here I've been the one who doesn't use it. The dangerous half. The charm. Two years of pushing it down." She looked at the seven halves. "This is the other half. The safe one. Making things that let other people talk."
+"I was always the middle," she said. Quietly. "On Earth. Everyone came through me. Ice met Jared through me, and Milli, and Aleaka. And Cursiffe through Jared, through me." She threaded the last half on. "I was the one people talked through. I liked it." She tied the cord off and held it up, seven half-beads with seven strips of blue ink, swinging. "Here I've been the one with the dangerous half. The charm. Two years of counting every time I spend it, and spending it on clerks." She looked at the seven halves. "This is the other half. The safe one. Making things that let other people talk."
 
 She put the cord round her wrist. Beside the purple cord with half a gold heart on it, that had been warm since a riverbank.
 

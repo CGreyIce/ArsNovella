@@ -71,7 +71,7 @@ He said it that evening, when the others had gone down to supper and it was only
 
 She thought about it. Honestly. Milli always made her think about things honestly; that was what he was for.
 
-"Because it isn't mine," she said at last. "Where he is. It isn't mine, and it isn't the Advisor's either, really. It's *his*." She turned her hands over. "If I charm it out of him, I've taken it. From both of them. And then I've got it, and I didn't ask, and nobody let me." She looked up at Milli. "I said it at Vane's banquet. *I won't use it on anyone who can't tell it's happening.* I meant it then. I'm not going to stop meaning it the first time it's hard."
+"Because it isn't mine," she said at last. "Where he is. It isn't mine, and it isn't the Advisor's either, really. It's *his*." She turned her hands over. "I've charmed half the clerks in this castle for a quicker answer, and I've never lost a night's sleep over one of them. This isn't a quicker answer. If I charm it out of him, I've taken it. From both of them. And then I've got it, and I didn't ask, and nobody let me." She looked up at Milli. "And if it's who we think it is, Honey, I want to have *asked*. I want that to be how I found out. Not with a pot of honey."
 
 Milli looked at her for a long time.
 
@@ -133,7 +133,7 @@ The Advisor was watching her face. She saw him see it. Something moved in his ti
 
 "I'm going to ask you plainly," said Hana. "With no charm. I want you to know that."
 
-"I know," said the Advisor. "I watched you not do it." He paused. "Kestra wrote down the first time, at Vane's banquet. *She drew her own line tonight.* The king read it. So did I." He looked at her. "Ask."
+"I know," said the Advisor. "I watched you not do it." He paused. "Kestra wrote down what you said after Vane's banquet. *She knows exactly what it's worth.* The king read it. So did I." He looked at her. "Ask."
 
 Hana breathed out.
 

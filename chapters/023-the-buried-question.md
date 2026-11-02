@@ -23,6 +23,8 @@ Now, in the fifth month, Aleaka came to the mews every morning before training, 
 
 She'd always been able to tell how people were feeling. It was the thing everyone said about her, on Earth, in calls: *Leaka always knows.* She'd know someone was sad before they'd said anything, from the gap before they spoke, or the way they laughed. Here, it had spread. It had gone past people, into the cats and the horses and the hawks and the hounds. She'd stopped being surprised by it.
 
+She hadn't stopped testing it, though. Chris's page had reached Solmere in the autumn, square capitals and all, and Aleaka had taken it more seriously than anyone. Every morning after she'd fed Brisk, she walked away from the mews a little further and noted where the knot of feeling went quiet. Across the mews: loud. The far end of the yard: clear. The stable block: faint, like a voice through a wall. The kitchen yard on the other side of the keep: nothing. Unless Brisk was angry, and then Aleaka could feel her from the far side of the castle, sharp and sudden, like a stubbed toe. *Distance matters,* she'd written in the column she sent to Valcrest. *Feeling matters more. Big feelings carry.*
+
 It was why she knew something was wrong with Hanarisu.
 
 ***

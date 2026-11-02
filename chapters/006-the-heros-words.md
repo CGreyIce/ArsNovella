@@ -13,7 +13,7 @@ Kestra stepped aside. She didn't even raise her own blade. Milli's momentum carr
 
 "Again," said Kestra.
 
-It was the third week. Jared had heard her say perhaps forty words to him in total, and at least thirty of them had been *again*, all of them to Milli. To Jared she'd said something different on the very first morning. She'd watched him take up a stance in the yard, feet planted, weight low, eyes on the space in front of him rather than on her, and she'd looked at him for a long moment and said, "Who taught you to stand there?"
+It was the third week. Jared had heard her say perhaps forty words to him in total, and at least thirty of them had been *again*, all of them to Milli. To Jared she'd said something different on the very first morning. She'd watched him take up a stance in the yard, feet planted, weight low, eyes on the space in front of him rather than on her, and she'd looked at him, and kept looking, and said, "Who taught you to stand there?"
 
 "Nobody," Jared had said. "It's just where I'd stand."
 
@@ -87,7 +87,7 @@ At the end of the corridor Kestra was leaning against the wall with her arms fol
 
 Hanarisu kept walking. She kept her face pleasant. She was very good at that.
 
-That night she lay awake next to Milli for a long time, with her tail curled around her own ankle and her hand pressed flat under her ribs, where the warmth had come from.
+That night she lay awake next to Milli until the castle bell rang one, with her tail curled around her own ankle and her hand pressed flat under her ribs, where the warmth had come from.
 
 "What's wrong?" Milli murmured, half asleep.
 
@@ -100,6 +100,28 @@ That night she lay awake next to Milli for a long time, with her tail curled aro
 Milli was quiet for so long she thought he'd gone back to sleep. Then his hand found hers in the dark.
 
 "Then we'll find out," he said. "And then you'll decide whether to do it again."
+
+***
+
+She decided in the morning.
+
+It was a tool. She'd always used her smile as one: in chat, in queues, at family dinners, on bank clerks and landlords and difficult producers. This was the same tool with an edge on it. You didn't leave a good knife in a drawer because it could cut you. You learned where the edge was.
+
+So she tested it, carefully, the way she'd plan a stream: what to try, in what order, and what to do if it went wrong.
+
+The kitchen clerk first, who doled out honey as if it were his own blood. She wanted a pot of it for Milli's porridge, which was exactly the right size of want: real, and small, and nobody hurt. She smiled, and let the warmth come up, and he gave her two pots and a comb, and then looked down at his own hands as if they'd done something without asking him.
+
+The guard on the west stair, for nothing at all, just to see. Nothing came up. The warmth didn't stir. She tried three times, smiling at a bored man for no reason until he asked her if she was lost. It only came, she wrote that night, when she *wanted* something from someone. Not when she was checking.
+
+The Keeper again, two days after the first time, for another afternoon on the restricted shelves. It came up. It went out. And it worked, but less: he gave her a quarter of an hour instead of the afternoon, and said "You again," in a voice with a little edge of wariness in it that hadn't been there before, and watched her the whole time she read.
+
+And every time, afterwards, an ache behind her eyes for an hour, like the end of a twelve-hour stream.
+
+She wrote it all down, in her small methodical hand, in the back of the notebook she kept for her letters.
+
+*Works when I want something. Not when I don't. About an hour. Less the second time on the same person, and they remember feeling odd. Costs me a headache. Kestra writes it down every time.*
+
+She didn't stop because of the last line. She just kept it in mind.
 
 ***
 

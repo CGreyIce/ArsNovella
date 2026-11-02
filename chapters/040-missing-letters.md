@@ -119,7 +119,7 @@ The question was which.
 
 Hanarisu could have found out in an afternoon. Jared knew it, and she knew it, and he could see her knowing it. Walk into the Couriers' Hall with her pleasant face and her purple tail and her soft, smooth, reasonable voice, and stand in front of each clerk in turn, and let the thing in her chest come up, just a little, and ask. Any one of them would have told her anything. They'd have *wanted* to tell her. That was what it did.
 
-She didn't offer. Nobody asked her to. Jared had been there the night at the Council when she'd let it rise and pushed it back down again, and he'd been there in the corridor after the banquet when she'd told Kestra where her line was. *I won't use it on anyone who can't tell it's happening.* He'd never once seen her step over it. He didn't think he ever would.
+She didn't. Not because of any line; Hana spent it on clerks most weeks, for a quicker answer or a better seat, and nobody in Group 2 thought twice about it any more. But a dozen clerks in one hall, all of them going puzzled and quiet an hour after she'd smiled at them, all of them looking at each other across their sorting tables and wondering why they'd talked? Whoever was opening the letters worked in that hall. They'd know by supper that somebody was asking. Jared had watched her do the sums in her head, standing in the Couriers' Hall door with her tail very still, and come to the same answer he had. *Not worth it. Not here.*
 
 So Cursiffe set a trap instead.
 

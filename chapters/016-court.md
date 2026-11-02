@@ -33,7 +33,7 @@ It was the third month. The capital had stopped staring at them, mostly. The fiv
 
 "Nine," said Jared.
 
-"Twelve," said Aleaka, "and a hawk landed on my arm in the mews this morning. A real one. I didn't have a glove. It didn't grip. It just... sat there. And looked at me." Her fox ears twitched. "The falconer said it's never done that for anyone. Not even him."
+"Twelve," said Aleaka, "and a hawk landed on my arm in the mews this morning. A real one. I didn't have a glove. It didn't grip. It just... sat there. And looked at me." Her fox ears twitched. "The falconer said it's never done that for anyone. Not even him. And I've been testing the cats, like Chris's page said. One room away, they come. Two rooms, they come slower. A floor down, nothing at all."
 
 "Thirteen," said Cursiffe. "And I've been testing something." He held up a sheet of paper covered in his narrow English handwriting. "I gave a page like this to three of the castle scribes. Asked them to copy it. Just copy the shapes. They can copy anything, it's their job." He set it down. "None of them could. They'd start, and lose their place. Every time. It's like their eyes slide off it."
 
@@ -63,6 +63,8 @@ Lord Vane himself was tall and silver-haired and handsome in a careful sort of w
 
 He laughed, as if she'd made a joke. She hadn't.
 
+Hanarisu had known the seating before she sat down. On the way in she'd smiled at Vane's steward, and let a little of the warmth go with it, and wanted, quite specifically, to know who'd asked to sit beside whom. He'd told her in a murmur, beaming, and then frowned at the door behind her as if he'd lost something. Vane had asked for her. A cousin of Vane's had asked for Milli. Nobody had asked for Aleaka, so they'd put her with a deaf old marquess, which suited Hanarisu fine.
+
 The dinner was very long. They were seated apart, one to each table, each next to a lord or lady who spent the meal being fascinated by them. Hanarisu's was Vane himself. He asked about her world, and her training, and her friends. He asked very kindly about whether she felt the guides and guards were *adequate*, and whether a woman of her obvious talents might not be better served with a house behind her, with resources, with *friends at court*. He mentioned, lightly, that the Advisor was getting old, and that the king listened to the Council more than people thought.
 
 And as he talked, Hanarisu felt it.
@@ -73,9 +75,11 @@ It would be so easy.
 
 She sat very still, with her hands in her lap and the warmth pressing at her ribs, and looked at Lord Vane's handsome, careful face.
 
-He had no idea. That was the thing. He was a dangerous man, and a greedy one, and she was quite sure he would cheerfully have had all five of them parcelled out to the great houses like prize horses. But he had no idea what was sitting across the table from him, and no way of knowing if she used it, and no way of saying no.
+She did the sums instead.
 
-She thought about the Keeper's face in the archive. The puzzled look. *As if he couldn't remember why he'd agreed.*
+An hour. That was what it bought. Then he'd come out of it at his own table, among his own people, with the same faint puzzled feeling the Keeper had now every time she walked past, the feeling of having put something down and not being able to remember where. He wouldn't know what had happened. But he was a careful man, and he'd know that something had; and by the next Council he'd be on his feet in front of eleven lords, telling them in that warm, grave voice exactly what the summoned could do to a man across a dinner table. Every word he'd said tonight about how *dangerous* and how *precious* they were would come true, with her name on it.
+
+It wasn't worth it. Not tonight. Not on him.
 
 She let the warmth go back down.
 
@@ -111,9 +115,11 @@ She'd stood at the back wall of the banquet hall all evening, in her king's colo
 
 "You could have had him," she said at last.
 
-Hanarisu kept walking. "I don't know what you mean."
+Hanarisu kept walking. "For about an hour."
 
-"Yes, you do." Kestra's voice was flat, the way it always was. "I was watching you. Halfway through the second course, you nearly did it. The same thing you did to the Keeper. I saw your face." She glanced sideways. "And then you didn't."
+Kestra glanced at her.
+
+"And then he'd have had me." Hanarisu didn't slow down. "The Keeper looks at me like he's lost his keys, now. The kitchen clerk won't meet my eye. They don't know what happened, but they know something did. Vane isn't a clerk. He'd have known by morning that something had happened at his own table, and by the next Council he'd be telling eleven lords that the summoned can make a man say yes against his will, and that's why we need *keeping*." She shrugged. "I'd have made his speech for him."
 
 They walked a few more steps.
 
@@ -121,17 +127,17 @@ They walked a few more steps.
 
 Hanarisu stopped.
 
-"About the Keeper," Kestra went on. "I wrote it down. That's my job. I write down what I see and I send it to him, and he reads every word." She turned to face Hanarisu in the corridor. "He sent it to the Advisor with a note. It said *watch her*."
+"About the Keeper," Kestra went on. "Both times. And the kitchen clerk, and the honey, and the guard on the west stair you smiled at three times for nothing. I wrote it all down. That's my job. I write down what I see and I send it to him, and he reads every word." She turned to face Hanarisu in the corridor. "He sent it to the Advisor with a note. It said *watch her*."
 
-"I didn't *mean* to," said Hanarisu, very quietly. "With the Keeper. I didn't know I could, until I had."
+"I know you write it down," said Hanarisu, very quietly. "I write it down too."
 
-"I know. That's what worries them." Kestra studied her for a long moment. "A charm that works at the bottom of the ladder will be a dangerous thing at the top. That's what I wrote. I meant it."
+"I know. That's what worries them." Kestra studied her. "A charm that works at the bottom of the ladder will be a dangerous thing at the top. That's what I wrote. I meant it."
 
 "Then write this down too," said Hanarisu.
 
 Kestra raised an eyebrow.
 
-"I won't use it on anyone who can't tell it's happening." Hanarisu made herself say it plainly, so there would be no mistaking it. "Not to win an argument. Not to get into an archive. Not on a man like Vane, even when he deserves it. If I ever use it, they'll know. Or I won't use it at all."
+"I'll use it when it's worth what it costs." Hanarisu made herself say it plainly, so there would be no mistaking it. "On a clerk, for a pot of honey. On an archive door, for an afternoon. Not on a man like Vane, not tonight, because tonight it would cost more than it bought. I'm not going to pretend I haven't got it. I'm going to count."
 
 The corridor was very quiet.
 
@@ -139,7 +145,7 @@ Then Kestra took out her little book, and her pencil, and wrote something down i
 
 There was one line on the page, in Kestra's blunt square hand.
 
-*She drew her own line tonight.*
+*She knows exactly what it's worth.*
 
 "I'll send that to the king," said Kestra. She closed the book. "He'll want to know."
 
@@ -203,7 +209,7 @@ Jared started to argue. She saw him start. Then she saw him stop, and remember t
 
 "She's only just got her feet under her," said Hanarisu softly. "Here. In all of this. I won't hand her a hope I can't keep."
 
-Jared looked at the fire for a long time.
+Jared looked at the fire.
 
 "Okay," he said finally. "Okay. But if we find out—"
 
@@ -215,7 +221,7 @@ Cursiffe picked up the little brown book, and held it for a moment, and then put
 
 ***
 
-She lay awake for a long time that night, with Milli asleep beside her and his tail across her ankle.
+She lay awake that night until the bell rang two, with Milli asleep beside her and his tail across her ankle.
 
 *Someone from Earth was here first.*
 

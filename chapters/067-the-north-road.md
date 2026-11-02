@@ -19,7 +19,7 @@ In a year with the summoned, she'd filled most of a twelfth.
 
 *The fox girl's hawk will sit on no one else. She did not ask it to.*
 
-*The cat girl let it rise tonight, and put it down again, in front of a room full of people who would never have known. She drew her own line.*
+*The cat girl let it rise tonight, and put it down again, because it would have cost more than it bought. She counts before she spends. She knows exactly what it is worth.*
 
 She'd never written a single word about the Hero of the Redmarch.
 

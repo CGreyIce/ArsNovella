@@ -175,7 +175,7 @@ She looked at the bead in her palm. Pink, on a bit of linen thread. Nothing. Som
 
 She got up, and walked down the length of Oswin's table, past Oswin and past Edwy, and stood in front of the Warden of the Hall of Summoners, and held it out.
 
-"It isn't a charm on you," said Hana. "I want you to know that first. I don't do that. I've never done it to anyone, not once, and I'm not going to start with you." She kept her hand out, open, with the thread lying across her palm. "It's a thing. It's got what I feel in it. About this. About them." She nodded at the leaves. "You can hold it, if you want, and feel it. It'll be mine, not yours. You'll know it's mine. And you can put it down whenever you want, and it'll stop."
+"It isn't a charm on you," said Hana. "I want you to know that first. I've charmed clerks and stewards and a man with the keys to an archive, and I'd do it again tomorrow. But a charm wears off in an hour, and then you'd know, and you'd never believe another word I said about them. And I need you to believe me about them." She kept her hand out, open, with the thread lying across her palm. "It's a thing. It's got what I feel in it. About this. About them." She nodded at the leaves. "You can hold it, if you want, and feel it. It'll be mine, not yours. You'll know it's mine. And you can put it down whenever you want, and it'll stop."
 
 The Warden looked at the bead.
 
