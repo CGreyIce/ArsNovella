@@ -185,7 +185,27 @@ She looked for the conductor.
 
 He was sitting between his daughter and Gabe, eating pie. His beat was mostly rests. And every one of the thirty beats in the room was landing, now, exactly on the note he played between them.
 
-Newish put her hands over her mouth on the stairs and sat there and listened to it for a long time.
+Newish put her hands over her mouth on the stairs.
+
+*A room where everything wants to go the same speed*, she'd said to Chris in the winter, with a bloody napkin, as a joke.
+
+Here it was.
+
+She found the edge without looking. It was right there, at the bottom of thirty beats all landing in the same place. And she didn't write it into a cup this time, or into anything that was going against anything else. She wrote it into the whole room, the way you'd say it to a team that had just stopped panicking and was finally, finally playing together.
+
+*Easy.*
+
+Nothing happened that anyone else could see. Thirty people went on eating pie. But Newish heard it: every beat in the room settle, all at once, half a step slower, steady and unhurried and *together*, like a band that's found the pocket. And at that exact moment Bram knocked his spoon off the edge of the table with an elbow, and it came down through the air as slowly as a leaf, and Bram caught it without looking and never noticed he had.
+
+No blood. Nothing pushed back. There was nothing to push against.
+
+She opened her window on the stairs, with her hands shaking.
+
+[ Newish · Tier 1: Spark · Skills: Tempo ]
+
+The eighteenth.
+
+She closed it again before anyone saw. She'd tell them in the morning, all of them, and Lucan last, so he could cry properly. Tonight she sat on the third step with her arms round her knees and listened to a whole room keep time with a man who mostly didn't play.
 
 ***
 
@@ -438,3 +458,5 @@ She listened to it with everything she had. Note after note after note, no rests
 She'd tell Chris later to log it.
 
 Chris already had.
+
+In the morning she told them about the stairs, and the spoon, and showed them the window. *Spark. Tempo. Eighteenth.* Lucan cried properly. Ina reached across Hako, the way Hako always reached across everyone, and held out his fist, and she bumped it. And Chris turned back a page in his notebook, to the night before, and showed her what he'd written at the bottom of it, a little after the second pie, without knowing why: *Newish's face. Something happened.*

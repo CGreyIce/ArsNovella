@@ -255,7 +255,7 @@ He opened his window when he could let go of the mast with one hand.
 
 [ Calvin · Tier 1: Spark · Skills: Tailwind ]
 
-The eighteenth.
+The sixteenth.
 
 *Tailwind.* He laughed so hard he nearly fell off.
 
@@ -303,11 +303,11 @@ Calvin smiled at the dark.
 
 ***
 
-He posted it in the channel that night, from the deck of the *Patient Widow*, tied up at Ferrow's Bend under the stars. *Spark. Tailwind. Eighteenth. I asked the wind to carry us instead of asking it to turn, and it did, all afternoon.*
+He posted it in the channel that night, from the deck of the *Patient Widow*, tied up at Ferrow's Bend under the stars. *Spark. Tailwind. Sixteenth. I asked the wind to carry us instead of asking it to turn, and it did, all afternoon.*
 
 He didn't say where. He didn't say *boat*. He didn't say *north*. None of them did.
 
-The channel went the way it always went. Maigo in capitals, *EIGHTEENTH*. Rachael, from three feet away, who wrote *he couldn't feel his legs* because she couldn't resist. Tiger: *TAILWIND IS SUCH A GOOD NAME*. Yan, from Cinderhold: *I felt your candle go up.*
+The channel went the way it always went. Maigo in capitals, *SIXTEENTH*. Rachael, from three feet away, who wrote *he couldn't feel his legs* because she couldn't resist. Tiger: *TAILWIND IS SUCH A GOOD NAME*. Yan, from Cinderhold: *I felt your candle go up.*
 
 Then Xav, from Duskhollow, upriver, alone, one line:
 

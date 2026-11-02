@@ -101,27 +101,23 @@ Not much. A thread of it. She felt it go, the way you feel warmth go out of your
 
 She didn't decide to. She found the edge the way you find a step in the dark with your foot, and there it was, at the bottom of the thread, where Thea had always said it would be.
 
-She wrote one word. It was what the cord wanted. It was what she wanted, too, about most things.
+She wrote one word into the cut. The obvious one.
 
-*Remember.*
+*Keep.*
 
 ***
 
 The halves warmed.
 
-Both of them. In her two hands. Not hot. Warm, the way a hand is warm when someone's been holding it. And she felt them *know* each other. That was the only word for it. Two halves of a cord, a hand's width apart in her lap, knowing each other, the way two people who've been married a year know where the other one is in a dark house.
+Both of them. In her two hands. Not hot. Warm, the way a hand is warm when someone's been holding it. And for one breath she felt them *know* each other, two halves of a cord a hand's width apart in her lap, the way two people who've been married a year know where the other one is in a dark house.
+
+Then it went. Like a breath on a window. Cold cord, in a cold room, and an ache behind her eyes the size of a thumbprint.
 
 She opened her window. Her hands were shaking.
 
-[ Hanarisu · Tier 1: Spark · Skills: Keepsake ]
+*Progress to Spark: 97%.*
 
-The fifteenth. Of thirty-five.
-
-The first of Group 2.
-
-She sat on the end of the bed and looked at it for a long time, with the two halves of the cord warm in her hands. *Keepsake.* Not *Charm*. Not anything that went into people. The world had looked at her, sitting on a bed with two halves of a cut cord, and given her the half of her magic she wasn't afraid of.
-
-She started crying. She didn't mind. Nobody was there.
+She sat on the end of the bed and looked at the two halves for a long time, and then she tried again. *Stay*, which was Maigo's, and which had worked for a tree. One breath. *Hold.* One breath, and the headache doubled. She stopped, because she could hear Kestra's voice in her head saying *that's enough*, though Kestra was two floors down and asleep. She wrote it all in the back of the notebook she kept for her letters, in her small methodical hand, the way she'd written up the charm: *Warm for one breath. Then nothing. Keep, Stay, Hold. Costs a headache. Something's wrong with the word.*
 
 ***
 
@@ -155,25 +151,23 @@ It warmed. In her hand. All at once, the way a cup warms when somebody pours tea
 
 "It's warm," said Milli. "Honey. It's *warm*."
 
-"I know," said Hana. And laughed, and cried, and went down the passage to him.
+And then, a breath later, in a different voice: "It's gone."
+
+"I know," said Hana. "It does that." She laughed anyway, and cried a bit, and went down the passage to him. "It's only the first one."
 
 ***
 
-She made pairs all winter after that.
+She made pairs all winter after that, trying to make one hold.
 
-She couldn't stop. It was the most fun she'd had in a year and a half. She sat on the end of the bed every evening with the bead-seller's tray and Ama's ribbon and Jared's little knife, and made cords, and knotted them, and cut them in half, and wrote *Remember* into the cut, and gave them away.
+She couldn't stop. It was the most stubborn she'd been in a year and a half. She sat on the end of the bed every evening with the bead-seller's tray and Ama's ribbon and Jared's little knife, and made cords, and knotted them, and cut them in half, and wrote a word into the cut, and tested them on Milli at the end of the passage. *Together.* *Mine.* *Here.* *Hold on.* Every one warm for a breath when he picked up his half, and then cold. Forty-seven pairs by midwinter, in a box under the bed, and her window sat at ninety-seven like a stone. She gave them away anyway, some of them, the ones people asked for, with a warning: *it doesn't work yet. It will.*
 
-One for Aleaka, who held her half and cried and then made Hana give the other half to Brisk, the furious hawk, who let Hana tie it round his leg and then bit her anyway. Aleaka said she could feel where Brisk was all the time now, when he was out over the city. She said it was the best present anyone had ever given her, and then she said it was the second best, and wouldn't say what the first was.
+One for Aleaka, who held her half and cried and then made Hana give the other half to Brisk, the furious hawk, who let Hana tie it round his leg and then bit her anyway. It didn't work. Aleaka said it was the best present anyone had ever given her anyway, and then she said it was the second best, and wouldn't say what the first was.
 
-One for Jared and Cursiffe. Jared wore his on his wrist. Cursiffe wrote on his, very small, in blue ink, a word he wouldn't tell anyone. They said they could feel each other across the castle. Jared said it was mostly useful for knowing when Cursiffe had fallen asleep in the archive again.
+One for Jared and Cursiffe. Jared wore his on his wrist. Cursiffe wrote on his, very small, in blue ink, a word he wouldn't tell anyone, to see if his ink would help. It didn't. They wore them anyway.
 
-One for Pellam, and his wife, who lived in the town below the castle and whom he hadn't been able to see much since the king doubled the guard. He held his half on the handle of his broom and smiled at the floor all day.
+One for Pellam, and his wife, who lived in the town below the castle and whom he hadn't been able to see much since the king doubled the guard. He held his half on the handle of his broom and said he could feel it, which he couldn't, and smiled at the floor all day.
 
-One for Ama, and her grandson in the river watch.
-
-One for Hew on the archive door, and his sister in Kingsferry, which Hana sent with a rider, and which arrived, Hew said, a fortnight later; and the morning it arrived he stood at the archive door with his hand on his sword-belt and his face doing something he couldn't stop.
-
-She made them for everyone. Everyone who had someone a long way off.
+She made them for everyone who asked. Everyone who had someone a long way off. And every night she lay awake with the box under the bed and turned the words over: what did a cut cord *want*?
 
 ***
 
@@ -183,9 +177,9 @@ She didn't tell anyone. She did it late, on her own, on the end of the bed, when
 
 She knotted the cord. She cut it in half. She cut the heart in half too, very carefully, with Jared's knife, so that each half of the cord had half a gold heart on the end.
 
-She wrote *Remember* into the cut.
+She didn't write anything into the cut. She'd run out of words that worked, and she wasn't going to put a wrong one into this.
 
-And then she sat there and looked at it, the two halves warm in her hands, knowing each other.
+She sat there and looked at the two halves, cold in her hands.
 
 She didn't know where the other half was going. She didn't know where *he* was. She'd decided she wouldn't. *It isn't mine. It's his.* All she knew was a direction, and that only from the way somebody else's feet turned.
 
@@ -239,8 +233,6 @@ She didn't mind. She'd known it wouldn't. Not yet.
 
 She tied it round her wrist, under her sleeve, where she'd feel it if it ever changed. And went in out of the rain, and up the archive stairs, past Hew at the door, who touched the cord on his sword-belt and smiled at her, and past Pellam in the long gallery, who had his on his broom.
 
-*Remember*, she'd written. Into every one.
+*Keep*, she'd written, and *Stay*, and *Together*, and *Hold on*. Into forty-seven of them. And not one of them had been the right word, and none of them had held for longer than a breath.
 
-She thought it was the right word. For a winter. For a castle full of people with someone a long way off. For thirty-five people from another world, and the one more, wherever he was.
-
-She thought it was the only word, really.
+She didn't know yet what the right word was. She thought, going up the archive stairs with the cold half-heart against her pulse, that it was probably the only thing she'd been trying to learn all winter. And that when she found it, it would turn out to be something small. Something she said every day without noticing. For a castle full of people with someone a long way off. For thirty-five people from another world, and the one more, wherever he was.

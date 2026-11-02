@@ -155,65 +155,51 @@ She wrote the thing she'd have said to a panicking friend on a call, at three in
 
 The cup slowed down.
 
-Everybody saw it. That was what made it real, afterwards, in the way things hadn't been real for her before: everybody at the table saw it at once. A tall clay cup, falling off the edge of the table, full of hot wine, and halfway down it simply *slowed*. As if the air had gone thick. As if somebody had turned the tempo of the whole world down, just round that one cup, from a drum roll to a slow walk. It drifted down through the air like a leaf. The wine that had spilled out over the lip of it hung there, a long red ribbon, curling, slowly, catching the lamplight.
+For half a heartbeat, it did. Everybody saw it. A tall clay cup, falling off the edge of the table, full of hot wine, and halfway down it *hesitated*, as if the air had gone thick round it, and the wine spilling over its lip hung for an instant in a long red ribbon in the lamplight.
 
-Hako, who'd knocked it, and who had the fastest hands at the table, looked at it with his mouth open, and then reached out and caught it.
+And then the rest of the room pushed back.
 
-The cup. Out of the air. At the speed of a leaf. And then, because the wine was still hanging there in its slow red ribbon, he moved the cup under it, very carefully, and caught that too.
+She felt it. Everything else in the Broken Lance was going at its own speed: the rain on the window, the fire, Lucan's laugh, thirty off-duty fighters' beats all thumping along at their own pace; and she'd asked one cup to go slow in the middle of all of it. It was like trying to sing one bar at half speed while the whole band played on. The room's own tempo came down over the cup like a wave over a sandcastle. Something hot ran out of her nose. The cup came down at full speed and broke on the flagstones, and the wine went over Ina's boots.
 
-The tempo came back.
+"*Ow*," said Ina.
 
-Everything was normal again. The rain on the window. The fire. Lucan with a purple paper squid held up to the lamp, frozen. And Hako, half out of his chair, holding a full cup of hot spiced wine that hadn't spilled a drop.
+Newish sat there with her hand under her nose and blood between her fingers.
 
-Nobody said anything.
+"It *slowed*," said Lucan, very faintly, from the end of the table. "Did you all see that? It slowed." He'd said the word himself, a year and a half ago, the first week, watching her in the Lists: *tempo... a support path*. "I *said* tempo. I said it the first week."
 
-***
+"It slowed for half a second," said Newish thickly, "and then it didn't."
 
-Newish opened her window.
-
-[ Newish · Tier 1: Spark · Skills: Tempo ]
-
-The seventeenth.
-
-"*Tempo*," said Lucan, very faintly, from the end of the table. He couldn't see the window. He didn't need to. He'd said the word himself, a year and a half ago, the first week, watching her in the Lists: *tempo... a support path*. "I *said* that. I said it the first week. I *said* tempo."
-
-"You did," said Newish.
-
-"I'm going to cry," said Lucan.
-
-"You're always going to cry," said Ysolde.
-
-Lucan cried.
+"Half a second is a *second act*," said Lucan, and burst into tears; and Ysolde, without a word, handed Newish a napkin.
 
 ***
 
-Chris had his notebook out before anyone else had moved. He wrote it down, *17. Newish. Spark. Tempo*, in the long column he'd been keeping for a year and a half. And then he looked at her across the table, with his pen still on the page, and his beat did something it had never done before. It sped up. Just slightly. The way a heart speeds up when somebody you care about does something good.
+She opened her window afterwards, upstairs, with the napkin still pressed to her face.
 
-"Seventeen," said Chris. "That's nearly half."
+[ Newish · Tier 0: Initiate · Progress to Spark: 99% ]
 
-"Seventeen out of thirty-five," said Newish. "That's not half. That's *nearly* half. Don't round up. You hate rounding up."
+Ninety-nine. It had been ninety-seven that morning.
 
-"I'm rounding up today," said Chris.
+Chris came up with his notebook and sat on the end of her bed and didn't write anything for a while.
 
-Ina had taken the cup from Hako. He was holding it in both hands, looking at it, with his mask pushed up on his head and his face doing something complicated.
+"Calvin's got a line on his wardrobe door," he said at last. "He sent it round last spring. *Against the grain costs.*"
 
-"That was going in my lap," he said.
+"I know."
 
-"I know," said Newish.
+"You asked one cup to go slow in a room where nothing else wanted to."
 
-"That was *very hot*."
+"I *know*, Chris." She took the napkin away and looked at it. "So what do I do? Wait for a room where everything wants to go the same speed?"
 
-"I *know*."
+Chris thought about it.
 
-Ina looked at her for a long moment. Then he put the cup down on the table, very carefully, well away from the edge, and reached across Hako, the way Hako always reached across everyone, and held out his fist.
+"Yes," he said. "Probably."
 
-Newish bumped it.
+She threw the napkin at him.
 
 ***
 
-They posted it in the channel that night. *Spark. Tempo. Seventeenth. I slowed down a cup of hot wine so it wouldn't land on Ina. He's welcome.*
+They posted it in the channel that night. *Not Spark. Ninety-nine. I slowed down a cup of hot wine for half a second and then it landed on Ina anyway. He's fine. His boots aren't.*
 
-She scrolled back through it afterwards, because she could now, two hundred lines, with the times on every one. Maigo in capitals. Bee: *a cup is a good first one. mine was a dog.* Yan, from Cinderhold: *I felt it go up. Congratulations.* Hana, from the capital: *Newish! I'm making you a pair, for you and Winter, you'll love it.* Gigichi, from Wrenhaven: *finally someone useful.* Thea: *Seventeen. Rule three. Good news, loudly.*
+She scrolled back through it afterwards, because she could now, two hundred lines, with the times on every one. Maigo in capitals: *NINETY-NINE IS JUST A HUNDRED BUT LATER*. Bee: *a cup is a good first one. mine was a dog.* Yan, from Cinderhold: *I felt it flicker.* Hana, from the capital: *I'm at ninety-seven and my cords keep going cold. We can be nearly together.* Gigichi, from Wrenhaven: *still more useful than most people.* Thea: *Ninety-nine. Rule three anyway.*
 
 Higu didn't write anything. Higu never wrote much now, in the evenings. Newish had noticed that too, in the last month. All five of them in Wrenhaven wrote less in the evenings than they used to. As if they were somewhere else, in the evenings, and only remembered the channel in the mornings.
 

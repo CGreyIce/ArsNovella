@@ -283,7 +283,7 @@ Deston knelt at the bow and opened his window, because his hands were doing it b
 
 [ Deston · Tier 1: Spark · Skills: Chorus ]
 
-The nineteenth.
+The seventeenth.
 
 He looked at it for a long time.
 

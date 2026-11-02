@@ -321,11 +321,21 @@ Hana found that she was crying, a bit. Not much. She didn't mind.
 
 "Everybody says that."
 
-Hana laughed, wet. Then she leaned sideways, slowly, and put her head on his shoulder, the way she'd never once been able to on a call, and left it there, and watched the sun go down over a river in another world, with Milli's tail round her ankle and the man who'd made her laugh for eight years sitting beside her, finally, in the same place.
+Hana laughed, unsteadily. Then she leaned sideways, slowly, and put her head on his shoulder, the way she'd never once been able to on a call, and left it there, and watched the sun go down over a river in another world, with Milli's tail round her ankle and the man who'd made her laugh for eight years sitting beside her, finally, in the same place.
 
 "*Finally*," she said.
 
 "Hi, Alice," he said. Something stupid.
+
+*Alice.* Nobody but Jared had called her that in two years. A name was a door; she'd always said so. And he'd kept hers, all that time, through thirty-four years of another life, behind a face she couldn't see. *Remembered* it.
+
+She felt something turn over at the bottom of her, where the edge was. All winter she'd sat on the end of the bed writing words into cut cords. *Keep. Stay. Hold. Together.* Forty-seven pairs, and every one warm for a breath and then cold. Orders, every one of them, she thought now; she'd been telling two halves to hold on to each other. But a cut cord didn't want to be held. It wanted to remember being one thing.
+
+She didn't take her head off his shoulder. She just put her thumb on the half of the gold heart tied round her wrist, and wrote one word into it, very quietly, the way you'd say it to somebody on a call at the end of a long night.
+
+*Remember.*
+
+It stayed cold. Of course it did. The other half was in Kestra's book, or in a drawer in Solmere, or lost. She left the word there anyway.
 
 ***
 
@@ -388,6 +398,14 @@ Kestra looked at her then. For the first time. A long, dry, dangerous look, the 
 "Good," said Kestra.
 
 Then she turned round and went back up the bank and sat down under the willow again and closed her eyes, as if nothing had happened at all.
+
+Hana opened her window with her left hand, because her right was in her lap with the warmth on it and she didn't want to move it.
+
+[ Hanarisu · Tier 1: Spark · Skills: Keepsake ]
+
+The nineteenth. The first of Group 2.
+
+*Keepsake.* Not *Charm*. Not anything that went into people and bent them. Something that remembered. She closed the window before Milli could see her face, and he saw it anyway, and didn't say anything, and put his hand over hers on her wrist, over the warm half of the heart, and kept it there.
 
 ***
 

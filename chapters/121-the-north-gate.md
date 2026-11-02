@@ -27,7 +27,7 @@ Then she went and sat on the mounting block by the gate, where the carters tied 
 
 Brisk found her about half an hour later.
 
-She felt him before she saw him. She always could, now, since Hana had tied the other half of a charm round his leg in the winter and he'd bitten her for it. A small hard knot of furious attention somewhere up over the rooftops behind her, coming closer. Then a rush of air, and claws, and he was on her shoulder, glaring at the gate as if it had personally insulted him.
+She felt him before she saw him. She always could, now; a little further every month since the autumn. Hana had tied half of one of her winter cords round his leg anyway, *for when I get them working*, and he'd bitten her for it. A small hard knot of furious attention somewhere up over the rooftops behind her, coming closer. Then a rush of air, and claws, and he was on her shoulder, glaring at the gate as if it had personally insulted him.
 
 "Good morning," said Aleaka.
 

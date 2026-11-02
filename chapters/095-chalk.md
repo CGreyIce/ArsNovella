@@ -161,7 +161,7 @@ She did it standing at the granary wall, with the chalk still in her fingers and
 
 [ Bee · Tier 1: Spark · Skills: Sketch ]
 
-The sixteenth.
+The fifteenth.
 
 *Sketch.* Not *drawing*. Not anything grand. *Sketch*. The quick thing. The one line you put down before you've thought about it, to catch something before it goes. The thing she'd done ten thousand times on a tablet, at two in the morning, for nobody.
 
@@ -223,9 +223,9 @@ Tiger let go. He looked at her. His face did something complicated.
 
 ***
 
-She wrote it in the channel that night. *Spark. Sketch. Sixteenth. I drew a dog in one line and it ran for a minute. And my wings worked. For one heartbeat. Out of spite.*
+She wrote it in the channel that night. *Spark. Sketch. Fifteenth. I drew a dog in one line and it ran for a minute. And my wings worked. For one heartbeat. Out of spite.*
 
-The channel went the way it always went. Two hundred lines now, so she could scroll back and watch it happen: Maigo in capitals, *SIXTEENTH*, and then *A DOG*, and then *WINGS???*. Kei, from across the courtyard, who'd seen it: *Hisui says it was a very good dog.* Yan, from Cinderhold, who'd gone up a tier himself the week before, the fourteenth, with a skill called *Kin*: *I felt your candle go up. Congratulations, Bee.* Hana, from the capital, the fifteenth, who'd started making cords that remembered each other: *Bee! I'm going to make you a pair for Tiger.* Rachael. Newish. Chris with his column.
+The channel went the way it always went. Two hundred lines now, so she could scroll back and watch it happen: Maigo in capitals, *FIFTEENTH*, and then *A DOG*, and then *WINGS???*. Kei, from across the courtyard, who'd seen it: *Hisui says it was a very good dog.* Yan, from Cinderhold, who'd gone up a tier himself the week before, the fourteenth, with a skill called *Kin*: *I felt your candle go up. Congratulations, Bee.* Hana, from the capital, who'd spent the winter making cords that wouldn't stay warm: *Bee! When I get them working, the first pair's for you and Tiger.* Rachael. Newish. Chris with his column.
 
 And Hyvred, from the next bunk, who didn't write in the channel at all. She just reached over in the dark and squeezed Bee's hand.
 
