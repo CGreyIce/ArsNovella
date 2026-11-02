@@ -63,7 +63,7 @@ He'd read that four times, the night it happened. *It isn't a charm on you. You 
 
 He'd thought about Rowan. Standing in a door for a season with a sword, so a little girl could sleep.
 
-[ 23:58 · Chris: logging. Tier 2 or above: 4 of 35. Tier 3 or above: 1 of 35. all 35 present.
+[ 23:58 · Chris: logging. Tier 2 or above: 4 of 35. Tier 3 or above: 0 of 35, Thea close. all 35 present.
 23:58 · Chris: line 36 still blank. still there. ]
 
 Every night. At the bottom. Whatever else Chris had logged.

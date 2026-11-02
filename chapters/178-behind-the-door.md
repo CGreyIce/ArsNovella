@@ -53,7 +53,7 @@ Nobody could. That was the point. Three hundred years ago a king called Aldemar 
 
 Severin had found the one who could. He'd found her in a hall in Solmere, two years ago, in a heap on the floor in the middle of a circle, with thirty-four other people from another world, and not known it.
 
-She was coming down the lake road now. He could feel her. A candle at the third tier, steady and bright, the brightest of the five coming down the road from the militia hall in the cold.
+She was coming down the lake road now. He could feel her. A candle at the second tier and leaning hard at the third, steady and bright, the brightest of the five coming down the road from the militia hall in the cold.
 
 He put the board back over the leaf, gently, and waited.
 
@@ -113,7 +113,7 @@ Severin didn't know what that meant. He'd heard her say it before, in Valcrest, 
 
 She said it quite simply. The way Oswin had said it in the vault, with a grey leaf in his hands. *No*.
 
-"Not yet," she said. "Not at Lantern. It's enormous. It's—" She looked up at him, finally, and her face was doing something he'd seen on young smiths' faces the first time they put their hand on a really good blade and felt how much they didn't know. "I can see that it's *saying* something. All of it, edge to edge, both sides. Not decoration. Not a prayer. Instructions. I can see the shape of instructions, the way you can see a recipe in a language you can't read, because there's a list and then there's a method." She swallowed. "I can't read what it says. I'm three tiers in. It's going to take more than three."
+"Not yet," she said. "Not at Candle. Not at Lantern either, I think. It's enormous. It's—" She looked up at him, finally, and her face was doing something he'd seen on young smiths' faces the first time they put their hand on a really good blade and felt how much they didn't know. "I can see that it's *saying* something. All of it, edge to edge, both sides. Not decoration. Not a prayer. Instructions. I can see the shape of instructions, the way you can see a recipe in a language you can't read, because there's a list and then there's a method." She swallowed. "I can't read what it says. I'm three tiers in. It's going to take more than three."
 
 "How many more?"
 

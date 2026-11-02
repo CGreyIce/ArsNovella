@@ -243,7 +243,7 @@ Winter looked at him for a long moment. Then she did the thing she'd learned to 
 
 Ina lit the wall the next night.
 
-Nobody asked him to. That was how Ina did everything. He'd been a mage for two years and a half, a fire mage, the one of all thirty-five whose tiers were literally named for what he did: Spark, Candle, Lantern, Torch. He'd made his first real flame at a lantern festival in the Lists' own bowl in the first year, with his mask on and violet fire coming off his fingers that burned hotter with the mask than without it, and he'd been *Onibi* ever since, the ghost-fire, and Spark, and he'd been very good-humoured about staying Spark while Thea went Candle and then Lantern and Hyvred and Hana went Candle in a month, and Chris had known for at least a year that he wasn't.
+Nobody asked him to. That was how Ina did everything. He'd been a mage for two years and a half, a fire mage, the one of all thirty-five whose tiers were literally named for what he did: Spark, Candle, Lantern, Torch. He'd made his first real flame at a lantern festival in the Lists' own bowl in the first year, with his mask on and violet fire coming off his fingers that burned hotter with the mask than without it, and he'd been *Onibi* ever since, the ghost-fire, and Spark, and he'd been very good-humoured about staying Spark while Thea went Candle and Hyvred and Hana went Candle in a month, and Chris had known for at least a year that he wasn't.
 
 On the night before the Swiss, at dusk, Lucan's painters went down the west wall with tapers to light the lamps.
 

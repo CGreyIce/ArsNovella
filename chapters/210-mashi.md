@@ -415,7 +415,7 @@ He'd been waiting for it. He'd read every one of Chris's counts, every *Updating
 
 [ 07:14 · Chris: 35 of 35 at Tier 1 or above.
 07:14 · Chris: closing the count.
-07:15 · Chris: Group 1. Althea, Lantern. Xolalotl, Spark. Gigichi, Spark. Higu, Spark. PenguChi, Drawn.
+07:15 · Chris: Group 1. Althea, Candle. Xolalotl, Spark. Gigichi, Spark. Higu, Spark. PenguChi, Drawn.
 07:15 · Chris: Group 2. Hanarisu, Spark. Jared, Drawn. Aleaka, Spark. Milli, Drawn. Cursiffe, Spark.
 07:15 · Chris: Group 3. Suzuyun, Candle. Salty, Drawn. Wendy, Drawn. Maigo, Spark. Nikorasu, Struck.
 07:16 · Chris: Group 4. Deston, Spark. Gabe, Drawn. Rachael, Spark. Dennis, Spark. Calvin, Spark.

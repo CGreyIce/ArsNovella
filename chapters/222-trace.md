@@ -313,7 +313,7 @@ He sat on the roof that night with the notebook on his knee and wrote it all dow
 
 At the bottom of the third page he wrote the count, the way he always did.
 
-*Tier 2 or above: 11 of 35. Tier 3 or above: 1 of 35. All 35 present. 33 in Valcrest. 2 on a tower.*
+*Tier 2 or above: 11 of 35. Tier 3 or above: 0 of 35, Thea close. All 35 present. 33 in Valcrest. 2 on a tower.*
 
 He sat with the pencil over the next line for a long time.
 

@@ -235,7 +235,7 @@ Chris opened his mouth to say *whoever's lowest on the*—
 
 And stopped.
 
-He looked down at his notebook. At the page it always fell open to now, because he'd opened it there every night for three years. Thirty-five lines, in his own small square hand, in English, with Lucan's script beside each one in Lucan's hand, because Lucan had asked to write them in the first month and Chris had let him. And beside each line, a column. The count. The tier. *Drawn*. *Spark*. *Lantern*. *Candle*. *Tempered*. All the way down. Thirty-four of them filled in. One not.
+He looked down at his notebook. At the page it always fell open to now, because he'd opened it there every night for three years. Thirty-five lines, in his own small square hand, in English, with Lucan's script beside each one in Lucan's hand, because Lucan had asked to write them in the first month and Chris had let him. And beside each line, a column. The count. The tier. *Drawn*. *Spark*. *Candle*. *Tempered*. All the way down. Thirty-four of them filled in. One not.
 
 *Nikorasu*, said the thirty-fifth line, at the bottom, where he'd moved it in the autumn when the others went past. *Tier 0. Initiate. Aura and mana. Both*.
 
@@ -496,7 +496,7 @@ He read it all twice. The way he always did.
 
 Then he closed the window, and opened the notebook.
 
-Thirty-five lines, in his own small square hand, with Lucan's beside them. Thirty-four filled in, across, all the way to the column at the end. *Drawn*. *Spark*. *Candle*. *Lantern*. *Tempered*. One not. *Nikorasu. Tier 0. Initiate. Aura and mana. Both*. And he looked at that one for a while and took his pencil and, very small, beside *Both*, wrote *0–0*, and nothing else.
+Thirty-five lines, in his own small square hand, with Lucan's beside them. Thirty-four filled in, across, all the way to the column at the end. *Drawn*. *Spark*. *Candle*. *Tempered*. One not. *Nikorasu. Tier 0. Initiate. Aura and mana. Both*. And he looked at that one for a while and took his pencil and, very small, beside *Both*, wrote *0–0*, and nothing else.
 
 And under it, the thirty-sixth.
 

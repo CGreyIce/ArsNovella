@@ -173,7 +173,7 @@ And the heat went out of the halves. And the turning thing let go. And in the ch
 
 *Fixed*, Thea wrote, a few minutes later. *The cords and the channel were talking over each other. They've been introduced now. Hana, write as much as you like*.
 
-And then: *Lantern*.
+And then: *Not Lantern. I held it for twenty heartbeats. I saw it, though.*
 
 Hana had sat on the bed and read it and put her face in her hands.
 

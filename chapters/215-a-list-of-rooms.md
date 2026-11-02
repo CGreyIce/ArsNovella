@@ -7,7 +7,7 @@ date: 2026-11-02
 
 Thea felt them come over the ridge at a quarter past three in the morning, the way you'd feel a phone buzz in a coat on the back of a chair in another room.
 
-Seven of them. Six together and one apart, a little heavier, a little warmer, as if whoever was carrying it had it against their chest. Coming down the south road out of the dark at a horse's walk, a mile off, half a mile, the circle's hand written small and close on oiled paper in a wooden case, and every line of it humming very faintly in the back of her head the way the six had hummed in the winter. Not loud. Not a voice. Just *there*, and *roughly where*, and the third thing, the one she'd only learned to feel since Lantern, which was whether they were well.
+Seven of them. Six together and one apart, a little heavier, a little warmer, as if whoever was carrying it had it against their chest. Coming down the south road out of the dark at a horse's walk, a mile off, half a mile, the circle's hand written small and close on oiled paper in a wooden case, and every line of it humming very faintly in the back of her head the way the six had hummed in the winter. Not loud. Not a voice. Just *there*, and *roughly where*, and the third thing, the one she'd only learned to feel since the night on the jetty, which was whether they were well.
 
 They were well. All seven. Not a fault on them. She lay in her cot in the upper room of the militia hall with her eyes open in the dark and listened to them come down the road, and felt something in her chest go loose that she hadn't known was tight.
 
@@ -69,7 +69,7 @@ Then she unfolded the first sheet, and put her hand flat on it, and Parsed.
 
 She'd tried to explain Parse to them once, in the first winter, the week she went Spark, and failed. She'd said *it's like when you look at a web page and you can see the code under it*, and Xola had said *I can't see the code under a web page*, and Thea had said *no, I know, that's the point*, and they'd all looked at her, and she'd given up and said *it's like reading*, which wasn't true either.
 
-It was like this. You put your hand on a thing that was written in the circle's hand, the oldest one, the one that wasn't writing the way music isn't writing, and you went *in*. Not through your eyes. Through the place under your eyes where windows were. And the lines on the paper stopped being lines and became structure: this inside that, this calling that, this ring holding these things and passing them to that ring, the way a function holds its arguments and passes them on. You couldn't read what it *said*. Not yet. Not at Lantern. It was written, she'd worked out in the winter, by a hand more than three tiers above hers, and when she tried to read the actual words of it they swam, the way a page swims when you've been awake too long. But you could see the *shape*. You could see what was inside what. You could see whether it was well.
+It was like this. You put your hand on a thing that was written in the circle's hand, the oldest one, the one that wasn't writing the way music isn't writing, and you went *in*. Not through your eyes. Through the place under your eyes where windows were. And the lines on the paper stopped being lines and became structure: this inside that, this calling that, this ring holding these things and passing them to that ring, the way a function holds its arguments and passes them on. You couldn't read what it *said*. Not yet. Not at Candle. It was written, she'd worked out in the winter, by a hand more than three tiers above hers, and when she tried to read the actual words of it they swam, the way a page swims when you've been awake too long. But you could see the *shape*. You could see what was inside what. You could see whether it was well.
 
 It was well.
 
@@ -243,7 +243,7 @@ Gigichi had come and sat on the stair above them. She didn't say anything. She p
 
 "When can you?"
 
-"I don't know." She looked at her window. She didn't need to; she knew what it said. *Lantern*. And under it, the bar to Torch, which had sat at eighty-four since the snow and said eighty-five now, because something had moved in her this morning, putting her hand on the fourteenth leaf, and she'd felt it go. "When I'm Torch. Maybe. It's written above Lantern. Torch might be enough. It might not." She was quiet. "It's written above me. That's all I know. I can see it's there. I can see it's exact. I can't see what it says."
+"I don't know." She looked at her window. She didn't need to; she knew what it said. *Candle*. And under it, the bar to Lantern, which had sat at eighty-four since the snow and said eighty-five now, because something had moved in her this morning, putting her hand on the fourteenth leaf, and she'd felt it go; and under that, still grey, *Handshake · locked*. "When I'm Lantern. Maybe. Torch, more likely. It's written a long way above Candle. Lantern might be enough. It might not." She was quiet. "It's written above me. That's all I know. I can see it's there. I can see it's exact. I can't see what it says."
 
 "Then that's what we know," said PenguChi. "That's enough for today."
 

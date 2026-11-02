@@ -7,7 +7,7 @@ date: 2026-11-01
 
 Xola was the last of Group 1, and everybody was being very kind about it, which was the worst part.
 
-Not that she minded being last. She'd decided that in the autumn, crying, which was how she decided most things. Somebody had to be. Higu had been first, after Thea, in the spring of the first year, on a roof, with a moth. PenguChi in the summer, in the yard, with Alea's hands in hers. Gigichi in the frost, in a pumpkin field, in the dark, with a hedge. And Thea was at the third tier now, Lantern, the first of all thirty-five, and nobody even counted Thea any more; Thea was Thea.
+Not that she minded being last. She'd decided that in the autumn, crying, which was how she decided most things. Somebody had to be. Higu had been first, after Thea, in the spring of the first year, on a roof, with a moth. PenguChi in the summer, in the yard, with Alea's hands in hers. Gigichi in the frost, in a pumpkin field, in the dark, with a hedge. And Thea was at Candle still, closer to the third tier than anyone, with a locked line in her window she checked every morning, and nobody even counted Thea any more; Thea was Thea.
 
 And Xola was ninety-seven.
 

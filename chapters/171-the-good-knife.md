@@ -193,7 +193,7 @@ He always did. Since the first spring, on the end of the jetty, when it had knoc
 
 He read it now, on his back on the bank of a stream on the third night, with his window open above his face and his daughter sitting up on the far side of the fire with the sword across her knees. She knew he was reading it. She'd always known, even before he told her.
 
-[ 21:40 · Chris: Evening numbers. 28 of 35 at Tier 1 or above. Thea at 3. Yan at 2. Everybody somewhere they know.
+[ 21:40 · Chris: Evening numbers. 28 of 35 at Tier 1 or above. Thea and Yan at 2. Everybody on my edge page from the Lists is over now except three. Everybody somewhere they know.
 21:41 · Maigo: YAN WENT GREEN
 21:41 · Maigo: I'M STILL NOT OVER IT
 21:41 · Suzuyun: Okay.

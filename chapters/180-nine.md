@@ -96,7 +96,7 @@ He stopped on that one for a while.
 He read on.
 
 [ 20:44 · Chris: first snow log. thornwall, cinderhold, solmere, wrenhaven, duskhollow: snow. kingsferry: rain, apparently. valcrest: nothing. it's valcrest.
-20:45 · Chris: count stands at 29 of 35. thea lantern. yan candle. leaf 1 of 40 parses (thea, six days ago). 39 to go.
+20:45 · Chris: count stands at 29 of 35. thea candle, 52 to lantern. yan candle. leaf 1 of 40 parses (thea, six days ago). 39 to go.
 20:45 · Chris: line 36 still blank. still there.
 21:02 · Winter: Valcrest is not *nothing*. Lucan's ordered more paper.
 21:02 · Ina: He's ordered so much paper.

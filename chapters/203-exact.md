@@ -9,7 +9,7 @@ Thea felt them come over the ridge at about four in the morning.
 
 She was asleep. Then she was lying in the dark in the long room at the top of the militia hall with her eyes open, listening to something that wasn't a sound.
 
-She'd had that since the Lantern. Since the autumn, since the night on the jetty when she'd said *hello* into the gap in the oldest thing in the world and something had come back. It wasn't a sense, exactly. Nobody had a word for it. Higu had tried several in her notebook and crossed them all out. The nearest Thea had got was this: when something was written in *that* language, the one in the middle of the circle, the one under every window, she could feel it the way you can feel a phone buzz in another room. Not what it said. Just that it was there, and roughly where, and whether it was well.
+She'd had that since the night on the jetty. Since the autumn, when she'd held two things for twenty heartbeats and said *hello* into the gap in the oldest thing in the world and something had come back. It wasn't a sense, exactly. Nobody had a word for it. Higu had tried several in her notebook and crossed them all out. The nearest Thea had got was this: when something was written in *that* language, the one in the middle of the circle, the one under every window, she could feel it the way you can feel a phone buzz in another room. Not what it said. Just that it was there, and roughly where, and whether it was well.
 
 She'd felt Oswin's first leaf in the autumn, coming down the lake road in a board under the king's arm. It had felt like a song somebody was humming slightly wrong. Mostly right. Three places where the note slid.
 
@@ -433,7 +433,7 @@ She stopped.
 
 "And you can't read it," he said.
 
-"No. Not at Lantern. Not for a long time." She looked at the water. "Maybe not for years. It's enormous. I can see the shape. That's all."
+"No. Not at Candle. Not at Lantern either. Not for a long time." She looked at the water. "Maybe not for years. It's enormous. I can see the shape. That's all."
 
 "But it's real."
 

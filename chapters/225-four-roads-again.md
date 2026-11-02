@@ -401,7 +401,7 @@ At four in the morning, by the light of the real moon, half gone, high over the 
 
 He didn't wake them. He sat down on the low wall at the far end, and opened his window, and wrote.
 
-[ 04:02 · Chris: logging. Tier 2 or above: 12 of 35. Tier 3 or above: 1 of 35. Updating.
+[ 04:02 · Chris: logging. Tier 2 or above: 12 of 35. Tier 3 or above: 0 of 35, Thea close. Updating.
 04:02 · Chris: all 35 present. line 36: here. ]
 
 *Updating*. It was a new word for the end of a line. He'd never put it there before. Higu read it in the morning, on the miller's cart, at the north gate, with her book on her knees, and wrote it down: *Chris: "Updating." New*. Because it was, and because she knew what Chris meant by it, the way you know what a number means before you work it out, and because she didn't guess.

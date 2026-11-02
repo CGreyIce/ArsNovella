@@ -261,6 +261,8 @@ The channel stopped scrolling. The names stopped flickering; they hung in the mi
 
 And she sat on the end of a jetty on Lake Ilse in the dark, with her hands up, holding two things that had never met, and felt her whole body shake with it.
 
+Eight heartbeats. Nine. Something warm ran out of her nose and over her lip, and she didn't let go. *A Lantern holds a spell steady while it does something else*, the guides' book had said. She couldn't do anything else. She could barely breathe.
+
 *Now what*, she thought.
 
 ***
@@ -311,11 +313,13 @@ All of them. White. Steady. *Maigo*. *Hyvred*. *Suzuyun*. *Xavier*. *Hanarisu*. 
 
 Thea let go.
 
+Or her hands did. She'd have said afterwards that she didn't decide it. *Twenty heartbeats*, she thought, from somewhere a long way off; that was all she'd had in her. And it held anyway, after, on its own. The two things knew each other now. They didn't need holding.
+
 ***
 
-She sat on the end of the jetty for a long time with her hands in her lap.
+She sat on the end of the jetty with her hands in her lap.
 
-She was shaking. All of her, from her hands to her knees. Higu's moth was still clinging to her collar. The lantern had rolled against the post at the end of the jetty and stopped there, and was lighting a small circle of silver boards and black water, and the edge of the hollow where a man sat every evening.
+She was shaking. All of her, from her hands to her knees. There was blood on her lip and her chin, and a dark spot of it on her knee, and her ears were ringing. When she tried to call the little flame to her fingertip, out of habit, just to see, nothing came at all, not even a spark, and a pain went through both her temples like a nail. Higu's moth was still clinging to her collar. The lantern had rolled against the post at the end of the jetty and stopped there, and was lighting a small circle of silver boards and black water, and the edge of the hollow where a man sat every evening.
 
 Twenty-five lines.
 
@@ -325,27 +329,29 @@ She looked at them, and found she didn't mind as much as she'd have thought. The
 
 She opened her window properly, to check.
 
-[ Althea · Tier 3: Lantern · Skills: Parse, Patch, Handshake ]
+[ Althea · Tier 2: Candle · Skills: Parse, Patch · Progress to Lantern: 41% ]
 
-She looked at it.
+Forty-one. It had been twenty-nine that morning.
 
-She looked at it for a long time, on the end of the jetty, in the light of a lantern that had rolled against a post. *Tier 3*. *Lantern*. A word she'd thought sounded boring, in the first week, in a list in a book.
+And under it, a line she'd never seen. Grey. The way RX's had been grey for a year before he could use it.
 
-*Handshake*.
+*Handshake · locked · requires Tier 3*
 
-She laughed. She couldn't help it. Out loud, on the end of the jetty, alone, at quarter to midnight, with a moth on her collar: a short, cracked, astonished laugh. *Handshake*. Of course it was. It was the only possible name. It was the name of the thing two machines did when they met for the first time, on Earth, in wires and in the air, a billion times a second, every second, all over the world, to find out if they could talk. *Hello*. *Hello*. *Okay*.
+She looked at it, in the light of a lantern that had rolled against a post.
 
-She was the first.
+She laughed. She couldn't help it. Out loud, on the end of the jetty, alone, at quarter to midnight, with a moth on her collar and blood on her chin: a short, cracked, astonished laugh. *Handshake*. Of course it was. It was the only possible name. It was the name of the thing two machines did when they met for the first time, on Earth, in wires and in the air, a billion times a second, every second, all over the world, to find out if they could talk. *Hello*. *Hello*. *Okay*.
 
-That came next, after the laugh, slowly. The first of thirty-five at the third tier. Two years. Spark at the bonfire, the first winter; Candle at the bonfire, the second. And now this, on a jetty, in the late summer, with nobody watching but a moth.
+And *locked*. Of course it was that, too.
+
+She understood it now. That was the strange part, the part that made her laugh again, more quietly. She'd understood the third tier tonight, all of it, from underneath, the way you understand a building by holding up its roof. She knew exactly what a Lantern was. She'd *been* one, for twenty heartbeats, with everything she had, and it had nearly put her in the lake; and a real Lantern did it all night while it did something else. Understanding was the easy half. It always had been, for her. The rest was mornings.
 
 *Fifteen years*, she'd said, on the road north, at the long table, to Higu. *Maybe twenty. To Sun*.
 
-Three, now. Out of ten. Seven more.
+Two, still. Out of ten. But she'd seen the third from underneath.
 
 *TODO*, she'd written, in the blank half of the fourteenth ring. *Somebody's coming back to it*.
 
-One tier closer.
+So would she.
 
 ***
 
@@ -367,17 +373,17 @@ Then she wrote. Not much. She never did. *Thea won't tell you a bug exists till 
 
 [ 23:47 · Althea: Fixed. The cords and the channel were talking over each other. They've been introduced now. Hana, write as much as you like. ]
 
-And then, after a moment, because Higu would want it, and rule three said good news loudly, and she'd never once in her life been loud about anything:
+And then, after a moment, because Higu would ask, and rule two said bad news plainly:
 
-[ 23:47 · Althea: Lantern. ]
+[ 23:47 · Althea: Not Lantern. I held it for twenty heartbeats. I saw it, though. ]
 
 The channel went white.
 
-She watched it. All of it. Maigo, in capitals so large they were nearly illegible. Higu: *Rule three. Thea reached Lantern. The first at the third tier*. Chris: *25 of 35 at Tier 1+, and 1 at Tier 3. Updating*. Tiger, in capitals bigger than Maigo's, which nobody had thought was possible. Ina: *nice*. Kei: *Hisui says congratulations, and also that he felt the whole thing in his teeth and would like it not to happen again*. Niko, from the wall at Cinderhold: *nice one. again.* And Hana, last, from Solmere, very small: *thank you. I'm sorry. Thank you.*
+She watched it. All of it. Maigo, in capitals so large they were nearly illegible: *TWENTY HEARTBEATS IS JUST A LANTERN BUT SHORTER*. Higu: *Rule three anyway. She fixed it*. Chris: *25 of 35 at Tier 1+. Thea: Candle, 41 to Lantern, one locked line. Updating*. Tiger, in capitals bigger than Maigo's, which nobody had thought was possible. Ina: *nice*. Kei: *Hisui says congratulations, and also that he felt the whole thing in his teeth and would like it not to happen again*. Niko, from the wall at Cinderhold: *nice one. again.* And Hana, last, from Solmere, very small: *thank you. I'm sorry. Thank you.*
 
 And Gabe, from a barge on the river, going downstream in the dark toward Duskhollow: *she held it. didn't she. she held the whole thing.*
 
-Thea didn't answer that one. She didn't need to.
+Thea answered that one. *For twenty heartbeats*, she wrote. *It was enough. It isn't Lantern.* And then, because it was Gabe: *Ask me again in a year.*
 
 ***
 

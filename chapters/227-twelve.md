@@ -385,7 +385,7 @@ She didn't think he was eating.
 21:30 · PenguChi: It was only "eat."
 21:31 · Xolalotl: SHE SAID EAT AND WE ATE
 21:31 · Deston: settle. it's still going. i can hear it. the whole hedge is humming
-21:32 · Chris: logging. Tier 2 or above: 13 of 35. Tier 3 or above: 1 of 35. Updating. ]
+21:32 · Chris: logging. Tier 2 or above: 13 of 35. Tier 3 or above: 0 of 35, Thea close. Updating. ]
 
 [ 21:40 · Salty: what was the dinner
 21:40 · Higu: Three. Satay celup.
