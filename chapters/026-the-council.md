@@ -75,7 +75,7 @@ Vane's smile didn't move. But something behind it did.
 
 The room went quiet.
 
-"I don't know where I'll be next year," she said. "Or if I'll ever get home. Or if the way home is even real. I don't know anything about this world, my lords, except what the people around me have taught me." She turned, slightly, so she could see them: Oswin by the door, Kestra with her arms folded. "And the people who've taught me are a scholar who stays up all night reading so he can answer our questions. And a soldier who's said maybe forty words to me in five months, and every one of them was true."
+"I don't know where I'll be next year," she said. "Or if I'll ever get home. Or if the way home is even real. I don't know anything about this world, my lords, except what the people around me have taught me." She turned, slightly, so she could see them: Oswin by the door, Kestra with her arms folded. "And the people who've taught me are a scholar who stays up all night reading so he can answer our questions. And a soldier who's said maybe forty words to me in four months, and every one of them was true."
 
 She turned back to the dais.
 

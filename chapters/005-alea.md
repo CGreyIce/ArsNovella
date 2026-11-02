@@ -55,6 +55,16 @@ PenguChi closed her eyes, and breathed, and waited.
 
 PenguChi opened one eye. Alea braced for disappointment. But PenguChi only nodded, as if three years were a perfectly reasonable amount of time to wait for anything, and closed it again.
 
+"Where did you wait?" she said, after another while.
+
+"What?"
+
+"You said it's like waiting for a fish. Where did you do your waiting?"
+
+Alea thought about it. Nobody had ever asked her that either. "On a jetty," she said. "Mostly. Every morning."
+
+"Hm," said PenguChi, and Alea had the feeling that something had just been written down somewhere, very neatly, in a place she couldn't see.
+
 Alea liked her a great deal.
 
 ***
@@ -89,9 +99,9 @@ On the fourth day she sat with them at the long table in the militia hall, eatin
 
 "Four," said Xola, "and I made the washbasin go still on purpose this morning. Well. Mostly on purpose."
 
-"Two," said PenguChi. "Alea's helping."
+"Two," said PenguChi. "Alea's helping. I did it her way all week. Lower. Not chasing." She considered. "It moved one. It's never moved one in a week before."
 
-Alea had spent her whole life knowing what status windows were, because her father had one, and so did she. She could call hers up the way you could hum a song you'd learned as a baby. But she had never once heard people *talk* about them like this, openly, round a table, as if they were the weather.
+Alea had spent her whole life knowing what status windows were, because her father had one, and so did she. She could call hers up without thinking about it, like humming. But she had never once heard people *talk* about them like this, openly, round a table, as if they were the weather.
 
 "What's yours say?" asked Xola.
 
@@ -109,7 +119,11 @@ Across the table, very quietly, Maren put down her cup.
 
 Thea studied her for a moment with an expression Alea didn't entirely like: thoughtful, and careful, and very, very bright. Then she shrugged and went back to her bread.
 
-"I can see more than the window," Thea said. "That's the weird thing about me. There's structure underneath it. Like code. I can't change any of it yet, but I can read bits." She frowned at nothing. "Fifty-two percent. Everyone keeps saying that's fast. It doesn't *feel* fast."
+"I can see more than the window," Thea said. "That's the weird thing about me. There's structure underneath it. Like code. I can read bits." She frowned at nothing. "I tried to change mine. Once. The first week."
+
+"And?" said Alea.
+
+"And I had a headache for seven hours." Thea said it lightly, but Alea saw Higu glance at her, and saw that Higu hadn't known. "So I can't change any of it. Yet." She shrugged. "Fifty-two percent. Everyone keeps saying that's fast. It doesn't *feel* fast."
 
 "It's fast," said Alea, and meant it. "It took me three years to get to the first tier."
 
@@ -120,6 +134,20 @@ Thea studied her for a moment with an expression Alea didn't entirely like: thou
 The table went quiet in an unhappy sort of way. Alea realised, belatedly, that she'd said something that mattered to them. Three years for one tier. Ten tiers to Sun. She saw Higu do the arithmetic and stop.
 
 "Different for you, though," she said quickly. "You can see your progress. That's what the Advisor told everyone, isn't it? You'll go faster than us."
+
+"Why would seeing it make it faster?" said Higu.
+
+Thea had gone still, the way she did when something clicked into place behind her eyes. "Because you can *check*," she said slowly. "You do a thing in the morning, and at night you look, and if it moved, you do more of the thing. If it didn't, you stop doing it." She looked round the table, at five open windows, as if it were a blackboard. "And there's five of us. Thirty-five of us. Thirty-five people trying different things and writing down what moved."
+
+"That's just a progress bar," said Gigichi.
+
+"Yeah," said Thea. "And nobody here's ever had thirty-five of them to compare." She turned back to Alea. "How did *you* know if you were doing it right? For three years?"
+
+Alea opened her mouth, and shut it.
+
+She'd had a window the whole three years. She'd watched the number crawl, alone, on the jetty, doing exactly what her father told her and not one thing more, because he was her father and he'd said *it's yours, find it*. It had never once occurred to her to try anything different, and see. She looked round the table at five people who were already arguing about what to try first, and felt something she couldn't name, that was a little like envy and a little like being left on a riverbank.
+
+"I didn't," she said. "I just kept going."
 
 "Faster than three years a tier," said Thea. "That's still..." She didn't finish.
 
@@ -145,7 +173,7 @@ Alea thought about what her mother would have said. Her mother had been good at 
 
 "My dad says a road's only blocked if you stop on it," she said.
 
-Gigichi looked at her for a long moment. Then she laughed, short and surprised and only a little bitter. "Your dad sounds like a fortune cookie."
+Gigichi looked at her. Then she laughed, short and surprised and only a little bitter. "Your dad sounds like a fortune cookie."
 
 Alea didn't know what a fortune cookie was. She decided it was probably a compliment.
 
@@ -205,7 +233,7 @@ The fire popped. Somewhere out in the dark, an owl said something to another owl
 
 Alea didn't hear the rest of what anyone said.
 
-She knew the arithmetic. She'd known it all her life, the way you know your own birthday. Her father had been born in this world thirty-four years ago. He'd told her once that when he'd first opened his eyes as a baby, he'd thought about home every single day, and then every week, and then every year, and then one day he'd noticed that he hadn't thought about it in a long time, and that had been the worst day of all.
+She knew the arithmetic. She'd known it all her life. Her father had been born in this world thirty-four years ago. He'd told her once that when he'd first opened his eyes as a baby, he'd thought about home every single day, and then every week, and then every year, and then one day he'd noticed that he hadn't thought about it in a long time, and that had been the worst day of all.
 
 Thirty-four years.
 

@@ -11,7 +11,7 @@ Thea had been sitting on it for eleven days. Eleven days of opening her window e
 
 [ Althea · Tier 0: Initiate · Progress to Spark: 99% ]
 
-She'd tried everything. She'd sat in the yard in the snow until she couldn't feel her legs. She'd read the lattice under her window for so long that she saw it when she closed her eyes: the nested lines, the conditions, the strange looping function that called itself over and over at the bottom of everything. She'd written to Chris twice. She'd written to Cursiffe. She'd stopped sleeping, mostly, and then Maren had caught her and made her sleep, and she'd lain awake instead, staring at the ceiling, with the edge of the first tier right there in front of her like the last line of a program she couldn't make compile.
+She'd tried everything. She'd sat in the yard in the snow until she couldn't feel her legs. She'd tried, once, in the first week, to change the number itself, and had a headache for seven hours, and never again. She'd sung Maren's chants until she could hear Xola's wrong vowels in her sleep, and the lattice hadn't so much as stirred. She'd said the window's own lines aloud into a candle flame, twice, and got it to lean toward her for half a heartbeat, twice, and paid for it twice with a nosebleed and a morning in bed. She'd read the lattice under her window for so long that she saw it when she closed her eyes: the nested lines, the conditions, the strange looping function that called itself over and over at the bottom of everything. She'd written to Chris twice. She'd written to Cursiffe. She'd stopped sleeping, mostly, and then Maren had caught her and made her sleep, and she'd lain awake instead, staring at the ceiling, with the edge of the first tier right there in front of her like the last line of a program she couldn't make compile.
 
 "It's like a sneeze," said Xola, at breakfast, on the eleventh day. "You can't make it come by trying. You have to look at a bright light."
 
@@ -69,13 +69,15 @@ For eleven days she'd been trying to *read* her way over the edge. Reading more,
 
 You didn't learn a language by reading it. Not all the way. At some point you had to *write.*
 
+And she *had* tried writing. On her own window, which wasn't hers to write on. Out loud, through a chant, which was like shouting a line of code at a computer through a wall. But here, in the fire, there was no wall. The language was just *there*, in the air in front of her, with gaps in it.
+
 She held up her hand.
 
 She didn't know what she was doing. She did it anyway. She held up her right hand in front of her face, with the bonfire roaring and the sparks going up, and she looked at the lattice in the air around her fingertip: the faint, shifting structure of the cold and the dark and the mana in the air. And she found the place in it where a line was missing. A gap. A space where the next character should go.
 
 And she wrote it.
 
-Not with a pen. Not with anything. She just reached into the structure with the part of herself that had been reading it for six months and *put something there*: one small line, in the world's own language, in a gap that had been waiting for it.
+Not with a pen. Not with anything. She just reached into the structure with the part of herself that had been reading it for four months and *put something there*: one small line, in the world's own language, in a gap that had been waiting for it.
 
 *Here. Light.*
 
@@ -95,7 +97,7 @@ The window opened on its own. Thea didn't ask it to.
 
 [ Althea · Tier 1: Spark · Skills: Parse ]
 
-*Spark.* The first tier. The first rung of the ladder that counted. Six months, almost to the day, since she'd woken up on the floor of the summoning hall.
+*Spark.* The first tier. The first rung of the ladder that counted. Four months, almost to the day, since she'd woken up on the floor of the summoning hall.
 
 And under it, in the tab that had been empty since the first night: one word.
 
@@ -155,7 +157,7 @@ Thea let go of Xola and turned and hugged her, hard, flame and all. And Gigichi 
 
 Over Gigichi's shoulder, Thea saw Maren.
 
-The guide was standing a little apart, in her good grey cloak, by the corner of a trestle table. She was looking at Thea. And for the first time in six months, for the first time since she'd checked their names off a list in a castle courtyard, Maren was smiling. Not a small polite smile. A real one, wide and unguarded, that made her look ten years younger.
+The guide was standing a little apart, in her good grey cloak, by the corner of a trestle table. She was looking at Thea. And for the first time in four months, for the first time since she'd checked their names off a list in a castle courtyard, Maren was smiling. Not a small polite smile. A real one, wide and unguarded, that made her look ten years younger.
 
 Bram was beside her, with a cup of the spiced stuff he'd finally got his hands on. He raised it toward Thea across the square, and drank, and wiped his eyes with the back of his wrist, and pretended he hadn't.
 

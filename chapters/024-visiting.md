@@ -67,7 +67,7 @@ Hisui had gone rigid around Kei's wrist. His tongue was flickering in and out, v
 
 "What?" said Kei, under his breath.
 
-"I don't know," said Hisui. And it was the first time, in five months, that Kei had ever heard him not know something. "There's something in the air. It's not alive. And it isn't dead." A pause. "I don't like it. I don't have a word for it. Everything has a word for it."
+"I don't know," said Hisui. And it was the first time, in four months, that Kei had ever heard him not know something. "There's something in the air. It's not alive. And it isn't dead." A pause. "I don't like it. I don't have a word for it. Everything has a word for it."
 
 Hild went in first, sword out. Then she called them in.
 

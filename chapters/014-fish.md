@@ -19,9 +19,17 @@ Alea brought them wrapped in wet leaves in a basket over her arm: two, usually, 
 
 So the fish went in the pan. And somewhere between the second week and the end of the second month, Alea stopped being a visitor and became something else, the way water stops being in a glass and starts being in the floor.
 
-She sparred with PenguChi every morning in the far corner of the yard, and PenguChi, who'd been at one percent for a month, crept up to three, then five, then nine, slowly and stubbornly, the way PenguChi did everything. She sat with Xola on the wall in the afternoons and taught her the names of every bird on the lake, and Xola taught her words from Earth that she would then use completely wrong for days. She stopped Gigichi from being alone by the gate, mostly by sitting next to her and saying nothing. She ate supper with them more nights than not.
+She sparred with PenguChi every morning in the far corner of the yard, and PenguChi, who'd been at one percent for a month, crept up to three, then five, then nine, slowly and stubbornly, a point at a time. She sat with Xola on the wall in the afternoons and taught her the names of every bird on the lake, and Xola taught her words from Earth that she would then use completely wrong for days. She stopped Gigichi from being alone by the gate, mostly by sitting next to her and saying nothing. She ate supper with them more nights than not.
 
-And she watched Thea. Thea noticed that. Alea watched her the way you watch a pot you think might boil over.
+PenguChi had tested Alea's fish thing the way PenguChi did anything: quietly, for weeks, without telling anyone until she had an answer. Sitting longer didn't help; two hours in the yard was no better than one. But on the mornings Bram let her do her breathing on the lake shore below the hall, on the flat stones where the washerwomen came in summer, her window moved by her own careful count about half a point more than in the yard. Every time. Nine mornings out of nine.
+
+"It's the water," she told Alea.
+
+Alea, who'd learned on a jetty, went very quiet. "It might be the waiting," she said at last. "It's easier to wait next to water. That's what fishing *is*."
+
+PenguChi thought about that for a whole morning, and then wrote both down.
+
+And Alea watched Thea. Thea noticed that. Alea watched her like a cook watching a pot that might boil over.
 
 "She's not a fledgling," Higu said one night, quietly, when Alea had gone home. "Not really. Nobody that good at sixteen is a fledgling anything."
 
@@ -71,7 +79,7 @@ There was a long pause, filled with rain.
 
 "I'll hold the slates," said Gigichi. "You've got better hands for the nails."
 
-So Thea did the nails, and Gigichi held the slates, and the wind tried twice to take them both off the roof. The second time, Gigichi grabbed Thea's arm and held on, and they both ended up flat against the wet slates, gasping, and then, for no reason at all, laughing. Laughing so hard Thea couldn't get her breath, lying on a roof in another world in the pouring rain, with the girl she'd sworn not to speak to holding her sleeve.
+So Thea did the nails, and Gigichi held the slates; and in the light from the window below, Thea saw that Gigichi's palms were crossed with fine red scratches, dozens of them, as if she'd been pulling brambles bare-handed. The wind tried twice to take them both off the roof. The second time, Gigichi grabbed Thea's arm and held on, and they both ended up flat against the wet slates, gasping, and then, for no reason at all, laughing. Laughing so hard Thea couldn't get her breath, lying on a roof in another world in the pouring rain, with the girl she'd sworn not to speak to holding her sleeve.
 
 "I'm sorry," said Gigichi, when they could talk again. She said it to the slates, not to Thea. "About Earth. About all of it. I wasn't pulling my weight. I know I wasn't. I was..." She stopped. "I was really tired, for a really long time, and you were always so *fine*, and it made me feel worse, so I stopped trying. That's not your fault. I made it your fault. It wasn't."
 
@@ -89,15 +97,35 @@ Gigichi turned her head and looked at her.
 
 "So," Gigichi agreed.
 
+"What happened to your hands?"
+
+Gigichi closed them round the slate. For a while the only sound was the rain.
+
+"I've been trying," she said. "At night. On my own, out by the gate, where nobody can watch me get it wrong." She opened one hand on the wet slate, palm up. "I asked the roots to come up. They didn't. And then in the morning my hands looked like this. Like something had been trying to come up *through* them instead."
+
+"Gigi."
+
+"It doesn't hurt. Much." She shut her hand again. "Don't tell Maren. I'm not stopping."
+
+Thea nailed down the slate, and the next one, and didn't promise; but she didn't tell Maren either.
+
 They fixed the leak. It took an hour. When they climbed down, soaked to the bone and shivering, Maren was standing at the bottom of the ladder with two blankets, and she looked from one of them to the other with an expression that, on anyone else's face, Thea might have called relief.
 
 ***
+
+She'd tried the other door, too, by then. The ordinary one.
+
+Maren had started them on chants in the third week: the first words every mage in the kingdom learned, a word for light and a word for warmth, sung the old way on one breath. Nobody could cast at Initiate; Maren said so before every lesson. But you learned the shapes, so that they'd be there when you could. Thea learned them perfectly. Within a fortnight she could hear when Xola dropped a vowel. And three nights running she sat up in the storeroom with a candle and sang the word for light at it, exactly, and watched the lattice under her own window while she did it.
+
+Nothing in the lattice so much as stirred. The chant was a shape in the air, in somebody else's language. The window was a shape in her, in its own. They didn't touch.
+
+*Reading isn't writing*, she put in the back of the notebook, under the line about the headache. Then, after a while: *So what is?*
 
 Thea had been reading other people's windows for a month by then.
 
 They let her. That had surprised her at first. But they'd promised, the last night in the castle, to tell each other everything, and somehow that had come to include *show*. So in the evenings after supper she'd sit with one of them, Xola or Higu or PenguChi, and once, finally, Gigichi, and they'd open their windows, and she'd look underneath.
 
-Every window was different on top. Different names, different numbers, different shapes of progress: Thea's own at sixty-four, Higu's at thirteen, Xola's at eleven, Gigichi's at ten, PenguChi's at nine and climbing like a tide. Xola's had a faint watery shimmer to it that Thea was fairly sure meant her water path was close to showing. Higu's changed with the moon. PenguChi's was slow and deep and steady, like PenguChi.
+Every window was different on top. Different names, different numbers, different shapes of progress: Thea's own at sixty-four, Higu's at thirteen, Xola's at eleven, Gigichi's at ten, PenguChi's at nine and climbing like a tide. Xola's had a faint watery shimmer to it that Thea was fairly sure meant her water path was close to showing. Higu's changed with the moon; Higu had noticed that before Thea did, and had started writing the moon down in the back of her notebook. PenguChi's was slow and deep and steady, like PenguChi.
 
 But underneath, at the very bottom of the lattice, where the structure began, they were all the same.
 
@@ -109,9 +137,9 @@ And at the very bottom of every one of them, there was a reference. A line that 
 
 *The Advisor said it started with a single man. I think he meant that literally.*
 
-She looked at the letter for a long time before she sealed it.
+She read the letter over three times before she sealed it.
 
-Then she thought about Alea, who said she didn't have a window, and who made Thea's own window shift whenever she came near, the way a compass needle shivers when you bring it close to iron.
+Then she thought about Alea, who said she didn't have a window, and who made Thea's own window shift whenever she came near.
 
 She didn't put that in the letter. Not yet.
 
@@ -131,7 +159,7 @@ Alea's ears went up, then carefully back down. "You can ask."
 
 "You said *I don't really have one.*" Thea dried her hands on her skirt. "I remember. I remember most things people say. It's a bad habit." She hesitated. "When you're near me, mine moves. Like it knows you. I've looked at four other people's windows this month, and it doesn't do that for any of them. Only you."
 
-Alea set the bucket down. She didn't say anything for a long moment. Her tail had gone very still.
+Alea set the bucket down. She didn't say anything. Her tail had gone very still.
 
 "I'm not going to make you tell me," said Thea. "I just wanted you to know that I know something's there. So you don't have to keep pretending it isn't. Not with me."
 
@@ -145,7 +173,7 @@ Alea looked at her. She had very sharp eyes, Thea thought. Sharp, and kind, and 
 
 "Okay." Thea shrugged. "I've got one too. A line in my window I can't read. Sealed, like a door with no handle." She smiled a little. "When you're ready, maybe we can trade."
 
-Alea stared at her. Then, unexpectedly, she laughed: short and surprised and a little wet.
+Alea stared at her. Then, unexpectedly, she laughed: short and surprised and not quite steady.
 
 "Maybe," she said. "Maybe we can."
 

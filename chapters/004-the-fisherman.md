@@ -87,6 +87,18 @@ That was the whole of it, at Initiate. You couldn't cast. You couldn't do anythi
 
 "Everyone feels nothing at first," Maren said, every morning, with exactly the same expression, "and then one day you don't."
 
+Thea's mornings were the same as everyone's, except that when she closed her eyes she didn't feel nothing. She saw the window's own structure, the lattice of light under the numbers that she'd found on the first night; and the trouble was that it was much more interesting than her legs going numb.
+
+On the fifth night, when the others were asleep, she tried something.
+
+The number was right there. *Progress to Spark: 49%*. Not just the digits but the thing under the digits: a small knot in the lattice, holding the value the way a peg holds a rope. She looked at it for an hour, lying on her back in the dark. Then she reached for it, not with her hands but with her attention, the way she'd reach for a line of code she wanted to change, and pushed.
+
+Nothing moved. Not the number. Not the knot. What she got instead was a headache, sudden and white, like a nail behind her right eye, that put her face down in the pillow with her teeth shut and didn't let go until the window went grey with dawn.
+
+It was like trying to scrape a word off a page with her fingernail and finding it had been carved into the table underneath. Whatever had written these windows had written them deep, and it hadn't written them for her.
+
+She didn't tell anyone. She wrote it down, though, in the back of the little notebook Maren had given each of them for their letters: *Can read it. Can't write it. Headache 7 hrs. Don't do that again.* And underneath, smaller: *Yet.*
+
 PenguChi trained apart from the rest of them, in the far corner of the yard with Bram, because she'd chosen aura. Aura was slower, Bram told her cheerfully, and harder, and most people gave up on it, and he'd never once seen a mage hold a bridge. PenguChi just nodded, slow and steady, and kept breathing.
 
 At breakfast on the seventh day, they compared windows. They did it most mornings. It had become a kind of ritual, half encouragement and half confession.
@@ -179,7 +191,7 @@ As he passed, the door rattled in its frame.
 
 Then he was gone around the bend toward the market, and the road was just a road again.
 
-Nobody said anything for a long moment.
+Nobody said anything until the bend had swallowed the sound of his boots.
 
 "Who," said Higu, carefully, "was that?"
 
@@ -227,7 +239,7 @@ They looked exactly the same.
 
 He was thirty-four years older, and they looked exactly the same.
 
-At the market he bought eggs and bread and a small bag of the honey sweets Alea liked and would never ask for. He paid, and thanked the egg-woman, and asked after her son's leg. He did not look around for five girls in clothes from another world, and he didn't need to. He could feel them somewhere at the other end of the square, five faint candles of mana barely lit, the way you feel the sun on the side of your face.
+At the market he bought eggs and bread and a small bag of the honey sweets Alea liked and would never ask for. He paid, and thanked the egg-woman, and asked after her son's leg. He did not look around for five girls in clothes from another world, and he didn't need to. He could feel them somewhere at the other end of the square, five faint candles of mana barely lit, like lamps in windows on the far side of a dark field.
 
 "You're not going to say anything," said Alea, as they started back toward the lake. "Are you."
 
@@ -237,7 +249,7 @@ At the market he bought eggs and bread and a small bag of the honey sweets Alea 
 
 "They were blocking the road," Ars said. "Now they aren't. They're fine."
 
-She was quiet for a long time after that. When he finally glanced at her, she was looking at him with her mother's eyes, very sharp and very kind, and it was a near thing.
+She was quiet all the way to the bend in the lake road. When he finally glanced at her, she was looking at him with her mother's eyes, very sharp and very kind, and it was a near thing.
 
 That night, after she'd gone to bed, he went down to the end of the jetty and stood there in the dark. The lake was black and still. Up in Wrenhaven, the lamps were going out one by one.
 

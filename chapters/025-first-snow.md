@@ -9,17 +9,21 @@ The first snow came to Wrenhaven on a night with no moon, and Higu felt it befor
 
 She'd been lying awake in the long room above the militia hall, the way she often did now. Not because she couldn't sleep. Because the night was when her path was loudest, and she'd learned to lie still and listen to it. Her window climbed faster at night; it always had. Something in her was tied to the dark, and to the moon, and to the slow wheel of the stars, and on clear nights she could feel it pulling at her like a tide.
 
-But tonight there was no moon. And at some point after midnight the pull changed. It went soft, and muffled, and very quiet, the way a room goes quiet when someone draws a curtain. She got up and went to the window.
+But tonight there was no moon. And at some point after midnight the pull changed. It went soft, and muffled, and very quiet, as if the sky had pulled a blanket over its head. She got up and went to the window.
 
 Snow. Falling straight down out of the dark, thick and slow and silent, onto the yard and the roofs and the old grumpy tree by the gate. Already the cobbles were gone. Already the world was white.
 
-She stood there for a long time with her forehead against the cold glass. Behind her, the others were asleep: Xola curled around Squiddles, PenguChi on her back with Waddles on her chest, Gigichi with one arm flung over her face. Thea was at the far end, by the other window, and Higu knew without looking that she wasn't asleep either. She'd be lying there with her window open, reading the lattice, the way she did every night now. Eighty-eight percent. So close she could probably see the edge of it.
+She stood there until her forehead ached from the cold glass. Behind her, the others were asleep: Xola curled around Squiddles, PenguChi on her back with Waddles on her chest, Gigichi with one arm flung over her face. Thea was at the far end, by the other window, and Higu knew without looking that she wasn't asleep either. She'd be lying there with her window open, reading the lattice, the way she did every night now. Eighty-eight percent. So close she could probably see the edge of it.
 
 Higu looked at the snow and thought about lists.
 
 ***
 
-She had been keeping one since the second month. She'd never told anyone, except Thea, once, and only because Thea had caught her writing in it.
+She kept two.
+
+The first was for the others to see, and they all had. *Nights*, it said at the top, and under it, in neat columns, every night since the fourth week: the date, the moon, clear or cloud, where she'd slept, and how far her window had moved by morning. Thea had looked at it and said, *Gu, this is a data set*, in a voice of deep respect. It had taken Higu six weeks to be sure what the columns said. Clear nights with any moon at all: two points, sometimes three. Cloud: one. And the week she'd pushed her bed against the inside wall and kept the shutters closed, to make certain it wasn't only the dark: four nights, and nothing, nothing, half a point, nothing. It wasn't the night that fed her. It was the sky.
+
+The second list she'd never told anyone about, except Thea, once, and only because Thea had caught her writing in it.
 
 *Things Alea says that aren't answers.*
 
@@ -167,7 +171,7 @@ Maren waited.
 
 "Is he dangerous?" said Higu. "To Alea. To us."
 
-Something moved across the guide's precise, composed face. Higu had been watching it for six months and she'd never seen it do that. It was almost like being startled into honesty.
+Something moved across the guide's precise, composed face. Higu had been watching it for four months and she'd never seen it do that. It was almost like being startled into honesty.
 
 "No," said Maren. "He is the least dangerous man I know." She paused. "To you."
 
@@ -175,11 +179,11 @@ Higu sat with that for a moment. *To you.* She thought about Bram's whispered st
 
 "Thank you," she said.
 
-Maren looked at her a long moment longer. Then, unexpectedly, she reached across the table and touched the back of Higu's hand, very lightly, with two fingers, the way you'd touch something to check it was real.
+Then, unexpectedly, Maren reached across the table and touched the back of Higu's hand, very lightly, with two fingers, as if to check it was there.
 
 "You notice a great deal," she said. "That's a good thing, in a strategist. It's a heavy thing, too." She took her hand back. "Be careful what you carry."
 
-She got up and blew out her candle and went upstairs, and Higu sat alone in the dark kitchen with her water, and thought that Maren had just told her more in four words than in six months: *the least dangerous man*, which meant he was dangerous to someone, and *to you*, which meant Maren knew exactly who *you* were to him.
+She got up and blew out her candle and went upstairs, and Higu sat alone in the dark kitchen with her water, and thought that Maren had just told her more in four words than in four months: *the least dangerous man*, which meant he was dangerous to someone, and *to you*, which meant Maren knew exactly who *you* were to him.
 
 ***
 
@@ -201,7 +205,19 @@ Behind her, the door of the hall opened, and Thea came out, wrapped in two blank
 
 "That's one more than yesterday."
 
-"I know." Thea's breath smoked in the cold. "I can see it, Gu. The edge. It's right there. Like the end of a line of code where you know what the next character has to be and you just can't make your fingers type it." She laughed, a little shakily. "It's driving me insane."
+"I know." Thea's breath smoked in the cold. "I tried something. The night the snow started."
+
+Higu looked at her.
+
+"I've been reading the window's lines for four months. I know what some of them say. Maren's chants do nothing, because they're not in that language; I've tried. So I thought, what if I *said* the window's lines? Out loud, instead of the chant." Thea held up one hand, as if there were a candle in it. "I sat in the storeroom with a candle and said three of them. In the window's own shapes."
+
+"And?"
+
+"And the flame leaned toward me. For about half a heartbeat. Like it had heard somebody call its name from the next room." Her mouth twisted. "Then my nose went. All down my front. And I was sick in the slop bucket and slept till noon, and Maren thinks I had a chill."
+
+"*Thea.*"
+
+"I did it again the night after, to be sure it wasn't luck. Same lean. Same nose." She touched her upper lip, as if the blood might still be there. "So something hears me. But it's like shouting through a wall. I'm saying the right words in the wrong place, and I don't know where the right place is." She looked up at the moon. "I can see it, Gu. The edge. It's right there. Like the end of a line of code where you know what the next character has to be and you just can't make your fingers type it." She laughed, a little shakily. "It's driving me insane."
 
 "It'll come."
 
@@ -215,7 +231,7 @@ Thea glanced at her sharply.
 
 "Every time." Thea pulled the blankets tighter. "It rattles. Like a door when there's a draught on the other side. It doesn't do it for anyone else. Not even Maren." She hesitated. "And you know what's strange? It did it on the road, too. That first week. When the fisherman walked past."
 
-Higu didn't say anything for a long moment.
+Higu didn't say anything.
 
 "The fisherman," she said finally.
 
@@ -231,6 +247,6 @@ Thea was very still beside her.
 
 They stood in the snow together for a while, under the thin moon, not saying anything else. Down by the lake, very far off, there was a single light: a lamp in a cabin window, small and yellow, the only light for a mile.
 
-Higu looked at it for a long time.
+Higu looked at it until her feet went numb in the snow.
 
 Then she went back inside, and lay down, and didn't sleep, and listened to the tide of the moon pulling at her through the dark, and thought about constellations: how they're always there, all along, waiting for someone to notice that the stars make a shape.

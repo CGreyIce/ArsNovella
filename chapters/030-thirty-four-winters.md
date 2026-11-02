@@ -17,7 +17,7 @@ So he was on the jetty, tying knots, when the first candle caught.
 
 He felt it the way you feel a change in the weather.
 
-For six months he'd been able to sense them, up on the hill: five faint flickers of mana in the militia hall, five candles not yet lit. He hadn't tried to. It was just there, the way the sound of the lake was there, or the hens. Five small presences, slowly brightening week by week, so slowly you'd never have noticed if you hadn't spent thirty-four years learning to notice things.
+For four months he'd been able to sense them, up on the hill: five faint flickers of mana in the militia hall, five candles not yet lit. He hadn't tried to. It was just there, the way the sound of the lake was there, or the hens. Five small presences, slowly brightening week by week, so slowly you'd never have noticed if you hadn't spent thirty-four years learning to notice things.
 
 And one of them, tonight, lit.
 
@@ -29,7 +29,7 @@ But he knew exactly where to look. He'd known since the first week, on the marke
 
 He stopped with the net in his hands.
 
-The first tier. Six months, more or less, since the summoning. He knew what it felt like. He'd done it himself a very long time ago, at fourteen, in a field behind his father's house: the first time the aura came up through him and *stayed*. He'd stood in that field with his hands shaking and laughed out loud, and his father had come running out of the house thinking he'd hurt himself.
+The first tier. Four months, more or less, since the summoning. He knew what it felt like. He'd done it himself a very long time ago, at fourteen, in a field behind his father's house: the first time the aura came up through him and *stayed*. He'd stood in that field with his hands shaking and laughed out loud, and his father had come running out of the house thinking he'd hurt himself.
 
 The first time the world answers back.
 
@@ -111,7 +111,7 @@ He made himself think about it. Carefully, the way he'd once thought about a bat
 
 No. That wasn't quite true. That wasn't all he'd done.
 
-He'd put two fish in a basket every morning for five months, and never said a word.
+He'd put two fish in a basket every morning for nearly four months, and never said a word.
 
 He'd let his daughter walk up the lake road every day to sit around a fire with five girls from a life he'd lost, and never once asked her to stop, or to tell him about it.
 
