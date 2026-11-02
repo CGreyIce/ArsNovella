@@ -295,7 +295,7 @@ Declan was silent for a long time.
 
 "I know."
 
-"I gave the black one away. Half to the grave. Half to her. I was glad to." He turned the rod over on his knees. "I've not wanted a sword for ten years, Gabe. I didn't want the last one. I found it on a hill in Kharvos, standing in the ground, and I picked it up because I was twenty-one and stupid and there was a war, and I carried it through all of it, and then I put it in the ground over her and walked away from it, and I was glad." He was quiet. "I don't want a sword."
+"I gave the black one away. Half to the grave. Half to her. I was glad to." He turned the rod over on his knees. "I've not wanted a sword for ten years, Gabe. I didn't want the last one. I found it on a hill in Kharvos, standing in the ground, and I picked it up because I was nineteen and stupid and there was a war, and I carried it through all of it, and then I put it in the ground over her and walked away from it, and I was glad." He was quiet. "I don't want a sword."
 
 "I know," said Gabe.
 
@@ -359,7 +359,7 @@ Not the king. The king was asleep in the cabin; Declan had given him the bed, an
 
 It was Alea.
 
-She was sitting on the stones with her back against the star, in the dark, with Astra across her knees. The black blade. Her half. The one the king had drawn narrow and Declan had struck, on this shingle, the autumn before last, out of a sword that had been standing in the ground on a hill in Kharvos when her father was twenty-one.
+She was sitting on the stones with her back against the star, in the dark, with Astra across her knees. The black blade. Her half. The one the king had drawn narrow and Declan had struck, on this shingle, the autumn before last, out of a sword that had been standing in the ground on a hill in Kharvos when her father was nineteen.
 
 She had one hand flat on the star behind her. On the cold grey bloom of it.
 
