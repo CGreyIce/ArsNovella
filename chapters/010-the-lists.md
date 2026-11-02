@@ -19,7 +19,7 @@ Out beyond the archway, the crowd was chanting something. Chris didn't need the 
 
 ***
 
-Valcrest was a city built around a fight. That was how Lucan put it, and after six weeks Chris thought he was right. Everything in the town faced the Lists the way flowers face the sun: the inns, the armourers, the betting houses, the tailors who sold coloured sashes in the champions' colours. There were bouts most days, and something bigger every week, and the whole city talked about nothing else.
+Valcrest was a city built around a fight. That was how Lucan put it, and after six weeks Chris thought he was right. Everything in the town faced the Lists: the inns, the armourers, the betting houses, the tailors who sold coloured sashes in the champions' colours. There were bouts most days, and something bigger every week, and the whole city talked about nothing else.
 
 Which meant that for six weeks, the whole city had talked about them.
 
@@ -27,7 +27,7 @@ It wasn't hostile, exactly. Not at first. People stared at Winter's horns in the
 
 "They did it to me," Ysolde said afterwards, when Winter wouldn't talk. "For years. Goat horns, in a war against demons. Doesn't matter that they're nothing alike. People see horns and get frightened, and frightened people are stupid." She touched one of her own, the curled grey ram's horn sweeping back from her temple. "You can't make them stop. You can only make them watch."
 
-Winter had looked at her for a long time, the way she looked at everyone now: guarded, measuring, giving away nothing.
+Winter had looked at her without giving anything away. She looked at everyone like that now: guarded, measuring.
 
 "How?" she'd said.
 
@@ -39,13 +39,13 @@ So they trained.
 
 They trained in the mornings with Ysolde, in a yard behind the Lists that smelled of sawdust and horses, with wooden swords and wooden spears and blunt practice bows. They trained in the afternoons with Lucan, who didn't teach them to fight at all but taught them to *stand*: where to look when the crowd was shouting, how to walk out of the archway like you owned the sand, how to bow so that it looked like mercy. And in the evenings they sat in the common room of the inn Lucan had found for them, which was called the Broken Lance and was mostly full of off-duty fighters, and compared their windows.
 
-"Three," said Chris, at the end of the sixth week. He had a notebook open on the table in front of him, full of tiny cramped handwriting. "Still three. But look at this."
+"Three," said Chris, at the end of the sixth week. He had a notebook open on the table in front of him, full of tiny cramped handwriting. The first page was from the first morning on the sand, when Ysolde had put a wooden sword in his hand and said *feel for it*, and he hadn't felt anything, and had written it down in the only language he had for things that didn't work: *IF grip == correct AND stance == correct THEN aura SHOULD flow. aura NOT flowing. investigate*. He'd been investigating ever since. "Still three. But look at this."
 
 The others leaned in. Newish groaned.
 
 "Oh no, he's got graphs."
 
-"They're not graphs, they're logs." Chris tapped the page. "Every training session. What I did, how long, what I felt, whether the number moved. I've been tracking it for a month. It goes up after the mornings with Ysolde, never after the afternoons with Lucan, and it goes up *more* on days I'm tired." He looked up. "I think you have to be a bit worn down before the aura notices you. Like it doesn't bother coming out unless your body's already asking for help."
+"They're not graphs, they're logs." Chris tapped the page. "Every training session. What I did, how long, what I felt, whether the number moved. I've been tracking it for a month. It goes up after the mornings with Ysolde, never after the afternoons with Lucan, and it goes up *more* on days I'm tired." He looked up. "I think you have to be a bit worn down before the aura notices you. Like it doesn't bother coming out unless your body's already asking for help." He turned the notebook round so they could see the column. "Could be noise. Forty sessions is nothing, and it's only me. I need more people doing it."
 
 "That's horrible," said Hako cheerfully. "Three, by the way. Me too. The spear helps. I don't know why. Something about the length."
 
@@ -56,6 +56,8 @@ The others leaned in. Newish groaned.
 "Three," said Newish. "And I've got a weird one. When we spar, I can tell when people are about to move. Not what they'll do. Just *when*. Like there's a beat, and I can hear it." She shrugged. "Is that a skill? Or am I just really good at annoying people at exactly the right moment?"
 
 "Both," said Chris, and wrote it down.
+
+He wrote everything down. That was the point of it. Five people's guesses were only five guesses. Five people's guesses written down every night for a month were something you could start to see a shape in.
 
 There had been letters, too, all through the six weeks. Chris had written to half the summoned and heard back from most of them, and the ones that mattered most were from Thea, in Wrenhaven, who wrote long, dense, wonderful letters about what she could see under the window: lines and structures and nested conditions, half of which Chris could follow and half of which kept him up at night. He couldn't see the code himself. But he could think about it. And the more he thought about it, the more he was sure of one thing.
 
@@ -209,9 +211,17 @@ That night, at the table in the Broken Lance, Chris wrote to Hyvred and Kei.
 
 He told them about the bout, and the wedge, and Newish's nan, and the cabbage. He told them that the crowd had split, and that part of it had cheered, and that Winter had almost smiled. He told them about the decree, and the tournament, all thirty-five of them in the Lists when the year turned. *Tell Drew,* he wrote. *He's going to want to run it. Somebody should.*
 
+Then he took six more sheets and wrote the same page on every one of them, in his squarest capitals, and addressed one to every group but his own:
+
+*LOGGED 40 SESSIONS. % MOVES MORE ON DAYS I'M WRECKED. COULD BE NOISE. SOMEBODY TEST IT.*
+
+And underneath, smaller: *Write down what you did, and whether it moved. Every day. Send it to me.*
+
+He didn't know yet whether anybody would.
+
 He didn't tell them about the gap on the far side of the sand.
 
-He sat for a long time afterwards with the pen in his hand. Around him the common room was loud with off-duty fighters, half of whom had been in the stands that morning and several of whom had bought Ina a drink. Newish was teaching a table of guardsmen a card game and fleecing them. Hako was asleep in his chair. Winter was sitting by the fire with Ysolde, the two of them saying almost nothing, which seemed, for both of them, to be enough.
+He sat afterwards with the pen in his hand until the ink dried on the nib. Around him the common room was loud with off-duty fighters, half of whom had been in the stands that morning and several of whom had bought Ina a drink. Newish was teaching a table of guardsmen a card game and fleecing them. Hako was asleep in his chair. Winter was sitting by the fire with Ysolde, the two of them saying almost nothing, which seemed, for both of them, to be enough.
 
 And Chris thought about a voice he'd heard every night for over a year, steady and amused, calling the far angle. A voice that had laughed at his bad jokes and made worse ones. A voice that would have had a nickname for Lucan in about four seconds, and would have caught Newish's cabbage before she did.
 

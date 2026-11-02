@@ -115,7 +115,11 @@ He sat down on the edge of a fountain at the end of the street, and Winter sat d
 
 "I didn't mean to do it."
 
-"I know." Ina turned his head and looked at her. "It's all right. I feel it too, sometimes. With the mask on. Like a coal in my chest that somebody's breathing on." He smiled faintly. "Mine's heat. Yours is cold. We're very well matched."
+"I know." Ina turned his head and looked at her. "It's all right. I feel it too, sometimes. With the mask on. Like a coal in my chest that somebody's breathing on." He turned the mask over in his hands. "I tested it, you know. For Chris's book. Without the mask, nothing. So I drew one on a bit of paper and held it in front of my face in the privy, like an idiot—"
+
+"Ina."
+
+"—and there was a little. A warm penny's worth." He looked down at the grinning grey face. "So it isn't the mask. It's wearing a face that isn't mine. I haven't worked out what that means yet." He smiled faintly. "Mine's heat. Yours is cold. We're very well matched."
 
 "That's not funny."
 
@@ -133,7 +137,7 @@ Ina was quiet for a moment, watching the water in the fountain.
 
 "I told him the truth. It tends to surprise people."
 
-Winter looked at him for a long time: at the white hair going lavender at the ends, the single purple horn, the green eyes, the hand that still wasn't quite steady on his knee.
+Winter looked at him properly: at the white hair going lavender at the ends, the single purple horn, the green eyes, the hand that still wasn't quite steady on his knee.
 
 "Thank you," she said. "For not making me fight him either."
 
@@ -187,7 +191,17 @@ Chris looked at her for a moment. Then he took his notebook out of his coat, ope
 
 "Eight," said Ina, from beside her.
 
-Chris wrote it down. Then he looked up at the rest of the room: at the guards, and the armourer, and the barmaid with her tray, all still watching them.
+Chris wrote it down.
+
+"And what they did," said Winter. "Not just the numbers. What they think moves it."
+
+Chris turned to the facing page and wrote a second heading, as large as the first: *WHAT MOVES IT*. Under it, from the letters already folded in his coat, he copied three lines. *TIRED (me, Valcrest). THE MOON? (Higu, Wrenhaven). WHEN YOU STOP PUSHING (Salty, Cinderhold. Says Rhea says).*
+
+"That's not a lot," said Newish.
+
+"It's three weeks of letters," said Chris. "Give it a winter."
+
+Then he looked up at the rest of the room: at the guards, and the armourer, and the barmaid with her tray, all still watching them.
 
 "It's fine," he told them, cheerfully. "We're just doing maths."
 
@@ -199,7 +213,7 @@ Ysolde was sitting on the fence when Winter came out to the yard at dawn the nex
 
 Winter climbed up and sat beside her.
 
-They didn't say anything for a long time. The sun came up over the Lists, and the city woke up below them, and somewhere a child was already roaring in paper horns.
+They didn't say anything. The sun came up over the Lists, and the city woke up below them, and somewhere a child was already roaring in paper horns.
 
 "He didn't fight," said Ysolde eventually. "The oni. I heard."
 

@@ -37,7 +37,7 @@ The decree wasn't a surprise. Not really. Chris had seen it coming for weeks, th
 
 It was the letters. They'd been coming in from every corner of the kingdom since the autumn, and every one was worse than the one before. Coldwater. The scouts. The hut on the hill, with the shoes lined up against the wall and the circle burned into the floor. Hild's wall of light. And then, last week, from Kingsferry: the midwinter market. Three people with no threads, walking through a crowd of thousands toward Rachael. A man whose hand bled black when she cut it. An empty coat on the edge of the quay, with no lining, shaped like someone's memory of a coat.
 
-Chris had read that one out loud at the table in the Broken Lance, the way he read all of them now. When he'd finished, nobody had said anything for a long time. Then Newish had said, quite quietly, "She *cut* him, though," and something in her voice had made Chris look up. Newish, who ragebaited crowds, who'd caught a cabbage and held it over her head like a trophy, had tears on her face.
+Chris had read that one out loud at the table in the Broken Lance, the way he read all of them now. When he'd finished, nobody had said anything. Then Newish had said, quite quietly, "She *cut* him, though," and something in her voice had made Chris look up. Newish, who ragebaited crowds, who'd caught a cabbage and held it over her head like a trophy, had tears on her face.
 
 So no. The decree wasn't a surprise. You didn't hold a tournament in an arena with eight thousand people in it when there were things walking around in crowds wearing other people's faces.
 
@@ -52,6 +52,28 @@ It had turned into something he hadn't expected. He'd thought it would be a tall
 It had turned into a map.
 
 You could see it, if you laid the pages side by side. Thirty-five columns of numbers creeping upward, week by week, slowly, unevenly. Some of them in steady lines: PenguChi, who climbed exactly one percent a week as if she'd decided to. Some of them in jumps: Rachael, who'd gone up four the night she held the dockworker together and three more after the night market. Some of them stuck for a month and then lurching forward: Tiger, whose number had sat on eight for five weeks and then, in one afternoon with Hild, jumped to twelve.
+
+And on the facing pages, the other half of it, the half Winter had asked for: *WHAT MOVES IT*. That had grown too. Every letter that came in now had a few lines at the bottom for him, because he'd asked, and because once one group started doing it the others couldn't bear not to. He'd sorted them into what held up and what didn't.
+
+*BEING WORN DOWN: yes. Me, Salty, Tiger (that afternoon was Hild until he couldn't stand). But it COSTS. Salty's hand, my knee. Every other day.*
+
+*SLEEP: yes. Everyone. Boring.*
+
+*THE SKY: Higu only. Clear nights 2–3, cloud 1, shutters 0. Real.*
+
+*WATER: PenguChi, half a point. Probably real. Probably the waiting, not the water.*
+
+*WHAT SUZU EATS: Yan only. Real. Don't want to think about it.*
+
+*LUCKY SOCK: Newish. No.*
+
+*TRAIN ONE PATH, BOTH GO UP: Niko only. Nobody knows why.*
+
+And at the bottom, underlined twice, the only thing he'd found that seemed to be true of nearly all of them:
+
+*TRYING doesn't move it. WANTING does. Wendy hits more when she isn't aiming. Maigo's root only comes up when he wants something from it. Salty went light when he was annoyed and not thinking. Being worn out helps because you stop trying.*
+
+He'd sent that page out to every group a fortnight ago. Thea had written back one line, in the margin of a much longer letter: *That's a bug report for the whole species.*
 
 And one column, on its own, way out at the top of the page.
 
@@ -69,11 +91,21 @@ She hadn't answered yet. He hoped that meant she was busy.
 
 Group 7's own numbers, that night, were slow and steady and nothing to write home about. He wrote them home anyway.
 
-"Twelve," said Hako. "The spear's getting lighter. Ysolde says by spring I'll be able to hold a stance for an hour."
+"Twelve," said Hako. "The spear's getting lighter. Ysolde says by spring I'll be able to hold a stance for an hour." He considered. "I tested it, like you said. Broom handle: less. The long spear off the rack, the one that isn't mine: more. Mine: most."
+
+"So it's trust," said Chris, and wrote *TRUST?* under WHAT MOVES IT, with an arrow to a line he'd copied out of one of Yan's letters, something the chaplain at Cinderhold had said on their second day: *aura goes into whatever you trust*.
 
 "Twelve," said Newish, and then, with a strange little frown: "and the beat's getting louder. In the bouts. I can hear it before people move now, every time. It's like..." She tapped the table, twice, in a quick uneven rhythm. "Like that. Everybody's got one. A rhythm. And if you hear it, you know when they'll go." She looked at the others. "Is that tempo? Is that what Lucan meant, when he said my path was going to be *tempo?*"
 
 "Probably," said Chris, writing.
+
+"I've been testing it in the market," said Newish. "On strangers. Calling when they'll move, under my breath. Nineteen out of twenty."
+
+"And the twentieth?"
+
+"Drunk," said Newish. "Drunk people have a terrible beat."
+
+Chris wrote that down too.
 
 "Thirteen," said Ina. "The heat's steadier. I can keep it lit for a minute now, under the mask. Before it was seconds."
 
@@ -82,6 +114,8 @@ Group 7's own numbers, that night, were slow and steady and nothing to write hom
 They all looked at Winter.
 
 She'd been quiet all evening. She'd been quiet all week, since the night-market letter. She sat at the end of the table with her silver hair falling over her face and her hands flat on the wood, and she didn't look up.
+
+Chris knew what she'd been doing at dawn, because she'd told him, for the log, in four flat sentences, the way she told him everything. Calm, the way Ysolde wanted: thirty-one mornings, and nothing. Not a skin of frost. Angry on purpose, thinking about Aldric Vane's face and the word *thing*: three mornings, three puddles frozen solid in a heartbeat, and three mornings of fingertips gone white and then blistered, as if she'd held them to a stove. Ysolde had made her stop after the third. Two of her fingertips still had the shiny pink skin of the new blisters on them, there on the table. And last night she'd sat by the fire with the WHAT MOVES IT page for an hour, reading the line at the bottom over and over, and hadn't said a word.
 
 "Thirteen," she said. And then, very quietly: "I'm going out early tomorrow. To the yard."
 
@@ -135,7 +169,7 @@ Chris looked at the empty sand.
 
 "That was his spot," he said. "Ice's. In the trios. Me and Winter and him, or me and Newish and him. He always took the far angle. He'd sit on it for a minute without moving, and talk the whole time, making terrible jokes, and then take one shot and win the round." He was quiet a moment. "After he died, we stopped playing trios. Me and Newish tried once. We kept leaving the gap. It felt like walking with a limp."
 
-Hako didn't say anything for a long moment.
+Hako didn't say anything.
 
 "He taught me," he said quietly. "CS. Apex. I only ever played Marvel Rivals before. He just... took me into calls and showed me. Never got annoyed. Never once made me feel stupid." He looked down at his spear. "Eight months. That's all I had. I always thought there'd be more."
 
@@ -145,7 +179,7 @@ Hako didn't say anything for a long moment.
 
 "You were," said Chris. "You filled it. First time anybody has in three years."
 
-Hako stood there in the middle of the dark arena for a long time, holding his spear, looking at the far end of the sand. Then he wiped his face with the back of his hand, quickly, the way you do when you don't want anyone to see.
+Hako stood there in the middle of the dark arena, holding his spear, looking at the far end of the sand. Then he wiped his face with the back of his hand, quickly, and turned it into scratching his nose.
 
 "Okay," he said. "Then I'll keep it warm. For when it matters."
 
@@ -167,9 +201,9 @@ There was a puddle in the yard, near Winter's feet. Half-frozen already, from th
 
 Winter looked down at it.
 
-She held her hand out over it. Not angry. Chris could tell, somehow, even from the window. Not angry, not frightened, not anything. Just standing there in the cold with her hand out, perfectly still, the way Ysolde had taught her.
+She held her hand out over it. Not angry. Chris could tell, somehow, even from the window. Not angry, not frightened, not trying. Just standing there in the cold with her hand out, perfectly still, *wanting* it, quietly, without any fight in it at all.
 
-For a long time, nothing happened.
+For twenty breaths, nothing happened.
 
 Then the black water in the middle of the puddle went white.
 
@@ -191,7 +225,7 @@ He went back to his bed and sat on the edge of it, and opened his notebook to th
 
 Just a note.
 
-*Did it on purpose.*
+*Did it on purpose. Calm. No blisters.*
 
 Then he looked at the column at the top of the page, the one way out on its own, and the number in it.
 
