@@ -269,7 +269,7 @@ Not *lie*. Not *trick*. *True*.
 
 A glamour of what was there. Made easier to see.
 
-"It's a good name," said Calvin, beside him, leaning right in to read it over his shoulder. "It's a very you name. You're going to be insufferable."
+"It's a good name," said Calvin, beside him, when Dennis read it out. "It's a very you name. You're going to be insufferable."
 
 "I'm already insufferable."
 
