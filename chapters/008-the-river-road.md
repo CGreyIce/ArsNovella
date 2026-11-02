@@ -101,6 +101,12 @@ That evening, round the fire, they compared windows: both groups together, the w
 
 "It's something," said Emrys.
 
+Rachael was frowning at her hands. "I tried it on everyone at lunch," she said. "Hands over each of you while you were eating, like an idiot. Nobody noticed." She looked at Dennis. "Your back. Left side, low down."
+
+Dennis stopped with his cup halfway to his mouth. "It's been bad since the wagon. I haven't said."
+
+"I know you haven't," said Rachael. "That's how I know it works."
+
 "Two," said Dennis, "and I can tell when someone's lying. Not magic. I could always do that." He glanced at Sabine. "She's lying about what's in that skin."
 
 "I'm not lying," said Sabine. "I'm withholding."
@@ -119,7 +125,7 @@ On the second evening, Gabe wanted to spar.
 
 Xav understood the impulse. Three days in a wagon did something to your legs, and to your head, and Gabe had always been someone who thought better when he was moving. So they found two straight sticks, and cleared a space in the waystation yard, and squared up.
 
-Gabe was big. He'd always been big, and strong in the way of someone who'd never needed to think about it, and he came in hard and fast and direct, the way he did everything.
+Gabe was big. He'd always been big, and strong in the way of someone who'd never needed to think about it, and he came in hard and fast and direct, as he always had.
 
 Xav waited.
 
@@ -149,7 +155,7 @@ Petra looked at him blankly.
 
 "Fought."
 
-Petra was silent for a long moment. Xav had the strangest feeling that she wasn't really looking at him anymore. That she was looking at something behind him, or before him, in a place he couldn't see.
+Petra was silent. Xav had the strangest feeling that she wasn't really looking at him anymore. That she was looking at something behind him, or before him, in a place he couldn't see.
 
 "Where is he?" she said.
 
@@ -197,7 +203,7 @@ Deston made a decision. He wasn't sure, afterwards, why it had been so easy. May
 
 "I can see something," he said. "Between us. Right now. Like a string."
 
-Xav didn't laugh. That was the thing about Xav. He just looked at Deston for a long moment, with the steady attention he gave everything, and then looked at the empty air between them where Deston's eyes were fixed.
+Xav didn't laugh. That was the thing about Xav. He just looked at Deston, with the steady attention he gave everything, and then looked at the empty air between them where Deston's eyes were fixed.
 
 "What colour?" he said.
 

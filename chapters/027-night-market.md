@@ -11,7 +11,7 @@ Not because of the market. The market was wonderful. Everyone said so: stalls fr
 
 That was what Deston was dreading. Thousands of people. Thousands of faces. And every one of them, for him, wrapped in threads.
 
-He'd been looking for six weeks now. Every face, in every street, every day, since the stranger in the good coat had stood in the infirmary turning his hat round by the brim with nothing in the whole world tied to him. He'd got good at it. He could stand on a street corner and let his eyes go soft and see the threads come up out of a crowd like light through water, and sweep across them, and find the gaps. The places where a person was standing and the light didn't reach them.
+He'd been looking for six weeks now. Every face, in every street, every day, since the stranger in the good coat had stood in the infirmary turning his hat round by the brim with nothing in the whole world tied to him. He'd got good at it, because he'd made himself practise: every noon on the quay, a crowd of five hundred, eyes soft, sweep and count, until he could cross the whole waterfront in the time it took to say his own name and know he hadn't missed anyone. He could stand on a street corner and see the threads come up out of a crowd like light through water, and sweep across them, and find the gaps. The places where a person was standing and the light didn't reach them.
 
 He hadn't found one. Not since the infirmary.
 
@@ -29,7 +29,7 @@ He wasn't sure that was good news.
 
 "With *all of you* there. And Sabine. And Emrys." She stood up. "I've been inside for six weeks, Dest. Infirmary and home. Infirmary and home. With someone walking me both ways like I'm made of glass." Her voice softened. "I know why. I'm grateful. But I'm going to the market."
 
-Deston looked at her for a long time. Then he looked at the thread between them: bright and gold and steady, thicker than it had been in the autumn, much thicker than on the first day in the hall. It was the thickest it had ever been, in fact. Six weeks of walking someone home every night did that.
+Deston looked at her. Then he looked at the thread between them: bright and gold and steady, thicker than it had been in the autumn, much thicker than on the first day in the hall. It was the thickest it had ever been, in fact. Six weeks of walking someone home every night did that.
 
 "Okay," he said.
 
@@ -103,31 +103,31 @@ And the three of them moved at once.
 
 ***
 
-Gabe went for the stranger. He didn't think about it. Deston saw him not think about it. He just stepped round the table and into the stranger's path, big and solid and planted, the way Azac had stood in front of the thing in the Hollow, and the stranger walked into him and *pushed*.
+Gabe went for the stranger. He didn't think about it. Deston saw him not think about it. He just stepped round the table and into the stranger's path, big and solid and planted, the way Azac had stood in front of the thing in the Hollow. The stranger didn't slow down. He put one gloved hand flat on Gabe's chest, almost gently, as if he were moving a curtain aside, and *pushed*.
 
-Gabe went backwards like he'd been hit by a cart. He crashed into the table, and the bandages went everywhere, and Sister Maud shouted, and the crowd nearest them screamed and scattered.
+Gabe left the ground. Fifteen stone of smith went backwards through the air like a sack thrown off a cart and came down across Rachael's table, and the trestles folded under him with a crack like a branch going, and the bandages and the basket and a jug of vinegar went everywhere, sharp-smelling on the cold stones. Sister Maud shouted. The crowd nearest them screamed and scattered, and somebody's lantern went into the river with a hiss.
 
 And Sabine came over the wreck of the table with her sword out.
 
-Deston had never seen her fight. She'd never needed to. He'd known she was Reaching tier the way you know a fact about someone, without feeling it. Now he felt it. The light came up off her blade, faint and shimmering, and ran a hand's width past the edge. She swung it at the stranger, low and fast, not at his body but at his legs. He stepped back, too fast, much too fast for a man, and the light caught the hem of his good coat and sliced it clean through.
+Deston had never seen her fight. She'd never needed to. He'd known she was Reaching tier the way you know a fact about someone, without feeling it. Now he felt it. The light came up off her blade, faint and shimmering, with a thin high whine like a wet finger round the rim of a glass, and ran a hand's width past the edge. She swung it at the stranger, low and fast, not at his body but at his legs. He stepped back, too fast, much too fast for a man, a jerk like a puppet's; and the light caught the hem of his good coat, and a long strip of dark wool fell away on to the cobbles, and the cobble under it had a fresh white score cut across it a finger deep.
 
 He looked down at the cut, and then up at Sabine, and stopped smiling.
 
 Behind Deston, the woman in the shawl had reached the edge of the scattered crowd, and Emrys sang.
 
-It wasn't a song. It was one note, the low steady one he'd been humming, suddenly thrown *out* at full voice. And something came with it. Light. A great white bloom of it, like a lantern going off in your face, right in front of the woman in the shawl. She flinched back with her arm over her eyes, and made a sound that was not a sound a woman makes.
+It wasn't a song. It was one note, the low steady one he'd been humming, suddenly thrown *out* at full voice. And something came with it. Light. A great white bloom of it, right in front of the woman in the shawl, so bright that every lantern for twenty paces seemed to go out beside it and Deston's own shadow was flung down the quay behind him, black and sharp as a cut-out. She flinched back with her arm over her eyes, and made a sound that was not a sound a woman makes: a dry, clicking hiss, deep in a throat that wasn't the right shape for it.
 
 "*Torch,*" Emrys gasped, staggering. "That's... my whole... that's the whole of it. That's everything I've got." His face was grey. "Somebody else do something."
 
 The man in the brown coat was coming round the other side.
 
-Calvin saw him first. Calvin, who'd been feeling the wind turn for months, and who felt it turn now, behind Rachael, where nobody was looking. He shouted something wordless and threw himself sideways, and caught the man in the brown coat round the knees, and they both went down on the cobbles in a tangle.
+Calvin saw him first. Calvin, who'd been feeling the wind turn for months, and who felt it turn now, behind Rachael, where nobody was looking. He shouted something wordless and threw himself sideways, and caught the man in the brown coat round the knees, and they both went down on the cobbles. Deston heard Calvin's knees hit the stone over everything else, two cracks like dropped plates. The man's elbow came back into Calvin's face on the way down; it felt, Calvin said afterwards, like being hit with a table leg, a table leg with no give in it at all.
 
 The man in the brown coat came up first. He reached for Rachael.
 
 Rachael cut him.
 
-She didn't hesitate. Deston would remember that for the rest of his life. She didn't stop, or think, or freeze. She had Gabe's knife out, and the man's hand came at her, and she cut it, across the back, the way she'd been taught to cut a bandage. Fast and neat and without fuss.
+She didn't hesitate. Deston would remember that for the rest of his life. She didn't stop, or think, or freeze. She had Gabe's knife out, and the man's hand came at her, and she cut it, across the back, the way she'd been taught to cut a bandage. Fast and neat and without fuss. She felt the little blade go in through the skin and catch on something under it that wasn't bone: something that gave like wet leather and then let go.
 
 The man looked at his hand.
 
@@ -141,7 +141,7 @@ Then the city watch arrived.
 
 They came running down the quay in a clatter of boots, a dozen of them, with halberds and torches, shouting. They'd heard the screaming, and seen Emrys's light, and somebody had run to the watch-house. The crowd parted for them in a great surge, and in the surge, in the confusion, in the scatter of torchlight and running people and the shouting of the watch-captain, the three of them turned.
 
-All at once, like birds turning in the air.
+All at once, as if one of them had decided for all three.
 
 And went into the river.
 
@@ -185,7 +185,7 @@ Rachael sat on the steps beside Emrys, with Gabe's knife on her knee. She'd clea
 
 "You held," said Deston quietly. "Like with the dockworker. You held."
 
-Rachael looked at him for a long moment. Then she laughed, a small, shaky, astonished sound, and sat down on the bench beside Gabe, close, closer than she ever sat to anyone, not quite touching, and closed her eyes.
+Rachael looked at him. Then she laughed, a small, shaky, astonished sound, and sat down on the bench beside Gabe, close, closer than she ever sat to anyone, not quite touching, and closed her eyes.
 
 Deston looked at the threads.
 
@@ -211,7 +211,7 @@ He sealed it, and went to the window, and looked out at the quay.
 
 The market was gone. The stalls were packed away, the lanterns taken down. Only the little candle-boats were left, a few of them, still floating on the black water where the children had set them adrift. They'd drifted out into the middle of the river now, and were turning slowly in the current, very small and very bright.
 
-Deston watched them for a long time, until the last of them had burned out.
+Deston watched them until the last of them had burned out.
 
 Then he looked at the thread running north, upriver, thin as a hair, to Xav. It was still there. It always was.
 

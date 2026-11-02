@@ -47,6 +47,10 @@ Gabe thought about it. "I think so. It's like... it goes quiet. Just before it's
 
 "Maybe it's just you," said Deston.
 
+Gabe tested it anyway, the next week. He asked the smith to put three bars in the fire and not tell him which was ready, and stood with his back to the hearth and his eyes shut, and called them by the feel of the heat on the back of his neck. He got the first one right. He got the second right. He called the third too early, and when the smith drew it out and struck it, it cracked across like a biscuit, and the smith docked him a week's bellows for the iron.
+
+"Two out of three," Gabe said at supper, rubbing his neck. "And the third one I was guessing. I could feel myself guessing. It's different." He looked at his hands again. "I just have to learn which one I'm doing."
+
 ***
 
 On the last night of the second week, Deston found Gabe on the roof.
@@ -77,7 +81,7 @@ Emrys looked at them both for a moment, in the candlelight, with an expression D
 
 "I've never heard it," he said. "And I've heard every song in this kingdom." He paused. "You hold the gap for him very well. The third part. I could hear exactly where it should go."
 
-He went back inside without waiting for an answer. Gabe looked at the window for a long time after the light had gone.
+He went back inside without waiting for an answer. Gabe looked at the dark window after the light had gone.
 
 "He's good," he said finally.
 
@@ -95,7 +99,7 @@ She came back every day after that.
 
 Deston went to find her there, at the end of the second week, and stopped in the doorway, and watched.
 
-She was sitting by a cot near the window. In the cot was a little girl, five or six, flushed and sweating with fever, tossing her head on the pillow. Rachael had one of the girl's hands in both of hers and was talking to her very quietly, the way you talk to someone you want to keep from being frightened. She wasn't doing anything. She couldn't. She was an Initiate, like the rest of them, and none of them could do anything yet.
+She was sitting by a cot near the window. In the cot was a little girl, five or six, flushed and sweating with fever, tossing her head on the pillow. Rachael had one of the girl's hands in both of hers and was talking to her very quietly, so that she wouldn't be frightened. She wasn't doing anything. She couldn't. She was an Initiate, like the rest of them, and none of them could do anything yet.
 
 But her hands, Deston saw, were glowing. Very faintly. A soft gold light, the same colour as the warmth Hyvred had said she carried where the Advisor had touched her wrist.
 
@@ -107,7 +111,11 @@ Rachael looked up and saw Deston in the doorway. She didn't let go of the girl's
 
 "And now you are," said Deston.
 
-"And now I am." She pressed the heels of her hands to her eyes. "Eleven percent. Emrys says the healers here would kill for eleven percent in two months."
+"And now I am." She pressed the heels of her hands to her eyes. "Eleven percent. Emrys says the healers here would kill for eleven percent in two months." She took her hands away from her eyes. "Do you want to know the strange part? Three of it came in one week."
+
+"Which week?"
+
+"The week I learned the hand." She held hers up and looked at it. "There's a book here. An old surgeon's drawings, every bone, every vessel. I can't read the writing, it's all in their joined-up hand, so I go by the pictures, and Sister Hester reads me the names. Twenty-seven bones in the hand. I learned them all, and the heat under my fingers stopped being *it hurts here* and started being *it's the second knuckle, the long bone behind it*." She let her hand fall. "When I know what I'm touching, it knows where to go. So now I'm learning the arm."
 
 ***
 
@@ -122,6 +130,8 @@ There wasn't a mast in Kingsferry he hadn't climbed by the end of the month. He 
 "Nobody's arguing," said Rachael.
 
 "Somebody might later."
+
+He'd started keeping score, too, in chalk on the inside of the wardrobe door, because Dennis had said a man who only remembers his good calls is a gambler. Every call went up *before* the weather, and got a tick or a cross after. Seven of ten, the first week. Nine of ten, the third. The tenth was a squall that came down the river from nowhere and soaked him to the skin in the crosstrees, and he'd written beside the cross, in large letters, *IT CHEATED*.
 
 And Dennis and Sabine found each other, which everybody else had known was going to happen since the first day on the road.
 
@@ -143,6 +153,8 @@ Deston never got the full story. He got pieces. A cart of salt that had been bou
 
 Dennis stopped counting. For a moment he looked almost thoughtful. Then he put the bag away and said, "Why not both," and Sabine laughed so hard she had to sit down.
 
+She helped him test it, later, because she was curious and he was insufferable. She sat across the table from him one night and told him twenty things, ten true and ten not, in exactly the same voice, and he called nineteen of them. The twentieth was *I don't like you*, which he'd marked as a lie; and she'd said that was the one he'd got wrong, and neither of them was entirely sure, afterwards, which of them had been lying about that.
+
 ***
 
 Deston found the threads.
@@ -157,9 +169,11 @@ And Deston would tell him. The grey ones, thin as hair, between strangers. The g
 
 He learned that threads didn't care about distance. The bargeman's thread to his grandson didn't get any thinner when the boy ran off down the quay. He learned that they changed slowly, over months and years, and fast only when something enormous happened. He learned that his own thread to Gabe was the thickest thing he had ever seen, and that it had been thick for a very long time. He learned that he was at ten percent, and that ten percent of a thing like this was already more than he knew what to do with.
 
+He learned one more thing by accident, and then didn't do it again. If he reached for a thread, not with his hand but with whatever it was in him that saw them, the person at the other end *looked round*. He did it once to Gabe across the forge yard, and Gabe turned and looked straight at him through the smoke with his tongs in the air. He did it once to a stranger on the quay, and the man stopped dead and patted his pockets as if he'd been robbed. After that he kept his hands to himself, so to speak. It felt like reading somebody's letters.
+
 And he learned, on the last evening of the month, that sometimes, if he concentrated very hard, he could feel the far ends of the threads he couldn't see.
 
-He was sitting at the window with his eyes half closed, following his thread to Xav. It ran out of the room and up the river, north, thinner and thinner with distance, until he lost it against the evening light. But he could still *feel* it. Not see it. Feel it, the way you can feel someone's hand in yours in the dark.
+He was sitting at the window with his eyes half closed, following his thread to Xav. It ran out of the room and up the river, north, thinner and thinner with distance, until he lost it against the evening light. But he could still *feel* it. Not see it. Feel it, like a hand held in the dark.
 
 And something was wrong at the other end.
 
@@ -171,7 +185,7 @@ He sat up so fast he knocked over Emrys's cup.
 
 "Something's happened," said Deston. "To Xav. Or near him. I don't—" He pressed his hand to his chest. "I can feel it. Something's wrong."
 
-Emrys didn't tell him he was imagining it. That was the thing about Emrys. He just looked at Deston for a long moment, and then said, quietly, "Then write to him. Tonight."
+Emrys didn't tell him he was imagining it. That was the thing about Emrys. He just looked at Deston, and then said, quietly, "Then write to him. Tonight."
 
 ***
 

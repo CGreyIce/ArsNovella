@@ -47,13 +47,19 @@ Rachael couldn't. Her hands wouldn't open. Brother Tamsin had to peel her finger
 
 "I could feel it," said Rachael. "In my hands."
 
-Sister Maud looked at her for a long time.
+Sister Maud looked at her without blinking.
 
 "Come with me," she said.
 
 ***
 
 Sister Maud's room was very small and very bare: a bed, a desk, a window over the river, a shelf of books with cracked spines. She sat Rachael down on the bed and put a cup of something hot into her shaking hands and sat down at the desk across from her.
+
+"You're cold," said Sister Maud.
+
+Rachael was. She hadn't noticed until then. It was a mild afternoon and there was a fire in the grate, and she was cold all the way into her bones, the deep wet cold of a winter morning, and her teeth wanted to chatter.
+
+"That's the price," said Sister Maud. "Healing takes from the healer. Not only mana. *You*. Warmth first, then strength. You didn't heal that man. You held him, with a little of what you've got coming up through your hands, for two hours, and look at you." She nodded at the cup. "Drink that. When you can really mend, it'll cost you more, and you'll pay it in your own body every time. Cold. Tired out of all reason. Sometimes you'll feel the hurt yourself, for a heartbeat, as it closes. Learn it now, while it's small, so it doesn't frighten you when it's big."
 
 "What's your number?" she said.
 
@@ -69,6 +75,12 @@ Sister Maud closed her eyes briefly.
 
 Rachael didn't know what to say.
 
+"Somebody's been teaching you the body," said Sister Maud. It wasn't a question. "You said *here*, and *here*, and the second *here* was the big vessel under the liver, and you said it before I'd got my hand on it."
+
+"Sister Hester reads me the names. Out of the old surgeon's book, with the drawings." Rachael's face went hot. "I can't read the writing. I go by the pictures. I learned the hand, and then the arm, and now the belly. Every time I learn a part, the number jumps."
+
+"Of course it does." Sister Maud's mouth twitched at one corner. "Mana goes where you understand. It always has. Most of my sisters learned the body after the healing came, and wondered all their lives why it was so slow." She tapped the desk. "From tomorrow you learn it from me. Every bone. Every vessel. By name, and by feel, and by what it looks like when it's broken."
+
 "Every healer's order in the kingdom will want you," said Sister Maud. "Every lord with a sick child. Every general with a war coming. And you're going to have to learn to say no to most of them, because there's only one of you." She leaned back. "I'm telling you this now, while you're still an Initiate, so that when they come, you won't be surprised."
 
 "When who comes?"
@@ -82,6 +94,8 @@ Rachael sat with her cup going cold in her hands and thought about the letter th
 "I'll be careful," she said.
 
 "Be more than careful," said Sister Maud. "Be *watched.*"
+
+She slept fourteen hours that night. She woke in the grey of the next morning still cold, with her fingers stiff as if she'd been out in frost, three extra blankets heaped on her by somebody, and Gabe asleep on the floor by the door with his back against the wall.
 
 ***
 
@@ -121,7 +135,7 @@ Except his eyes weren't smiling. They were fixed on the stranger, and they'd gon
 
 "How kind." Deston's hand tightened on her shoulder, very slightly. "She'll think about it, I'm sure. Won't you, Rae? Come on. Emrys."
 
-And he walked her out of the infirmary, past the stranger, out of the river door and into the street, without hurrying and without looking back. He didn't let go of her shoulder until they'd turned two corners. Then he took his hand away at once, the way you'd take it off a stove, and leaned against a wall, and let out a long shaky breath. Rachael didn't say anything about the hand. Any other day she would have. That was how she knew how frightened she'd been.
+And he walked her out of the infirmary, past the stranger, out of the river door and into the street, without hurrying and without looking back. He didn't let go of her shoulder until they'd turned two corners. Then he took his hand away at once, as if it had burned him, and leaned against a wall, and let out a long shaky breath. Rachael didn't say anything about the hand. Any other day she would have. That was how she knew how frightened she'd been.
 
 "Dest," said Rachael. "What—"
 
