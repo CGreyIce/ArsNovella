@@ -253,6 +253,10 @@ Azac went to all four of them at once, Rhea and Bram and Sabine and Petra coming
 
 "*I KNOW*," said Azac, delighted, and rolled down the slope.
 
+At the bottom he lay on his back on the sand and opened his window, because everybody did now, after anything. *Ninety-nine.* The same as that morning. He'd held four of them for two breaths and felt the jetty-post thing go down through him into the turf, the way Ars had shown him on the shingle, and it hadn't been enough. Or it hadn't been the thing. Or it hadn't been time.
+
+He grinned at the sky anyway. "Not yet," he told it, and sat up to watch.
+
 Wendy went to Ysolde. She'd been on the top of the mound by the pole the whole time, with her bow, putting padded arrows into anyone who came over the lip, and she'd put one into Ysolde's chest at twenty paces and Ysolde had kept coming, because it had glanced off a fold of her tunic. The marshal hadn't called it. Wendy had lowered her bow and looked at the marshal with the face of a woman who'd been cynical about the world for twenty-eight years and was being proved right again, and Ysolde had touched her very lightly on the arm with the wooden sword.
 
 "Out," said Ysolde. "Sorry. It was a good arrow."

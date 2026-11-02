@@ -75,6 +75,16 @@ He'd thought about it for a year. Since before he'd ever written to Lucan. Since
 
 It wasn't a tournament. Not really. He'd known that from the start. One Gleaming soldier from the king's guard would beat any of them, any day, on any sand. You couldn't measure the thirty-five against each other and call it the Lists; it'd be like a bracket of first-week players. It'd tell you nothing.
 
+He'd asked Chris for the numbers anyway, the night before, for the seeding, and Chris had turned to a page near the back of the ALL GROUPS book that he'd plainly been keeping for weeks and not showing anyone. It had a heading in his square capitals: *AT THE EDGE (95+).*
+
+*Hako 99. Azac 99. John 99 (since the spring; "light's patient"). Chris 99.4 (five days. Not funny). Jared 98. Gabe 98. Milli 97. Kei 96. Aleaka 94. Gigichi 93. Malcolm 92. Cursiffe 90.*
+
+Twelve names. Twelve people who'd come to Valcrest a hair from the first tier, after two years of mornings.
+
+"A tournament won't make anyone tier," Drew had said, reading it. "I've watched it a hundred times. People think the big stage does it. It doesn't. It just finds out who was going to."
+
+"Four," Chris had said. "Maybe five. That's my guess." He'd closed the book. "Not me. I've been at ninety-nine point four for five days. My left leg's got a memory leak."
+
 But you could do this.
 
 "Five squads," said Drew. "Seven to a squad. One from every posting." He touched the bracket's left-hand column: five empty boxes, each with seven empty lines. "One from Wrenhaven. One from Solmere. One from Cinderhold. One from Kingsferry. One from Thornwall. One from Duskhollow. One from here." He looked round at them. "Nobody stands next to anyone from their own group. Not once. Not all week. Every squad's a lobby of strangers who've been reading each other in the channel for two years and never shared a fire."
