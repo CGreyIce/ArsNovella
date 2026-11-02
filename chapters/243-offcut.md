@@ -345,7 +345,7 @@ Gabe went out and sat on the edge of the water trough beside him.
 
 They didn't say anything. They'd never needed to. Gabe had known him eleven years on Earth, from the time Gabe was thirteen and Declan was fifteen and too loud and kind to him when nobody else in the school was; and he'd sat beside him on a great many walls and kerbs and car bonnets at two in the morning not saying anything. And then he'd stood at the back of a funeral in a suit that didn't fit and not said anything, and then three years of not having him to not say anything to.
 
-He'd said one thing, the last night. On a call, at three in the morning, with Yan and Mashi and Newish still on, talking about nothing for an hour, the way they did. *Sleep, Declan. Seriously.* And Declan had laughed and said *okay* and left the call and gone to sleep, and not woken up.
+He'd said one thing, the last night. On a call, at three in the morning, with Yan and Niko and Newish still on, talking about nothing for an hour, the way they did. *Sleep, Declan. Seriously.* And Declan had laughed and said *okay* and left the call and gone to sleep, and not woken up.
 
 Gabe had thought about that every day for three years.
 
