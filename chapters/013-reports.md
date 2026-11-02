@@ -91,6 +91,10 @@ The Advisor looked at that line for a very long time.
 
 *I don't know what else to call it. He says that every person he looks at is joined to others by threads of light, thin for strangers and thick for those they love. He says the thickness is closeness. He has learned, in a month, to read them like a book. He says he felt something go wrong at the far end of one of them, three days before the letter came telling him what it was.*
 
+*One more thing, which I cannot decide whether to be delighted or alarmed by. They test everything. All of them. They try a thing in the morning and look at their windows at night and write down whether it moved, and then they send what they have written to each other, all seven groups, by every courier we have; a boy in Valcrest has asked them all to. The healer-girl went up three points in the week she learned the bones of the hand, and now the whole group is learning anatomy whether they need it or not. I have taught for twenty years. I have never had students who could see their own progress, and I have never had students who would think to use it like this. I think it is going to make them very fast. I think they are going to find out things nobody has ever thought to try.*
+
+The Advisor read that paragraph twice. He had had a window for nearly twenty years. It had never once occurred to him to use it like that.
+
 *I have taught magic for twenty years and I have never heard of anything like it. I record it so that someone wiser than me can decide what it means.*
 
 The Advisor did not feel wiser than anyone.
