@@ -263,6 +263,8 @@ There were fifteen people on the bar at dawn. Group 6, and a dozen from the town
 
 Nobody touched her. Alea watched seven people try, and the stick met every one of them a finger from their ribs and stopped there, without hurry, already where they were going to be.
 
+One of them was a Hollow guard called Wat, in the grey coat, a broad slow man past forty who'd stood on the bar every dawn since the first spring and been Gleaming, Xav said, since before Alea was born. The stick met him like it met everyone. But when he went, the sheen on his blade went a moment ahead of him, leaning off the edge the way a dog leans on a lead, and Petra's eyebrows went up a hair. Wat sat on the stones afterwards with his sword across his knees and looked at it as if it belonged to somebody else. *Third time this month*, said Malcolm, beside her, who counted everything. *He cried the first time. Petra told him to stop looking at the sword and look at the whole thing. He said that's what the fisherman says. She said yes.*
+
 Then Petra looked at her.
 
 "Once," said Petra. "With that." She nodded at Astra.
@@ -332,6 +334,36 @@ John played it again.
 "No," said John.
 
 "Again," said Alea.
+
+On the sixth time she stopped watching her feet and watched the stick.
+
+She didn't know why. Something at the edge of the little gold window, the way you see a fish turn at the edge of your eye and look and it's gone. John slowed it for her without being asked; he could do that, it turned out, the way you'd slow a song. The stick came across, slow as a heron's leg, and met Astra's flat, and stopped.
+
+And behind it, where it had been, a line.
+
+Thin. Grey. Hanging in the air along the path the stick had taken, the way a cut stays in the skin of ice on a puddle after the stone has gone through. For a blink. Less. Then gone.
+
+Alea looked at John. John looked at Xav. Xav, on the step below with his elbows on his knees, didn't look surprised at all.
+
+"Since the thaw," he said quietly. "Four times. Only with the stick. John's got all four."
+
+"Does she know?"
+
+"No."
+
+"Are you going to tell her?"
+
+Xav thought about it, the way he thought about everything, for longer than you'd think a person could. "What did he say to you," he said, "when you were thirteen?"
+
+"*Your weight's on your heels*."
+
+"Did he tell you what to do about it?"
+
+He hadn't. Not once. Not in three years.
+
+"He points," said Xav. "He doesn't hand it to you. Then it's yours." He looked out at the bar, where Petra was walking up the stones with the stick under her arm, alone, the way she always walked. "She'll find it. If she doesn't, I'll point. Not yet."
+
+"Again," said Alea, to John. And this time she watched both.
 
 ***
 

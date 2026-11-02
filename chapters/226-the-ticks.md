@@ -243,6 +243,14 @@ Oswin got up off his knees, slowly, the way a man gets up who's been kneeling si
 
 They did nine frames that day. Then ten the next. Then eighteen on the fourth day, because Oswin had stopped sleeping on it and was getting up at four and coming down with a candle and doing two before the bell, and Edwy was getting up at four too, and Hana found out on the fourth morning that Milli had been getting up at four as well, to sit on the stairs outside the long room and listen to them measure, and that Jared had been bringing him tea.
 
+On the fourth evening, on the stairs, Oswin stopped with his candle and looked at nothing for a while. Hana knew that look by now. The Advisor's seven could read their own windows, and Oswin read his about as often as other men looked at the weather.
+
+"Forty-four," he said. To her, or to the stairwell. "To Bonfire. It said forty-four when I was thirty, and it has said forty-four for eleven years." He held the candle a little higher, as if that would help. "It says fifty-one."
+
+"Is that good?"
+
+"It moves when you understand something," said Oswin. "And I've done nothing for four days but measure." He looked at the candle a while longer. "Perhaps that's it. Looking at a thing until it's exactly what it is. Not what you'd like it to be." And he went on up, and for once, Edwy told her in the morning, he'd slept.
+
 Frame after frame. The same ring. Different lines going out of it, different numbers, different directions, different marks at the ends. Six lines; six ticks. Three lines; three. One frame with eleven lines out, and eleven ticks across its arc crowded so close they nearly touched, and Oswin had to use the finer dividers. Every arc, scaled up, lay on the blank half of the fourteenth ring to a finger's breadth, top and bottom and width, the inner line and the outer. Every tick, scaled up, went into the blank band as a pin.
 
 After the first day Oswin stopped putting the pins in. There wasn't room. The blank band would have been a hedge of glass heads by the tenth frame, all thirty-seven frames' worth of ticks pinned into the same half-ring on top of each other. He wrote the numbers in his column instead. Edwy checked them. And they went on.

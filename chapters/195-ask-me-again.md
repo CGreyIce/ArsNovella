@@ -45,6 +45,28 @@ Gigichi put the paper back under the pillow, under the watch, and didn't sleep.
 
 ***
 
+She counted the winter instead. It was that or think.
+
+Seven weeks since the bonfire. Eight, nearly. It had been the hard kind of winter after midwinter, the kind the town called a proper one, as if there were an improper kind. The forty paper lanterns had stayed up along the lake road walls until the snow rotted them, and nobody took them down, and by the end of the first month they were grey rags on wire and Odette said they'd do for next year's frames.
+
+Xola had a skill. That was the first thing. Xola had gone through the ice after a seven-year-old in a red cap and come up Spark, with *Tide*, and with frostbitten fingers that had grown back by the bonfire, and had spent every morning since with both arms in the horse trough in the militia yard, making the water stand up. It stood up a hand high now. It stood up for a count of ten. She cried every time. Gigichi had stopped making fun of it in the second week, which was a record.
+
+Robin's mother sent eggs. Every day. Nobody could stop her.
+
+Bram had gone on fishing. Five afternoons a week, on his stool beside the man's at the end of the jetty, two backs to the town. Gigichi had lost a bet about it to Higu and another to Xola and paid both in Edric's buns, and refused to bet a third time. Something had happened out there, before midwinter; she didn't know what, and nobody would say. But Bram drilled them differently now. He'd stopped saying *harder* in the yard and started saying *wait*. And once, after drill, he'd stood in the snow with his sword out and his eyes shut for so long that PenguChi had brought him a blanket, and he'd let her put it round him without opening his eyes.
+
+Maren's number had gone up. Thea knew, so Higu knew, so everybody knew: sixty-two. Maren didn't say so, because Maren didn't say things. But she'd come into the kitchen one morning and set the kettle on the cold stove and started the words to warm it, under her breath, the way she had every morning for two years and a half, and stopped halfway. And the kettle had sung anyway. Maren had looked at it as if it had said something rude. Thea said it was the first time she'd ever seen Maren stop in the middle of a spell and have it work. Maren said it wasn't a spell, it was a kettle.
+
+The channel had been elves for a month. Actual elves. Three of them, walking up out of the south to Cinderhold over the snow and kneeling to Yan's snake, which Suzu was being impossible about. Maigo had written ELVES in capitals so many times that Tiger had asked him to stop, and he hadn't. Gigichi had read every word and said *it's probably a trick* every night, and gone to sleep thinking about ears.
+
+Thea sat up with Oswin's leaf most nights. Higu had started a new notebook. Waddles had fallen off the board on the trough about two hundred times and got back on two hundred times. Alea did her forms on the shingle in the dark every morning with a lamp on the step, and Gigichi had watched from the lake road once and seen where her feet ended up, and not said anything about that either.
+
+And the stick in the clay pot in the cabin window had stayed a stick. Every Thursday all winter she'd gone down and put a finger on the soil and asked. Every Thursday it had said *not yet*, the way ground says things: like somebody asleep who knows you're in the room.
+
+Everybody had moved. Even the ice. That was the trouble with ice. It kept its word too. It said *spring*, and here it was.
+
+***
+
 The whole town came down to see it.
 
 It was a thing, in Wrenhaven. Odette had a list. Of course Odette had a list; there were eleven years of it in the back of her book of town-hall business, in her square black hand, *ice out*, and a date, and who'd won. Because people bet. Old Mabry bet every year on the same day, twelve days after the first rain, and had won twice in eleven years and said that proved it.

@@ -11,6 +11,8 @@ It was a perfectly ordinary hill. The first of the downs, where the road came up
 
 She stood in the arch of the west gate with her sword on her shoulder and her breath going up white, and looked at the top of the hill, and couldn't make her hands stop doing the thing they did before a fight.
 
+They'd been doing other things too, her hands, since the autumn. Since eleven nights at a barrel in the courtyard with her elbow on the wood and the man's hand round hers like a hand round a child's. She'd held him one count, on the eleventh, and she'd spent the winter finding out what she'd done. For ten nights she'd pushed, every scrap of Gleaming she had into the bones of her arm, and her hand had gone down ten times. On the eleventh she'd been too tired to push. She'd let it go down instead: through her elbow into the barrel, through the barrel into the stones of the yard, the way Aldous said, *it goes into whatever you trust*. And for one count the yard had held him, not her arm. So all winter she'd tried it on everything. The gatepost. A sergeant's shield. Teague, once, who'd sat down in the snow and said a word Aldous fined him for. Her sheen didn't lie on the steel like paint any more. Some mornings at drill on the wall it went down through her boots into the stone and came back up, and her stroke landed like a dropped bell, and the recruits stopped to look. Teague said she'd moved more in one winter than in the four years before it. Rhea said Teague was old and soft. They were both right, which annoyed her.
+
 "Nothing yet," said Teague, beside her.
 
 "I know."
