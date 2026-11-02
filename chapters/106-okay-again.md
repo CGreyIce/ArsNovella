@@ -159,7 +159,7 @@ Then he said it.
 
 Not under his breath, this time. Out loud. Clearly. In the morning, on the end of the jetty, to the lake.
 
-"*Audentes fortuna juvat*."
+"*Audentes fortuna iuvat*."
 
 Xav didn't move.
 
@@ -323,7 +323,7 @@ Declan looked at her.
 
 Then he said it. Out loud, the way he'd said it to the lake an hour ago. And this time the wind had come round, and Xav heard it across the water, clear as anything. Three words, in a dead language, on a shingle beach in another world.
 
-"*Audentes fortuna juvat*."
+"*Audentes fortuna iuvat*."
 
 Petra went completely still.
 

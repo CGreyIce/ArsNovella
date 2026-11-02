@@ -421,7 +421,7 @@ They were cut into the flat near the hilt, small and plain, by somebody's knife-
 
 *STO.*
 
-And under it, smaller, round the curve of the flat: *AUDENTES FORTUNA JUVAT*.
+And under it, smaller, round the curve of the flat: *AUDENTES FORTUNA IUVAT*.
 
 "He cut these," said the king.
 

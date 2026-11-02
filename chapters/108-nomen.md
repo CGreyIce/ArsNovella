@@ -307,7 +307,7 @@ Gabe looked up.
 
 "Xav told us. Last night, on the terrace, when you'd gone down to the jetty. He said it out loud and Deston started crying and Calvin asked him to say it again." Gabe swallowed. "*Fortune favours the bold.*"
 
-"*Audentes fortuna juvat*," said Declan.
+"*Audentes fortuna iuvat*," said Declan.
 
 "Yeah," said Gabe. "That. Put that on it."
 
@@ -343,7 +343,7 @@ Declan stopped. Blew the dust off. Looked at it. Moved the chisel along.
 
 The sun went round. The shadow of the sailcloth moved across the shingle. Out on the lake, a fish jumped and nobody looked.
 
-*JUVAT.*
+*IUVAT.*
 
 Declan put down the hammer.
 
@@ -353,7 +353,7 @@ Gabe got up and came and looked.
 
 It was perfect.
 
-Not perfect the way a machine does it. Perfect the way a hand does it, when the hand knows exactly what it's doing and isn't afraid. Three words, in a straight line, along the flat of the blade, below the spine, from just above the grip to a hand's width short of the point. Square, even capitals, each one as deep as the last. *AUDENTES FORTUNA JUVAT.*
+Not perfect the way a machine does it. Perfect the way a hand does it, when the hand knows exactly what it's doing and isn't afraid. Three words, in a straight line, along the flat of the blade, below the spine, from just above the grip to a hand's width short of the point. Square, even capitals, each one as deep as the last. *AUDENTES FORTUNA IUVAT.*
 
 He looked at them for a long time.
 

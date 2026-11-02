@@ -255,7 +255,7 @@ Gabe looked at the hammer in the king's hand.
 
 He didn't take it. He couldn't. It was the king's father's. He sat on his heels on the shingle by the red eye of the fire and looked at it held out to him in the dark, and felt his face go hot all the way to the hair, and didn't know what to do with his hands.
 
-"Do it anyway," said Gabe. Out loud. To himself. The way he said it to himself at Harl's forge on the bad mornings, the way Declan had cut it on Sto with the king's chisel. *Audentes fortuna juvat*. Fortune helps the bold. It didn't mean that. It meant *do it anyway*.
+"Do it anyway," said Gabe. Out loud. To himself. The way he said it to himself at Harl's forge on the bad mornings, the way Declan had cut it on Sto with the king's chisel. *Audentes fortuna iuvat*. Fortune helps the bold. It didn't mean that. It meant *do it anyway*.
 
 He took the hammer.
 
