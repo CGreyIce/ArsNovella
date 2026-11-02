@@ -29,7 +29,9 @@ Mostly nothing happened.
 
 But twice, in the last week, something had. The wind had been about to turn east, and he'd asked it, politely, to turn north instead. And for about three heartbeats, at the very top of the mast, it had. A little gust, cold off the hills, just round his head and shoulders, the wrong direction entirely. And then it had gone back to doing what it wanted.
 
-His window had gone up three percent each time.
+His window had gone up three percent each time. And both times he'd come down the mast with his hands shaking so badly he could barely hold the ratlines, and slept through supper.
+
+He'd worked out why, on the third try, by doing it the other way. When he asked the wind to go where it was already going, nothing happened that he could tell from what it would have done anyway. When he asked it to go somewhere else, against the grain, he got three heartbeats and the shakes. He'd written it on the wardrobe door, under the scorecard, in chalk: *AGAINST THE GRAIN COSTS.*
 
 [ Calvin · Tier 0: Initiate · Progress to Spark: 26% ]
 
@@ -117,6 +119,8 @@ Most of the burn was still there: red and raw and blistering. But one end of it,
 
 Gabe didn't say anything. He just put his big forge-blackened arms round her very carefully, avoiding the hand, and held on.
 
+She was shivering, Calvin saw. In a forge, a pace from the fire, with her lips gone pale. "Cold," she said through her teeth, surprised and not surprised. "Maud said. Warmth first."
+
 The smith stood there with his bucket of water, looking at the two of them, and then at Calvin.
 
 "Is that," he said slowly, "what I think it is?"
@@ -169,7 +173,7 @@ It was coming off the hills this morning. From the west. Cold and clean and smel
 
 Not yet.
 
-He sat there and listened to it for a long time. Then, very carefully, the way you'd ask a stranger for directions, he asked it to turn. Just a little. Just for a moment.
+He sat there and listened to it. Then, very carefully, the way you'd ask a stranger for directions, he asked it to turn. Just a little. Just for a moment.
 
 North, he asked. Toward the lake country. Toward wherever the river came from.
 

@@ -157,6 +157,8 @@ New skin. Pink and thin and shiny, from his wrist to his elbow, all the way roun
 
 Rachael opened her eyes.
 
+For one heartbeat her face twisted, and she clutched her own left forearm, wrist to elbow, exactly where his had been, and hissed through her teeth. Then it was gone.
+
 She looked at his arm. Then at her own hands. Then at his arm again.
 
 Then she sat back on her heels on the floor of the forge, very suddenly, the way you sit down when your legs give out, and opened her window, and stared at it.
@@ -176,6 +178,12 @@ She looked up at him. Her eyes were swimming.
 "You mended me," said Gabe.
 
 "Yeah." Rachael laughed, a little wildly, wiping her eyes with the back of her wrist. "Yeah. I mended you." She looked at her window again. "Fifth. I'm *fifth*. Thea, Maigo, Higu, Salty. And me." She laughed again. "I'm going to be *so* insufferable."
+
+Her teeth had started to chatter. In a forge, in summer, a pace from the fire. Gabe watched the colour go out of her lips, and her hands, still glowing faintly, begin to shake.
+
+"Cold," she said, surprised. And then, more quietly: "Oh. That's what Maud meant. All of it at once costs all at once."
+
+Calvin had his coat round her before she'd finished the sentence. She slept like a stone that night, eleven hours without moving, and woke so hungry that she ate Dennis's breakfast as well as her own, and Dennis, for once in his life, didn't charge her for it.
 
 Gabe looked at her, kneeling on the floor of Harl's forge in her infirmary apron with her hair coming down and gold light still fading in the lines of her palms.
 

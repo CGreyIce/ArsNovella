@@ -79,7 +79,7 @@ The bargeman looked at her. Then at his arm. Then at her again.
 
 "I know. It's great." She closed her window. Then she was quiet for a few steps, along the quay in the evening light, with the barges knocking against the wharves and the gulls crying.
 
-"It's because of the line," she said. "Thea's line. *Close.* I wrote it into my hand in the winter, when I burned it on Gabe's forge, and it worked for one second." She flexed her fingers. "And now every time I put my hands on someone, I can feel where it is. The gap. Like a word on the tip of my tongue. And I just say it again." She looked at him. "Every day, a little longer. A finger's width more."
+"It's because of the line," she said. "Thea's line. *Close.* I wrote it into my hand in the winter, when I burned it on Gabe's forge, and it worked for one second." She flexed her fingers. "And now every time I put my hands on someone, I can feel where it is. The gap. Like a word on the tip of my tongue. And I just say it again." She looked at him. "Every day, a little longer. A finger's width more." She held up her hands; the fingertips were white, as if she'd been out in snow. "And every day it costs a finger's width more, too. I worked that out the hard way. One in the morning, one in the afternoon, that's what I've got. The day I tried three, I fell asleep on Maud's floor at noon and she left me there till supper and put a blanket on me and wrote it in her book." She made a face. "So, two. And I eat like Gabe."
 
 "Like a song," said Deston. "You learn it a line at a time."
 
