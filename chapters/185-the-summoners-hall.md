@@ -59,7 +59,7 @@ He waited until the grain was done. He waited until the king looked down the tab
 
 His voice was dry and thin and very clear. It carried to the gallery without trying.
 
-"Three hundred and twelve years ago," said the Warden, "King Aldemar's summoners found forty leaves under the first stone of the summoning hall, in a hand that drew the oldest rings of the circle, and asked him to burn them. They gave their reason. I will give it again, because it was true then and it is true now." He paused. "*A thing which cannot be read is a thing which was not meant to be*."
+"More than three hundred years ago," said the Warden, "King Aldemar's summoners found forty leaves under the first stone of the summoning hall, in a hand that drew the oldest rings of the circle, and asked him to burn them. They gave their reason. I will give it again, because it was true then and it is true now." He paused. "*A thing which cannot be read is a thing which was not meant to be*."
 
 Beside Hana, Cursiffe went still.
 
