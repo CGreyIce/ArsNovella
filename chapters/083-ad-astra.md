@@ -229,6 +229,8 @@ She didn't decide to. She just found she was on her feet, with her bow in her ha
 
 She'd always been good with the bow. From the second day, three arrows in the centre at fifty paces. Her arrows curved round things, all year, because she could feel where they wanted to go. That was a gift, Aldous said. A sense. Not aura. Never aura. She'd tried, all year, the way Salty had tried, the way Rhea had shown them. *Let it come up. Put it into the thing you trust.* And it had never once come.
 
+She'd counted, instead. All year. Fifty arrows a morning, every number on her wrist in charcoal and then on the mess-hall wall. She knew to the arrow what moved her bar and what didn't: not-aiming, yes; telling, never. She'd climbed to ninety-one percent on counting alone, and stuck there since the summer, and she knew why, and couldn't stop. Counting was the opposite of trusting. You counted because you didn't believe the number would still be there tomorrow.
+
 *Aura goes into whatever you trust*, Aldous had said, the first week, in the yard. Wendy had listened to that and thought: *well, that's me finished, then.*
 
 She'd never trusted anything enough. Not an arrow. Not a bow. Not herself. She'd trusted Salty, and you couldn't shoot Salty at things.
@@ -267,7 +269,7 @@ Then she opened her window, because her hands were doing it before she told them
 
 Thirteen. Of thirty-five.
 
-She stood there and looked at it for a long time. The word. *Drawn.* Hers. Out of all the things she'd never believed.
+She stood there and looked at it. The word. *Drawn.* Hers. Out of all the things she'd never believed.
 
 Behind her, nobody said anything. She heard Maigo make a small sound, very quietly, and stop himself, which was the most extraordinary thing that had happened all day. She heard Rhea let out a breath. She heard Aldous close his book.
 

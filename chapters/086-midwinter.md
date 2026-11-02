@@ -111,6 +111,8 @@ They were up. In front of her. Open, palms toward the fire, the way they'd been 
 
 Maren was three paces away. She'd been three paces away last year, too. She knew what she was seeing.
 
+She knew the numbers, too, because she'd watched them every morning for a year at the trough in the yard: the girl holding up one finger and calling the flame, ten times, and writing down how many came. Six of ten in the spring. Nine of ten all autumn, and always the tenth guttering out. And this week, for the first time, three mornings running, ten.
+
 "Althea," she said. Very quietly.
 
 The girl didn't hear her. Or she heard, and didn't stop. She was looking into the fire, at the heart of it, where the flames were white, and her face had gone completely still, the way it went when she was Parsing something too big to hold all at once. And her lips were moving. Two words. Maren heard them, over the roar of the bonfire, because she was listening for them.
@@ -139,7 +141,7 @@ Nobody made a sound.
 
 Althea lowered her hands.
 
-She stood there in front of the bonfire for a long moment, not moving. Then she opened her window, the way she'd opened it last year, and looked at it. Maren saw her face. She saw it do the thing it had done last year, at this fire, in this square: go completely still, and then crumple.
+She stood there in front of the bonfire, not moving. Then she opened her window, the way she'd opened it last year, and looked at it. Maren saw her face. She saw it do the thing it had done last year, at this fire, in this square: go completely still, and then crumple.
 
 Althea turned round. Not to the other four. To Maren.
 
@@ -147,7 +149,7 @@ She held the window out. Maren could see it; the guides could see windows if the
 
 [ Althea · Tier 2: Candle · Skills: Parse, Patch ]
 
-Maren looked at it for a long time.
+Maren looked at it.
 
 *Candle.* The second tier. A year to the night after the first. Sixteen months after the summoning. Not one of the thirty-five had reached it. Not one of them was close.
 

@@ -21,6 +21,8 @@ She knew now what the blade was. They all did. She knew whose. She had a fair id
 
 She looked at it anyway. Every morning. The way you look at a photo on your lock screen.
 
+Then the bar. *Progress to Candle: 91%.* And then, every morning, the trough in the yard, and the test she'd set herself in the spring, when Maren had told her what the second tier meant: *reliable. A Candle mage's spells work every time.* So every morning she held up one finger and called the flame, ten times, and wrote down how many came. Six of ten, in the spring. Eight, by midsummer. Nine of ten since the end of summer, every single morning; and always the tenth guttering out, until she'd started to talk about the tenth flame as if it were a person who'd wronged her.
+
 ***
 
 On the night after the stones, she couldn't sleep.
@@ -190,6 +192,8 @@ Thea sat on the floor of the upper room of the militia hall at three in the morn
 ***
 
 It was a long time before she could sleep. When she did, she dreamed of nothing at all.
+
+She paid for it in the morning. She woke with a headache like a nail through both temples and found she couldn't Parse a thing: the world was just the world, flat and wordless, the fire in the grate only fire. It came back on the third day, a little at a time. Her flame didn't come at all until the fourth, and when it did, it was three of ten. She wrote it in the back of the notebook, under the line about the road: *Rewriting a live channel at Spark: three days blind, a week to get back to nine. Don't. (Did anyway. Would again.)*
 
 She woke late, to Gigichi shaking her shoulder and pointing at the window.
 

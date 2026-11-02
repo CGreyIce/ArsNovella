@@ -39,7 +39,7 @@ Yan didn't open his eyes. "Fed her."
 
 Maigo stared at him. "Some of your *soul*?"
 
-"A little. It comes back." Yan's hands moved in his lap, and were still. "She didn't want it. She's never once tried to bite me, and she tried to bite me." Around his neck the small white snake didn't move, but Maigo, who could feel the ground and everything in it and nothing at all about souls, would have sworn she pressed closer. "I made her."
+"A little. It comes back." Yan's hands moved in his lap, and were still. "She didn't want it. She's never once tried to bite me, and she tried to bite me." Around his neck the small white snake didn't move, but Maigo, who could feel the ground and everything in it and nothing at all about souls, would have sworn she pressed closer. "I made her." He looked at his window, the way you'd look at a bruise. "Forty-three to thirty-nine. That's what it cost. It'll come back. It goes both ways down the cord; she'll give it back a bit at a time, every time she eats."
 
 Maigo didn't say anything. He thought about every stream he'd ever sat in, and chat spamming hearts every time Yan said, in that slow deep voice, that the feeling was mutual. And how they'd all laughed.
 
