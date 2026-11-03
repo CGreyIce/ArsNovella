@@ -257,6 +257,28 @@ They stood there for a moment, the two of them, in a world their friend would ha
 
 Then Calvin said, "Is that a *dragon* on the ceiling?" and Dennis said, "Forget the dragon, is that real gold?" and the moment was over.
 
+Nearly. Calvin went on looking up at the dragon, and after a moment he said, out of the side of his mouth, so that only Deston and Gabe could hear: "Dest. You know what this is."
+
+Deston did. That was the strange part.
+
+He'd never been anywhere like this in his life. None of them had. But the three of them, Calvin and Gabe and him, had read more stories that began like this than they'd ever have admitted to anyone else in the hall. Not this one; nobody had written this one. But this kind. Ordinary people pulled out of their lives into a stone hall, with soldiers round the walls and a window in the air that told you what you were, and somebody on the steps about to explain about a war. He'd read that first chapter a hundred times, in a hundred different stories. He'd just never woken up in one.
+
+"Painted ceiling," said Calvin, very quietly. "Guys with swords. A man in grey who fixes somebody in the first five minutes." He didn't look at Rachael. "Next he tells us there's a war."
+
+"And we're the only ones who can stop it," said Gabe.
+
+"And he's very sorry about it," said Deston.
+
+It was a joke. It was mostly a joke.
+
+"In the novels," said Calvin, "that's the guy you don't trust."
+
+Deston looked at the grey man, who had gone back up the steps of the dais and stood at the top of them with his hands in his sleeves, studying the hall one face at a time. Then at Rachael, with her hand still flat on her chest and her face lit up like a lamp.
+
+"Then we don't," he said. "Not yet. We listen, and we're polite, and we find out for ourselves."
+
+Gabe nodded, slowly. So did Calvin. None of them said *in the novels* again, not where Rachael could hear. They didn't need to.
+
 Deston let his gaze travel the hall. He knew more of these faces than he should have. Yan, with a snake around his neck. Aleaka, with fox ears. And by the far pillar—he looked twice—Xav and Malcolm and Rui Xiang, Declan's friends from polytechnic. Something tugged at him, the shape of a thought, like a word on the tip of his tongue.
 
 "YOU WILL FORM GROUPS OF FIVE," bellowed a herald from the steps, and the shape slipped away.

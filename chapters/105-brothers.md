@@ -373,6 +373,30 @@ The morning after. Walking back across the red, through what he'd done, to the p
 
 "To the stars," he said. "Through hardships." He looked up at them, all those stars, lying on the lake. "I thought she'd like it. She was always looking up."
 
+"And then he took it," said Deston. "The Advisor. To bring us."
+
+"Halvard," he said. "Yes."
+
+Gabe and Deston looked at each other across him, the way he remembered them looking at each other across a choir room, and he said, "What."
+
+"We had rules," said Gabe. "About him. From the first day."
+
+"From the novels," said Deston, a little embarrassed, in the dark. "The ones Gabe and Cal and I used to read. Not this story. Stories like it. The man who brings you always wants something he hasn't said. And the hero nobody talks about isn't dead." He looked at him. "We were right about the second one."
+
+He thought about it. About a thin grey man on a garrison wall, laughing at a boy's window and then not laughing; about a sword lifted out of a grave, and thirty-five people pulled through it, and a fisherman left alone for eight years on purpose.
+
+"You were right about the first one too," he said. "I think the thing he hadn't said was me. I think he'd have pulled anybody out of anywhere before he'd come and knock on this door." He looked at the lake. "I can't be angry with him for it. I've tried. It just makes me sad."
+
+"Rule five," said Gabe, to Deston.
+
+"I know."
+
+"What's rule five?"
+
+"If he turns out to be all right," said Gabe, "we say sorry."
+
+He laughed. It came out of him in the dark before he could stop it, like something dropped. "Tell him that," he said. "To his face. He'll hate it."
+
 The walk home. A month, west, alone, with a sentence in his mouth that he said over and over so he wouldn't get it wrong. Coming down the lake road in the autumn, with the leaves turning, to a nine-year-old fox girl on the end of this jetty who'd been waiting for two people and only saw one. Saying the sentence to her, in the right order, all of it. Her face.
 
 "She didn't speak to me for a month," he said. "Then she did. She forgave me, slowly. Over years. I don't know that I've forgiven me. But she did, and she's the one who got to decide." He breathed out. "And I gave it up. The sword, the war, the king. All of it. I came here and I fished. And I was stuck at forty, on the road to Ascendant, for six years. Forty percent. It didn't move. Not once. I didn't want it to."

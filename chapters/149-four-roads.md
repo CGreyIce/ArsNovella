@@ -261,6 +261,8 @@ It hadn't mended at Halvard's.
 
 Deston had known it wouldn't, yet. *Yours is yours*, the man with the rod had said to him, in that room, Deston had heard later. *Nobody can do your end for you. You'll do it when you open the drawer*.
 
+They'd said sorry, though. Rule five. The three of them, on the steps of the Broken Lance on the morning after the king's table: Gabe first, because it was his rule, and Calvin last, because he'd been the loudest about the other four; with the man with the rod leaning in the doorway behind them, not helping. The thin grey man had looked at them for a long moment. *No*, he'd said. *You were right. Keep asking.* His thread hadn't mended for that either. But Deston had heard it, for a heartbeat, go very slightly less tight.
+
 The Advisor rode out of the north-west gate of Valcrest on a grey horse with a key in his coat and a folded report beside it, toward a tower in Solmere with a drawer at the bottom of it that stuck in wet weather.
 
 The frayed end went with him.

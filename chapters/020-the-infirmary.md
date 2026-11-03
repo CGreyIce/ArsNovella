@@ -195,6 +195,12 @@ And Deston would look. Every face, in every street, every day. For anyone standi
 
 "I'm good at faces," said Deston. "It's my whole thing."
 
+Calvin, on the bench under the window, said "Rule four," to nobody in particular. Deston said "I know." Gabe nodded at the table.
+
+Rachael knew about the rules. Everybody in the house did, by now. She thought they were ridiculous: three grown men who'd read too many books about people like them, deciding in a stone hall that the man who'd mended her blood couldn't be trusted, because in the books he never could.
+
+She looked at the three of them round the table, planning how to watch every face in a city for her, and didn't say so. Not tonight.
+
 ***
 
 Three days later, Dennis came back from the docks with a face like thunder.

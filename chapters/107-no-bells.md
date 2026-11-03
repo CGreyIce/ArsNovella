@@ -123,6 +123,10 @@ Calvin took a breath. Dennis saw him take it. Saw everyone on the terrace see hi
 
 "Are you happy?" said Calvin.
 
+And Dennis understood, all at once, why it had needed daring.
+
+He'd heard the three of them on the roof all that first year, Calvin and Gabe and Deston, going through their novels like a checklist: the man who brings you, the hero nobody names. And he'd heard Calvin, once, very late, say the other thing those stories always knew. *They drag him back. The old hero. Every single time. Out of the farm, or the shop, or the cabin, back to the war. And nobody ever asks him first whether he was happy where he was.*
+
 ***
 
 The terrace went completely silent.

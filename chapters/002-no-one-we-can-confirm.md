@@ -79,11 +79,17 @@ That was somehow worse than any excuse would have been.
 
 "You had a hero last time, though," said a cheerful, puzzled voice: Calvin, asking it the way he asked everything, as if it had simply not occurred to anyone else. "The one-man-army guy. Why not ask him?"
 
+It was a very good puzzled voice, and Hanarisu nearly believed it. Then she saw the two beside him, the tall one and the big one, go quite still, the way people go still when a card they've bet on is being turned over.
+
 For the first time, the Advisor hesitated.
 
 "He has given enough," he said.
 
 Hanarisu turned that over carefully. Not *he is dead*. Not *he is gone*. *He has given enough.* Somewhere out there, then, there was a man who had broken an army by himself and been allowed to stop. She wondered what kind of man that was. She wondered what kind of man the Advisor would protect by summoning thirty-five strangers instead.
+
+Across the little space between the groups, Calvin looked at his two friends and said one word, not quite aloud. Hanarisu read it off his mouth.
+
+*Alive.*
 
 "What are we being paid?" said Dennis.
 
@@ -91,7 +97,7 @@ There was a startled ripple of laughter, and Dennis looked around at all of them
 
 To Hanarisu's surprise, the Advisor answered him seriously. Lodging, food, equipment, and a stipend from the royal treasury. Dennis asked how much. The Advisor told him. Dennis asked whether that was per month or per year, and whether it rose with tier, and the Advisor, after a pause, said that it could. By the end of the exchange Dennis had negotiated a raise for all thirty-five of them, and the hall had stopped feeling quite so much like a funeral.
 
-"Who else can see a status window?" Deston asked, when it had quietened. He was the tallest of them, courteous and interested, the kind of person who asked questions to understand things rather than to win them.
+"Who else can see a status window?" Deston asked, when it had quietened. He was the tallest of them, courteous and interested, the kind of person who asked questions to understand things rather than to win them. He listened to the answer the same way, with his whole face, and gave nothing back.
 
 "Very few," said the Advisor. "Fewer than a hundred in all of Aurelan. And every one of them was taught by someone who was taught." He glanced, briefly, at nothing. "It started with a single man."
 
@@ -100,6 +106,8 @@ To Hanarisu's surprise, the Advisor answered him seriously. Lodging, food, equip
 "It's an old word. The man who saw his window first gave it that name, and we have used his words ever since." The Advisor inclined his head. "Status. Inventory. Skills. We call them the Hero's words."
 
 Hanarisu felt Cursiffe's eyes on her. She didn't look back. She didn't need to.
+
+Somewhere behind her, low, somebody in Deston's group said, "There's always one who came first," and somebody else said, "*Shh.*"
 
 From the edge of the hall, Ina spoke for the first time, calm and clear, his mask hanging at his shoulder. "You took us without asking, and your soldiers have their hands on their swords. I'll hear you out." He let the pause sit. "From here."
 
@@ -111,11 +119,15 @@ Heads turned. Rachael flushed and lifted her chin anyway.
 
 "I've been sick my whole life. My immune system's been broken since I was a kid. And he walked over and touched my wrist, and it's—" She pressed her hand flat to her chest. "It's gone. I can feel it's gone. So I don't know about the rest of you, but I'm going to hear him out."
 
+She said it to the hall. But she was looking, Hanarisu noticed, at her own friends: at the tall one, and the big one, and the cheerful one who'd asked about the hero, as if it was them she was answering. The cheerful one opened his mouth. The big one stood on his foot, quite gently, and he shut it again.
+
 Aleaka leaned close to Hanarisu's ear. "He means it," she breathed. "Hana, look at him. People who are lying don't look that *sorry.*"
 
 Hanarisu looked at him. Aleaka was right. That was the most dangerous thing about him.
 
 Around her, the hall was making up its mind. Higu told her friends, calm and certain, "We work with them, for now." Jared pushed off his pillar and said, "Alright. What's step one?" The big one in the far group, Azac, rolled his shoulders and said, "Fine. Let's go," and Hako, from the group with the horned girl, said with total confidence, "It'll work out," and somehow people seemed to believe him.
+
+The big one in Deston's group, Gabe, didn't make up his mind out loud. He'd spent the whole speech quietly finding out what he had: flexing his hands, rolling his shoulders, lifting the iron ring on the end of a bench an inch to feel the weight of it and setting it down very gently when a soldier looked. As if he wanted to know what he was before anybody told him.
 
 She kept her face pleasant, and said nothing.
 

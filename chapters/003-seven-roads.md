@@ -83,7 +83,7 @@ They spent the last hour writing down who knew whom, so that every group would h
 
 In the morning there were seven wagons in the castle courtyard, and seven pairs of strangers waiting beside them.
 
-At breakfast Deston had asked the Advisor whether letters could travel between the postings, and the Advisor had agreed that they could go with the royal couriers. He hadn't asked what language they would be written in.
+At breakfast Deston had asked the Advisor whether letters could travel between the postings, and the Advisor had agreed that they could go with the royal couriers. He hadn't asked what language they would be written in. Deston hadn't offered.
 
 Chris liked theirs immediately, because the guide was waving.
 
@@ -173,7 +173,47 @@ Emrys was quiet for a moment. "A man who has earned his rest," he said.
 
 "No," Emrys agreed. "It isn't."
 
-Rachael sat at the back of the wagon with her face turned up to the sun, breathing, and didn't join in. Every so often she laughed at nothing, very quietly, as if she couldn't help it.
+Calvin sat back. He didn't say anything else. He looked across the wagon at Deston, and at Gabe, and Deston knew exactly what he was thinking, because he was thinking it too. *Earned his rest.* Yesterday, *given enough.* Twice now, and neither time *dead*.
+
+"Don't," said Rachael, from the back, without opening her eyes.
+
+"I didn't say anything."
+
+"You were going to say *in the novels*."
+
+"I was going to say it *quietly*."
+
+"He fixed my blood, Cal." Her face was turned up to the sun. "My whole life. One word and two fingers on my wrist. I don't care what happens in your novels."
+
+"I know," said Calvin. "I'm glad. I'm really glad." And he was; anyone could see it. "I'm just saying. In the novels, the man who brings you is never just a man who brings you. And the hero nobody will talk about is never dead."
+
+"Those are stories."
+
+"So's this," said Gabe mildly, and went on looking at the road.
+
+Dennis, without looking up from Sabine's pay scales, said, "I don't care if he's the villain. He's paying." Sabine said, "Correct," and they went back to it.
+
+Rachael didn't answer. She sat at the back of the wagon with her face turned up to the sun, breathing, and every so often she laughed at nothing, very quietly, as if she couldn't help it. Deston watched her do it, and thought that whatever the grey man wanted, whatever he hadn't said, he'd given her that; and that it would be a very hard thing to hold against anybody.
+
+He held on to it anyway. A little.
+
+They wrote the rules that night, the three of them, on the bench outside the first inn on the river road, with Group 6's lamp going in the window behind them and the stars coming out overhead in all the wrong places. Deston wrote them on the back of his copy of the list from the night before, the one with who knew whom on it. In English. Small.
+
+*1. Whoever brings you here wants something they haven't said.*
+
+*2. The hero nobody talks about isn't dead.*
+
+*3. Don't show them your whole window.*
+
+*4. Be nice. Find out yourself.*
+
+"Five," said Gabe, after a while.
+
+Deston waited.
+
+"If he turns out to be all right," said Gabe, "we say sorry."
+
+Calvin snorted. But he didn't argue; and Deston wrote that down too, under the others, and folded the page, and put it inside his shirt.
 
 ***
 

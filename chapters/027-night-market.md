@@ -207,7 +207,9 @@ Deston wrote the last one himself, to Xav, and at the bottom of it he added a li
 
 *Rae cut one. Clean. Gabe says to tell Azac he stood in front, and it hurt, and Declan would have been furious, and he'd do it again.*
 
-He sealed it, and went to the window, and looked out at the quay.
+He sealed it. Then he took the page of rules out of his shirt, the one he'd carried since the bench on the river road, and under the fourth one, *Be nice. Find out yourself*, he wrote, small: *Except Emrys. Emrys is ours.*
+
+Then he went to the window, and looked out at the quay.
 
 The market was gone. The stalls were packed away, the lanterns taken down. Only the little candle-boats were left, a few of them, still floating on the black water where the children had set them adrift. They'd drifted out into the middle of the river now, and were turning slowly in the current, very small and very bright.
 

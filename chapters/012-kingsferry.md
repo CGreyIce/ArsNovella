@@ -157,6 +157,56 @@ She helped him test it, later, because she was curious and he was insufferable. 
 
 ***
 
+And the three of them, Deston and Gabe and Calvin, kept on with the other thing, quietly, the way you'd keep a second notebook under the first.
+
+*Find out yourself.*
+
+Calvin asked on the river. Bargemen knew everything and told it to anyone who'd sit on a bollard and listen, and Calvin would sit on a bollard and listen to anybody. By the end of the month he had the Hero of the Redmarch in eleven versions. Seven feet tall. Eyes like coals. Killed the general with his bare hands. Rode a black horse that breathed smoke, or a white one, or walked. Went east after the war, or north, or into the sea. A bargeman from up the Wren swore he'd been dead for years, and the bargeman's wife said her cousin had seen him in a market only last spring, buying onions. Not one of them knew his name. Not one of them had ever met anybody who did.
+
+"Nobody knows his name," Calvin said, on the roof, counting it off on his fingers. "A guy who broke a whole army by himself. Seven years ago. That's not long. And nobody knows his *name*."
+
+"Somebody does," said Gabe.
+
+"Somebody up there." Calvin tipped his head west, toward Solmere, toward a stone hall and a grey man on its steps. "*He has given enough.*"
+
+Gabe asked at the forges, because smiths talked about swords the way bargemen talked about the weather, and a sword that could break an army had to have come from somewhere. Nobody on the street of the forges had made it, or knew who had. The smith he worked for, who'd been at the anvil on the south wharf for forty years, said only that it had been black, and too big for any sane man, and that the man who'd carried it had left it standing in the ground somewhere in the east when the war was done, and nobody had been fool enough to pull it out. Then he spat in the quench and didn't want to talk about it any more.
+
+Deston asked Emrys.
+
+Not about the hero. Emrys had already given them *a man who has earned his rest*, and he wasn't a man who said things twice. Deston asked about windows. Who in Kingsferry could see one. Whether the healers could, or the harbourmaster, or the captain of the river watch.
+
+"No one," said Emrys. "Not here. There are fewer than a hundred in the kingdom."
+
+"And you were taught by the Advisor."
+
+"Yes."
+
+"And he was taught by the first one."
+
+Emrys looked at him over his book for a moment, the way he looked at a student who'd sung a note he hadn't taught them.
+
+"You've been talking to the bargemen," he said.
+
+"Calvin has."
+
+"Mm." Emrys turned a page. "Then you know as much as I'm allowed to tell you, and a good deal I'm not." He didn't sound angry. If anything he sounded faintly pleased. "Keep asking, Deston. Just not me."
+
+Deston told the others that night. Calvin wrote *allowed* on the inside of the wardrobe door, under his weather score, and drew a box round it.
+
+They kept their windows the same way. Every number to each other, and to the six other groups in English, and to Emrys whatever he needed to teach them, which was most of it, but not all. It wasn't that they didn't like him. They liked him a great deal, by the end of the month; he was kind, and he never once told them a thing was impossible. But he wrote to the Advisor every week. They'd seen the courier.
+
+Rachael thought they were being ridiculous, and said so. "He's a *music teacher*."
+
+"Rule three," said Calvin.
+
+"Your rules are from a *book*."
+
+"Lots of books," said Gabe, fairly.
+
+Dennis, who'd been listening from the bed with his coins, said, "For what it's worth, he's never lied to you. Not once. Not even a little bit. He just doesn't say things." He considered it. "I'd hire him."
+
+***
+
 Deston found the threads.
 
 Or rather, he'd already found them. What he found in Kingsferry was how to *read* them.

@@ -99,6 +99,16 @@ The Advisor read that paragraph twice. He had had a window for nearly twenty yea
 
 The Advisor did not feel wiser than anyone.
 
+*There is a last thing, and I think you should know it from me. Three of them do not trust you. Deston, the big one Gabriel, and Calvin, who asks things. They are very polite about it. They tell me they have read a great many stories in their own world about people taken out of it into another, and that in those stories the one who does the taking always wants something he has not said, and the hero nobody will name is never dead. They ask the bargemen about the Hero of the Redmarch. They ask me who taught whom. I think they write down which questions I do not answer. They bring me tea, and they tell me what I need to teach them and not a great deal more, and I find I cannot blame them for it. I find I rather like it.*
+
+The Advisor read that one twice too.
+
+*Something he has not said.* He thought of the order he had given before the hall: *He is a fisherman, and nothing more. Tell them nothing.* He thought of a black sword lifted out of a grave, and of a man on a lake who had asked for nothing in eight years except to be left alone.
+
+They were quite right. That was the trouble with them.
+
+He did not write to Emrys about it. He thought, on the whole, that the most honest thing he could do for those three was not to stop them.
+
 He sat very still in the lamplight and thought: *a boy who sees what ties people together.* He thought of Oswin's letter, folded on the corner of the desk. *Something tied these people together before we ever reached for them.* He thought of thirty-five windows opening in a stone hall, every one of them exactly like a window he had first seen nearly twenty years ago, on a young swordsman at a border garrison, who had laughed at his astonishment and said, *you've never seen one of these? Here. Let me show you how to look.*
 
 He thought of what a boy who saw bonds might see, if he ever looked north.

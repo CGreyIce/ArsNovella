@@ -285,6 +285,10 @@ Dennis, at the end of the table, put his hand flat on the page beside the two wo
 
 "It's true," said Dennis quietly. "Whoever wrote that meant it."
 
+"We were going anyway," said Calvin. He said it to the page, gently, the way you'd tell somebody you already had the thing they were giving you. "Rule four."
+
+"I know you were," said Emrys. He looked at the two words a moment longer. "So did he, I think."
+
 ***
 
 Gabe went to the forge after that.
