@@ -57,7 +57,7 @@ And the twelve had stopped.
 
 *I know*, Severin had said. *I felt it*.
 
-He'd gone down the hundred and twelve steps faster than a man of sixty-six had any business going down anything, and stood at the foot of them all afternoon, watching the young man come back from walking twelve people home and sit on a mounting block with his hands shaking, because he'd needed to look at him for a while before he could say anything.
+He'd gone down the hundred and twelve steps faster than a man of sixty-five had any business going down anything, and stood at the foot of them all afternoon, watching the young man come back from walking twelve people home and sit on a mounting block with his hands shaking, because he'd needed to look at him for a while before he could say anything.
 
 The anvil. That was what he'd said, in the end. It was the only thing he'd had. His father's.
 
@@ -221,7 +221,7 @@ They all looked at him.
 
 ***
 
-He didn't decide it. He'd think afterwards that he should have. That a king of sixty-six, Ascendant for twenty-seven years, ought to have stood at the top of a tower on the edge of his kingdom and weighed it, the cost and the gain, the way he weighed everything in council with the Treasurer whispering in one ear and Halvard not whispering in the other. He didn't weigh it. He'd been a smith's son a lot longer than he'd been a king.
+He didn't decide it. He'd think afterwards that he should have. That a king of sixty-five, Ascendant for twenty-six years, ought to have stood at the top of a tower on the edge of his kingdom and weighed it, the cost and the gain, the way he weighed everything in council with the Treasurer whispering in one ear and Halvard not whispering in the other. He didn't weigh it. He'd been a smith's son a lot longer than he'd been a king.
 
 There's a moment, at the anvil, when the iron's at the colour and you either hit it or you don't. His father had never once in his life let him stop and think in that moment. *Now*, his father would say. Not *are you ready*. *Now*.
 

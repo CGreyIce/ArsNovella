@@ -216,7 +216,7 @@ Not the way it had gone in the autumn, when she broke it. The other way. All at 
 07:03 · Maigo: AN OLD SOLDIER IS GUARDING HIM WITH A SPEAR SO NOBODY WAKES HIM. HIS NAME IS JESSOP. I LOVE JESSOP
 07:03 · Tiger: NIKO
 07:03 · Tiger: NIKOOOOOOOOOOOO
-07:03 · Drew: last one standing. gg
+07:03 · Drew: last one standing.
 07:04 · Deston: that was it. the bell. that was him
 07:04 · Xavier: how many times did he move
 07:04 · Wendy: once

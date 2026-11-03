@@ -520,7 +520,7 @@ It had started as a note to himself. A reminder that the sum at the bottom of th
 
 Now it was a ping. That was all. A packet you send into the dark to see if anything's there. You don't expect an answer. You don't need one. You're only checking the line's still up.
 
-It was still up. He knew that. The way you know a server's alive at three in the morning when nothing's happening: not because it says so, but because nothing's come back to tell you it isn't.
+It was still up. He knew that. The way you know a call's still connected at three in the morning when nobody's said anything for an hour: not because it says so, but because nothing's come back to tell you it isn't.
 
 A hundred days to midsummer. Forty thousand fishing rods under the north stand. Two names on the Fledgling tree, one at the bottom and one at the top. Thirty-five boxes on the west wall of the Lists, and a thirty-sixth, walking down it a step at a time, to the end of things.
 

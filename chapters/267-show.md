@@ -240,7 +240,7 @@ He didn't count. He'd thought he would. He didn't. He sat there with his eyes op
 [ 16:51 · Rachael: Drew sit up straight, I can see you slouching on your ribs from here ]
 [ 16:52 · Ina: the lamps. somebody's lighting the lamps in the windows. ]
 [ 16:52 · Ina: not the order. just because it's getting dark. ]
-[ 16:53 · Winter: it's snowing there too. ]
+[ 16:53 · Winter: it's snowing there. it's raining here. ]
 [ 16:54 · Althea: John. how long can you hold it ]
 [ 16:54 · John: I'm not. it's just there. it's there till it isn't. ]
 [ 16:55 · Althea: then it's there tonight. ]

@@ -147,7 +147,7 @@ They followed *him*. Chris saw them do it. Not the blade. His shoulders. His han
 
 So he dropped it.
 
-*Release*. He'd had it since the fourth day of the Lists last summer. It was the thing he'd found when he found the leak: you could drop a move halfway, clean, like cancelling an animation, and start another one with no hitch, no lag, nothing for anyone to read. He'd won the Trios with it. He'd beaten Azac with it three days ago, cutting high and dropping it and coming in low under the shield. He dropped the high cut, clean, halfway, and started the low one.
+*Release*. He'd had it since the fourth day of the Lists last summer. It was the thing he'd found when he found the leak: you could drop a move halfway, clean, and start another one with no hitch and no join, nothing for anyone to read. He'd won the Trios with it. He'd beaten Azac with it three days ago, cutting high and dropping it and coming in low under the shield. He dropped the high cut, clean, halfway, and started the low one.
 
 And there was a gap.
 
@@ -306,7 +306,7 @@ Lucan was crying, obviously. Ysolde, beside him, wasn't. Ysolde looked up at the
 16:04 · Chris: Nikorasu: Tier 1. can't rank him. logged.
 16:05 · Suzuyun: Suzu says the bell rang twice. Once in the steel. Once in you.
 16:05 · Chris: yes
-16:06 · Nikorasu: gg
+16:06 · Nikorasu: nice one
 16:06 · Nikorasu: you saw it. that's the scariest thing anyone's done to me in two worlds
 16:06 · Winter: he's going to log that
 16:06 · Chris: already have

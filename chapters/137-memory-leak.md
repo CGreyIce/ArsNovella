@@ -439,9 +439,9 @@ The two trios stood on the sand of the Lists in front of each other. Ice's old s
 
 Yan held out his hand.
 
-"GG," said Yan.
+"Good fight," said Yan.
 
-Chris laughed. He couldn't help it. "GG," he said, and shook it.
+Chris laughed. He couldn't help it. "Good fight," he said, and shook it.
 
 Niko held out his hand too. "Good one," he said. "You closed it. I'm still annoyed." He paused. "I learned his left side for years. Online. I knew exactly where the hole would be." He shook his head slowly. "You filled it with somebody else."
 

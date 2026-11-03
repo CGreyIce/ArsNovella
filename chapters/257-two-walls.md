@@ -369,7 +369,7 @@ Her window was going.
 [ 18:25 · Gabe: hyv where are you ]
 [ 18:25 · Hyvred: tower. king's here. bee's here. i looked at it ]
 [ 18:25 · Hyvred: on purpose this time ]
-[ 18:25 · Niko: we saw. all of us at once. it was like being in the room ]
+[ 18:25 · Nikorasu: we saw. all of us at once. it was like being in the room ]
 [ 18:26 · Hanarisu: every cord went quiet at once. Oswin says it was like a room when somebody comes in. ]
 [ 18:26 · Salty: what do you need ]
 [ 18:26 · Salty: actually. what do you need ]

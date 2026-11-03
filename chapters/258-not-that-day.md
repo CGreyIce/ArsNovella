@@ -164,11 +164,11 @@ He read all of it. Everything since the picture. Mashi's *it was like being in t
 [ 04:02 · Hanarisu: from Corvin. Hyvred saw something come down the pass in the night. from the other side. from the WEST. ]
 [ 04:02 · Hanarisu: a hunter. Kharvos. Hild says by the way it moves. it lay down next to the thing like a dog. ]
 [ 04:03 · Hanarisu: I've woken the Advisor. he's reading it now. ]
-[ 04:09 · Niko: from the west? ]
-[ 04:10 · Niko: they trot. long arms. it's them. we've had four on the red this year. ]
+[ 04:09 · Nikorasu: from the west? ]
+[ 04:10 · Nikorasu: they trot. long arms. it's them. we've had four on the red this year. ]
 [ 04:11 · Salty: what's it doing THERE ]
 [ 04:15 · Hanarisu: the Advisor says: two sides. he says Yan said it first. ]
-[ 04:16 · Yan: I said they'd come from two sides. I didn't know they'd be standing next to each other. ]
+[ 04:16 · Suzuyun: I said they'd come from two sides. I didn't know they'd be standing next to each other. ]
 
 He read it twice.
 

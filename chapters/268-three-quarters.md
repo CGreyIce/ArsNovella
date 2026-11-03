@@ -179,7 +179,7 @@ Outside the rings. On the left. The fourteenth.
 
 This was the part she'd come for. Last time it had been a bit under half: fourteen threadless standing in a curve outside the thirteenth ring, fourteen holes, fourteen words, and the words were the left arc of the fourteenth ring, and the left arc was the call. *Come*. Written in people who weren't there any more. Every new one made it louder.
 
-It had got to thirty-one. Hyvred had counted them. Thirty-one, the night before it came down.
+It had got to thirty-one. Rui Xiang had counted them, by hand, an inch off each shoulder. Thirty-one, the night before it came down.
 
 She found the curve. She went along it the way she'd go along a line of code with her finger, word by word. One. Two. Three. Holes in the snow, standing, the size of people, with nothing in them. Ten. Fifteen. Twenty. She could read them now. Not the words themselves; she'd never been able to read what they said, only what they *were*, the shape and the grammar of them. But she could read the shape of the sentence they made.
 
@@ -205,7 +205,7 @@ It wasn't fading. That was the second thing. She'd half hoped it would be; that 
 
 It was waiting.
 
-For the rest of it. For eight more words, written in eight more people with nothing in them, to come and stand at the end of the curve past the cut, so it could start again from where it had been stopped. *Come*. Three-quarters said. It wasn't going anywhere. It would stand in the snow at the top of the valley and wait as long as it took.
+For the rest of it. For eight more words, written in eight more people with nothing in them, to come and stand at the end of the curve past the cut, so it could start again from where it had been stopped; and then the two or three it had still wanted, after that. *Come*. Three-quarters said. It wasn't going anywhere. It would stand in the snow at the top of the valley and wait as long as it took.
 
 And it would take until spring. She could see that too, if she looked past the curve, up, at the pass. The words came from the west. They always had; Hyvred had watched them come, one a week, down the switchbacks into the valley from the far side, walking. And the pass was shut. White from side to side, under the snow, the way the old men at Thornwall said it shut every year, and stayed shut till the thaw.
 
@@ -277,7 +277,7 @@ PenguChi, in the corner by the stove, enormous and quiet, said: "What did you se
 
 So she told them.
 
-All of it. Slowly, the way Maren read; every word. The rings, still the hall. The seven blanks in the inner rings, with the sentence still reading round them. The fourteenth: twenty-three, three-quarters of a sentence that had been nearly said, and the end of it cut off clean, the way nothing in the language had ever been cut. Open, at the cut. Waiting. For eight more, from the west, down a pass that was shut till the thaw. The right arc, blank. The absence, at the top, facing the town; not looking at her.
+All of it. Slowly, the way Maren read; every word. The rings, still the hall. The seven blanks in the inner rings, with the sentence still reading round them. The fourteenth: twenty-three, three-quarters of a sentence that had been nearly said, and the end of it cut off clean, the way nothing in the language had ever been cut. Open, at the cut. Waiting. For eight more to get back where it had been, and the last two or three after them, from the west, down a pass that was shut till the thaw. The right arc, blank. The absence, at the top, facing the town; not looking at her.
 
 Higu wrote it down. A new page. Then another. She drew the curve, and the cut, and the snow on the pass. She wrote *SPRING* at the top of the second page and underlined it once, not twice.
 
@@ -287,7 +287,7 @@ Bram in the doorway didn't say anything. But when she said *the edge of it was s
 
 "So it's coming back," said Xola. At the end. Very quietly, into the blanket.
 
-"In the spring," said Thea. "When the pass opens. If eight more come down it." She thought about it. "It's not over. It's waiting. It's three-quarters, and the end's open, and it's waiting."
+"In the spring," said Thea. "When the pass opens. If they come down it: eight to get back where it was, and two or three more." She thought about it. "It's not over. It's waiting. It's three-quarters, and the end's open, and it's waiting."
 
 Nobody said anything.
 
@@ -312,7 +312,7 @@ She posted it at midnight, on the cabin step, with the picture still lying in he
 [ 00:04 · Althea: read the valley through John's picture. not through anyone. 361 heartbeats. came out on my own. it didn't see me. ]
 [ 00:04 · Althea: the thirteen rings are still the hall. seven blanks in the inner rings. the rings still read round them. a hair quieter. ]
 [ 00:05 · Althea: the fourteenth: 23. it was nearly a sentence at 31. the last eight are cut off clean. I've never seen a cut like it. ]
-[ 00:05 · Althea: what's left isn't fading. it's open at the cut. it's waiting for eight more. they come from the west. the pass is shut. ]
+[ 00:05 · Althea: what's left isn't fading. it's open at the cut. it's waiting for eight more to get back where it was. then two or three. they come from the west. the pass is shut. ]
 [ 00:06 · Althea: three-quarters. waiting under the snow for spring. ]
 [ 00:06 · Althea: the right arc is still blank. the absence is facing the town. it's sat down. ]
 [ 00:07 · Hyvred: that's what it feels like from here. sat down. ]

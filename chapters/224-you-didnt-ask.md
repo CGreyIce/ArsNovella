@@ -83,7 +83,7 @@ Milli had beaten him in the second round of the Swiss. *Pounce*: there and then 
 
 Ars had said it. Under the overhang. Alone. Not loud. *Mashi*.
 
-He'd watched him beat Xav in the semi the same way. Xav deciding late, and Niko not deciding at all; and *now* reaching for something to feel and finding a gap where a boy should be. Xav had laughed on the sand. Ars had seen him. Laughed, and put his sword up, and said something Ars couldn't hear and could guess. *Gg*. Then he'd looked up at the north stand too.
+He'd watched him beat Xav in the semi the same way. Xav deciding late, and Niko not deciding at all; and *now* reaching for something to feel and finding a gap where a boy should be. Xav had laughed on the sand. Ars had seen him. Laughed, and put his sword up, and said something Ars couldn't hear and could guess. *Nice one*. Then he'd looked up at the north stand too.
 
 Everybody did, by the end of the week. Not at him. Near him. The way you'd look toward a lamp you'd been told not to mention.
 

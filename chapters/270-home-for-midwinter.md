@@ -105,7 +105,7 @@ On the north tower, a hundred and twelve steps up, a girl with a red mark in one
 
 It was faster, going home.
 
-He'd known it would be. The road west had been autumn: rain on the downs and mud to the knee on the clay, and the rivers up, and every ford a swim. He'd run what he could and walked the rest, and it had taken twenty-four days, and he'd been afraid every one of them. The road east was frozen. Hard as a floor under the snow, the ruts set like iron, the fords iced from bank to bank; you could run on a road like that all day if you didn't mind your feet, and he didn't.
+He'd known it would be. The road west had been autumn: rain on the downs and mud to the knee on the clay, and the rivers up, and every ford a swim. He'd run what he could and walked the rest, and it had taken twenty-four days, and he'd been afraid every one of them. The road east was frozen. Hard as a floor under the snow, the ruts set like iron, the fords iced from bank to bank; you could run on a road like that all day if you didn't mind your feet, and he didn't. And there was nothing at the end of this one that he had to get there with something left for. Only a lamp.
 
 He ran most of it.
 
@@ -137,43 +137,31 @@ He went to sleep.
 
 ***
 
-On the fourteenth night he read the channel in the porch of a chapel on the edge of the chalk country, with the frost so hard that the stones of the porch rang under his boots.
+On the twelfth night he read the channel in the porch of a chapel on the edge of the chalk country, with the frost so hard that the stones of the porch rang under his boots.
 
-It was midwinter. The longest night. He'd felt it go out of the day at dusk like a tide going out. And at a little before eight in the morning, sitting up in the porch with his blanket round him and his breath freezing in his beard, he read:
+Winter. Three lines, from that morning, in her flat plain way:
 
-*Winter · Tier 2: Candle · Skills: Rime, Windward.*
+*black ice coming to valcrest. midwinter night. freezing fog up the river off the sea.*
 
-*freezing fog up the river last night. the black ice. stood on the south rim of the Lists so it froze on me first.*
+*if you know anyone with old people in the river quarter, tell them. stoves if they've got them.*
 
-*rime grows into the wind. the first thing in the way takes it all.*
+*I'm telling everybody.*
 
-*nine thousand in the stands. nobody in their beds.*
-
-He read it twice. Then he read the rest. Chris logging. Ina and the hands. Rachael, *check them a third time*. Hyvred, in capitals, *winter you stood in FRONT*. Newish: *she won't let anyone brush it off*. And Winter: *I like it.*
+He read it twice.
 
 He sat in the chapel porch with the frost ringing in the stones and thought about a girl with silver hair and two black horns, barefoot on the cobbles of a yard in Valcrest at dawn, the summer before last, with a face she couldn't see two paces off. Who'd been the last to know. Who'd told him she was going to watch, and see it first, and tell him. And he'd said: *tell everyone. It's no good unless you make sure nobody else is last.*
 
-At midnight, the next night, in a barn, he read the last of it.
+*I'm telling everybody.*
 
-*frost again tonight. lighter. not the fog.*
+He laughed. Out loud, in a chapel porch on the edge of the chalk, so that a fox going along the top of the churchyard wall stopped dead and looked at him.
 
-*anyone with old people, tell them. stoves if you've got them.*
-
-*I'm telling everybody. so nobody's last.*
-
-He laughed. Out loud, in a barn on the edge of the chalk, so that a horse in the next stall put its head over and looked at him.
-
-Then he put the window away, and lay down, and slept better than he had since the lake.
-
-On the seventeenth day, Bee: a picture, through John. Not of the valley. Of a door on a lane by a laundry, with snow on the step, and on the wood above the step, in chalk, small, a sleeping dog curled up nose to tail.
-
-He looked at that one for a long time.
+Then he put the window away, and lay down in his blanket, and slept better than he had since the lake.
 
 ***
 
 He came over the last hill at dusk on the day of the bonfire.
 
-He hadn't planned it. He'd known, on the road, roughly, how many days; he'd known the bonfire was on the twelfth day, the way it had been every year since before Alea was born. He hadn't tried to make it. You didn't, on a road; you went as fast as the road let you and got there when you got there. But on the twentieth day, in the afternoon, he came up out of the woods on the far side of the river onto the long rise above the lake, and the light was going, and he knew; and he stopped at the top.
+He hadn't planned it. He'd known, on the road, roughly, how many days; he'd known the bonfire was on midwinter night, the way it had been every year since before Alea was born. He hadn't tried to make it. You didn't, on a road; you went as fast as the road let you and got there when you got there. But on the fourteenth day, in the afternoon, he came up out of the woods on the far side of the river onto the long rise above the lake, and the light was going, and he knew; and he stopped at the top.
 
 The lake was there.
 
@@ -189,7 +177,7 @@ He stood on the top of the hill and looked at it.
 
 And in the town, a mile off and below, in the upstairs window of the house that looked down the lake road, something stood up.
 
-He couldn't see it from there. Nobody could have. He felt it the way you feel somebody look at you across a room. A hen. On a windowsill. Who'd been put there, every evening, by a woman who'd kept a straight face at him for nine years, so that she could see him come over the hill before anybody said it was him.
+He couldn't see it from there. Nobody could have. He felt it the way you feel somebody look at you across a room. A hen. On a windowsill. Who'd been put there, every evening, by a woman who'd kept a straight face at him for ten years, so that she could see him come over the hill before anybody said it was him.
 
 She'd seen him. Before anybody.
 
@@ -257,7 +245,7 @@ He stopped on the last plank.
 
 She thought about that. Her ears moved. Then she took her hand off the post, and turned round.
 
-He couldn't see what her face was doing. He never could, quite; she'd always had her mother's way of keeping it, and she'd been keeping it for forty-eight days, every dusk, on the end of a jetty. He could see her ears. He could see her hands, which had come out of her coat pockets and didn't know where to go.
+He couldn't see what her face was doing. He never could, quite; she'd always had her mother's way of keeping it, and she'd been keeping it for forty-one days, every dusk, on the end of a jetty. He could see her ears. He could see her hands, which had come out of her coat pockets and didn't know where to go.
 
 He put the rod down on the boards.
 
@@ -273,7 +261,7 @@ She came the last pace, the one between the last plank and the post, and put her
 
 "Did you take the sword?"
 
-She knew he hadn't. She'd seen it on the wall every evening for forty-eight days, over the drawing and the blank side of the list. She was asking anyway, because you asked.
+She knew he hadn't. She'd seen it on the wall every evening for forty-one days, over the drawing and the blank side of the list. She was asking anyway, because you asked.
 
 "No."
 
@@ -333,7 +321,7 @@ They went up to the bonfire at full dark.
 
 Together, up the lake road, between the forty lanterns, the way they'd gone up it last year. Group 1 were waiting at the bottom by the cabin gate, all five of them, in their coats; Gigichi had come along the shingle from her bench with her cold cup. They didn't say anything. They fell in round him, the way they had last year, and Xola took his hand without asking, which nobody in Wrenhaven had ever seen anybody do until last year, and which he let her; and they went up.
 
-The square was full. It always was, on the twelfth day. Trestle tables round the edges with roast pork and bread and honey cakes and the great steaming vat of something hot and spiced. A fiddler. A man with a drum. And in the middle, the bonfire, as tall as a house, built over three days by every man and boy in the town; and Rowan Hale in his chain of office at the foot of it, bellowing at the Hollin brothers about a lean on the east side that was entirely their fault.
+The square was full. It always was, on midwinter night. Trestle tables round the edges with roast pork and bread and honey cakes and the great steaming vat of something hot and spiced. A fiddler. A man with a drum. And in the middle, the bonfire, as tall as a house, built over three days by every man and boy in the town; and Rowan Hale in his chain of office at the foot of it, bellowing at the Hollin brothers about a lean on the east side that was entirely their fault.
 
 He stopped bellowing when he saw them come up out of the lake road into the square.
 
@@ -382,6 +370,8 @@ He didn't know. He thought it was probably all of it. He thought it didn't matte
 He closed it.
 
 Behind him, through the open door, in the dark, a long grey-silver blade lay on its pegs over a drawing and a list with one line on it, and was patient. To the south and west, a long way off, past the hills, past the downs, a grey stone town at the foot of the Greyspine was asleep under the snow, with a girl on a tower asleep sitting up and somebody beside her; and a king who'd been a smith asleep in a chair by a banked forge; and a black oak post inside an arch with a cap of new snow on it, and two hand-marks worn into the wood at the height of a boy's shoulder. And past that, past the town, eleven miles up a white valley, thirteen rings of people stood in a field in the snow, and a curve of twenty-three holes stood on the left of them, three-quarters of a sentence; and at the top of everything, at the foot of a pass that was shut, a round place where the snow didn't lie sat facing the town. Waiting for the thaw.
+
+And a long way south of all of it, further than he'd ever walked in a winter, a city on a river that didn't freeze would be going white about now, from the water up, the way a girl with two black horns had said it would; and somewhere at the front of it, standing where it came first so that it came to her and not to anyone else, she'd be there. He'd read how it went in the morning. He didn't need to.
 
 He sat on the step and looked at the lake.
 

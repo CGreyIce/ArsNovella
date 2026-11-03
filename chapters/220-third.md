@@ -257,11 +257,11 @@ It was laughing.
 
 Rui Xiang straightened up. He looked at Xav for a long moment. Then he held out his hand, the dagger still in it, hilt first, the way you'd hand somebody a thing you'd been meaning to give them.
 
-"Gg," said Rui Xiang.
+"Nice one," said Rui Xiang.
 
 Xav took the hand. Not the dagger; the hand, round the hilt.
 
-"Gg," said Xav.
+"Nice one," said Xav.
 
 ***
 

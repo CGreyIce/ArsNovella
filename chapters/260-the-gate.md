@@ -151,11 +151,11 @@ And soldiers.
 
 He heard Brannoch make a sound beside him. Not a word. The sound a man makes when he's been hit somewhere he didn't know he could be hit.
 
-Ten of them. In the second ring, near the front, walking together, the way they'd walked out together in the first spring along the shepherds' track toward the passes; in Western Watch grey gone pale with two years of weather, with their swords still on their hips and their faces turned up toward the north wall. Toward the gatehouse. Toward Brannoch.
+Nine of them. In the second ring, near the front, walking together, the way the ten of them had walked out together in the first spring along the shepherds' track toward the passes; in Western Watch grey gone pale with two years of weather, with their swords still on their hips and their faces turned up toward the north wall. Toward the gatehouse. Toward Brannoch.
 
 "Dunmore," said Brannoch.
 
-A sergeant, broad, grey-whiskered, at the front of the ten, walking easily, with his hands at his sides. He didn't look up. None of them looked up. They walked across the fields toward the wall with their faces turned toward it the way you'd turn your face toward a fire.
+A sergeant, broad, grey-whiskered, at the front of the nine, walking easily, with his hands at his sides. He didn't look up. None of them looked up. They walked across the fields toward the wall with their faces turned toward it the way you'd turn your face toward a fire.
 
 All along the wall, the soldiers were saying names.
 

@@ -315,11 +315,11 @@ Away from the river. Toward her. All of them. A ring of rime round her bare feet
 
 She sat there for a long time.
 
-Somewhere a long way north of here, on a road over the downs in the snow, a man with a rod was walking home. The channel said so. Hyvred had written it, a fortnight ago, the morning the picture went out: *he's gone. at first light. on foot. east.* She thought about him. A man she'd known four months on Earth, on calls with Chris, who'd have made the joke about a girl called Winter with ice magic; who'd stood two paces off in a yard at dawn and told her that seeing it first was no good unless nobody else was last.
+Somewhere a long way north of here, a man with a rod was walking home, or was home by now; nobody had said. The channel had said he went. Hyvred had written it, a fortnight ago, the morning the picture went out: *he's gone. at first light. on foot. east.* She thought about him. A man she'd known four months on Earth, on calls with Chris, who'd have made the joke about a girl called Winter with ice magic; who'd stood two paces off in a yard at dawn and told her that seeing it first was no good unless nobody else was last.
 
 She'd done it. Both halves. She'd seen it first. And then she'd gone and stood where it came, so that it didn't come to anyone else.
 
-She thought she might tell him. One day. When he was home. She'd sit two paces off on a step somewhere and tell him, bluntly, the way she told everything; and he'd be quiet for a moment, the way he was, and she wouldn't be able to see his face, and it wouldn't matter.
+She thought she might tell him. One day. She'd sit two paces off on a step somewhere and tell him, bluntly, the way she told everything; and he'd be quiet for a moment, the way he was, and she wouldn't be able to see his face, and it wouldn't matter.
 
 She opened the channel instead, because it was midnight, and it was cold, and somebody ought to.
 

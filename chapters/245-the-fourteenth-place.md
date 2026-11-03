@@ -47,7 +47,7 @@ Corvin didn't ask who.
 
 A hundred and twelve steps.
 
-Kestra counted them under her breath behind him, in case he wanted to know. He didn't. He'd climbed them a dozen times in the spring and the number didn't help; they were steep and worn hollow in the middle, and a man of sixty-seven with a ninth tier in him still had knees. He came up through the trapdoor onto the leads with his breath going, and stood.
+Kestra counted them under her breath behind him, in case he wanted to know. He didn't. He'd climbed them a dozen times in the spring and the number didn't help; they were steep and worn hollow in the middle, and a man of sixty-six with a ninth tier in him still had knees. He came up through the trapdoor onto the leads with his breath going, and stood.
 
 She was there.
 

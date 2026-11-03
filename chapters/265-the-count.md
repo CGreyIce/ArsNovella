@@ -119,7 +119,7 @@ She stood up from the front of the crowd, where she'd been sitting on the edge o
 
 She came to the front. Corvin held the book out. She didn't look at it; she couldn't read, she'd told him, and anyway she didn't need to.
 
-"Old Gwil Harries," she said. "From the top farm at Coldwater. He had the white beard. Mair Jenkin, that kept the bees. Her husband was Tomos; he went first, the first year, visiting, before any of us. That was Mair in the apron." She stopped. Her mouth worked. "Dilys Pugh. From the mill. Her grandson's in the fourth ring, Corvin, you've got him, he's called Ianto." Corvin nodded. "Seren Bowen, from the chapel house. Her and her sister went the same night and I don't know where the sister is." She looked down at her hands. "Glyn Lloyd the shepherd. He used to bring his ewes down to us in the snow." She stopped.
+"Old Gwil Harries," she said. "From the top farm at Coldwater. He had the white beard. Mair Jenkin, that kept the bees. Her husband was Tomos; he went first, the first year, visiting, before any of us. That was Mair in the apron." She stopped. Her mouth worked. "Gethin Pugh. From the mill. His grandson's in the fourth ring, Corvin, you've got him, he's called Ianto." Corvin nodded. "Seren Bowen, from the chapel house. Her and her sister went the same night and I don't know where the sister is." She looked down at her hands. "Glyn Lloyd the shepherd. He used to bring his ewes down to us in the snow." She stopped.
 
 "That's five," said Corvin, gently.
 
@@ -131,7 +131,7 @@ Then, from the steps of the Bell, Drew said them.
 
 He was standing at the end of Group 5's row with his ribs bound up under his shirt so tight he couldn't bend, and his face still a colour Hyvred didn't like, and his hands, which wouldn't quite close any more, hanging at his sides. He'd said every name in Thornwall down the chain in the long room for fifteen nights. He said these the same way. Not loud. Each one as if it was the only one.
 
-"Gwil Harries. Mair Jenkin. Dilys Pugh. Seren Bowen. Glyn Lloyd."
+"Gwil Harries. Mair Jenkin. Gethin Pugh. Seren Bowen. Glyn Lloyd."
 
 And then he stopped. Because there was nothing to say for the last two, and he was the one who said names, and he didn't have them.
 
