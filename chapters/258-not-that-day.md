@@ -232,7 +232,7 @@ He packed the way he'd packed at nineteen. From the list he didn't need to write
 
 Alea came down the ladder while he was doing it. She'd been awake; of course she had. She was in her coat with Astra on her back and her bag on her shoulder, packed, exactly as she'd been at midnight; and she stood at the bottom of the ladder and looked at the wall, at the sword back on its pegs, and at him, at the rod in his hand; and he saw her see it.
 
-She didn't ask. She went and put the kettle on the stove instead. The terrible two-note kettle, from a tinker, for two coppers and a pike. It began, after a while, to make its two notes, and neither of them was the right one.
+She didn't ask. She went and put the kettle on the stove instead. The cabin's old kettle, from the back of the cupboard, which made two notes too, as if it had learned them from the one Calvin had. It began, after a while, to make them, and neither of them was the right one.
 
 They had tea standing up.
 
