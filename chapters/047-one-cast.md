@@ -202,7 +202,7 @@ Forty-five, at dusk.
 
 He looked at it for a long time, with the sky going grey behind the far trees and the first birds starting up in the reeds.
 
-He'd cut a fifth-tier demon in half tonight, from a mile away, without getting up off a jetty. It hadn't moved the number at all. He hadn't expected it to. Fighting had never been the way up; not for a long time. He'd known that for seven years.
+He'd cut a demon in half tonight, a thing as strong as any fifth-tier man, from a mile away, without getting up off a jetty. It hadn't moved the number at all. He hadn't expected it to. Fighting had never been the way up; not for a long time. He'd known that for seven years.
 
 But thirty-four people had told a boy in Valcrest what he'd been like. And somewhere in the middle of it, while he wasn't looking, it had gone up by one.
 
