@@ -55,7 +55,7 @@ Nobody knew why.
 
 He'd thought about that all winter.
 
-He was thinking about it in the castle yard at first light, with his ribs aching, when the cords came down from the west tower.
+He was thinking about it in the castle yard at first light, with his ribs aching, when the cords came down from the east wing.
 
 ***
 
@@ -75,7 +75,7 @@ And under it, in a different hand, the king's: *Send it to the Council as it sta
 
 "Of Kharvos?"
 
-"Of Kharvos," said Jared. He folded the strip and gave it back to Cursiffe. "And of whatever's holding Kharvos's hand. And they can't see that. They can't put a name to it, or a map, or a number." He looked up at the west tower, where Hana's window was, at the top, with a light still in it from the night. "So they'll be scared of the thing they *can* see."
+"Of Kharvos," said Jared. He folded the strip and gave it back to Cursiffe. "And of whatever's holding Kharvos's hand. And they can't see that. They can't put a name to it, or a map, or a number." He looked up at the east wing, where Hana's window was, on the top floor, with a light still in it from the night. "So they'll be scared of the thing they *can* see."
 
 Milli looked at him. Then up at the tower. His tail went still.
 
@@ -313,7 +313,7 @@ He'd said it to Hana once, three and a half years ago, in this room. Jared knew;
 
 ***
 
-He didn't open his window until they were back in the west tower, in Hana's room, with the door shut and everybody in it.
+He didn't open his window until they were back in the east wing, in Hana's room, with the door shut and everybody in it.
 
 He sat on the floor by the door with his back against it, the way he always sat. Milli on the bed with his tail lashing. Aleaka in the window seat with the vixen on her feet and Brisk on her shoulder glaring at the room. Cursiffe at the little table with his pen. Hana on the end of the bed with her hands in her lap and the cords at her belt and her wrists and her throat, all of them, still warm.
 
@@ -425,7 +425,7 @@ Across the room, Milli was asleep on the bed with his arms still out and his tai
 
 Somewhere a long way off in that direction there was a fort on the end of the world, and a knoll an hour east of it, and a black stone on a cairn with a ring round it that forty people couldn't cross. And somewhere a long way the other way, a king at a banked forge, and a pass under four feet of snow, and the thaw coming.
 
-And here, at the top of the west tower, a door, and him against it. Where he'd always sat. Between the room and whatever was outside it.
+And here, in a room in the east wing, a door, and him against it. Where he'd always sat. Between the room and whatever was outside it.
 
 He'd never been able to do anything from half a world away. He'd thought about that a lot, in the first year. That was the thing he'd carried longest, longer than anything: a funny boy in Malaysia, and Jared on the other side of the world, and nothing he could have done.
 
