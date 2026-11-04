@@ -11,7 +11,7 @@ Xav was awake when Kei came in. He mostly was, at that hour. He'd got into the h
 
 He heard the door instead. And Kei's feet, bare, on the boards, coming fast and trying not to.
 
-Xav opened his eyes. Kei was standing in the middle of the long room in his shirt with Hisui wound twice round his neck and the snake's white head up past his ear, very still, the way it went when it was tasting. Its tongue went in and out. In and out.
+Xav opened his eyes. Kei was standing in the middle of the long room in his shirt with Hisui wound twice round his neck and the snake's green head up past his ear, very still, the way it went when it was tasting. Its tongue went in and out. In and out.
 
 "What," said Xav. Quietly.
 

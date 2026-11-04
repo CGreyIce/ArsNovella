@@ -317,7 +317,7 @@ He looked at Group 6. "You five."
 
 "Aye," said the king. "You are."
 
-He looked at Group 5. One at a time. Kei, with Hisui's white head up beside his ear. Bee. Tiger. Drew. And last, Hyvred, in the middle.
+He looked at Group 5. One at a time. Kei, with Hisui's green head up beside his ear. Bee. Tiger. Drew. And last, Hyvred, in the middle.
 
 He didn't say anything to her for a while.
 
@@ -371,7 +371,7 @@ Not to the valley. To the town.
 
 She looked at it. All of it. Every light in Thornwall, on a spring morning, a week after the pass opened, with twenty-six in the curve and five on the far side and a king on the road east.
 
-The long room: forty-one lights, getting up, stretching, going out into the morning, letting go of each other's hands at last. Drew, gold and thin and steady, sitting on the end of a pallet with his head in his hands, not hurt, just tired. Kei on the step with a white snake round his neck. Tiger at the well, getting his breath. Bee, coming up the tower stair behind her, she could feel her coming, a bright small light like a bee in a jar. And Olwen, at a window, leaning a little, the way she always would; and in the door beside her, a blue ring, standing, not going in, just there.
+The long room: forty-one lights, getting up, stretching, going out into the morning, letting go of each other's hands at last. Drew, gold and thin and steady, sitting on the end of a pallet with his head in his hands, not hurt, just tired. Kei on the step with a green snake round his neck. Tiger at the well, getting his breath. Bee, coming up the tower stair behind her, she could feel her coming, a bright small light like a bee in a jar. And Olwen, at a window, leaning a little, the way she always would; and in the door beside her, a blue ring, standing, not going in, just there.
 
 In the square: the children, going home. And at the well, Petra. Grey, like slate, all one colour, with her stick under her arm.
 
