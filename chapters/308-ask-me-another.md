@@ -139,7 +139,7 @@ She stood in the door of the cabin with Astra on her back and her ears up and lo
 
 He looked at the letters.
 
-He thought about lying to her, and didn't. He'd stopped doing that, mostly, since the spring. Since a list in Diwa's slate hand on the back of the cabin door that said *Write first* and *Not an answer*.
+He thought about lying to her, and didn't. He'd stopped doing that, mostly, since the spring. Since a list on a nail by the hearth, in the slate hand Alea had learned from her mother, that said *Write first* and *Not an answer*.
 
 "Because I'm not going," he said.
 
