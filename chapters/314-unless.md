@@ -487,7 +487,7 @@ He'd never seen it go quiet like that. Not for Thea's Lantern, not for the Nail.
 
 [ 06:47 · Rui Xiang: I was on the wall by him. he didn't breathe the whole time. ]
 
-[ 06:47 · Kei: Hisui says the strap on my satchel tastes like Malcolm now and she'd like it off. I'm keeping it. ]
+[ 06:47 · Kei: Hisui says the strap on my satchel tastes like Malcolm now and he'd like it off. I'm keeping it. ]
 
 [ 06:48 · Xolalotl: THIRTY FIVE ]
 
