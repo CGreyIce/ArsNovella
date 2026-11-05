@@ -91,9 +91,53 @@ Most people didn't. The big crowd was in the bowl of the Lists, already, waiting
 
 The summoned leaned on the rail. Most of them. The ones not in bouts.
 
-Hako had won his first round yesterday afternoon, against Calvin, who'd entered the Singles because he said he wanted to know what it felt like to lose to someone with a stick. He'd found out. He'd been very happy about it.
+Hako had won his first round yesterday afternoon, against Calvin, who'd entered the Singles because he said he wanted to know what it felt like to lose to someone with a stick.
 
-Milli had won his against Dennis. Dennis had tried, at the start of the bout, to negotiate. *What if*, Dennis had said, standing in the chalk ring with a blunted short sword held like a pen, *we split the prize money*. *There isn't any prize money*, Milli had said. *There could be*, Dennis had said. Milli had disarmed him in two moves. Dennis had said *I'll put it in the ledger*.
+Calvin had come into the chalk ring with a blunted short sword from the Lists' armoury, holding it out from his body as if it might go off, and asked the marshal three questions before the marshal could say *begin*. Did a touch on the hand count. What if two people touched at once. Was the marshal allowed to say *nearly*. The marshal, an old man with a flag and a sunburnt neck, answered all three, and then said *begin* rather quickly in case there was a fourth.
+
+Calvin went at once, with the wind behind him. *Tailwind*: Hako felt it go past his own ankles toward Calvin's back, a warm push off the practice ground, and Calvin came across the chalk faster than his legs could have taken him, faster than he'd meant to, the short sword out in front of him like a broom.
+
+Hako didn't move. He put the spear's point where Calvin would be in a breath, and held it there. Calvin ran onto it. The blunted iron cap took him in the middle of the chest with a flat *tock* that Hako felt all the way down the shaft into his hands, and the wind went on past without him and lifted the marshal's flag.
+
+"*One*," said the marshal. "Spear."
+
+"Huh," said Calvin, rubbing his chest. He looked down at the spear, and then at Hako. "How'd you know?"
+
+"Your wind gets there first," said Hako, and pointed with his chin. On the sand between them the dust had stood up in a line and leaned the way Calvin was going to go, a whole breath before Calvin went.
+
+"*Huh*," said Calvin again, enormously pleased. He was pleased by every true thing anyone told him.
+
+He tried it sideways the second time, the wind under him at an angle so he swerved like a gull; and the dust swerved first, and Hako's spear swung flat and caught him on the hip with a smack that turned him half round. *Two*. The third time he turned the wind off altogether and walked in on his own two feet, slowly, sword up, watching Hako's face instead of the spear, which was the right idea about a year too early. Hako waited until he'd chosen where to swing, and touched him on the breastbone before he did.
+
+"*Three*. Spear."
+
+"*So that's what it feels like*," said Calvin, on his back on the sand, to the sky. He'd found out. He'd been very happy about it.
+
+Milli had won his against Dennis, straight afterwards. Hako had watched that one from the rail with the sand still in his shoes.
+
+Dennis had tried, at the start of the bout, to negotiate. *What if*, Dennis had said, standing in the chalk ring with a blunted short sword held like a pen, *we split the prize money*. *There isn't any prize money*, Milli had said. *There could be*, Dennis had said.
+
+Then the marshal had said *begin*, or most of it. Milli went on the *b*.
+
+Hako had only known him five days and had already seen him go a dozen times, across the yard behind the Lance, off the end of a bench, and it still surprised him: no gathering, no lean, nothing first. A cat off a wall. One moment Milli was on his own side of the chalk with his tail low and the light curved sword hanging from his hand, and the next he was most of the way across it.
+
+Dennis did the only thing he had. *Glamour*. The short sword in his right hand went thin and pale, like something seen through water, and a second one came up in his left, solid and bright and catching the sun. It was very good. Half the rail looked at the left hand. Hako did.
+
+Milli didn't look at either sword. He'd been told every morning for two years, by a woman who never said anything twice except *again*, that a sword goes where the hand goes; and he went at the hand. The curved blade came down on the real short sword's guard with a flat clack of blunt iron, and turned over it, a twist of the wrist with his whole small weight behind it, and the short sword left Dennis's fingers and went end over end out of the ring into the rail, a foot from Calvin, who said *ow* although it hadn't touched him.
+
+The bright sword in Dennis's left hand went out like a blown lamp. There'd never been anything in it.
+
+"*Disarmed*," said the marshal. "Will you go on?"
+
+Dennis looked at his empty hands. He looked at his sword, in the rail. He looked at Milli, who was standing between him and it with his tail up.
+
+"What are my options?"
+
+"Go and get it."
+
+"From *there*?" Dennis considered the distance, and the cat. "No," he said. "I yield. I'll put it in the ledger."
+
+*He goes first*, Hako had thought, at the rail. *Every time. Before the word's finished. He doesn't wait to see what you've got*. He'd thought about it all evening. He'd thought about it on the wet sand this morning, with the man's voice in his ear. It was the one thing Hako couldn't do, and the only thing Milli could.
 
 Round two. The marshal had read it out at the start of the morning.
 

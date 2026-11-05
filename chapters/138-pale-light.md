@@ -317,15 +317,47 @@ She said it the way she said everything. Dry. Like a woman telling off a patient
 
 ***
 
-Xav beat PenguChi in the end, by a hair, the way everyone that week seemed to win by a hair. Salty beat Milli, not by a hair, by about a mile, lifting him clean off the sand on the end of the Lists' heaviest blunted greatsword and setting him down again outside the chalk very gently, the way you'd set down a cat.
+On the sand the first semifinal had gone to two touches each.
+
+Yan watched the last one with his eyes and with *Kin* at once, because he couldn't stop doing either. PenguChi stood in the chalk under the torches with her practice sword low and her feet set, and her candle was the steadiest thing in the bowl: small, round, very still, a flame in a room with the door shut. Xav's moved. Not his body. His body stood there in its grey coat with the blunted sword held loose. But his candle leaned, a hair, first left and then back, the way Rachael's had leaned over her shoulder, the way they all leaned toward what they were about to reach for.
+
+He was choosing. You could see him choose, from inside.
+
+PenguChi wasn't. Alea had told her, at the end of the first summer, to stop keeping it, and she'd stopped. She didn't feint and she didn't wait. She gave. All of it at once: she came in off her back foot with every bit of her behind one plain cut, so straight and so whole that the people on the near rail stood up with it.
+
+Xav's candle leaned before she'd begun. His body went after it a hair later, a half-step to the left that was hardly a step at all. Her cut went past his ribs close enough to lift his coat, and the flat of his blade was on the back of her shoulder before her feet had finished arriving.
+
+"*Three*," said the marshal. "Xavier."
+
+PenguChi stood where the cut had left her, with the practice sword out in front of her in both hands, and breathed. Then she turned and bowed to him, a small deep bow. Waddles, at the tunnel mouth, flapped once.
+
+"That was a hair," said Xav, breathing hard.
+
+"I know." Her voice was perfectly steady. It was always steady. "Next time I'll give it a hair sooner."
+
+Xav laughed, which he didn't often do in a ring, and the near stand laughed with him without knowing why.
+
+The second semifinal took less time than the bow had.
+
+Milli came out of the tunnel at a run with his tail straight up and the light curved sword already turning in his hand. He'd been Drawn for a day and a half, and Yan could feel it from the sixth tier: a hot quick candle, a boy who'd been at nothing for two years and had just found out what *go* was for. Salty walked out after him with the Lists' heaviest blunted greatsword over his shoulder, the one the armoury kept mostly for show, and stood in the middle of his half of the chalk, and grinned.
+
+"Three touches," said the marshal. "Begin."
+
+Milli went on the *b*. He always did. *Pounce*: there and then not there, low and fast across the torchlit sand, inside the reach of any big blade before a big blade could come round.
+
+Salty didn't swing it round. He'd never been able to swing anything fast. He just tipped it. The greatsword came down off his shoulder point first in front of him with the whole weight of it, and Milli, going too fast to stop, went into the flat of it at the height of his belt with a *bong* like a dropped pan; and Salty, *Bear*, the weight coming up off the floor of him an inch and staying there, lifted.
+
+He lifted Milli clean off the sand. All of him, sword and tail and boots, folded over the end of a blunted greatsword four feet in the air, with his legs going like a cat held under the arms. The bowl made a noise Yan had never heard a crowd make. Salty carried him three steps to the chalk line, tipped the blade, and set him down outside it on his feet, very gently, the way you'd set down a cat.
+
+"*Out of the ring*," said the marshal, who'd clearly never had to say it about someone carried. "That's the bout. That's, to Salty—"
 
 "*Sorry*," said Salty.
 
-"*Don't be*," said Milli, from the sand, delighted. He'd been Drawn for a day and a half and lost to a man who'd carried a black stone across the Redmarch. "That was *amazing*."
+"*Don't be*," said Milli, from the wrong side of the chalk, delighted. He'd been Drawn for a day and a half and lost to a man who'd carried a black stone across the Redmarch. "That was *amazing*."
 
-Yan didn't see much of either bout.
+Yan watched both bouts with half of himself.
 
-He sat on the sixth tier with Suzu cold round his neck and counted. Thirty-nine gaps in the field of candles, round the bowl of the Lists, in the torchlight. Counting. Thirty-five. Thirty-six. Back to the beginning. Every one of them leaning, at the end of every count, toward the sixth tier of the east stand, and the man sitting there behind Rachael, and staying on him longer than on any of the rest.
+The other half sat on the sixth tier with Suzu cold round his neck and counted. Thirty-nine gaps in the field of candles, round the bowl of the Lists, in the torchlight. Counting. Thirty-five. Thirty-six. Back to the beginning. Every one of them leaning, at the end of every count, toward the sixth tier of the east stand, and the man sitting there behind Rachael, and staying on him longer than on any of the rest.
 
 *Thirty-six*.
 

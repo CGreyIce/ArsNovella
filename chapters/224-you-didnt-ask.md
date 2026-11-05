@@ -75,23 +75,131 @@ Then the bracket. Three days of it. Eight boxes at the right-hand end of the gre
 
 Salty had filled the eighth one in the last light on midsummer day. The decider: two and two against two and two, a long grim one, the boy on the other side very fast and Salty very patient, until the patience ran out on the other side first; and Salty had stood in the middle of the main sand with the armoury's heaviest blunted greatsword over his shoulder and looked up at the north stand. Straight up. Not at Ars. At the overhang. As if he'd been told where to look and was doing it once, for the dinners, and wouldn't again.
 
-Then the quarters. Gabe over Salty, the wall and the forge, neither of them moving for a long time and the sand jumping and Gabe not. Wendy over Jared, three arrows held in the air and counted, and Jared's *Stand* going wrong for the first time anyone had seen it, because Wendy wasn't where he'd planted himself against. Xav over Hako again, *now* and *third*, the door shut. And Niko over Milli.
+Then the quarters, on the near ring, one at a time, first touch, the way the Swiss had been; and the stands filling for them the way they'd filled all week for nothing but the holder.
+
+Gabe and Salty went first. The wall and the forge.
+
+Ars had known it would be long. He hadn't known how long. Salty came out with the armoury's heaviest greatsword on his shoulder, the same one, and Gabe came out with a plain blunt sword from the rack and no shield, because there wasn't a shield in the Lists that fitted him; and they stood across the chalk from each other in the morning sun, two smiths, and neither of them did anything at all.
+
+Salty had learned to wait. That was new this summer. Ars had seen it in the Swiss: Garrow's *wait for it*, taken off a forge floor and into a ring. He stood with the great blade on his shoulder and his weight in his heels and breathed, and his whole body said *I'm going to hit you really hard as soon as I can*, the way it always had, and he didn't.
+
+Gabe didn't have to learn it. Gabe had stood like that his whole life. Feet apart. Knees soft. The blunt sword held across in front of him in both hands, low, like tongs over a quench. And *Wall* coming up in him slowly; Ars could feel it from the north stand, aura going into every part of a big man and setting there, hard, until he wasn't a man standing on the sand any more but something the sand had been raked round.
+
+The crowd started to shout after a while. Then to laugh. Then, because it was the Lists and Valcrest had seen everything, it went quiet and leaned forward.
+
+Salty went in the end. He didn't feint; he'd never seen the point. He took one step and let the greatsword come off his shoulder in a long flat arc with everything he had in it, *Bear* and *Forge* and two years of a body that had come up out of bolted-down, and in the middle of the swing he did the thing he'd found against Wendy. He let the swing go round and stood still inside it, so the whole weight went into the blade and none of it into him.
+
+It hit Gabe's sword halfway down. Ars saw it a heartbeat before the sound reached him under the overhang: a deep ringing *clang*, iron on iron, a forge sound in the middle of the Lists. And the sand jumped. All round the two of them, in a ring a pace across, the raked sand leapt a finger high and fell back.
+
+Gabe didn't. His feet didn't slide. His arms didn't give. The greatsword stopped on his guard as if it had hit the side of a house.
+
+Ars sat very still and watched Gabe's hands.
+
+*Don't be a wall*, he'd told Azac, on the shingle, a long time ago. *Walls break*. He watched for it. He watched the left hand, where the shock would go first, and saw the fingers open on the grip, once, and close again. That was all. It held. It had always held. It had never once broken in front of him, and he didn't know whether that was a good thing or only the thing that hadn't happened yet.
+
+Salty stood inside his stopped swing with his face a foot from Gabe's and began to laugh.
+
+Gabe took his right hand off the grip and laid the flat of the blunt sword, one-handed, very gently, against Salty's chest.
+
+"*Touch*," said the marshal. "Gabe."
+
+"That," said Salty, still laughing, "was like hitting Hesk's back anvil." He put the greatsword back on his shoulder and shook Gabe's hand with his whole arm. "Again some time. Somewhere I can't break anything."
+
+Wendy over Jared, next, and that one was quick. Jared had *Stand*: he planted himself against a thing and nothing moved him off it. Ars had watched him plant against the guards on the Banner mound last summer and hold. He planted against Wendy. And Wendy wasn't there. She was three paces to the left of where she'd been, and then two paces behind that, with padded arrows going up off her bowstring one after another and not coming down. *One. Two. Three*. She counted them out loud, the way she'd counted them against Salty, and they hung over the ring in a crooked little line like birds on a wire, and Jared stood planted, perfectly, against the place she'd been, with all three arrows over the place he was.
+
+"*Three*," said Wendy, and let them go. They tapped his shoulders like rain. He laughed so hard he had to sit down.
+
+Xav over Hako again. Ars watched that one for the feet. Hako had lost to Xav in the second round of the Swiss because Xav's *now* had felt him gather, and he'd spent a week since trying not to gather; and he nearly managed it. He stood with the spear drawn back and waited until there was nothing in him for anyone to feel. But a spear has to come from somewhere. Xav felt the *third* thing, the one that comes before you know you've decided, and went half a step inside the point while it was still deciding, and touched him on the wrist. The door stayed shut. Xav kept it shut all week. He'd promised.
+
+And Niko over Milli.
 
 That one he'd watched with his hand over his mouth.
 
-Milli had beaten him in the second round of the Swiss. *Pounce*: there and then not there, through the place where Niko had been a heartbeat before. Niko had lost and grinned and said *again*. And in the quarters he'd stood in the ring across from Milli with his blunt steel low and his breath very quiet, two candles in him, the one that wasn't magic and the one that was, and found the gap. Not in Milli. In himself. The off-beat. Where he was nobody, and *Pounce* had nothing to pounce on.
+Milli had beaten him in the second round of the Swiss. *Pounce*: there and then not there, through the place where Niko had been a heartbeat before. Niko had lost and grinned and said *again*. In the quarters he stood across from Milli with his blunt steel low and his breath very quiet, two candles in him, the one that wasn't magic and the one that was, and waited for Milli to go.
+
+Milli always went, on the marshal's first sound. He went now, low and fast across the sand, and Niko wasn't there to be gone at. He hadn't moved first. He'd moved on the off-beat, Newish's word for it: the gap between Milli's *go* and Milli's landing, the part of a leap where you're in the air and can't change your mind. He'd found the gap. Not in Milli. In himself. Where he was nobody, and *Pounce* had nothing to pounce on. Milli landed where Niko had been, and Niko's blunt steel was resting on the back of his neck, as light as a hand.
 
 Ars had said it. Under the overhang. Alone. Not loud. *Mashi*.
 
-He'd watched him beat Xav in the semi the same way. Xav deciding late, and Niko not deciding at all; and *now* reaching for something to feel and finding a gap where a boy should be. Xav had laughed on the sand. Ars had seen him. Laughed, and put his sword up, and said something Ars couldn't hear and could guess. *Nice one*. Then he'd looked up at the north stand too.
+***
+
+The semis were the next day.
+
+Gabe and Wendy first. She'd held three arrows against Salty and three against Jared. Against Gabe she held four, and Ars watched her count the fourth and felt the effort of it go through her: a girl holding four things up in the air by the plain fact of knowing how many there were. Gabe didn't try to get round them. He put the blunt sword up over his head, flat, in both hands, like a roof, and walked at her.
+
+"*One*," said Wendy, and the first arrow came down on the flat with a soft knock. "*Two*." Knock. Gabe walked. "*Three*." Knock. He was two paces from her. She stepped back, and he stepped with her, and she lost the count. Ars saw it go. Her mouth opened on *four* and she looked at the fourth arrow instead of saying it, and it dropped out of the air like a shot bird and lay in the sand by her boot; and the flat of Gabe's sword came down off the roof and touched her, very gently, on the top of the head.
+
+Wendy looked up at him from under it. "That," she said, "is the most annoying thing anyone's ever done to me."
+
+"Sorry," said Gabe.
+
+"Don't be." She bent and picked up the fourth arrow. "Next year I'm counting to five. Just at you."
+
+Then Niko and Xav, and Ars watched that one standing, at the back, behind the pillar, where nobody could see him stand.
+
+Two boys who had each, in their own way, learned a fight from him. Xav decided late. That was the thing he'd found against RX in the Swiss: not waiting for the other man and not moving first, but holding the choice in his hand until the last instant, and making it and moving in one piece, so there was nothing before it for anyone to read. And Niko didn't decide at all.
+
+They stood. Xav's *now* went out across the sand toward Niko; Ars felt it go, a patient listening, the way Xav listened to everything, for the small weight that gathers in a body before it moves. And it found nothing. A gap where a boy should be. Niko stood in front of him with his blunt steel low, breathing, and there was nobody in there for *now* to feel. There wasn't a decision anywhere in him, because he hadn't made one, and he wasn't going to.
+
+Xav decided late. Ars saw him do it. The choice and the step in one piece, the best thing he'd done all week: forward and left, a cut at the open side of Niko's chest.
+
+Niko was just there, the way water's there. The cut came into the place where he'd been and he was a hand to the right of it. Not quick. Off the beat. The blunt steel came round the far side of Xav's arm and touched him under the ribs.
+
+Xav stood still a moment with his cut finished and nothing at the end of it. Then he laughed, out loud, on the sand. He put his sword up and said something to Niko that Ars couldn't hear and could guess. *Nice one*. Then he looked up at the north stand.
 
 Everybody did, by the end of the week. Not at him. Near him. The way you'd look toward a lamp you'd been told not to mention.
 
-Then the final. Noon today. Gabe and Niko on the main sand, and nobody in the Lists could get past Gabe when he planted his feet behind a blunt armoury sword and put *Wall* in front of it and leaned. Niko had tried for a long time. The gap, the off-beat, the bell; and the bell had rung on Gabe's wall like a hammer on an anvil and the wall hadn't moved, because Gabe didn't move, because Gabe had never moved for anything in his life that he didn't want to move for, except once, on a jetty, at midnight, to sit down.
+Gabe never did.
 
-Gabe had touched him on the shoulder. Very lightly. And then stood there with his hands, not knowing what to do with them.
+Ars noticed it on the last morning. He'd watched them all, one by one, all week: Deston turning his head the other way, Rachael folding her linen, Chris looking straight up, Salty once for the dinners, Xav laughing. Gabe hadn't looked at the north stand once. Not in the Swiss, not in the quarters, not walking out. Gabe had sat on the end of a jetty at midnight and been told the whole of it, and he'd decided, the way Gabe decided things, that the way to keep it was not to look. So he didn't. Ars had felt him not look for nine days. It was the loudest thing in the Lists.
 
-And Niko had sat on the sand with his blunt sword across his knees, Tier 1, the one Chris couldn't rank, beaten in the final of the whole Lists by a boy who'd made his own sword, and grinned up at Gabe and said *again*.
+***
+
+Then the final. Noon today.
+
+The main sand, raked gold, and the bowl full for it: forty thousand who'd come for the holder at sunset and come early for this, because word had gone round the city. The big smith nobody could move, and the boy with the bell.
+
+Gabe walked out first with his plain blunt sword from the rack. Niko came after him with his own blunt steel in one hand and the other hand in his pocket, the way he walked everywhere, and took it out at the chalk because the marshal looked at it.
+
+"First touch," said the marshal. "Begin."
+
+Gabe planted. Ars watched him do it, all of it, from a hundred yards up behind a pillar: the feet going wide, the weight going down through his heels into the sand, the sword coming across in front of him low in both hands, and *Wall* coming up through him and setting everywhere at once, hard, a big man made of stone. Then he stood there. That was all *Wall* was. He'd stand there till sunset if nobody gave him a reason not to.
+
+Niko gave him reasons. He tried for a long time.
+
+He tried the gap first. He drifted round the edge of the chalk, unhurried, and stepped in on the half-beat, the off-beat, the place between one breath and the next where Milli had been in the air and Xav had been halfway through deciding. And it went in to nothing. Gabe wasn't in the air. Gabe wasn't deciding anything. There's no off-beat in something that isn't keeping time, and a wall doesn't keep time. Niko's blade went at the knee and Gabe's dropped a hand and met it, *clack*, and came back up, and his feet hadn't moved.
+
+Niko went round him. Gabe turned. Not his feet: his shoulders, and the sword with them, slowly, like a millwheel, always square to him. Niko tried left, right, low, high, the open side under the arm where he'd touched Chris. *Clack*. *Clack*. Every time the blunt sword was there, a hand from where it had been, and every time the big man behind it was exactly where he'd started. The bowl began to count the clacks out loud, a thousand voices, the way Valcrest counted anything it liked. Twenty. Thirty. Forty.
+
+At forty-one Niko stepped back out of reach and stopped. He stood with his blade down and his chest going, and looked at Gabe for a long moment. Then he did what he'd done to Chris on midsummer day.
+
+"Right shoulder," said Niko. Clearly, so the marshal heard it, and the first tier. "Over the top. Next one."
+
+"Okay," said Gabe.
+
+And he moved the sword. It was the only time all bout. He brought it up off the low line and set it flat across the front of his right shoulder in both hands, like a bar across a door. The bowl, which had been shouting the count, went completely quiet.
+
+Ars put his hands flat on his knees. This time he knew it was coming.
+
+Niko went. Both candles in him at once, the one that wasn't magic and the one that was; Ars felt them from the north stand, aura and fire lit off each other the way a match is struck. *Struck*. The blunt steel came over the top in a short hard arc and hit Gabe's sword exactly where Gabe had put it.
+
+It rang.
+
+It went off the main sand and up through forty thousand people and the stone of four stands like a bell in a valley: the same bell as midsummer, louder. Ars felt it in his teeth, and in the cracked seat under him, and in every candle in the bowl jumping together. Two tiers below him a man dropped his pie. And he held. He held the thing at the bottom of him down with both hands flat on his knees while the bell went through him, and it stayed down, and nobody turned round.
+
+On the sand the ring went into Gabe: into the sword, down both arms, into the wall of him, the whole shock of a blade struck like iron on an anvil. And it stopped there. The sand round his boots jumped in a ring a hand high, as it had for Salty, and fell back. Gabe didn't move. A hammer on an anvil: the anvil doesn't go anywhere. That's what it's for.
+
+Ars watched the left hand. The last two fingers opened on the grip and stayed open a heartbeat, and closed.
+
+Niko was inside his guard. He'd put everything into it, all of both candles, and for one heartbeat after the bell there was nothing left in him at all. Ars could see it: a boy standing a foot from a wall with his arms still ringing and his feet flat, and nobody in there, not on purpose this time.
+
+Gabe lifted the sword off his own shoulder, without hurrying, and put the flat of it on Niko's shoulder. Very lightly.
+
+"*Touch*," said the marshal. "Gabe, of Kingsferry."
+
+Gabe stood there with his hands, not knowing what to do with them. He took the sword off Niko's shoulder and held it out a little way, as if somebody might come and take it from him, and nobody did.
+
+And Niko sat down on the sand with his blunt sword across his knees, Tier 1, the one Chris couldn't rank, beaten in the final of the whole Lists by a boy who'd made his own sword, and grinned up at Gabe and said *again*.
 
 Ars had felt that one all the way to the north stand. Not a bell. Not a candle going up. Something else. The thing that made a boy say *again* every time.
 
