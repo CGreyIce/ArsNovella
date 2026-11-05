@@ -27,6 +27,62 @@ He'd find out at about the third hour of the afternoon on the sixty-fourth day, 
 
 ***
 
+The lag had knocked him out of the Singles. Of course it had.
+
+First round, the sixty-second day, on the side sand behind the Lists, against Xav. Xav stood across the chalk from him with the blunt sword held loose and his weight nowhere in particular and looked at him. Just looked, for a long time, while the marshal waited and the rail got restless. Chris had watched him in the yard behind the Lance every morning since Duskhollow came in, and he'd already written down the main finding: *Xav doesn't start anything. Input: you. Output: him, a hair before you.*
+
+So Chris started something. He went in on the right with the longsword high, the way Ysolde had drilled him four hundred times, and pivoted left to bring it round.
+
+Xav was already there. On the left. At the pivot, in the fraction of a second where Chris's leg waited. The blunt sword touched him on the hip, lightly, before the longsword had even come round.
+
+"*One*," said the marshal. "Xavier."
+
+The second time Chris didn't pivot. He came straight. Xav moved a hair before him, as logged, and touched his wrist. *Two*. The third time Chris thought, *he's found the leg, so don't use the leg*, and went right, all the way right; and Xav simply waited for him on the right instead, and touched him on the shoulder as he arrived.
+
+"*Three*. To Xavier, of Duskhollow."
+
+Xav came over afterwards, while Chris was standing at the chalk writing it down. He didn't usually come over to anybody. He stood there with the sword under his arm, breathing easily, and said, in his quiet way, "Your left leg waits."
+
+"I know," said Chris. "I've logged it four hundred and six times."
+
+Xav looked at him a moment longer. "What's it waiting for?"
+
+Chris opened his mouth to answer, and found that in four hundred and six entries he'd never once written that down.
+
+*Day 62. Singles R1. Lost 0–3 to Xavier. He found the lag in about four seconds without being told. Asked what it was waiting for. Don't know. Add to backlog.*
+
+He'd logged the rest of the Singles from the rail. He logged everything.
+
+*Winter d. Kei, 3–0.* Kei had entered because Hisui wanted to. Hisui had wanted a snake division ever since Drew first drew a bracket, and there wasn't one, and the Singles were the nearest thing. Kei came out with a blunt short sword held like a soup ladle and the green snake round his shoulders, and smiled at Winter as if she'd come to see him about a cough. Winter didn't smile back. She never did, in a ring. She put one boot forward, and the sand under it went white: frost, a pace of it, in the hottest afternoon of the summer, spreading out from her toe in a fan with a sound like paper tearing. Kei stepped onto it and his feet went out from under him. Winter's blunt sword tapped him on the chest before he'd landed. She did it twice more, and twice more Kei went down, laughing, with Hisui hissing at the frost from round his neck.
+
+"Hisui says that's cheating," said Kei, from the sand, the third time. "He also says well done."
+
+*Frost lasts nine heartbeats in midsummer sun. Costs her: breath goes white, hands shake after. Three in a bout may be her limit.*
+
+*Xavier d. Jared, 3–0.* Day 63, morning. Jared had *Stand* now, two days old, and nobody in the Lists could move him off a line once he'd planted on it; Tiger had found that out the day before at a full run. Xav didn't try to move him. He walked round the outside of the plant, unhurried, and touched the bits of Jared that weren't planted: the back of the left hand, the elbow, the shoulder blade. Jared didn't go anywhere. He didn't need to go anywhere to lose.
+
+"You didn't even *try* to move me," said Jared at the end, laughing.
+
+"No," said Xav.
+
+*Stand: holds position, 100%. Doesn't hold anything else. Note for Jared. (He won't want it.)*
+
+*PenguChi d. Winter, 3–1.* Day 63, straight after. Chris had watched that one with the pen not moving.
+
+Winter frosted the ring at the start, the way she had against Kei, and took the first touch while PenguChi was still standing on the white. Then PenguChi didn't move. She stood on the frost with her practice sword low and her feet set, perfectly still, and waited. Chris counted with her without meaning to. Nine heartbeats, and the sun took the frost off the sand in a breath of steam and left it dark and wet. Winter made more. PenguChi waited again. Nine. Winter made more, and her breath came out white in the heat and her sword hand was shaking, and she couldn't make a fourth.
+
+Then PenguChi gave. One plain cut with everything behind it, three times, the same cut each time; and Winter, with nothing left under her feet, couldn't get out of the way of any of them.
+
+"*Three*. To PenguChi."
+
+Winter stood holding her shaking hand in the other one and looked at the wet sand. Then she nodded to PenguChi, once, which from Winter was a speech.
+
+*She waited out the frost. Counted it. Same nine heartbeats I counted. Note: the fix for an input you can't stop is to wait until it stops.*
+
+He'd underlined that one, and not known why.
+
+***
+
 "*One Down*," said Newish, reading it off the entry slip. "You called us *One Down*."
 
 "It's accurate," said Chris.

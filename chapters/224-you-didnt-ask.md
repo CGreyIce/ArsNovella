@@ -81,7 +81,7 @@ Gabe and Salty went first. The wall and the forge.
 
 Ars had known it would be long. He hadn't known how long. Salty came out with the armoury's heaviest greatsword on his shoulder, the same one, and Gabe came out with a plain blunt sword from the rack and no shield, because there wasn't a shield in the Lists that fitted him; and they stood across the chalk from each other in the morning sun, two smiths, and neither of them did anything at all.
 
-Salty had learned to wait. That was new this summer. Ars had seen it in the Swiss: Garrow's *wait for it*, taken off a forge floor and into a ring. He stood with the great blade on his shoulder and his weight in his heels and breathed, and his whole body said *I'm going to hit you really hard as soon as I can*, the way it always had, and he didn't.
+Salty had learned to wait. Last summer he'd tried it in the Singles final and been bad at it, and said so; this summer it held. Ars had seen it in the Swiss: Garrow's *wait for it*, taken off a forge floor and into a ring. He stood with the great blade on his shoulder and his weight in his heels and breathed, and his whole body said *I'm going to hit you really hard as soon as I can*, the way it always had, and he didn't.
 
 Gabe didn't have to learn it. Gabe had stood like that his whole life. Feet apart. Knees soft. The blunt sword held across in front of him in both hands, low, like tongs over a quench. And *Wall* coming up in him slowly; Ars could feel it from the north stand, aura going into every part of a big man and setting there, hard, until he wasn't a man standing on the sand any more but something the sand had been raked round.
 
