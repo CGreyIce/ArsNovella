@@ -61,19 +61,19 @@ He'd come in out of the red with the sword on a strap over his shoulder, draggin
 
 He'd stood under it and looked up.
 
-There'd been a young man on the wall over the gate. A court mage, they said afterwards, sent out from Solmere that spring to look at the wards; Ars had never met him. Thin, in a good coat, with his hands on the parapet. Looking down. And Ars had looked up at him, and known, the way you know things after a month alone in the black, that the young man was afraid of him.
+Halvard had been on the wall over the gate. The garrison's strategist: the court mage from Solmere who'd come up behind a fifteen-year-old on the parapet one midnight four years before, and sat down on the stones, and stared at his window till dawn. Thin, in a good coat, with his hands on the parapet. Looking down. And Ars had looked up at him, and known, the way you know things after a month alone in the black, that Halvard was afraid of him.
 
 Not of the sword. Of him.
 
-*Open it, Halvard*, he'd said. He didn't know how he'd known the name. Somebody must have said it. The gate guard, maybe, who was in the gatehouse with the dogs under the wagons, all of them, the dogs and the guard, not looking at him.
+*Open it, Halvard*, he'd said. Just that. The gate guard was in the gatehouse with the dogs under the wagons, all of them, the dogs and the guard, not looking at him.
 
-And the young man hadn't.
+And he hadn't opened it.
 
 Ars had stood there. He hadn't counted. He'd never counted; he'd never been a man who counted things, it was other people who did that. But it had been a long time. Long enough to feel the ward singing in the iron of the gate, and in the iron on his back, the two of them saying something to each other he couldn't hear. Long enough to think: *he's not going to open it*. Long enough to not mind, very much, because he was nineteen and tired and he'd found a sword and nothing much mattered.
 
-And then the bar had gone back. The young man had come down off the wall and drawn it himself. And the gate had opened, and Diwa had come out of the infirmary with Alea on her hip, and put her down on the step, and hit him.
+And then the bar had gone back. Halvard had come down off the wall and drawn it himself. And the gate had opened, and Diwa had come out of the infirmary with Alea on her hip, and put her down on the step, and hit him.
 
-A week later, on the wall, the young man had come and stood beside him on watch, and not said anything for a long time. And Ars had known he was going to ask. *Where did you find it. What is it. Why are the dogs afraid of you*. He'd felt it coming the way you feel weather.
+A week later, on the wall, Halvard had come and stood beside him on watch, and not said anything for a long time. And Ars had known he was going to ask. *Where did you find it. What is it. Why are the dogs afraid of you*. He'd felt it coming the way you feel weather.
 
 *Don't ask me*, he'd said.
 
@@ -81,7 +81,7 @@ And Halvard hadn't. Not then. Not in eighteen years. Not when he was Advisor, no
 
 He'd done what he was told.
 
-Ars stood on the end of the jetty with the line out and the hook down in the dark and understood, for the first time, standing there in the grey, that he'd done that to somebody. Said *don't ask me* to a frightened young man on a wall, and walked away, and let him carry it for eighteen years. Whatever it was. The gate, and the count, and the not opening, and whatever he'd written in the log that morning. Eighteen years of not asking, because a boy with bleeding hands had told him not to, and he'd been too ashamed of the count to argue.
+Ars stood on the end of the jetty with the line out and the hook down in the dark and understood, for the first time, standing there in the grey, that he'd done that to somebody. Said *don't ask me* to a frightened man on a wall, and walked away, and let him carry it for eighteen years. Whatever it was. The gate, and the count, and the not opening, and whatever he'd written in the log that morning. Eighteen years of not asking, because a boy with bleeding hands had told him not to, and he'd been too ashamed of the count to argue.
 
 Ars hadn't asked either. He'd never once asked Halvard why the gate took so long.
 
@@ -99,7 +99,7 @@ He thought it might be a word for a letter, too.
 
 He wrote it that night.
 
-Not four sheets. He knew that, before he sat down. He'd written four sheets of answers and burned them, and he wasn't going to do it again. He sat at the table with the lamp behind him and one sheet of Alea's cream paper and Thea's pen, and he didn't think about it. He thought about the gate, and the young man on the wall, and *don't ask me*. And he wrote what he'd have said, if he'd been the one on the wall.
+Not four sheets. He knew that, before he sat down. He'd written four sheets of answers and burned them, and he wasn't going to do it again. He sat at the table with the lamp behind him and one sheet of Alea's cream paper and Thea's pen, and he didn't think about it. He thought about the gate, and the man on the wall, and *don't ask me*. And he wrote what he'd have said, if he'd been the one on the wall.
 
 *Halvard,*
 
@@ -111,7 +111,7 @@ He stopped. He looked at it.
 
 That was all of it. Everything else was in Group 4's hands, and Cursiffe's, and a purse book in an archive under the old keep, and a song an old woman on a wharf had kept for forty years. Halvard could find all of that. Halvard was very good at finding things. He'd found Ars, once, at a lake, when nobody else in the kingdom had thought to look; he'd find the rest. He didn't need it written down. He needed to be told that Ars knew.
 
-That was the thing. Not *what happened*. That Ars knew it, now. That the sword hadn't been a sword. That there'd been something under it. That a boy of nineteen had pulled a nail out of a hill in the middle of the black and dragged it home on a strap, and stood under a gate with it, and asked to be let in; and that the young man on the wall who'd been afraid to open the gate had been *right*.
+That was the thing. Not *what happened*. That Ars knew it, now. That the sword hadn't been a sword. That there'd been something under it. That a boy of nineteen had pulled a nail out of a hill in the middle of the black and dragged it home on a strap, and stood under a gate with it, and asked to be let in; and that the man on the wall who'd been afraid to open the gate had been *right*.
 
 He wrote:
 
