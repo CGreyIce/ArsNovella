@@ -527,7 +527,7 @@ He looked at the east stand. The fourth tier. He'd known where she was the whole
 
 Alea took her hands off her face.
 
-She bent down to the pack at her feet and took something out of the top of it. Long and thin and pale and a little crumpled; a stick of rolled paper gone soft and yellow at the ends, with a thread tied to the tip and a little paper fish on the end of the thread, its painted eye nearly rubbed off.
+She bent down to the pack at her feet and took something out of the top of it: a paper rod, soft at the ends, with a little paper fish on its thread.
 
 Chris knew what it was. Everybody who'd been in this bowl two summers ago knew. He'd seen forty thousand of them go up.
 

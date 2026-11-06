@@ -13,7 +13,7 @@ He'd been sitting on the knoll beside a man with a rod, the summer before last, 
 
 And Yan had said nothing, because he hadn't understood. And then he had sat with that cold every night for two years, on the knoll, at dusk, with his back against the stone, and felt it be small and dense and patient under the iron, and never once asked it what it was.
 
-He read Rachael's lines twice on the wall. *Emptying her out and putting something else in. Something cold*. He read Calvin's song. *Pour it out and pour it in*. He read Hyvred, *the seam, that's what it was, on her too*, and Rachael, *there wasn't anybody. Don't*.
+He read Rachael's lines twice on the wall. *Emptying her out and putting something else in. Something cold*. He read Calvin's song, and what Hyvred said, and what Rachael said back.
 
 Then he put the channel away and sat on the parapet of the east wall with his legs over the drop and the red in front of him, black now, all the way to the edge of the world, and Suzu so still round his neck he could feel her not breathing.
 

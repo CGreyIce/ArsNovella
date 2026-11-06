@@ -137,7 +137,7 @@ She didn't know about it until morning. Xav told her. He came down the stair of 
 
 She waited.
 
-He read it to her. She couldn't read the channel. None of them could, the natives; it was in their own letters, the summoned's, round and strange. He read it to her in his quiet even voice, the way he said everything, line by line. *Three gone. Not dead. Elin, sixteen, Joss's sister. Trooper Rhys Hywel, sixteen. The Widow Cadogan from the north mill. They walked out at dusk. None of them had a window. We held thirty-three. The king leaned.*
+He read it to her. She couldn't read the channel. None of them could, the natives; it was in their own letters, the summoned's, round and strange. He read it to her in his quiet even voice, the way he said everything, line by line: the three who'd walked out at dusk, and their names and their ages, and that none of them had had a window, and that Thornwall had held the rest. *The king leaned*.
 
 She sat at Mother Annick's table with one boot laced.
 

@@ -244,13 +244,7 @@ His hand had closed on the heart in his coat so hard it hurt. He hadn't told it 
 
 He looked at the channel.
 
-[ 05:51 · Deston: something rang
-05:51 · Deston: all the threads. at once. like a bell. a big one
-05:52 · Althea: My medium line just moved. One blade · parted · Ice. It flickered and came back.
-05:52 · Gabe: good or bad
-05:52 · Deston: I don't know
-05:53 · Deston: loud
-05:53 · Chris: logging. 05:51. ]
+Deston, at nine minutes to six: *something rang*. All the threads at once, like a bell. Thea's medium line had moved, and come back. Gabe had asked *good or bad*, and Deston didn't know.
 
 He read it twice.
 
@@ -284,7 +278,7 @@ And the channel moved.
 
 ***
 
-[ 07:02 · Nikorasu: 35 ]
+Two minutes past seven. One line, from a name that hadn't written anything since a quarter to eight the night before.
 
 He read it.
 
@@ -296,17 +290,13 @@ Mashi. From the knoll. Not *Tier 1*. Not a window. The number. The one he'd been
 
 *Then be last*, he'd said. On the wall at Cinderhold, in the autumn. To a boy with blood on his chin who'd got to nineteen heartbeats tossing a borrowed skillet and been frightened of the blank box on his third line.
 
-And then:
-
-[ 07:02 · Nikorasu: struck. spellblade ]
+And then, under it, two more words. *struck. spellblade*.
 
 He read that.
 
 He read it again.
 
-And then, a minute later, at the bottom, in lowercase, from a woman who counted everything:
-
-[ 07:03 · Wendy: everyone's alive. 48 of 48. garth's ribs. rhea's arm. yan's grey. we're coming home ]
+And then, a minute later, at the bottom, from a woman who counted everything: everyone alive. Forty-eight of forty-eight. Coming home.
 
 He let go of the heart.
 
@@ -350,17 +340,11 @@ He did, eventually. He ran out of breath. It kept coming for a while after that 
 
 ***
 
-[ 07:06 · Gigichi: he laughed
-07:06 · Gigichi: ice. on the jetty. i'm in my hedge. he laughed out loud
-07:06 · Gigichi: i've never heard him laugh like that. not here. not ever. it went right across the water ]
+Gigichi put it in the channel before he'd stopped. That he'd laughed. Out loud, on the jetty; she was in her hedge, and it had gone right across the water.
 
 He read it and put his hand over his face again.
 
 He looked up the slope. He couldn't help it. And there she was: standing up, now, in the gap of her own hedge, halfway up the field, small and dark against the green, with her lamp out at her feet and her hands at her sides, looking down at him.
-
-[ 07:07 · Althea: Gigichi.
-07:07 · Gigichi: i know. he can read it. i know
-07:07 · Gigichi: it's true though ]
 
 Then nobody wrote. For a whole minute. He watched them not write. Thirty-four people, in the middle of the loudest morning the channel had ever had, stopping, all at once, to sit with three lines in lowercase from a girl in a hedge.
 
@@ -368,10 +352,7 @@ He lifted his hand to her. Up the slope. Not a wave. Just his hand, open, for a 
 
 Gigichi lifted hers back.
 
-[ 07:08 · Gabe: out loud?
-07:08 · Gigichi: out loud
-07:08 · Gabe: good
-07:08 · Deston: good ]
+Then Gabe asked if it was out loud, and Gigichi said it was, and Gabe wrote *good*, and so did Deston.
 
 He thought about Gabe, in Kingsferry, at the end of a quay, reading that. Gabe had heard it. On Earth. Hundreds of times. In Malacca, on the last night, at two in the morning, at nothing at all. And Deston, who'd heard it first, at thirteen, in a choir room, when they'd both got the same note wrong at the same time.
 
@@ -390,8 +371,6 @@ Maigo in capitals. *I'M TEN FEET FROM HIM. HE'S ASLEEP. SITTING UP. IN THE GAP*.
 Rachael, telling Hesper how to bind ribs, from a month away. Xav: *how many times did he move*. Wendy: *once*. Xav: *right answer*.
 
 And Yan.
-
-[ 07:09 · Suzuyun: Kei. Tell Hisui she's all right. She's asleep on the stone. ]
 
 *Yan's grey*, Wendy had said.
 
@@ -413,17 +392,7 @@ Chris closed the count at a quarter past seven.
 
 He'd been waiting for it. He'd read every one of Chris's counts, every *Updating*, every number, the way he'd read every one of Higu's moons. A man who'd run brackets on Earth for a dozen tournaments and knew the one keeping the bracket didn't get to cheer. He'd never once written more than the number.
 
-[ 07:14 · Chris: 35 of 35 at Tier 1 or above.
-07:14 · Chris: closing the count.
-07:15 · Chris: Group 1. Althea, Candle. Xolalotl, Spark. Gigichi, Spark. Higu, Spark. PenguChi, Drawn.
-07:15 · Chris: Group 2. Hanarisu, Spark. Jared, Drawn. Aleaka, Spark. Milli, Drawn. Cursiffe, Spark.
-07:15 · Chris: Group 3. Suzuyun, Candle. Salty, Drawn. Wendy, Drawn. Maigo, Spark. Nikorasu, Struck.
-07:16 · Chris: Group 4. Deston, Spark. Gabe, Drawn. Rachael, Spark. Dennis, Spark. Calvin, Spark.
-07:16 · Chris: Group 5. Hyvred, Spark. Bee, Spark. Tiger, Drawn. Drew, Drawn. Kei, Spark.
-07:16 · Chris: Group 6. Xavier, Drawn. Malcolm, Spark. Rui Xiang, Drawn. Azac, Spark. John, Spark.
-07:17 · Chris: Group 7. Chris, Drawn. Winter, Spark. Ina, Spark. Hako, Drawn. Newish, Spark.
-07:17 · Chris: first: Althea. last: Nikorasu. nobody left out.
-07:17 · Chris: count closed. ]
+Thirty-five of thirty-five at Tier 1 or above. Then all of them, a group to a line, every name and the word after it; and at the end, *first: Althea. last: Nikorasu. nobody left out*. And *count closed*.
 
 He read it slowly. All thirty-five. Every name, and every word after it.
 
@@ -437,10 +406,7 @@ He'd thought, in the first year, sitting right here, reading thirty-five people 
 
 He'd been wrong about that. He'd been glad to be wrong about it, one at a time, for two years and a half.
 
-[ 07:18 · Chris: opening the next one. Tier 2 or above: 2 of 35. Updating.
-07:18 · Maigo: OH NO
-07:18 · Tiger: oh no
-07:18 · Drew: oh no ]
+Then Chris opened the next one, *Tier 2 or above: 2 of 35*, and Maigo and Tiger and Drew all wrote *oh no*.
 
 He didn't laugh at that one. He smiled. Nobody saw it. Nobody could have held it if they had.
 
@@ -544,11 +510,7 @@ Maren tied it on, and shut her eyes, and it went.
 
 ***
 
-At two minutes past nine, sitting on the hall step with Thea, he read Hana's lines, and understood the hens.
-
-[ 09:02 · Hanarisu: The Advisor had a list. From the first week. Eleven of us he didn't think would ever reach Tier 1.
-09:02 · Hanarisu: He's crossed out a name every time, all year. He crossed out the last one this morning, in front of me.
-09:03 · Hanarisu: He says to tell you he was wrong eleven times. ]
+At two minutes past nine, sitting on the hall step with Thea, he read what Hana wrote about the Advisor's list, and *he says to tell you he was wrong eleven times*, and understood the hens.
 
 He sat very still.
 
@@ -560,12 +522,7 @@ And this year he'd kept a count of his own, of people he'd pulled out of the sky
 
 *How are the hens*.
 
-[ 09:03 · Malcolm: was I on it
-09:03 · Hanarisu: Yes.
-09:03 · Malcolm: good.
-09:03 · Tiger: WAS I ON IT
-09:03 · Hanarisu: Yes.
-09:04 · Tiger: HE CAN CROSS ME OUT AGAIN WHENEVER HE WANTS ]
+Malcolm asked if he'd been on it, and was pleased to hear he had. Tiger asked in capitals, and said the Advisor could cross him out again whenever he wanted.
 
 Beside him, Thea read it too, and laughed, wet, and put her face in her hands. Above them on the step, Higu turned a page.
 

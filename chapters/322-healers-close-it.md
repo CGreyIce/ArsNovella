@@ -29,19 +29,9 @@ That had been the night. This was the morning. They sat at the long table with t
 
 He read it all. Every word. He didn't skip.
 
-What the grey was. A word, Thea said, in the hall's language: one tiny word, an emptying word, written round and round in a line like a seam. Where it started: in the palm, always, from a hook. How you knew it: a cold line a hair wide that didn't answer when you mended. That you couldn't close over it; *everything you close over, you close in*, and Rachael had underlined it twice, and Kei said so. That you could burn it, if it was only in the skin, the way Maren and Emrys had learned, by making the flame go to the word and not the place.
+What the grey was, and where it started, and how you knew it. That you couldn't close over it; Rachael had underlined that twice, and Kei said so. The burning, for when it was only in the skin, the way Maren and Emrys had learned it; Wenna made a small noise at Emrys's name. Then the turning, a stroke at a time, and who you needed with you, and what it cost. That the one in the middle could come back to herself. That she might not stay.
 
-Wenna made a small noise at Emrys's name.
-
-Then the turning. What it felt like under your hands. A word and a pour, at once. That you opened where it was poured, with *thank you*, the way you'd unpick a stitch, and let it out. That you closed behind it with the other hand. A stroke at a time. That you couldn't do it fast and you couldn't do it alone. That you needed somebody who could hear or see where the next stroke was. Somebody to keep the time. Somebody to bring you warmth along a thread, or you'd run out halfway, *and halfway is worse than not starting*. Somebody between you and whatever was pouring.
-
-That it cost everything. That it would be weeks before you could mend a cut finger.
-
-That the one in the middle could come back to herself.
-
-That she might not stay.
-
-*It works. It's the only thing anybody's ever found that does. It doesn't always save them. It always gives them back. Do it anyway.*
+And the four short sentences at the end, which he read slower than the rest, and which Agathe asked him to read again, and he did.
 
 He put the book down.
 

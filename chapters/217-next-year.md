@@ -171,19 +171,7 @@ One sheet. At the table in Ruth's kitchen, in the house on the hill with its win
 
 She'd thought about it all the way down the river. What you put on a king's paper. *For when you've got something to say*. He'd used one sheet in two years and he'd sent it to a king with one word on it. She'd thought she'd have a great deal to say, on a sheet that size, and when she sat down with the pen she found she didn't.
 
-She wrote what had happened. Short. The way he would.
-
-*Gullhaven.*
-
-*The sea doesn't care. Sorrel said it wouldn't. I was sick for two days and then I wasn't.*
-
-*I said Tobyn at the first cast. Sorrel's mother dropped a basket of herring. Then she picked it up and said it too.*
-
-*Gabe made me a hook. It says Sto inside. It caught a fish as long as me and didn't bend.*
-
-*My weight goes back on my heels when the ground stops moving. I'm fixing it.*
-
-*Rachael says look at the horizon. It works. Don't tell her.*
+She wrote what had happened. Short. The way he would. The name of the town at the top, and then the sea, and the first cast, and Gabe's hook, and her heels, and Rachael's horizon: five lines, and not half the sheet.
 
 She stopped there for a long time. The lamp ticked. Ruth's needle went in and out.
 

@@ -33,7 +33,7 @@ He'd been guessing.
 
 He wasn't watching the gate when it happened. He was watching Declan.
 
-He'd watched him all the way in. The water-carrier at the back, behind Alea, with the yoke a bit crooked where Tiger had knocked it, and his front soaked, and the buckets half empty. He'd watched him stop where Hyvred sat down in the road. He'd watched him set the buckets down, carefully, so they didn't spill, the way he did everything with his hands. He'd watched him lean the yoke on the wall and straighten up and turn round.
+He'd watched him all the way in, and stop where Hyvred sat down in the road, and set the buckets down, and turn round.
 
 And because Deston was watching Declan, and because he'd been listening for sixteen days, he heard the very first note.
 

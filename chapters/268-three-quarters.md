@@ -35,10 +35,7 @@ It held.
 
 She stood on the jetty and looked at it. One heartbeat. Five. Twenty. She waited for it to go out like breath on glass, and it didn't. It lay there in her window the way a drawing lies on a wall. Steady. Not asking her anything.
 
-[ 16:47 · Chris: it's holding ]
-[ 16:47 · Gabe: oh ]
-[ 16:47 · Gabe: oh that's them. that's the step. that's ]
-[ 16:48 · Gabe: he's sitting down ]
+In the channel Chris wrote that it was holding, and Gabe started three lines and couldn't finish any of them.
 
 "Thea," said Alea.
 
@@ -80,18 +77,13 @@ Alea breathed out. It went on for a long time.
 
 ***
 
-[ 16:54 · Althea: John. how long can you hold it ]
-[ 16:54 · John: I'm not. it's just there. it's there till it isn't. ]
+She asked John how long he could hold it.
 
 She'd written it before she'd thought about why. She knew why by the time John answered. She stood on the jetty in the cold with her window open and the picture lying in it, steady, and looked past the step, past the arch and the fields, up the valley to the top, where the rings were; and she felt *Parse* lean toward it the way a dog leans toward a door.
 
 The circle was in it. All of it. Small, at the top of the picture, a thumbprint and some specks; but it was there, the way the whole of a town is there on a map the size of your hand. And it wasn't going.
 
-[ 16:55 · Althea: then it's there tonight. ]
-[ 16:55 · Althea: the valley's in it. the whole circle's in it. I can read it from this. ]
-[ 16:56 · Althea: not through anyone. through a picture. a picture doesn't look back. ]
-[ 16:56 · Higu: Five. Then learn how to stop first. ]
-[ 16:56 · Althea: I know. ]
+Then it was there tonight, she wrote. The valley was in it; the whole circle was in it; she could read it from this, because a picture doesn't look back. Higu answered with a number and *learn how to stop first*, and she wrote that she knew.
 
 "You're going to read it," said Alea.
 

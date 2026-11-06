@@ -29,15 +29,7 @@ It was English.
 
 He hadn't seen Declan's writing in English since Earth. And this wasn't that hand. It couldn't be; it was a different body, thirty-eight years of a different body, a hand that had held a sword and a rod and a hammer and never once, in all that time, a pen that wrote this. The letters were stiff. Careful. Too upright, the way a man's walk goes when he's in boots he hasn't worn for years. But they were the same letters. A stranger's hand, making the shapes of somebody Deston knew.
 
-*Rae,*
-
-*Yes.*
-
-*All of it. You don't have to make it small. Ask Gabe for anything you haven't got; he has it. Dest has the rest.*
-
-*I'm not coming down the river. They did it on the rise where I could see, so I'd break or come running. If I come, I bring that with me, and they've been watching you to see if I will. You've got people in front of you who aren't what they're waiting for. That's better than me.*
-
-*Tell Dest the other thing can go up too. Both of them. They should have it all at once.*
+It was short. *Rae*, and then *Yes*, on a line by itself. Then *all of it*, and *ask Gabe*, and his own name, *Dest has the rest*, which Deston read three times. Then the longest part, the reason he wasn't coming down the river, put as plainly as a man would put the price of a boat. Then the other thing: *both of them*, *all at once*.
 
 *D.*
 
@@ -73,23 +65,13 @@ They'd never told anybody. Two springs ago, at the lake, three of them had sat w
 
 They told her now. Gabe did most of it. Gabe remembered words; Gabe had always remembered words, from a choir at thirteen, from every song they'd ever sung; and he'd heard Declan tell it once, at the lake, and he gave it back now nearly the way it had been given, in a low voice, with his big hands hanging between his knees.
 
-The rise. An hour's walk beyond the east wall. A low hill. The general on it, a big one, old, with horns like a bull's. And a circle drawn on the ground in something dark. And her, in the middle of it.
-
-*They waited until I was on the wall. They'd lit fires*.
+The rise, an hour beyond the east wall. The fires lit round it so that he'd see. The whole afternoon it had taken him to cross ground he could have walked in an hour. The ring, and what they'd been doing to her in it, and how much of her was still there when he reached her.
 
 Rachael didn't move.
 
-*It was a trap. Of course it was. A hero who sees that either breaks where he stands, or comes running on his own into whatever you've got waiting. They had the whole host between the wall and the rise*.
-
-*I went through them. I was Shaped then. Tier six. I shouldn't have been able to, and I didn't care. It took all afternoon. An hour's walk, any other day*.
-
 Deston watched her face. It did nothing. It did nothing so hard that he could see the muscles at the corner of her jaw.
 
-Gabe got to the middle of the ring. To what they'd been doing to her. Emptying her out, Declan had said, and something going in instead, something cold; and her, half of her, still there. Still her. Enough to know.
-
-*She asked me to end it*, Gabe said, in Declan's words, very quietly. *Before she stopped being herself. She gave me what she wanted to say to Alea. And then she asked me*.
-
-*And I did*.
+*She asked me to end it*, Gabe said at the last, in Declan's words, very quietly. *And I did*.
 
 Nobody said anything.
 
@@ -135,7 +117,7 @@ He listened to them now.
 
 ***
 
-The channel had been quiet all afternoon. He'd felt it be quiet, the way you feel a held breath. He'd put four lines in it, at the end of the day, after he came down off the roof the first time: *Rae's got his answer. It's yes. And the other thing too. He says both*. And *Cursiffe, it's yours to put up. You've got the most of it. Then Rae*.
+The channel had been quiet all afternoon. He'd felt it be quiet, the way you feel a held breath. He'd put four lines in it, at the end of the day, after he came down off the roof the first time, to say she had her answer, and that it was both, and that Cursiffe should go first.
 
 And then nobody had written anything. Thirty-three people across the kingdom sitting up and waiting.
 
@@ -159,37 +141,15 @@ Then Rachael's.
 
 She'd come out of the back room at a quarter to ten with her eyes dry and her face very white and gone straight to the window at the end of the ward, and sat down, and put it in. He felt her do it; her thread went taut, the way a thread does when the person on the end of it does something with their whole self. He opened the channel on the roof and watched it come.
 
-[ 21:53 · Rachael: and this is the other thing. ]
+She started with the two lines Cursiffe's room had already seen, and then she told it.
 
-[ 21:53 · Rachael: he said I could. ]
+Not the way Gabe had. Short, in small letters, one thing to a line, the way she wrote a dose slip. A healer from Cinderhold, and her name, and whose mother she was. The ring on the rise, and the fires, and why the fires. What they'd been pouring out of her, and what they'd been pouring in. The afternoon it took him. What Diwa asked, and then two words on a line by themselves: *he did*. The red, and the morning, and the knoll above the old river, and the grave Yan sat with. Why it was a healer. A dozen lines, and not one word in them that made it smaller than it was.
 
-[ 21:54 · Rachael: ten years ago Kharvos came across the red harder than it ever had. they took a healer from Cinderhold. her name was Diwa. she was Alea's mother. ]
-
-[ 21:54 · Rachael: they put her in a ring drawn on the ground on a rise an hour from the east wall. they lit fires round it so he could see it from the wall. ]
-
-[ 21:55 · Rachael: and they started to turn her. ]
-
-[ 21:55 · Rachael: emptying her out and putting something else in. something cold. they'd never done it before. nobody in the world had. it came from somewhere else. ]
-
-[ 21:56 · Rachael: they did it where he could see because it wasn't her they wanted. they wanted him to break, or come running on his own into what was waiting. they had the whole host between the wall and the rise. ]
-
-[ 21:56 · Rachael: he went through it. it took him all afternoon. an hour's walk, any other day. ]
-
-[ 21:57 · Rachael: when he got there she was half turned. half of her was still her. she asked him to end it before she stopped being herself. she gave him what she wanted to say to Alea. ]
-
-[ 21:57 · Rachael: he did. ]
-
-[ 21:58 · Rachael: then he went through the rest of them. he went in Shaped and came out Dominion. two tiers in one night. that's why it's called the Redmarch now. it was red before. it's redder. ]
-
-[ 21:58 · Rachael: he carried her west in the morning and buried her on the knoll above the old river. that's the grave. that's what Yan sits with. ]
-
-[ 21:59 · Rachael: they took a healer because a healer holds things. whatever they put in, a healer would hold it. and hold it well. ]
+Then the ones that were hers.
 
 [ 21:59 · Rachael: that's why the hat man wanted me in the first autumn. "a position in a household in the hills." that's what the grey is the beginning of. a little hole, and something put in, and left. ]
 
 [ 22:00 · Rachael: I've known the shape of this for two years. I didn't know the inside of it till this afternoon. it wasn't mine. I asked him. he said yes. all of it. ]
-
-[ 22:00 · Rachael: he isn't coming down the river. he says if he comes he brings the rise with him, and they're watching me to see if he will. he's right. ]
 
 [ 22:01 · Rachael: so it's us. ]
 

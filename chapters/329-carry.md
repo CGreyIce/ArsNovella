@@ -125,13 +125,7 @@ He took his notebook out and opened his window, the way he'd promised himself he
 
 He shut it.
 
-He put a line in the channel. The first of the day. He thought somebody ought to know. He thought, particularly, that a man in a seat at the near end of a jetty, twenty days west, ought to know.
-
-[ 23:51 · Suzuyun: I'm on the knoll. Salty came up the hill. ]
-
-[ 23:52 · Suzuyun: the cold's leaning less than it has all year. there are two hundred men on the band. it can't call properly. ]
-
-[ 23:52 · Suzuyun: I'm going to try. ]
+He put three lines in the channel, the first of the day: where he was, and who had come up the hill, and that he was going to try. He thought somebody ought to know. He thought, particularly, that a man in a seat at the near end of a jetty, twenty days west, ought to know.
 
 Then he shut the channel, and let *Hue* go down.
 
