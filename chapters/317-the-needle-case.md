@@ -7,7 +7,7 @@ date: 2026-11-06
 
 Four came in before breakfast.
 
-Two from the north quay, a lighterman and his boy, with the same hook through the same two fingers, because the boy had been holding the line when his father pulled it in. One from the fish market, a gutting girl called Pell, fourteen, who'd found it in the bottom of a crate of herring and put her hand straight on it. And one from the customs house itself: a clerk, middle-aged, in a good coat, who'd picked it up off the bottom step on his way in at seven because it was lying there bright and new and he'd thought somebody had dropped it.
+Two from the north quay, a lighterman and his boy, with the same hook through the same two fingers, because the boy had been holding the line when his father pulled it in. One from the fish market, a gutting girl called Mags, fourteen, who'd found it in the bottom of a crate of herring and put her hand straight on it. And one from the customs house itself: a clerk, middle-aged, in a good coat, who'd picked it up off the bottom step on his way in at seven because it was lying there bright and new and he'd thought somebody had dropped it.
 
 Rachael looked at the clerk's hand for a long time.
 

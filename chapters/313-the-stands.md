@@ -59,7 +59,7 @@ The lamp was lit behind her in the window. He'd lit it at dusk, the way he had e
 
 She sat with her knees up and Astra across them and thought about the Wren.
 
-It went out of the bottom of the lake past Wrenhaven, and down through the Narrows to Kingsferry, a hundred miles, and the sea after. She'd never been down it. She'd been south twice, to the Lists, and east to the grave. Never down the river. She knew it only from the *Widow* going round the point, and from what Group 4 said, and from the channel, the bits Thea told her, which was most of it now, because Thea had stopped asking whether she wanted to know.
+It went out of the bottom of the lake past Wrenhaven, and down through the Narrows to Kingsferry, a hundred miles, and the sea after. She'd been down it once, last spring, on the *Widow*, all the way to the sea and Sorrel's bar at Gullhaven: through the Narrows, past Duskhollow, through Kingsferry and out. And up it once before that, too small to remember, on sacks, with her mother's hand on her. She knew the rest of it from what Group 4 said, and from the channel, the bits Thea told her, which was most of it now, because Thea had stopped asking whether she wanted to know.
 
 The grey. The hooks. A boy called Ned with it past his elbow under Rachael's seam. A girl called Lissa at Wrenhaven, and Davy Marsh at the weir, which was nearer still. A man with no hat and a box on the customs-house steps. A hole in the sound on the same steps at three in the morning, and a pike hook left on the bottom one, new. Gabe standing on those steps every night now, with his back to the infirmary. Rachael, who said she was frightened of what she'd hold.
 
