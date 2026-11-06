@@ -7,23 +7,9 @@ date: 2026-11-01
 
 Higu was awake when he knocked.
 
-She was always awake at that hour. She'd taken the third watch on the road north from Valcrest, every night for twenty-two days, because it was the watch nobody wanted and she liked it best: the dark before the dark starts to go, when the moon's low and the moths fly furthest. She'd kept it since. In the militia hall, at the top of the lake road, at the window of the room she shared with Thea, with the shutter open a crack and her counting book on her knee and three moths on the sill.
+She was always awake at that hour; she'd kept the third watch since the road north from Valcrest, at the window of the room she shared with Thea in the militia hall, with the shutter open a crack and her counting book on her knee and three moths on the sill. She'd heard him come up the lake road, stop at the step where the basket was a moment longer than you'd stop to catch your breath, and go on, up through the town to Rowan's front door, the one nobody used. She'd sent a moth after him, and then called it back before he knocked. Some things weren't the channel's, and some things weren't hers.
 
-She'd heard him come up the lake road. Past the hall. She'd heard him stop at the step, where the basket was, for a moment longer than you'd stop to catch your breath, and go on. Up through the town. Into the street. Past Rowan's gate, and not in. Along the front of the house. To the front door, the one nobody used.
-
-She'd sent a moth after him. She couldn't help it. She'd sat at the window with her eyes shut and let the moth's sight come into hers, the way it came, in pieces, like a dream when you're waking up: frost on cobbles, a dark street, a man's back in a plain coat, standing very still in front of a door in the dark.
-
-And then she'd called the moth back. Before he knocked.
-
-It wasn't hers. Some things weren't the channel's, and some things weren't hers, and a man standing at a door he'd been walking toward since a kitchen in the summer was one of them.
-
-She'd sat at the window all night instead, with the moth back on the sill and her book on her knee, and not looked.
-
-She'd heard the knock anyway. Three times. From the top of the town, on the frost, in the still air. Not loud. Not soft.
-
-She'd written it down. She wrote everything down. *Day one hundred and fifty-two. Half past eight. Three knocks*. And then nothing else for the rest of the night, because there was nothing else to write. She'd just sat. And watched the light in Rowan's kitchen window, very small, at the top of the town, stay on. Hour after hour.
-
-It was still on when the moon went down.
+She'd heard the knock anyway, three times, on the frost, and written it down. *Day one hundred and fifty-two. Half past eight. Three knocks*. And nothing else all night. The light in Rowan's kitchen window stayed on, very small at the top of the town, until the moon went down.
 
 ***
 

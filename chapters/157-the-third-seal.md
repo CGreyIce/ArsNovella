@@ -23,7 +23,7 @@ Oswin had nearly fallen off his mule.
 
 ***
 
-They got back on the eighty-ninth day, at dusk.
+They got back on the eighty-ninth day, at dusk: the same week, three hundred miles east, that Group 3 walked in under the horns at Cinderhold with Ars and Alea.
 
 Four hundred people and two hundred horses, coming up the long hill to Solmere in the red evening, with the castle on its rock above the city and the bells going in every tower because the king was home. The streets full. Children on walls. Somebody's paper horns, left over from the summer, on a little girl at the gate. The summoned riding near the front, the five of Group 2, and people in the crowd calling their names, *Hana, Milli, Lady Aleaka*, and Aleaka going red under her hawk and Cursiffe reading on horseback, which he'd done the whole way from Valcrest.
 

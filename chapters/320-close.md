@@ -65,9 +65,7 @@ Nobody said anything.
 
 ***
 
-[ 02:51 · Calvin: she's got her hands on Maud. she isn't talking. ]
-
-She didn't see that. She didn't see anything for a long time but Maud's face.
+She didn't see anything for a long time but Maud's face.
 
 She started at the top. At the hairline, on the left, where the grey had started when the long hands first went on. The first stroke of the word. She put her left hand there, flat, by it, and her right hand just below, and she did what Maud had done to Dob the porter's neck, and what she'd done to her own seam on Ned's palm that afternoon, and what every washerwoman in the world knew how to do: she opened it.
 
@@ -201,9 +199,7 @@ She opened the first stroke.
 
 ***
 
-[ 05:09 · Calvin: the fires went out. ]
-
-She felt them go.
+She felt the fires go.
 
 All twelve. At once. She was kneeling on the stone with her left hand open on Maud's palm and her right hand closing behind it on the last stroke of the word, the very first one, the one that had been put in on Thursday off a step; and it closed, pink, Maud's; and there wasn't another. There was nothing left to open. The word was gone. All of it. A hundred thousand strokes, from the palm to the hairline, closed. And the pour had nowhere to go.
 
@@ -226,10 +222,6 @@ One step. Off the hub of the lines, where there weren't any lines any more; just
 And went backwards off the edge.
 
 Not falling. Stepping. Off the landing into the air, the way you'd step off a stair, and down, past the quay, into the river; and the black water took it, the tide running hard on the turn, and it went under.
-
-[ 05:10 · Calvin: the priest went backwards off the landing. into the river. I watched it go under. it didn't come up. ]
-
-[ 05:10 · Calvin: Sabine says that's not dead. that's gone. ]
 
 ***
 
@@ -255,9 +247,7 @@ Somebody was coming up the steps.
 
 ***
 
-[ 05:11 · Calvin: the hat man came up the steps. ]
-
-He came slowly. Of course he did. He'd stayed on the bottom step all night, because a man had told him to stay there a minute; and he'd stayed. Turning his hat. Smiling. And now the ring was gone and the fires were out and the tall thing was in the river, and he'd stood up, and put his hat on his head for the first time, and come up.
+It was the hat man. He came slowly. Of course he did. He'd stayed on the bottom step all night, because a man had told him to stay there a minute; and he'd stayed. Turning his hat. Smiling. And now the ring was gone and the fires were out and the tall thing was in the river, and he'd stood up, and put his hat on his head for the first time, and come up.
 
 Twelve steps. She heard every one.
 
@@ -303,10 +293,6 @@ And there was nothing left in him to stand up with.
 
 He folded. That was the only word for it. Like a coat when you take it off a chair. He went down on to the stone at her knees in his good coat with his hat still on and the hook still in his hand, and lay there, and wasn't anything.
 
-[ 05:12 · Calvin: he's dead. ]
-
-[ 05:12 · Calvin: Rae did it. with Gabe's knife. the grey one. ]
-
 ***
 
 She looked at him for a moment. Then she put the knife down on the stone beside him, carefully, the way she'd put down an instrument on the tray in the ward.
@@ -322,12 +308,6 @@ She looked at him for a moment. Then she put the knife down on the stone beside 
 Maud was looking at the hat man. At the hook in his hand. Then at Rachael. Her face was very still and her eyes were very bright and she didn't look frightened at all; she looked, Rachael thought, exactly the way she looked when a dock porter came back on a Thursday with a boil he should have come back with on Monday.
 
 "You closed it," said Maud.
-
-[ 05:13 · Deston: she closed it. ]
-
-[ 05:13 · Deston: from inside. the turning. it's closed. ]
-
-[ 05:13 · Deston: Maud's herself. ]
 
 "Yes," said Rachael.
 
@@ -346,10 +326,6 @@ There just wasn't enough of it left to go on with.
 "I know," said Maud. She'd felt Rachael feel it. Of course she had. "Don't. I know." Her eyes moved, past Rachael's shoulder. To Gabe, standing over them with his face doing the thing it did, wet and loud, and not making a sound. "Tell your smith to sit down. He's in my light."
 
 Gabe sat down. On the stone. Near enough.
-
-[ 05:14 · Deston: she knows Rae. she's talking. ]
-
-[ 05:14 · Deston: everybody leave them a minute. ]
 
 ***
 
@@ -378,10 +354,6 @@ And then, so quietly that Rachael was never afterwards quite sure she'd heard it
 "Thank you for holding."
 
 She was gone a moment after. Rachael felt her go. Not cold. Just still. The body that had been trying for seventy-one years putting it down, carefully, the way you'd put something down that you'd finished with, on the stone, in the morning.
-
-[ 05:21 · Deston: Maud's gone. ]
-
-[ 05:21 · Deston: she was herself. all the way. she said something to Rae nobody else heard. ]
 
 ***
 
@@ -424,8 +396,6 @@ Rachael looked at her hands for a long time.
 Then she put them under Maud's shoulders, because they were still hands even if they couldn't mend anything, and Gabe got up and came and put his under Maud's knees without being asked, and Deston took her stick, and Dennis her shawl, and Emrys, who had nothing left to carry, picked up the needle case off the stone where it had fallen out of the coat and held it in both hands.
 
 "We're bringing her up the hill," said Deston, to nobody. To the channel. To thirty-four people who'd held a door open all night.
-
-[ 05:22 · Deston: we're bringing her up the hill. ]
 
 They carried her up Tanner's Row in the morning sun. Past the lamp post on the corner, which wasn't there. Past the Three Coopers, and the net-mender's shed, and the rope-walk families standing in their doors with soot on their faces, who saw who it was and took their caps off, one after another, all the way up. To the infirmary gate. To the long ward, with its eleven benches and the window at the end that looked down the hill at the steps.
 

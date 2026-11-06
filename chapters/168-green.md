@@ -7,107 +7,19 @@ date: 2026-11-01
 
 Yan had decided not to look.
 
-He'd decided it on the walk back from the rise, through the markers, with the man beside him saying *it doesn't ask whose night it is*. He'd decided it again at supper. And again at the gate, at sunset, with the whole of Cinderhold on the wall behind him and a girl with a black sword on her back walking out ahead onto the red beside her father. *Not tonight. Tonight's hers*.
+He'd decided it on the walk back from the rise, through the markers, with the man beside him saying *it doesn't ask whose night it is*. He'd decided it again at the gate, at sunset, with the whole of Cinderhold on the wall behind him and a girl with a black sword on her back walking out ahead onto the red beside her father. *Not tonight. Tonight's hers*.
 
-He kept it. He sat on the fallen tree at the foot of the knoll with the others, in a row, the way they'd sat a year ago when the man came across the red with the sword on his shoulder, with their backs nearly to the grave. Aldous at the end with his book. Rhea next, very quiet, for Rhea. Salty and Wendy. Niko with his hands in his pockets. Maigo, who hadn't said a single word since the gate, which was the most frightening thing Yan had seen all year. And Yan, at the other end, with the scythe across his knees and Suzu round his neck.
+And he'd kept it. All evening. He sat on the fallen tree at the foot of the knoll with the others, in a row, with their backs nearly to the grave: Aldous at the end with his book, Rhea, Salty and Wendy, Niko with his hands in his pockets, Maigo, who hadn't said a word since the gate, and Yan at the other end with the scythe across his knees and Suzu round his neck. And he kept the other sight shut. Not all the way; it never went all the way. But enough that he didn't have to see a girl's candle at the top of the knoll, leaning, after fifty-seven days, into the place it had been leaning toward the whole way from Valcrest.
 
-And he kept the other sight shut.
+He'd kept it shut through the note at sunset, when the two halves of the sword rang together on the knoll and, under the ringing, the cold he'd felt beneath her for two years went *down*. Further than it had ever been. Slowly, turning a little, the way a stone goes down a well, until it lay a long way below, smaller and quieter, like a dog lying down. *It went down*, he'd said, and Maigo had asked in a very small voice if that was good, and he'd thought about it from the bottom up and said yes.
 
-It wasn't easy. It never had been. Since the first week, in the hall, it had been there whether he wanted it or not: the living as candles, small and warm, leaning toward whatever they loved. He'd learned to close it the way you learn to close your eyes in bright sun. Not all the way. Never all the way. But enough. Enough that he could sit on a fallen tree at the foot of a knoll and not see a girl's candle at the top of it, leaning, after fifty-seven days, into the place it had been leaning toward the whole way from Valcrest.
+He'd kept it shut through the hour Aldous was up there with the white cloth, saying the old words in the old tongue. When the words started, Suzu had lifted her head off his collarbone and turned, not toward the grave, but toward the white; and down the cord he'd felt something he'd never once felt from her in two years. Not warmth. Not hunger. *Recognition*. The way you feel when you hear a song from your childhood in a market a long way from home, and don't know its name, and know every word.
 
-He sat with his eyes open and the other sight shut, and looked at the red going gold, and didn't turn round.
+He'd kept it shut through the moon coming up out of the mountains behind the rise, gold and enormous and full, exactly where Higu's chart said it would.
 
-Round his neck, Suzu was warm. She'd been warm all day. She'd eaten well last night, a hen, in the stable yard, with Wendy kneeling beside him. And she'd been warm in the other way too, the way she'd been warm on the first morning out of Valcrest when he felt his own name come down the cord. She lay with her head on his collarbone and her eyes half shut, and didn't move.
+And now the moon was high, and the whole plain was silver, and a girl's voice was coming down the slope.
 
-She didn't turn round either. He loved her for it.
-
-***
-
-The note came at sunset.
-
-He felt it before he heard it. Everyone did; he saw them all go still along the trunk at the same moment, the way you go still when a bell rings in a quiet house. Then the sound. High and clear and long, from the top of the knoll behind them, going out over the red in every direction at once. Like a bell. Like a glass with a wet finger round the rim, only enormous, only going on and on.
-
-Salty's head came up.
-
-"That's the sword," said Salty. Very low. He knew iron. He'd carried both halves of it, one on his shoulder for half a day with two ribs broken, the other on a folded blanket the whole last stretch in the snow. "Both of them. That's both of them at once."
-
-"She put it in the ground," said Wendy. "Next to the stone."
-
-Yan didn't hear the rest.
-
-Because under the note, under the knoll, under the cairn, the cold *went*.
-
-He felt it the way he'd felt it every night for two years: faint, deep, a coal of ice under the place where a woman lay, pinned through by a long black spike like a nail through a moth, held round by roots like fingers round a wrist. Asleep. Not turning over. Holding very still.
-
-And when the note came, it went down.
-
-Not up. Down. Deeper. Away from the cairn, away from the green, away from the roots, down into the red the way a stone goes down into a well, slowly, turning a little. Further than he'd ever felt it. So far he nearly lost it. And then it stopped, a long way below, and lay there, smaller, quieter, further off, the way a sound goes quiet when a door shuts between you and it.
-
-Like a dog lying down.
-
-The note stopped.
-
-"It went down," said Yan.
-
-They all looked at him along the trunk.
-
-"The cold," said Yan. "Under her. When they rang." He was quiet. "It went down. A long way. Further than it's ever been." He looked at the red. "Not up."
-
-Nobody said anything for a long time.
-
-"Is that good?" said Maigo. It was the first thing he'd said since the gate. His voice was very small.
-
-Yan thought about it. Properly. From the bottom up.
-
-"Yes," he said. "I think so. I think it's good."
-
-Maigo nodded slowly behind his sunglasses. And then, for the first time since the gate, the leaves on his antlers moved. All of them. Not toward the grave. Just moved, the way leaves move when a breath comes back into a tree.
-
-***
-
-Aldous went up at sunset with the cloth.
-
-They watched him go. Nobody said anything. The old chaplain got up off the end of the trunk, slowly, the way he got up from everything these days, with his book under one arm and the white linen folded over the other, and went up the slope of the knoll toward the green. He didn't look back. He stopped at the edge of the green, where the red ended. Yan saw him stop. And wait. And bow his head, a little, to somebody they couldn't see from the trunk.
-
-And then go on, onto the green.
-
-Then the words.
-
-Yan had heard them before. Once. The first year, on the red, after a scout raid in the spring, over a soldier called Lowry who'd died on the wall in the night. Aldous had laid the white cloth over him for an hour on the morning after and said the old words in the old tongue, low and slow and going round and round, and Yan had stood at the edge with Suzu round his neck and felt her go very still at the white of the cloth. As if she knew it.
-
-She went still now.
-
-He felt it down the cord. She lifted her head off his collarbone. Not toward the grave; she turned her head the other way, up the slope, toward the top of the knoll where they couldn't see, and the old voice saying the old words. Toward the white.
-
-"What is it?" said Yan. Very quietly. To her.
-
-She didn't answer. For the first time since the floor of the hall, when he asked her something, Suzu didn't say anything at all. But down the cord he felt something he'd never felt from her before. Not warmth. Not hunger. Not the cold-wire tightness of the threadless.
-
-Recognition.
-
-The way you feel when you hear a song from your childhood in a market a long way from home, and don't know the name of it, and know every word.
-
-He sat on the fallen tree with the white snake looking up the slope toward an old man saying words nobody understood any more over a grave, and felt her know them, and didn't know what she knew.
-
-The hour went by.
-
-***
-
-The moon came up an hour after sunset.
-
-Higu's chart. Exactly. Yan had seen the chart, once, on the road east, when Alea took it out by the fire and looked at it the way you'd look at a letter. *An hour after sunset. East, over the red*. And he watched it come up now over the mountains of Kharvos behind the rise, gold and enormous and full, lifting out of the black line of the peaks like something being raised very carefully out of water.
-
-The whole plain went silver.
-
-Behind them, at the top of the knoll, a voice. Not Aldous; Aldous had come back down at the end of the hour and sat at the end of the trunk again with the folded cloth on his knees and his eyes shut. A girl's voice. Plain and clear and a little bit small, carrying down the slope on the still air, the way voices carry over water at night.
-
-They couldn't hear the words. Yan was glad of it. He heard the sound of her: talking, steady, for a long time. Stopping. Going on. Once, laughing, a short wet surprised laugh, and then talking again. And under her voice, sometimes, very low, a man's.
-
-He didn't turn round.
-
-None of them did. He looked along the trunk in the moonlight at the six of them and saw that every single one of them was sitting with their back to the knoll and their eyes on the red and their faces doing the thing faces do when you're keeping very still so as not to hear something that isn't yours. Rhea had tears running down her face and wasn't wiping them. Wendy had her head on Salty's shoulder. Niko had taken his hands out of his pockets and was holding them in his lap, very still, looking at them. Maigo had pulled his hood up, over his antlers, for the first time in a month, and had his arms round his knees.
-
-They sat there in the moonlight in a row on a fallen tree, seven people who'd carried a sword and a stone across this plain, and kept their backs to a girl talking to her mother.
+They couldn't hear the words. Yan was glad of it. He heard the sound of her: talking, steady, for a long time. Stopping. Going on. Once, a short surprised laugh. And under her voice, sometimes, very low, a man's. None of them turned round. Rhea had tears running down her face and wasn't wiping them. Wendy had her head on Salty's shoulder. Niko had taken his hands out of his pockets and was looking at them in his lap. Maigo had pulled his hood up over his antlers and had his arms round his knees. Seven people who'd carried a sword and a stone across this plain, sitting in a row on a fallen tree in the moonlight with their backs to a girl talking to her mother.
 
 ***
 

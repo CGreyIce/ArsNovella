@@ -37,11 +37,7 @@ He knew what a rope walk was. He'd never seen Kingsferry's, but he knew the kind
 
 He knew what fires were for.
 
-[ 01:16 · Calvin: me and Gabe are going. the net sheds are right there. if the wind turns it's the whole Row. ]
-
-[ 01:17 · Calvin: Sabine, Dest, Dennis, Emrys with Rae. nobody leaves her. ]
-
-[ 01:17 · Deston: nobody leaves her. ]
+The rest came the way the channel always came, a line at a time. Calvin and Gabe going to the fire, because the net sheds were right there and the wind could turn. Sabine and Dest and Dennis and Emrys staying with Rae. *Nobody leaves her*.
 
 He put the rod down on the planks.
 
@@ -49,9 +45,7 @@ He did it carefully, the way he did everything with that rod, because of the hoo
 
 He could see nothing. It was dark. There was a little light on the far shore where somebody had a window lit late. That was all.
 
-[ 01:33 · Dennis: Maud's gone down to the fire with Tamsin. for the burns. I let her. ]
-
-[ 01:33 · Deston: ok. ]
+At half past one, Dennis: Maud had gone down to the fire with Tamsin, for the burns. And three words after it, on their own.
 
 *I let her*.
 
@@ -67,9 +61,7 @@ He'd never seen that. Thirty-five people, in Thornwall and Valcrest and Solmere 
 
 He'd thought once that Higu was the quiet one. He'd been wrong about that.
 
-[ 01:51 · Deston: Tamsin's back. Maud's gone. a man came out of the smoke with his hat in his hands. she went with him. ]
-
-[ 01:51 · Gabe: WHERE ]
+At ten to two, Deston. Tamsin was back. Maud wasn't. A man had come out of the smoke with his hat in his hands, and she'd gone with him. And under it, from Gabe, one word in capitals.
 
 He stood up.
 
@@ -77,7 +69,7 @@ He didn't decide to. He was standing. On the last plank, in the dark, with the r
 
 He stood on the last plank and didn't move his feet.
 
-[ 01:54 · Rachael: there's a ring on the customs-house steps. lit. I can see it from the ward window. six standing on it. something tall. Maud in the middle. ]
+Then Rae. A ring on the customs-house steps, lit so she could see it from the ward window, with six standing on it and something tall behind and Maud in the middle. And then a line on its own.
 
 [ 01:54 · Rachael: it's the rise. it's for me. ]
 
@@ -113,15 +105,7 @@ Ars had never once wondered what that had been like. To be the one on the wall.
 
 He wondered now.
 
-[ 02:00 · Dennis: I've made it true. everybody can see it now. the whole quay. ]
-
-[ 02:00 · Dennis: there's a priest. a demon. it's got its hands on her head. it's pouring something into her. she's going grey down one side. ]
-
-[ 02:01 · Dennis: the hat man's on the bottom step. ]
-
-[ 02:01 · Calvin: coming. ]
-
-[ 02:01 · Gabe: COMING ]
+At two the lines came fast. Dennis, faster than he'd ever seen Dennis write anything: he'd made the ring true, the whole quay could see it; a priest, a demon, with its hands on Maud's head, pouring; the hat man on the bottom step. Calvin and Gabe, from the fire: *coming*.
 
 He started counting.
 
@@ -137,9 +121,7 @@ She came down the shingle past the bench, and stopped at the near end, by the fi
 
 She didn't say anything. She didn't say *you okay*. She sat there in the dark at the near end of his jetty, thirty planks off, the way she'd sat every evening for four weeks, and got her breath back, and didn't look at him.
 
-[ 02:06 · Calvin: Dob's in the river. ]
-
-[ 02:06 · Calvin: I can't find him. I can't find him in it. ]
+Somebody called Dob was in the river, Calvin wrote, and Calvin couldn't find him in it.
 
 He didn't know who Dob was. It didn't matter. Somebody was in a river at night and a boy with the wind couldn't find him.
 
@@ -147,13 +129,7 @@ He counted.
 
 ***
 
-[ 02:29 · Deston: she's going up the steps. ]
-
-[ 02:29 · Deston: all of us. ]
-
-[ 02:30 · Calvin: I can't find Dob. I'm coming back. ]
-
-[ 02:30 · Gabe: we're all going ]
+At half past two the lines came close together: Deston, *she's going up the steps*, *all of us*; Gabe, *we're all going*. And then Dennis.
 
 [ 02:31 · Dennis: she's going in. ]
 
@@ -281,25 +257,9 @@ The sky went grey over the far shore at a quarter to five.
 
 It did it the way it always did in the summer, early, from the bottom up: a line of something not quite dark along the top of the far hills, and then the stars going out one at a time from the east, and the lake going from black to iron. He'd watched it do that ten thousand times. He watched it now with his heart still going in his throat and his hands on his knees and his count somewhere past anything he could have said.
 
-[ 05:09 · Calvin: the fires went out. ]
+At ten past five Calvin wrote that the fires had gone out, all twelve at once; and then more, fast, about the river and the steps, that he read and didn't take in, because his eyes had gone past it to the next name.
 
-[ 05:09 · Calvin: all twelve. at once. like somebody blew on them. ]
-
-[ 05:10 · Calvin: the priest went backwards off the landing. into the river. I watched it go under. it didn't come up. ]
-
-[ 05:10 · Calvin: Sabine says that's not dead. that's gone. ]
-
-[ 05:11 · Calvin: the hat man came up the steps. ]
-
-He stopped breathing.
-
-[ 05:12 · Calvin: he's dead. ]
-
-[ 05:12 · Calvin: Rae did it. with Gabe's knife. the grey one. ]
-
-He didn't move. Gigi didn't move.
-
-And then Deston.
+Deston.
 
 [ 05:13 · Deston: she closed it. ]
 

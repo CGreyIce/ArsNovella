@@ -29,43 +29,11 @@ She hadn't known, until the halves started to warm, how much she'd missed it.
 
 The first night home she didn't sleep.
 
-She lay in the narrow bed in the rooms Group 2 had in the castle's east wing, with Milli asleep beside her with his tail over her ankle the way he always slept, and her wrist on the pillow in front of her face, and looked at the halves. Seven of them. Purple and gold, knotted, each with half a bead and a strip of thin blue paper wound round it. In a row on the cord, like charms on a bracelet. And beside them, on its own cord, half a gold heart.
+She lay in the narrow bed in the east wing with Milli asleep beside her, his tail over her ankle, and her wrist on the pillow in front of her face, and looked at the halves. Seven of them, purple and gold, knotted, each with half a bead and a strip of thin blue paper wound round it, in a row on the cord like charms on a bracelet. None of them were warm. The guides were all still on the road, or just home, or asleep.
 
-None of them were warm.
+So she sat on the sill instead, with her knees up and her tail round her feet, and didn't look at the one light still burning in the castle, at the top of the west tower. It wasn't hers. Whatever the Advisor was doing up there with a drawer he'd named to the king at the top of the vault stair, it wasn't hers, and she'd learned in the first autumn to leave alone the things that weren't, even when you could feel the shape of them from across a room.
 
-She'd expected that. They'd been warm on and off on the road home, faintly, the way they were when the other half was being held. But nobody had written anything. The guides were all still on the road, or just home, or asleep. And the heart had been cool since Valcrest. Since a man by a horse trough had held his half of it in his fist for a minute at the end of the last night, and looked at her across the yard, and put it away in his coat beside a knife.
-
-She couldn't sleep anyway. She'd been in a vault. She'd watched a king put his hand on a seal and say *please*. She'd heard a dead king's letter read out by lamplight, and watched her husband's tail go so still it might have been carved, and then watched it move, once, at the tip, when Jared put a hand on his shoulder and said *trust*.
-
-So she got up, and went to the window, and sat on the sill with her knees up and her tail round her feet, and looked out over the castle.
-
-And there was a light at the top of the west tower.
-
-***
-
-She knew whose. Everybody did. A single lamp in a high narrow window, very small and very steady. The Advisor's study. She'd been in it, once, in the first autumn, with Aleaka and Milli, and asked him plainly whether the Hero was their friend, without any charm at all. She remembered his desk. And his hand, moving toward a drawer on the left, and stopping before it got there.
-
-*I have a drawer*, he'd said tonight, at the top of the vault stair. To the king. By his name.
-
-She sat on the sill and watched the light in the west tower and didn't think about the drawer. It wasn't hers. She'd learned that, the first autumn: there were things you could ask for, plainly, with no charm, and there were things that weren't yours, and the second kind you left alone, even when you could feel the shape of them from across a room.
-
-The light stayed on.
-
-All night. She watched it through every hour. Milli turned over in his sleep once and said *Honey* into the pillow and went back under. The castle bells rang the hours. The lamp in the west tower burned. At some point it rained, hard, for an hour, on the slates, and stopped.
-
-And at dawn, in the grey, she heard the gate.
-
-She leaned out of the window. Below, in the castle yard, the gate was open, and a rider was going out of it on a tall bay horse. One rider. Small, in a riding coat, bent low over the horse's neck. Out of the gate at a canter, and then a gallop, down the long hill into the waking city.
-
-East.
-
-Somebody was standing in the yard watching the rider go. Hana saw her from above: tall and straight, in a guard's coat, with a book under her arm. Kestra. Standing very still in the wet grey yard, looking east, the way she'd looked north for two years.
-
-Kestra looked up. At Hana's window. As if she'd known Hana would be there.
-
-Hana didn't call down. You didn't call down to Kestra. She just raised one hand, a little.
-
-Kestra looked at her for a long moment. Then she raised one hand back. And then she turned and went in, and the yard was empty, and the light at the top of the west tower went out.
+At dawn a rider went out of the gate on a tall bay, east, at a gallop. Kestra stood in the wet grey yard and watched it go. Then she looked up at Hana's window, as if she'd known Hana would be there, and lifted one hand a little; and Hana lifted hers.
 
 ***
 
