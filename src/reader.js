@@ -2,8 +2,9 @@
    Loaded in <head> so saved settings apply before the page paints. */
 (function () {
   "use strict";
-  var KEY = "arsnovella.settings";
-  var PKEY = "arsnovella.progress";
+  var KEY = "arsnovella.settings";                 // reader settings are shared by both novels
+  var NOVEL = document.documentElement.getAttribute("data-novel") || "";
+  var PKEY = "arsnovella.progress" + (NOVEL ? "." + NOVEL : "");  // progress is per novel
   var DEFAULTS = {
     theme: "dark", font: "sans", size: 18, lh: 1.6, ps: 1.5, width: 65, bg: "", fg: ""
   };
@@ -107,8 +108,30 @@
     syncControls();
   }
 
+  /* ---------- the tag that isn't just a tag ---------- */
+  function initSecret() {
+    var tag = $("[data-secret]"), box = $("[data-code-box]");
+    if (!tag || !box) return;
+    var form = box.querySelector("[data-code-form]"), input = form.elements.code, msg = box.querySelector("[data-code-msg]");
+    function show(open) {
+      box.hidden = !open;
+      tag.setAttribute("aria-expanded", String(open));
+      if (open) { msg.textContent = ""; input.value = ""; input.focus(); }
+    }
+    tag.addEventListener("click", function () { show(box.hidden); });
+    input.addEventListener("keydown", function (e) { if (e.key === "Escape") { show(false); tag.focus(); } });
+    input.addEventListener("input", function () { msg.textContent = ""; });
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (input.value.trim() === "TRUST") { location.href = tag.getAttribute("data-href"); return; }
+      msg.textContent = "Wrong code.";
+      input.select();
+    });
+  }
+
   /* ---------- series page ---------- */
   function initSeries() {
+    initSecret();
     var p = load(PKEY, null);
     var btn = $("[data-continue]");
     if (!p || !btn || !p.href) return;

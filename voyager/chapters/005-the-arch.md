@@ -1,0 +1,308 @@
+---
+number: 5
+title: The Arch
+volume: 1
+date: 2026-11-13
+---
+
+Xav went through the arch second.
+
+Gabe went first, because nothing in heaven or earth could have stopped Gabe going first. He walked through the round white opening like a man walking into a cold sea: shoulders up, fists closed, already looking for something. Xav followed a step behind and to the left, which was where he'd stood in every game they'd ever played: close enough to help, far enough not to be in the way.
+
+The grass was real. That was the first thing. It gave under his shoes and sprang back, and it smelled like grass smells in the morning after rain. The air was warm. There was a breeze. Somewhere down the slope, water was running over stones.
+
+He stood still for a second and let himself have it.
+
+Then he looked up, because he always checked the sky first, out of the habit of a lifetime of looking at maps from above.
+
+It was blue and deep, with white clouds moving across it from left to right, and a sun a little way up from the eastern hills. It looked like a sky. It behaved like a sky. And something about it bothered him, in the back of his head, the way a sound that's slightly out of time bothers you before you can say which instrument it is.
+
+It was too tidy. That was the closest he could get. The clouds were all moving at exactly the same speed. Real clouds didn't do that.
+
+He filed it, and looked down.
+
+***
+
+"He went this way," said Rui Xiang.
+
+Rui Xiang had come through the arch third and gone straight to the ground. He was crouched a few metres down the slope with one hand flat on the grass, quick eyes moving, the way he'd been on every team they'd ever been on: first to notice, first to say so, fast but never hard to follow.
+
+There was a line in the grass. Xav saw it once Rui Xiang pointed: a trail of flattened stems running away from the arch, down the hill, toward the sound of the stream. Not a path. Something had come through here once, recently, and gone straight down.
+
+"Long stride," said Rui Xiang. "Look at the gaps. He was running. Not walking. Running."
+
+Gabe was already moving.
+
+"Gabe," said Xav.
+
+"He went *this way*, Xav."
+
+"I know. Wait."
+
+Gabe stopped. He was breathing hard again, the way he had been in the white room, as if he'd been running for an hour. He turned round and Xav saw his face, and understood that if he said the wrong thing, Gabe was going to go down that hill alone and keep going.
+
+So he didn't say anything for a moment. He looked at the trail instead. At the angle of it, at where it was going.
+
+It didn't go toward the town. The town was obvious: red roofs and a white tower at the bottom of the valley, a road running down to it from somewhere off to the left, silver in the sun. Anyone standing where they stood and wanting to go somewhere would have gone to the road. This trail went the other way, down to the stream, as straight as a ruler, as if whoever made it had known exactly where the stream went before he'd ever seen it.
+
+Xav turned that over.
+
+"Okay," he said. "Look."
+
+Gabe looked.
+
+"Everyone else is going to the road." Behind them, the rest of the thirty-five were coming through the arch in twos and threes, blinking at the sky, and every Support in every ear was saying the same calm thing: *Hearthstead lies below. Follow the road. Choose your class.* "He didn't. He went straight for the water. He didn't look around first. He didn't stop. You can see it. There's no place where he stops."
+
+"So?"
+
+"So he knew where he was going." Xav kept his voice level. Gabe listened better to level. "If he knows where he's going and we don't, we're not going to catch him by running after him down a hill. He's got a two-hour head start and a map in his head. We'll just get lost, and then Dest will have to come and find us, and he'll be annoyed."
+
+Gabe's jaw worked.
+
+"Where does the stream go?" Xav asked his Support.
+
+The light at his shoulder considered this. "The stream runs down to Hearthstead," it said, "and joins the river by the mill."
+
+"So it goes to the town anyway."
+
+"Yes."
+
+Xav looked at Gabe. "So it goes to the town anyway."
+
+Gabe looked at the trail for a long moment. Then at the road. Then at the red roofs.
+
+"Fine," he said. "But we walk fast."
+
+***
+
+They walked fast. They took the road, with everyone else, but Rui Xiang kept drifting off it toward the stream. And about halfway down, where the road crossed the water on a little stone bridge, Rui Xiang called out from below it, in a strange voice.
+
+"Uh. Guys."
+
+There was a goat under the bridge.
+
+It was a large goat, shaggy and grey, with horns that curled round twice and a pair of very unfriendly yellow eyes. It was lying on its side in the shallows with all four legs stuck out straight. A small window hung in the air above it.
+
+[ Bridge Goat · Lv 2 · Stunned ]
+
+As they watched, it lifted its head, looked at them with an expression of deep and personal offence, and put its head back down in the water.
+
+"Somebody," said John, with great interest, "punched that goat."
+
+"You don't know he punched it," said Malcolm.
+
+"Look at it. That's a punched goat."
+
+"Maybe it fell over."
+
+"Goats don't just *fall over*, Malcolm."
+
+"This one did. It's level two. It's probably very tired."
+
+Gabe was staring at the goat. Xav watched something happen to his face: the corner of his mouth went, very briefly, upward.
+
+"He punched the goat," Gabe said.
+
+"He punched the goat," Xav agreed.
+
+"He woke up in a magic tower and the first thing he did was run down a hill and punch a goat."
+
+"Sounds right."
+
+Gabe laughed. It came out of him like something cracking, short and surprised, and he put his hand over his eyes. Rui Xiang grinned from under the bridge. Even Malcolm's mouth twitched.
+
+It was such an *exactly-him* thing to do. In every game they'd ever played together, Declan had been the one who walked into the first room and picked a fight with whatever was in it, just to see what it did. He'd tanked the whole thing for years, standing in front of everyone, taking the hits, joking about it. And then he'd moved to Malacca, and logged on less, and then hardly at all, and Azac had picked up the shield for them. Nobody had ever actually said anything about that.
+
+Xav hadn't said anything either. He'd meant to. There'd always been a next week.
+
+They left the goat where it was. It seemed to want that.
+
+***
+
+Hearthstead was a town.
+
+Xav didn't know what he'd expected. Something flatter, maybe. Some stage set with painted fronts, like the games he'd grown up on, where the houses were boxes and the people stood in the same spot saying the same line. It wasn't that. It was a small, untidy market town of red tile and whitewash, with gutters running beside the cobbles and washing hung between upper windows. There was the smell of bread and woodsmoke and, less pleasantly, of something that had been a pig. Dogs. Children. A man shouting at another man about a cart.
+
+People turned to look as the thirty-five came down the high street. They didn't look surprised. They looked interested, the way people in a small town look at the circus coming in.
+
+"*Climbers!*" A girl of about ten had stopped dead in the middle of the street, holding a basket of eggs. "Ma! *Ma!* Climbers! Gran said there'd be more!"
+
+A woman in an apron leaned out of a doorway. She looked them over: Hyvred's horns, Ina's mask, Maigo, who came up to most people's waists, and the white snake round Yan's neck. She didn't seem bothered by any of it.
+
+"Well," she said. "Look at that. A whole lot of you this time." She nodded at Xav, as if he looked like the one in charge. "Class hall's in the white tower, loves. Can't miss it. Mind the step at the bottom."
+
+"Thank you," said Xav.
+
+"*Climbers,*" whispered the girl with the eggs, as they passed, with enormous satisfaction.
+
+"Did she say *more*?" said Rui Xiang quietly. "Gran said there'd be *more*?"
+
+"She did."
+
+"So there've been some before."
+
+"Sounds like it."
+
+Malcolm was watching the townspeople the way Malcolm watched everything: braced for the worst, and slightly offended when it didn't arrive. "Are they real?" he said, low. "They're NPCs. Right? They have to be. It's a game. We're in a game."
+
+"They look real," said John.
+
+"They would. That's what a good game does."
+
+"Then it's a very good game."
+
+Xav thought about that while they walked. A baker at an open window burned her wrist on a tray as they went past and swore, really swore, a long creative sentence of it, and stuck the wrist in her mouth. A very old man sat on a bench outside a shop with his eyes closed and his face turned up to the too-tidy sun. Two boys were fighting over a stick with the total commitment only boys fighting over a stick ever have.
+
+"If they're not real," said John, "they don't know it."
+
+Nobody said anything to that.
+
+***
+
+The class hall was at the bottom of the white tower, through a heavy oak door, down two steps (one of which was indeed uneven), into a long cool room that smelled of paper and candle wax.
+
+There were three doors at the far end. Above each one was a carved sign, plain and old: a sword over the first, a staff over the second, a bow over the third. In front of the doors sat a long desk covered in ledgers, and behind the desk sat an old man with ink on every finger and a pen tucked behind each ear.
+
+He looked up as the first of them came in. Then he looked past them, at the doorway, as more and more of them kept coming, and kept coming, until all thirty-five were standing in a crowd in his hall. He took off a pair of spectacles and polished them on his shirt.
+
+"Well," he said. "That's a lot of you."
+
+"Hi," said Calvin. "We're Climbers?"
+
+"I can see that, son." The old man put his spectacles back on. "Quill. I keep the book. Class is free the first time. You pick a door and you go in, and what's behind it will see to you, and you come back out a bit different, and I write it down. That's all there is to it." He pulled the nearest ledger toward him and opened it to a page about a third of the way through. "Second lot today. Busy morning."
+
+Every head in the room turned.
+
+Xav felt Gabe go absolutely still beside him.
+
+"*Second*?" said Deston.
+
+"First one came in at dawn. Before I'd got the stove going." Quill turned the ledger round on the desk so they could see. "Young fellow. On his own."
+
+Xav looked at the page.
+
+It was a ledger, with neat columns ruled in faded brown ink. *Name. Door. Date.* Under the dates there was a long column of nothing: the last entry above it, in a different, older hand, was so faded it was barely there. And under that, today's date in fresh black ink, and in the *Door* column a small drawing of a sword.
+
+The *Name* column was empty.
+
+Not crossed out. Not scratched. Just a blank space where a name should have been, between two neat lines, as if someone had written it in ink that didn't work.
+
+"Book wouldn't take it," said Quill. "Never seen that. Tried three times. Ink just ran off like water off a duck. He said not to worry about it." He shrugged. "So I didn't."
+
+Gabe put his finger on the empty space. He didn't say anything. He just touched it, the way you'd touch a name on a memorial.
+
+"What did he look like?" said Hana quietly, from somewhere behind them.
+
+"Young. Your age, about." Quill waved his pen vaguely at all of them. "Black hair in his eyes. A bit of blue in it, or green. Black waistcoat thing, with pockets, over a white shirt. Knew exactly which door he wanted. Didn't look at the other two. Came out ten minutes later with a sword on his back, said *thank you* very nicely, and ran." He considered. "Didn't take the road. Went out the back toward the east fields. Odd thing to do. Nothing out that way but sheep and the old chapel, and nobody's used the chapel in a hundred years."
+
+Nobody said anything for a while.
+
+"Sword," said Gabe finally. He said it as if it were a whole sentence. "Course he took the sword."
+
+"He always took the front," said Xav.
+
+"He always took the front," Gabe agreed, and took his finger off the page.
+
+***
+
+They chose.
+
+It went faster than Xav had expected and slower than it felt. Quill had no patience for anybody standing in front of a door thinking about it ("You're not marrying it, son, it's a *door*"). So people went in one at a time, and came out again a few minutes later looking slightly dazed, and a new line opened in their window, and Quill wrote it down.
+
+Xav didn't need to think about it. He'd known since he saw the sign over the first door. He'd always been the one who waited in a fight, read it, then moved once and decisively. Whatever was behind the sword door, it would be about that.
+
+Behind the sword door was a small, round, stone room with nothing in it but a sword: a plain one, lying across a stone block, and a light in the stone like the light in the white room. He picked it up. It was heavier than he expected, and then, after a moment, exactly as heavy as he'd expected. Something went through him from the hilt up his arm, like the first breath of cold air when you walk out of a hot building. When he came out, his window had a new line.
+
+[ Xavier · Lv 1 · Tier 1: Squire · Knight ]
+
+Gabe went in after him and came out with a sword and a round wooden shield, and the expression of a man who'd been handed exactly the right tool. He held the shield up and looked at it, and rapped his knuckles on it.
+
+"Huh," he said.
+
+"Front?" said Xav.
+
+"Front," said Gabe. "Somebody's got to."
+
+Rui Xiang went to the bow door and came out with a pair of short knives and a grin. "It asked," he said. "Bow or knives. I said knives. It said *Ranger*. I'm a ranger with no bow." He spun one of the knives across his knuckles, very fast. It was an old habit from when his hands had needed something to do on a mouse. It looked much more alarming with a knife.
+
+Malcolm went behind the staff door and was gone longer than anyone else. When he came out, he had a plain wooden staff and a slightly stunned look.
+
+"There were two desks," he said. "In there. Behind the door. Cleric, and Mage. One heals and helps; one hits things." He looked down at his staff. "I picked the one that helps. I figured if everything goes wrong, which it will, you'll want someone who can fix it."
+
+"Cleric," said John, approvingly.
+
+"Cleric." Malcolm made a face. "I'm going to have to be nice to people."
+
+John went through the same door and came out a Mage, with a staff and a look of total confidence, as if being a mage was something he'd been meaning to get round to.
+
+[ Gabe · Lv 1 · Tier 1: Squire · Knight
+Rui Xiang · Lv 1 · Tier 1: Scout · Ranger
+Malcolm · Lv 1 · Tier 1: Acolyte · Cleric
+John · Lv 1 · Tier 1: Neophyte · Mage ]
+
+Around them, the rest of the hall was doing the same. Xav watched as much of it as he could, because he always watched, and because he'd need to know later who could do what. Hana came out of the staff door a Mage, with a slim staff and a cat's satisfied smile. Yan came out of the same door and the whole room did a double-take, because he'd picked *Cleric*: the calm, silver-haired man with the snake had decided his job was going to be keeping people alive. A short, heavy, very muscular man, Salty, came out of the sword door with a greatsword nearly as long as he was tall, looking at it the way he might look at a puppy. Drew went for the sword and came out with a small round buckler and a pair of bladed knuckles. Hyvred went for the bow, and when she came out and nocked a practice arrow, the reticle in her left eye locked onto the far end of the hall and *stayed* there, perfectly still, while she said, "Oh. Oh, *wow*."
+
+Deston came out a Cleric. Rachael came out a Cleric, holding her staff like a weapon she intended to use on the next person who annoyed her. The girl in the blue jersey, Althea, came out a Mage, and immediately opened her window to see what had changed in it, frowning.
+
+Calvin came out of the bow door with daggers like Rui Xiang's, sprinting back across the hall to show Deston.
+
+Chris went into the sword door and came out with a longsword and a shield, then talked Quill out of a small notebook and a stub of pencil, and was already writing in it.
+
+Nobody stood in front of a door longer than Quill allowed.
+
+***
+
+It was mid-afternoon by the time it was done.
+
+Xav came out of the white tower into the high street with his sword on his back and his party round him: Gabe with his shield, Rui Xiang still spinning a knife, Malcolm and John arguing gently about whether healing would be the boring part. He looked up at the sky.
+
+The sun had moved. Of course it had. It was a sun.
+
+But it had moved along a line he could almost draw. Higher, then a little further west, along a curve so smooth and regular that if he held up his hand he could have traced where it would be in an hour.
+
+Too tidy.
+
+"Gabe," he said.
+
+"Yeah."
+
+"He's not running *from* us."
+
+Gabe looked at him.
+
+"Think about it," said Xav. He was thinking it as he said it, and he trusted it more as it came out. It was the way he always thought: slowly, then all at once. "He woke up first. Before any of our lights. He had a minute. He knew the door would close. He wrote Dest a note telling us to train longer on the third floor, which means he knows there's a third floor, and he knows what's on it, or after it. He ran straight down the hill to a stream path nobody would take unless they knew where it went. He punched a goat on the way. He got here at dawn, knew which door he wanted, didn't look at the others, and went straight out the back to somewhere the old man says nobody goes." He looked at Gabe. "He's not running away from anything. He's going somewhere. *Ahead* of us."
+
+"Same thing," said Gabe.
+
+"No," said Xav. "It's not."
+
+He didn't know how to say the rest of it. How to say: *if I were him, and I knew something about this place that nobody else knew, and I'd woken up a minute early with a way out, I'd have gone too.* I'd have gone first. Because if the floor ahead was going to kill somebody, I'd want it to have to get through me first.
+
+That was what a tank did. That was what Declan had always done, in every game, for years. Stand in front. Take the hit. See what it does.
+
+"He's tanking," Xav said finally. "He's gone ahead to tank it. Whatever it is."
+
+Gabe was quiet for a long time. A cart rolled past them. The girl with the eggs ran by in the other direction, shouting something about Climbers to someone indoors.
+
+"Then he's being an idiot," said Gabe.
+
+"Yeah."
+
+"He's going to get himself killed."
+
+"Maybe."
+
+"And we're going to find him before he does."
+
+"Yeah," said Xav. "We are."
+
+He looked east, down the high street, past the last red roofs, toward the fields where Quill had said there was nothing but sheep and a chapel nobody had used in a hundred years. He couldn't see anyone out there. He hadn't expected to.
+
+Then he went with the others to find somewhere to sleep, because whatever else was true, the sun was moving along its perfect line and it was going to get dark. You didn't go hunting for your oldest friend in the dark, in a place you didn't know, at level one.
+
+Declan would have told him that. Probably while punching a goat.
+
+[ Party Log · Xavier's party · Floor 1 · Day 1
+Xavier Lv 1 Knight · Gabe Lv 1 Knight · Rui Xiang Lv 1 Ranger · Malcolm Lv 1 Cleric · John Lv 1 Mage
+Seen: one punched goat · The book: one line with no name, Knight
+]

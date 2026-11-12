@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Build the ArsNovella site: novel.json + chapters/*.md -> docs/.
 
+Builds two novels: The Fisherman of Lake Ilse (repo root -> docs/) and the hidden
+Regressor Diary of a Voyager (voyager/ -> docs/voyager/). The Fisherman's "Isekai" tag
+opens a code box; TRUST goes to the Voyager page, whose "Isekai" tag links back.
+
 Usage: python build.py
 
 Chapter files look like:
@@ -113,9 +117,11 @@ def og_image():
             '<meta name="twitter:card" content="summary_large_image">\n')
 
 
-def head(title, desc, root, extra=""):
+def head(title, desc, root, extra="", cfg=None):
+    cfg = cfg or FISHERMAN
+    attrs = "".join(f' data-{k}="{esc(cfg[v])}"' for k, v in (("novel", "key"), ("comments", "comments")) if cfg.get(v))
     return f"""<!doctype html>
-<html lang="en">
+<html lang="en"{attrs}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -124,7 +130,7 @@ def head(title, desc, root, extra=""):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="book">
-{og_image()}<meta name="theme-color" content="#15181d">
+{og_image() if cfg is FISHERMAN else ""}<meta name="theme-color" content="#15181d">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
@@ -187,7 +193,7 @@ def comments_section(n):
   </section>"""
 
 
-def chapter_page(novel, chapters, i):
+def chapter_page(novel, chapters, i, cfg):
     c = chapters[i]
     root = "../../"
     prev_c = chapters[i - 1] if i > 0 else None
@@ -213,7 +219,7 @@ def chapter_page(novel, chapters, i):
 
     end_note = ("" if next_c else
                 '<p class="end-note">You\'re all caught up. More chapters are on the way.</p>')
-    return head(page_title, c["summary"], root, links) + f"""<body class="reader" data-root="{root}" data-n="{c["n"]}" data-label="{esc(c["label"])}" data-title="{esc(c["title"])}" data-prev="{href(prev_c) if prev_c else ""}" data-next="{href(next_c) if next_c else ""}">
+    return head(page_title, c["summary"], root, links, cfg) + f"""<body class="reader" data-root="{root}" data-n="{c["n"]}" data-label="{esc(c["label"])}" data-title="{esc(c["title"])}" data-prev="{href(prev_c) if prev_c else ""}" data-next="{href(next_c) if next_c else ""}">
 <a class="skip" href="#chapter">Skip to the chapter</a>
 <header class="topbar">
   <a class="brand" href="{root}" title="Series details">{icon("book")}<span>{esc(short)}</span></a>
@@ -271,6 +277,72 @@ COVER = """<svg class="cover-art" viewBox="0 0 300 420" role="img" aria-label="C
 </svg>"""
 
 
+def voyager_cover():
+    """Drawn cover for Regressor Diary of a Voyager: a tower of floors climbing into the
+    stars, the white arch at its foot, a lone figure walking out with a small fox-light."""
+    def edge(y):  # the tower narrows toward the top: 112..188 at y=300, 128..172 at y=0
+        k = 16 * (1 - y / 300)
+        return 112 + k, 188 - k
+    bands, y, gap = [], 288.0, 24.0
+    for _ in range(18):  # floors bunch up as they climb (fixed count: a shrinking gap never reaches the top)
+        l, r = edge(y)
+        bands.append(f'<path d="M{l:.1f} {y:.1f}H{r:.1f}"/>')
+        y -= gap
+        gap = max(9.0, gap * 0.92)
+    lit = "".join(f'<rect x="{x}" y="{yy}" width="3" height="4"/>' for x, yy in
+                  ((124, 258), (171, 240), (146, 214), (133, 186), (162, 160), (141, 128), (155, 98), (137, 70)))
+    stars = "".join(f'<circle cx="{x}" cy="{yy}" r="{r}"/>' for x, yy, r in
+                    ((28, 30, 1.2), (64, 88, 0.9), (92, 22, 1), (210, 40, 1.3), (246, 96, 1), (272, 30, 0.9),
+                     (40, 170, 1), (226, 150, 0.9), (262, 210, 1.1), (18, 236, 0.8), (84, 140, 0.8), (200, 110, 0.7)))
+    return f"""<svg class="cover-art" viewBox="0 0 300 420" role="img" aria-label="Cover: a lone figure and a small fox-light walking away from the white arch at the foot of a tower that climbs into the stars">
+  <defs>
+    <linearGradient id="vsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04070d"/><stop offset=".72" stop-color="#0f2b33"/><stop offset="1" stop-color="#081218"/></linearGradient>
+    <linearGradient id="vtower" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a1820" stop-opacity="0"/><stop offset=".3" stop-color="#0a1820"/><stop offset="1" stop-color="#0c1d27"/></linearGradient>
+    <linearGradient id="vground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b171e"/><stop offset="1" stop-color="#04080c"/></linearGradient>
+    <radialGradient id="vglow"><stop offset="0" stop-color="#bff7ef" stop-opacity=".75"/><stop offset="1" stop-color="#bff7ef" stop-opacity="0"/></radialGradient>
+    <radialGradient id="vfox"><stop offset="0" stop-color="#8ff5e8"/><stop offset=".45" stop-color="#3fd0c4" stop-opacity=".55"/><stop offset="1" stop-color="#3fd0c4" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="300" height="420" fill="url(#vsky)"/>
+  <g fill="#e9f3f6" opacity=".85">{stars}</g>
+  <path d="M112 300 L128 0 H172 L188 300 Z" fill="url(#vtower)"/>
+  <g stroke="#2f7d80" stroke-width="1" opacity=".55">{"".join(bands)}</g>
+  <g fill="#7fe8dc" opacity=".8">{lit}</g>
+  <rect y="300" width="300" height="120" fill="url(#vground)"/>
+  <ellipse cx="150" cy="284" rx="34" ry="30" fill="url(#vglow)"/>
+  <path d="M140 300 V280 a10 10 0 0 1 20 0 V300 Z" fill="#eef8f7"/>
+  <path d="M140 300 L118 330 H182 L160 300 Z" fill="#bff7ef" opacity=".08"/>
+  <g fill="#030609">
+    <circle cx="176" cy="295" r="3.2"/>
+    <path d="M172.6 299 h6.8 l1.2 10 h-2.2 l-0.6 9 h-1.8 l-0.4 -8 h-0.4 l-0.4 8 h-1.8 l-0.6 -9 h-2.2 Z"/>
+  </g>
+  <circle cx="188" cy="292" r="9" fill="url(#vfox)"/>
+  <path d="M185 290.5 l1.2 -3.2 l1.4 2.4 l1.4 -2.4 l1.2 3.2 a3.4 3.4 0 1 1 -5.2 0 Z" fill="#c9fbf4"/>
+  <text x="150" y="350" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="13" letter-spacing="5">REGRESSOR DIARY</text>
+  <text x="150" y="384" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="27" letter-spacing="2">OF A VOYAGER</text>
+  <text x="150" y="408" text-anchor="middle" fill="#6fe0d4" font-family="Inter, sans-serif" font-size="11" letter-spacing="4">CGREYICE</text>
+</svg>"""
+
+
+def tag_item(t, cfg):
+    """A plain tag, or one that looks exactly like a plain tag but opens the code box / links back."""
+    kind, href = cfg.get("tag_links", {}).get(t, (None, None))
+    if kind == "secret":
+        return (f'<li class="has-btn"><button type="button" class="tag-btn" data-secret '
+                f'data-href="{esc(href)}" aria-expanded="false">{esc(t)}</button></li>')
+    if kind == "link":
+        return f'<li class="has-btn"><a class="tag-btn" href="{esc(href)}">{esc(t)}</a></li>'
+    return f'<li>{esc(t)}</li>'
+
+
+CODE_BOX = """<div class="code-box" data-code-box hidden>
+        <form class="code-form" data-code-form autocomplete="off" novalidate>
+          <label><span class="sr">Code</span><input name="code" maxlength="24" placeholder="Enter code" spellcheck="false" autocapitalize="off" autocorrect="off"></label>
+          <button type="submit" class="btn">Enter</button>
+        </form>
+        <p class="code-msg" data-code-msg aria-live="polite"></p>
+      </div>"""
+
+
 def cover_html():
     """The cover image if src/cover.jpg exists, else the drawn SVG placeholder."""
     if (SRC / "cover.jpg").exists():
@@ -279,11 +351,12 @@ def cover_html():
     return COVER
 
 
-def series_page(novel, chapters):
+def series_page(novel, chapters, cfg):
     root = ""
     total_words = sum(c["words"] for c in chapters)
     synopsis = "".join(f"<p>{inline(p)}</p>" for p in novel["synopsis"])
-    tags = "".join(f'<li>{esc(t)}</li>' for t in novel["tags"])
+    tags = "".join(tag_item(t, cfg) for t in novel["tags"])
+    has_secret = any(k == "secret" for k, _ in cfg.get("tag_links", {}).values())
     vols = {}
     for c in chapters:
         vols.setdefault(str(c["volume"]), []).append(c)
@@ -295,8 +368,15 @@ def series_page(novel, chapters):
             f'<span class="c-meta">{c["words"]:,} words · {esc(c["date"])}</span></a></li>'
             for c in chs)
         lists += f'<section class="volume"><h3>{esc(novel["volumes"].get(v, "Volume " + v))}</h3><ol class="chapter-list">{rows}</ol></section>'
+    if not chapters:
+        lists = '<p class="empty-note">Chapter 1 is on its way.</p>'
     first = f'read/{chapters[0]["n"]}/' if chapters else "#"
-    return head(f'{novel["short_title"]} | {novel["title"]}', novel["tagline"], root) + f"""<body class="series">
+    cta = (f'<a class="btn primary" href="{first}" data-start>Start reading</a>\n'
+           f'        <a class="btn" href="{first}" data-continue hidden>Continue</a>' if chapters
+           else '<span class="btn" aria-disabled="true">Coming soon</span>')
+    updated = max((c["date"] for c in chapters), default="")
+    foot = (f"Updated {esc(updated)}. " if updated else "") + "Reading settings and progress are saved in this browser only."
+    return head(f'{novel["short_title"]} | {novel["title"]}', novel["tagline"], root, cfg=cfg) + f"""<body class="series">
 <header class="topbar">
   <a class="brand" href="./">{icon("book")}<span>{esc(novel["short_title"])}</span></a>
   <div class="tools">
@@ -305,7 +385,7 @@ def series_page(novel, chapters):
 </header>
 <main class="wrap series-wrap">
   <section class="hero">
-    <div class="cover">{cover_html()}</div>
+    <div class="cover">{cfg["cover"]()}</div>
     <div class="info">
       <p class="eyebrow">{esc(novel["short_title"])}</p>
       <h1>{esc(novel["title"])}</h1>
@@ -313,18 +393,18 @@ def series_page(novel, chapters):
       <p class="byline">by {esc(novel["author"])}</p>
       <ul class="chips"><li>{esc(novel["status"])}</li><li>{len(chapters)} chapter{"s" if len(chapters) != 1 else ""}</li><li>{total_words:,} words</li></ul>
       <div class="cta">
-        <a class="btn primary" href="{first}" data-start>Start reading</a>
-        <a class="btn" href="{first}" data-continue hidden>Continue</a>
+        {cta}
       </div>
       <div class="synopsis">{synopsis}</div>
       <ul class="tags" aria-label="Tags">{tags}</ul>
+      {CODE_BOX if has_secret else ""}
     </div>
   </section>
   <section class="chapters" id="chapters">
     <h2>Chapters</h2>
     {lists}
   </section>
-  <footer class="foot"><p>Updated {esc(max((c["date"] for c in chapters), default=""))}. Reading settings and progress are saved in this browser only.</p></footer>
+  <footer class="foot"><p>{foot}</p></footer>
 </main>
 {settings_drawer()}
 </body>
@@ -332,12 +412,22 @@ def series_page(novel, chapters):
 """
 
 
-def main():
-    novel = json.loads((ROOT / "novel.json").read_text(encoding="utf-8"))
-    chapters = sorted((parse_chapter(p) for p in (ROOT / "chapters").glob("*.md")), key=lambda c: c["n"])
+FISHERMAN = {"key": "", "dir": ROOT, "out": "", "comments": "", "cover": cover_html,
+             "tag_links": {"Isekai": ("secret", "voyager/")}}
+VOYAGER = {"key": "voyager", "dir": ROOT / "voyager", "out": "voyager/", "comments": "voyager_comments",
+           "cover": voyager_cover, "tag_links": {"Isekai": ("link", "../")}}
+NOVELS = (FISHERMAN, VOYAGER)
+
+
+def load_chapters(folder):
+    chapters = sorted((parse_chapter(p) for p in (folder / "chapters").glob("*.md")), key=lambda c: c["n"])
     nums = [c["n"] for c in chapters]
     if len(nums) != len(set(nums)):
-        raise SystemExit(f"duplicate chapter numbers: {nums}")
+        raise SystemExit(f"{folder.name}: duplicate chapter numbers: {nums}")
+    return chapters
+
+
+def main():
     # Write in place and prune stale files afterwards: deleting docs/ outright fails on
     # Windows while a preview server or OneDrive has a handle on it.
     written = set()
@@ -348,17 +438,23 @@ def main():
         p.write_text(text, encoding="utf-8")
         written.add(p.resolve())
 
-    for f in ("reader.css", "reader.js", "comments.js"):
-        write(f"assets/{f}", (SRC / f).read_text(encoding="utf-8"))
+    write(".nojekyll", "")
     if (SRC / "cover.jpg").exists():
         p = OUT / "assets/cover.jpg"
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_bytes((SRC / "cover.jpg").read_bytes())
         written.add(p.resolve())
-    write(".nojekyll", "")
-    write("index.html", series_page(novel, chapters))
-    for i, c in enumerate(chapters):
-        write(f'read/{c["n"]}/index.html', chapter_page(novel, chapters, i))
+    for cfg in NOVELS:
+        novel = json.loads((cfg["dir"] / "novel.json").read_text(encoding="utf-8"))
+        chapters = load_chapters(cfg["dir"])
+        out = cfg["out"]
+        for f in ("reader.css", "reader.js", "comments.js"):
+            write(f"{out}assets/{f}", (SRC / f).read_text(encoding="utf-8"))
+        write(f"{out}index.html", series_page(novel, chapters, cfg))
+        for i, c in enumerate(chapters):
+            write(f'{out}read/{c["n"]}/index.html', chapter_page(novel, chapters, i, cfg))
+        print(f"{novel['short_title']}: {len(chapters)} chapter(s), "
+              f"{sum(c['words'] for c in chapters):,} words -> {OUT / out}")
     for p in OUT.rglob("*"):
         if p.is_file() and p.resolve() not in written:
             p.unlink()
@@ -367,7 +463,6 @@ def main():
             d.rmdir()  # only succeeds when empty
         except OSError:
             pass
-    print(f"Built {len(chapters)} chapter(s), {sum(c['words'] for c in chapters):,} words -> {OUT}")
 
 
 if __name__ == "__main__":

@@ -12,7 +12,8 @@
     appId: "1:412239932219:web:4225d1be70d65e273d651e"
   };
   var SDK = "https://www.gstatic.com/firebasejs/10.12.2/";
-  var COLLECTION = "arsnovella_comments";       // arsnovella_comments/{chapter}/items/{id}
+  // arsnovella_comments/{chapter}/items/{id}; the hidden novel sets its own on <html data-comments>
+  var COLLECTION = document.documentElement.getAttribute("data-comments") || "arsnovella_comments";
   var NAME_KEY = "arsnovella.name";
   var CID_KEY = "arsnovella.cid";
   var LAST_KEY = "arsnovella.lastComment";

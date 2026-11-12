@@ -8,6 +8,10 @@
 2. Run `python build.py`. It regenerates the whole site in `docs/`.
 3. Commit and push. GitHub Pages serves `docs/` from `main`.
 
+## The second novel (hidden)
+
+***Regressor Diary of a Voyager*** lives in `voyager/` (its own `novel.json` and `chapters/`) and builds to `docs/voyager/`. It isn't linked anywhere: on the Fisherman's page the **Isekai** tag opens a code box, and the code goes to `voyager/`. The Voyager page's own Isekai tag links back. Its reading progress and comments are separate (`arsnovella.progress.voyager`, `voyager_comments`); reader settings are shared. Add its chapters exactly as above, under `voyager/chapters/`.
+
 ## Reader features
 
 - Reader settings (saved in the browser): theme (Dark, Light, Sepia, Lake, or custom colours), font, size, line and paragraph spacing, text width.
@@ -36,5 +40,7 @@ Firestore needs this block in its rules (Firebase console → Firestore Database
         && request.resource.data.ts == request.time;
     }
 ```
+
+The hidden novel's comments go to `voyager_comments/{chapter}/items/{id}` and need a second, identical block with `arsnovella_comments` changed to `voyager_comments`.
 
 Nobody can edit or delete comments from the site. To remove one, delete it in the Firebase console under `arsnovella_comments → <chapter> → items`.
