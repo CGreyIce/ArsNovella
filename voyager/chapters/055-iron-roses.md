@@ -341,11 +341,109 @@ The whole ring was silent.
 
 Gabe turned round and walked to the edge of the island, and stood there with his back to all of them, looking at the needle. His shoulders were shaking. Nobody went after him. Xav took one step, and then stopped, and waited. Sometimes the right move was not to move.
 
-Jared was standing at the back of the ring, with his raw hands wrapped in strips of somebody's shirt, and he saw it. Nobody else would have. He was the one who watched things, steady, while everybody else talked. He saw Chris standing with the closed notebook in both hands, not looking at Milli, not looking at Gabe at the edge. Looking across the ring at Thea.
+***
 
-She was standing with the little lantern, the way she always was. She'd said what she'd said and gone quiet again. Now she met Chris's eye.
+Jared fell asleep at the long table in the inn that evening. He was sitting up, with his bandaged hands round a bowl of fish soup he hadn't finished. He woke up to Calvin asking a question.
 
-"*If they'd been something I'd never seen before, I'm not here*," said Chris. Very low. Nearly to himself. "He fights things nobody's ever seen. First. Every floor." He looked down at the notebook. "It explains how fast. It doesn't explain how *well*."
+"Okay, but practically," Calvin was saying. "*Practically.* How is he not dead?"
+
+The long room of the inn was full. All thirty-five of them at the tables under the lamps, with the kites humming on the roof outside and the gulls settling. Milli was asleep against Hana with his bandaged arms in his lap. Gabe was at the end of the far table with the wrapped shield against his knee. He hadn't said a word since the morning.
+
+"Milli had two potions and couldn't drink them," said Calvin. "One night. He's been doing that every day for a hundred days. So does he just—have a heal? A proper one? Can he *heal*?"
+
+"Is that even possible?" said Salty, from the tanks' end of the table. He held up one enormous hand and counted on it. "I'm a Guardian. Nothing I've got heals. Not one thing. Taunt, guard, the big swing. That's it." He looked down the table. "Jared?"
+
+"Nothing," said Jared. His voice was rough with sleep. "We hold. Somebody else fixes us. That's the deal."
+
+"Same," said Azac.
+
+"Same," said Hako.
+
+Gabe didn't say anything.
+
+"Tanks don't heal," said Salty. "That's the whole point of having five."
+
+"He's not just a tank," said Hyvred. "He's a Paladin. Thea read it. On three."
+
+"Hidden class," said Chris. He didn't need his notebook for that one.
+
+"Right," said Calvin. "Right, yeah, I know. *Tank and heal.* Gabe said." He glanced down the table at Gabe and away again. "But that's what I mean. *How?* We all stood in the class hall on day one. Quill had three doors. Sword, staff, bow. There wasn't a Paladin door. Nobody got offered one. So how do you even *get* a class that isn't on the list?"
+
+Nobody knew.
+
+Jared watched it go round the room, from face to face, and land nowhere. A hundred and two days, and none of them had ever asked. It had just been one more thing Voyager had done, like clearing floor 1 on the first day. Impossible, and somehow normal, because it was him.
+
+It was Azac who started.
+
+He'd been sitting back with his arms folded, the way he did before he told a story. Now he leaned forward.
+
+"Hidden means hidden," he said. "It's not on the list because you don't pick it. Something gives it to you." He tapped the table. "In every story I've ever read, and I've read a lot of them, there's a hidden version of something. A class that's two classes at once. And you never get it at a desk. You get it out *there*." He nodded at the dark window, the bridges, the lamps of Tether laced together with rope. "From something nobody else bothered with."
+
+"A quest," said Malcolm.
+
+Everybody looked at him. Malcolm had his face on, the doom one. But his eyes were busy.
+
+"It'd be a quest," he said. "It'd have to be. A long one, probably. In steps. Somewhere nobody goes, because if it was somewhere people went, people would've found it." He turned his cup round on the table. "And it'd have conditions. Things that make it hard to start on purpose. Things you'd only do by accident." He paused. "Or if you already knew."
+
+"Knight and Cleric," said Azac. "Tank and heal. That's what a Paladin is in every story. So the quest takes a Knight and teaches it to heal. Somewhere. Early."
+
+"Early," said Hyvred.
+
+She'd gone very still.
+
+"Floor 1," she said slowly. "In the Fold. On the trail. There were warm marks on the rocks, hand-shaped, where he'd stopped. I didn't know what they were. I thought he'd put his hands on the rocks to rest." Her voice dropped. "He was healing himself. On floor 1. On the first day or the second."
+
+"So it started on floor 1," said Malcolm. "Before day two."
+
+The whole room had gone quiet. Even the gulls on the roof.
+
+And then Xav, who hadn't said a word all evening, said: "The chapel."
+
+Nobody moved.
+
+"A stone knight," said Malcolm, very slowly, the way you'd put down something you didn't want to break. "Holding up a lantern. In a chapel nobody goes to. Lit." He looked at Xav. "*This vigil has already been kept.*"
+
+"A knight who keeps a light," said Azac.
+
+Jared watched him put it together. The way he put together the end of a story, all the pieces at once, his whole face changing.
+
+"That's it," said Azac. "That's the first step. That's how a Paladin starts. And he did it before we'd even left Hearthstead. Before most of us had picked a class."
+
+"Then there's more," said Malcolm.
+
+He said it flatly. Pessimistically. The way he said everything, as if it was bad news. Jared thought maybe it was.
+
+"If there's one hidden class," said Malcolm, "there's more. There's always more. One for every kind of thing a person can be, probably. And we've walked past every single one of them for a hundred days, because nobody told us to look." He turned his cup again. "There could be a chapel on every floor. We'd never know."
+
+"There's always more," Azac agreed. "Hidden classes. Hidden quests. Things that only open if you go somewhere stupid at the wrong time of day and do the one thing nobody would think of."
+
+"Classic," said Hako, quietly.
+
+At the end of Chris's table, Niko had looked up. He had one of his spellbooks open next to his plate, the way he had every evening since floor 1. A Knight who read magic books after dinner, and nobody had ever asked why.
+
+"A knight," said Niko carefully, "with spellbooks. Would that be—"
+
+"That's a Spellsword," said Azac at once. "In about nine stories I've read."
+
+Niko looked down at his book. He didn't say anything else. But he didn't go back to reading it, either.
+
+"Then we look," said Drew.
+
+He'd been listening the whole time from the head of the table. Now he got up and went to the big slate by the inn door, the one the innkeeper used for ferry times and the price of fish. He wiped a corner of it clean with his sleeve and wrote, in big square letters:
+
+*HIDDEN QUESTS. IF IT'S STRANGE, WRITE IT HERE.*
+
+"Every floor," said Drew. "From now on. Anything that doesn't fit. A statue. A shrine. An old book in a corner. An NPC who says something odd and then won't say it again. A light that's on when it shouldn't be. You see it, you write it, and we go and look." He turned round. "*Together.* Not alone."
+
+"Not alone," said several people, quietly.
+
+Chris had already turned to a clean page. At the top he wrote *HIDDEN*, and underneath it, first: *chapel, floor 1, east fields. Stone knight, lantern. Kept.*
+
+Jared watched him write it. He was the one who watched things, steady, while everybody else talked. So he saw what Chris did next, which was stop, with the pencil still on the page, and look across the room at Thea.
+
+She was at the end of her party's table with the little lantern, the way she always was. She met his eye.
+
+"He found it on day one," said Chris. Very low. Nearly to himself. "Before any of us knew there were classes. Before anybody knew anything. He walked straight to it." He looked down at the page. "And Milli said this morning, if it'd been something he'd never seen before, he wouldn't be here. And Voyager fights things nobody's ever seen. First. Every floor." He was very quiet. "The bonus explains how fast. It doesn't explain how *well*." He looked back up at her. "Or how he knew where to look."
 
 Thea held his look for a long moment.
 
@@ -429,7 +527,9 @@ Jared crossed the hawser at dawn. Milli: "You look slow."
 Fighting alone ×2 · Outnumbered ×3 · above level. Chris: that's the shape of his line.
 For and against, in two columns. Not close. Rachael: "It's a warning, written as a reward." Vote: nobody fights alone. All thirty-five.
 He does it every day anyway. Who watches the door when he sleeps? Thea: "He put himself on the other side of it."
-Chris: "It doesn't explain how well."
+Can he heal? Tanks don't. Paladin does. But Quill had no door for it. Azac and Malcolm: a hidden quest. The chapel was step one.
+Drew's slate: HIDDEN QUESTS. IF IT'S STRANGE, WRITE IT HERE. Niko looked at his spellbook.
+Chris: "It doesn't explain how well. Or how he knew where to look."
 Thornback span rebuilt. Eleven joins. A rose on every one.
 Otta: he lost his shield to the bird. Barrel lids since.
 Gabe's shield is finished. Kiln-iron rim. A rose inside it, where a hand goes.
