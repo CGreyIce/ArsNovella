@@ -305,7 +305,7 @@ And under it, already, a few lines.
 
 "I know what it is."
 
-He did. He'd never found it, the first time. Nobody had. He knew about it the way he'd known about the Paladin chain: too late, from a book, on a far floor, years after. A Scribe's chain. A hidden one. For somebody who wrote things that held. *Cursiffe.*
+He did. He'd never found it, the first time. Nobody had. He knew about it the way he'd known about the Paladin chain: too late, from a book, on a far floor, years after. An Archivist's chain. A hidden one. For somebody who wrote things down, and made them hold. *Cursiffe.*
 
 "They're going to find things," said Alea. "Things you never found the first time. Things *nobody* found."
 
