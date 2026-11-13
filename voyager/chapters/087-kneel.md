@@ -176,7 +176,7 @@ Every sound in the white room went out, from the arch inward. Calvin's small voi
 
 And it came through the arch.
 
-Tall. Thin. Too many joints in its long arms and legs, so that it moved wrong, folding and unfolding. A smooth head with no face on it at all. The first time it had been ash-grey, the colour of the dust in the Red City. This one was white. White like the room, so that it was hard to see, so that your eyes kept sliding off it. It came through the arch on all fours, and then it unfolded, slowly, until it stood up taller than Salty. And it turned its blank head toward the ring.
+Tall. Thin. Too many joints in its long arms and legs, so that it moved wrong, folding and unfolding. A smooth head with no face on it at all. The first time it had been ash-grey, the colour of the dust in the Red City. This one was white. White like the room, so that it was hard to see, so that your eyes kept sliding off it. It came through the arch on all fours, and then it unfolded, slowly, until it stood up taller than anyone in the room. And it turned its blank head toward the ring.
 
 Toward Calvin.
 
