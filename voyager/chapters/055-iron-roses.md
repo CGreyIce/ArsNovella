@@ -367,7 +367,59 @@ Gabe didn't say anything.
 
 "Hidden class," said Chris. He didn't need his notebook for that one.
 
-"Right," said Calvin. "Right, yeah, I know. *Tank and heal.* Gabe said." He glanced down the table at Gabe and away again. "But that's what I mean. *How?* We all stood in the class hall on day one. Quill had three doors. Sword, staff, bow. There wasn't a Paladin door. Nobody got offered one. So how do you even *get* a class that isn't on the list?"
+"Tank and heal," said Dennis. He sounded relieved, the way you sound when a sum finally comes out. "Right. He heals himself. Okay. So it's fine, then. Sort of."
+
+"It's not fine," said Rachael.
+
+She was at the healers' end of the long table, with both hands flat on the wood. She'd hardly said anything since the morning. Her frown had come back, deeper than before.
+
+"Everybody keeps saying that," she said. "*He can heal himself.* Like it's the end of it. Like that makes it okay." She looked down the table at all of them. "Healing doesn't take it back. It doesn't mean it didn't happen. It just closes it."
+
+"Rae—" said Dennis.
+
+"Ask Calvin."
+
+Everybody looked at Calvin. Calvin's right hand had gone to his left forearm, the way it sometimes did, without him seeming to know. The arm the Woolback Ram had broken on floor 1, in two places, on the grass by the wall. The arm Rachael had held together with cold water running along the bone.
+
+"It hurt more going back than it did breaking," said Calvin quietly. "The breaking was fast. You don't even feel it properly, at first. But when she fixed it, I felt every bit go back. Both places. Slowly." He rubbed the arm. "I didn't say. It seemed rude. She'd just saved it."
+
+"I closed Rui Xiang's leg last night," said Malcolm. "It took me a minute. He felt the whole minute."
+
+"Worse coming shut than going in," said Rui Xiang. He said it to his cup.
+
+Milli, half asleep against Hana with his bandaged arms in his lap, opened his eyes. "The cutting was fast," he said. "Last night. All of it. The closing this morning was slow."
+
+"So when he gets hurt," said Rachael, "he feels it. All of it. Same as us. And then he heals it himself, and he feels that too. Coming back together. Slowly." She stopped. She looked at her hands on the table. "And there's something else. Something I haven't told anybody."
+
+The table went quiet.
+
+"When you heal somebody," said Rachael, "you feel it. An echo. Just for a second. Wherever you're holding them together, you feel it in the same place on yourself." She didn't look up. "Azac's ribs, floor 1, I felt in my ribs. Calvin's arm, I felt in my left arm. Every heal. Every single one since the first day. That's what it costs. Not just the mana. You get a bit of it back."
+
+"*Rae*," said Calvin.
+
+"It's fine. It's a second. I'm used to it." She still didn't look up. "I never said, because it's mine to carry, and you don't put it on the person you're fixing."
+
+"I thought it was just me," said Malcolm, very quietly. "Last night. Rui Xiang's leg. I felt it in my calf. I thought I was doing it wrong."
+
+"You're not doing it wrong," said Rachael. "That's how it works."
+
+Then she looked up. Not at Malcolm. Down the long table, past all of them, out of the dark window, at the needle in the middle of the sky.
+
+"So think about it," she said. "When he heals himself, he's the one hurt *and* he's the one healing. He gets the wound. Then he holds it closed, and he feels it going back, slowly, every bit. And then he gets the echo of it, in the same place, on top." Her voice went very flat. "Twice. Every wound, he feels twice. At least. Alone. In the middle of a fight, probably, fast and ugly, while something's still hitting him."
+
+"A heal in a fight's the worst kind," said Xola softly. Water moved round her fingers on the table, restless. "You can't do it gently. You just shove it shut."
+
+"Pain doesn't care whether you can fix it later," said Kei. Round his neck, Dose had gone very still.
+
+Nobody said anything.
+
+Jared looked down at his own hands, wrapped in strips of somebody's shirt, raw from the hawser. They throbbed. They'd throbbed all day. Rachael had offered to close them that afternoon and he'd said *later, you're tired*. He thought about closing them himself, if he could. Feeling the skin come back, slowly. And then feeling it again.
+
+At the end of the far table, Gabe had put his hand flat on the wrapped shield against his knee, and left it there.
+
+"Every day," said Rachael. "For a hundred and two days. Twice."
+
+"Right," said Calvin, after a long time. Very quietly, for Calvin. "Yeah." He rubbed his left arm again. Then he looked up, and his face had changed, gone sharp. "But that's the other thing I don't get. *How?* We all stood in the class hall on day one. Quill had three doors. Sword, staff, bow. There wasn't a Paladin door. Nobody got offered one. So how do you even *get* a class that isn't on the list?"
 
 Nobody knew.
 
@@ -527,7 +579,8 @@ Jared crossed the hawser at dawn. Milli: "You look slow."
 Fighting alone ×2 · Outnumbered ×3 · above level. Chris: that's the shape of his line.
 For and against, in two columns. Not close. Rachael: "It's a warning, written as a reward." Vote: nobody fights alone. All thirty-five.
 He does it every day anyway. Who watches the door when he sleeps? Thea: "He put himself on the other side of it."
-Can he heal? Tanks don't. Paladin does. But Quill had no door for it. Azac and Malcolm: a hidden quest. The chapel was step one.
+Can he heal? Tanks don't. Paladin does. Rachael: "It's not fine." Healing hurts, and the healer feels an echo. He feels every wound twice. Alone.
+Quill had no door for it. Azac and Malcolm: a hidden quest. The chapel was step one.
 Drew's slate: HIDDEN QUESTS. IF IT'S STRANGE, WRITE IT HERE. Niko looked at his spellbook.
 Chris: "It doesn't explain how well. Or how he knew where to look."
 Thornback span rebuilt. Eleven joins. A rose on every one.
