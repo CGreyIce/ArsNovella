@@ -197,17 +197,155 @@ Nobody said anything.
 
 "*No*," said Drew, Deston and Rachael, all at once.
 
-Calvin shut his mouth.
+Calvin shut his mouth. Then he opened it again.
 
-"He's fighting alone because he hasn't got a choice," said Rachael. She didn't look up from Milli's arm. Her frown was very deep. "Not because it's good. It's a hundred days of nobody behind you. Every fight. You do that once on purpose and you get a scar." She closed the last cut. "We're not doing that."
+"I'm not saying we *should*," he said. "I'm saying—look at that line. Look at Milli's bar. One night. If that's real, then we should at least *know*. Properly. Not just *no*." He looked round at all of them. "Isn't that the whole thing? No more pocket. We say it out loud and we work it out."
 
-Calvin looked at her. Then, quietly: "Okay."
+Nobody said anything for a moment. Jared watched Drew think about it. Drew always thought about things with his whole face, frowning at the ground like it had owed him money.
 
-Jared was standing at the back of the ring, with his raw hands wrapped in strips of somebody's shirt, and he saw it. Nobody else would have. He was the one who watched things, steady, while everybody else talked. He saw Chris close the notebook. And he saw Chris look, not at Milli, not at the group, but across the ring at Thea.
+"Fine," said Drew. "Properly. Chris. Two columns."
 
-She was standing at the edge with the little lantern, the way she always was. She'd been listening to all of it without saying anything. Now she met Chris's eye.
+Chris turned to a clean page and drew a line down the middle. At the top of one side he wrote *FOR*. At the top of the other, *AGAINST*. He held the pencil over the page.
 
-"It explains how fast," said Chris. Very low. Nearly to himself. "It doesn't explain how *well*."
+"For," said Drew.
+
+"Speed," said Chris at once, and wrote it. "Times two alone, times three outnumbered. If they stack, that's times six before the above-level bonus. Milli made a week in a night. Call it six weeks of training in one." He looked up. "We've been on floor 5 for a week. We could be ready for the Spindle tomorrow."
+
+"Skills," said Rui Xiang, from where he was sitting on the grass. He was turning a knife over his knuckles, the way he did when he was thinking hard. "Alone, you use everything you've got. Every skill, every fight. Nobody else to cover the gap, so you learn to cover it yourself." He shrugged. "You'd learn fast."
+
+"No split," said Dennis. "XP five ways is—I mean, it's a tax. It's a *terrible* tax."
+
+Chris wrote it down. *No five-way split.*
+
+"We'd catch up," said Gabe.
+
+Everybody looked at him. He was standing at the back with the sacking-wrapped shield across his shoulders, and he didn't look away.
+
+"To him," said Gabe. "That's a pro. If we were faster we'd catch up."
+
+Chris looked at him for a second. Then he wrote it down, without a word. *Catch up.*
+
+"Against," said Drew.
+
+"Death," said Rachael.
+
+She didn't look up. She was still working on the last cut on Milli's arm, her hands on it, her frown very deep.
+
+"It's permanent," she said. "There's no respawn for us. The bosses come back. We don't. Revival items exist and nobody here's got one, and nobody's even seen one." She closed the cut and sat back. "Write that first. Write it big."
+
+Chris wrote it first, and big.
+
+"No healer," said Malcolm. "If you're alone and you get cut, you keep the cut. Until it kills you, or until you get somewhere safe enough to stop and fix it yourself. Which, if you're outnumbered, is never."
+
+"I couldn't drink a potion," said Milli quietly. Everybody looked at him. "I had two in my belt the whole night. I never got a hand free. Not once in four hours. Every time I thought about reaching for one, something came over the edge."
+
+Chris wrote that down too.
+
+"One mistake," said Deston. His voice was very calm, the way it always was when he was most frightened. "A party forgives you a mistake. You trip, somebody covers you. You misjudge a gust, somebody grabs your collar." He didn't look at Rachael and Calvin, but everybody else did. "Alone, the first mistake's the last one."
+
+"Classes," said Xola, from the back. "A party's five because nobody's whole on their own. Tank, healer, damage. Alone, you're only what you are. A healer can't kill anything. A tank can't kill fast enough. A mage gets caught." She looked at Milli. "He's a rogue. Fast, and he hits hard. He was nearly the best possible person to be on that rock. And he still nearly didn't come back."
+
+"And the gust," said Aleaka, slowly. She had Sleet in her arms. "The gust was nobody's fault. It just came. If it comes when you're alone, there's nobody at the other end of anything."
+
+Chris's pencil had been moving the whole time. The *AGAINST* column was full. He'd started writing up the margin.
+
+"There's one more," said Rachael.
+
+She stood up. She brushed the grass off her knees and looked round at all of them, and her frown had gone somewhere past frowning.
+
+"The tower doesn't pay you for nothing," she said. "Have you noticed that? Nothing here's free. Fighting above your level, you get more because you're more likely to lose. So times two for alone—" She stopped. "That's the tower telling you what your chances are. That's a *price*. Times six means it thinks you're six times more likely to die than if you had four people with you. That's not a bonus. It's a warning, written as a reward."
+
+Nobody said anything.
+
+Jared looked down at his raw hands, wrapped in somebody's shirt. He thought about the post moving under his palm. Half a second.
+
+"Milli," said Drew quietly. "You did it. Last night. You're the only one who knows. Would you do it again?"
+
+Milli was quiet for a long time. He sat on the grass with Alice's hand round his, looking at the bandages on his arms.
+
+"No," he said.
+
+Then: "And I'm stronger than I was yesterday. A lot stronger. Both of those are true."
+
+He looked up at them.
+
+"I was lucky," he said. "I want everybody to understand that. I had a rock at my back. I had Leaka's gull. I had thirty-five of you standing at the edge all night with a light, where I could see you. And I'd been hunting those things for four days. I knew how they moved. I knew where they'd come from." He swallowed. "Take any one of those away and I'm not here. If they'd been something I'd never seen before, I'm not here."
+
+Chris looked at the two columns for a long time.
+
+Then he turned the notebook round so everybody could see it. *FOR*, four lines. *AGAINST*, a whole column and half the margin, and at the top of it, big, *DEATH*.
+
+"It's not close," said Chris. "It doesn't add up. Not even nearly." He closed the notebook. "The pros don't outweigh the cons. They're not even in the same weight class."
+
+"So that's a no," said Drew. "Properly, this time. Not just because I said so." He looked round the ring. "Nobody fights alone. Not on purpose, not ever. If it happens, like last night, we come and get you, whatever it takes. Everybody?"
+
+Thirty-five hands went up. Calvin's last. He held it up and looked at it.
+
+"Okay," he said quietly. "Yeah. Okay."
+
+***
+
+And then it was very quiet. Because they'd all done the sum. Every one of them. And they'd all got to the end of it at about the same time.
+
+It didn't add up. It was a terrible way to get strong. And there was one person in the tower who'd done it for a hundred and two days, every day, every fight.
+
+"He knows," said Thea.
+
+She hadn't said anything the whole time. She'd been standing at the edge with the lantern, listening. Now everybody turned and looked at her.
+
+"He's not stupid," said Thea. "He knows the sum. He knows it better than any of us. He's done it every day." She looked down at the lantern in her hand. "He knows it doesn't add up. He's doing it anyway."
+
+Nobody said anything.
+
+Jared tried to imagine it. He couldn't help it. He was twenty-six hours awake, standing in the morning sun with his palms raw from a hawser and his arms aching from a night at the forge. He'd thought, at four in the morning with the hammer in his hand, that it was the longest night of his life.
+
+He tried to imagine it every night.
+
+Every fight, for a hundred and two days, alone. Every cut kept until he could get somewhere safe to mend it himself. Every bruise. The Kiln's fire, twice, with nobody behind him. That bird, with nobody to cut its legs while it was on him. Lying in a crack in the rock somewhere with his arm open, with nobody to put two blessings on him, with nobody to say *agree with it*. Sleeping. *Sleeping.* Who watched the door while he slept? Nobody. Every night for a hundred and two nights, nobody had watched the door. He'd lain down on four floors with nobody awake beside him. He'd woken up every morning not knowing whether he'd wake up the next.
+
+And then got up. And gone and found the next thing alone.
+
+"Who watches the door," said Gabe. Very quietly. He'd got there too. "When he sleeps. Who watches it."
+
+Nobody answered. Nobody had to.
+
+"Behind the wall on four," said Hyvred. Her voice cracked. "The light. I said it went small. When people are frightened, it goes in on itself. It was small, Gabe. All over that wall. It was small for a *week*."
+
+"He cooked fish behind Nan's hut every night for a fortnight," said Dennis. He sounded strange. "On his own. For himself. And for her." He stopped. "Too much salt. She said too much salt."
+
+"He stood in fire," said Malcolm. He said it to the ground. "Twice. And then he healed it himself, at night, alone. Nobody to do two in case the first one failed." His voice went. "Nobody to do *one*."
+
+"Every day," said Rachael.
+
+She was still standing. She'd gone very white.
+
+"Every single day," she said, "he gets up and does the thing we just voted not to do once. Knowing what it costs. Six times. Every fight." She looked at Milli, at his bandaged arms. Then at the cloud. "What does that *feel* like? After a hundred days? What does it do to you, to hurt like that every day and nobody even sees it?"
+
+Nobody could answer that.
+
+Jared looked at the needle in the middle of the sky, where a man had stood on a crown of rock and killed a bird alone at dawn. So that people he wasn't with would see somebody flying.
+
+*He's not up there fixing things*, he'd told Gabe at the forge. *He's up there making things that'll hold, and leaving them for us.*
+
+He hadn't thought about what it cost to make them.
+
+"Then why," said Calvin. His voice was very small for Calvin. "If it doesn't add up. If he knows. Why does he—"
+
+"Because if he's alone on a floor," said Thea quietly, "then nobody else is on it with him."
+
+Calvin looked at her.
+
+"Nobody to get hurt," said Thea. "Nobody to lose. Just him." She held the lantern a little tighter. "Every floor he clears alone is a floor where the only person who can die is him. He worked out the sum, Calvin. He just got a different answer. Because he put himself on the other side of it."
+
+The whole ring was silent.
+
+Gabe turned round and walked to the edge of the island, and stood there with his back to all of them, looking at the needle. His shoulders were shaking. Nobody went after him. Xav took one step, and then stopped, and waited. Sometimes the right move was not to move.
+
+Jared was standing at the back of the ring, with his raw hands wrapped in strips of somebody's shirt, and he saw it. Nobody else would have. He was the one who watched things, steady, while everybody else talked. He saw Chris standing with the closed notebook in both hands, not looking at Milli, not looking at Gabe at the edge. Looking across the ring at Thea.
+
+She was standing with the little lantern, the way she always was. She'd said what she'd said and gone quiet again. Now she met Chris's eye.
+
+"*If they'd been something I'd never seen before, I'm not here*," said Chris. Very low. Nearly to himself. "He fights things nobody's ever seen. First. Every floor." He looked down at the notebook. "It explains how fast. It doesn't explain how *well*."
 
 Thea held his look for a long moment.
 
@@ -288,7 +426,10 @@ Before he left, Jared took a punch from Otta's bench and turned the shield over,
 [ Party Log · Hanarisu's party · Floor 5 · Day 106
 Hana Lv 25 (padlock) · Milli Lv 25 (padlock, banked) · Jared Lv 25 (padlock) · Newish Lv 24 · Aleaka Lv 25 (padlock)
 Jared crossed the hawser at dawn. Milli: "You look slow."
-Fighting alone ×2 · Outnumbered ×3 · above level. Chris: that's the shape of his line. "It doesn't explain how well."
+Fighting alone ×2 · Outnumbered ×3 · above level. Chris: that's the shape of his line.
+For and against, in two columns. Not close. Rachael: "It's a warning, written as a reward." Vote: nobody fights alone. All thirty-five.
+He does it every day anyway. Who watches the door when he sleeps? Thea: "He put himself on the other side of it."
+Chris: "It doesn't explain how well."
 Thornback span rebuilt. Eleven joins. A rose on every one.
 Otta: he lost his shield to the bird. Barrel lids since.
 Gabe's shield is finished. Kiln-iron rim. A rose inside it, where a hand goes.
