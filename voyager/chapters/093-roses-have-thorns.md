@@ -419,7 +419,7 @@ On the back, in the same handwriting, smaller:
 
 Jared laughed.
 
-It came out of him so suddenly and so hard that it hurt his arm and he didn't care. He laughed until he couldn't breathe, on the wet black shelf at the edge of the big pool, with a dead serpent at the bottom of it and the Great Fall roaring and a postcard in his hand. It was the stupidest thing. It was the oldest bit they had. A photo of him eating, on Earth, in some parking lot, that Ice had turned into a postcard and sent to Hana, years ago, to tease her. And then they'd kept doing it. All of them. For years. And then Ice had died. And then a white room. And then nothing.
+It came out of him so suddenly and so hard that it hurt his arm and he didn't care. He laughed until he couldn't breathe, on the wet black shelf at the edge of the big pool, with a dead serpent at the bottom of it and the Great Fall roaring and a postcard in his hand. It was the stupidest thing. It was the oldest bit they had. A photo of him eating, on Earth, in some parking lot, that Ice had turned into a postcard and sent to Hana, years ago, to tease her. And then they'd kept doing it. All of them. For years. And then a white room. And then he'd run, before anybody could stop him. And then nothing, for a hundred and fifty-three days.
 
 And now here it was. Drawn in ink on a piece of reed. On floor 8.
 
