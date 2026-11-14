@@ -82,7 +82,7 @@ He rang his once more, very quietly, and put it in his vest pocket. Next to a ca
 
 Then his level.
 
-[ Voyager · Lv 45 · Tier 4 trial required to advance · Experience held ]
+[ Voyager · Lv 45 · Tier trial required to advance · Experience held ]
 
 A little padlock. Beside the number. The same small grey lock he'd seen at ten and twenty-five, being patient.
 

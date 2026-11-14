@@ -295,7 +295,7 @@ At the end of the watch, when Rachael had gone to wake Dennis and Tiger for the 
 
 And opened his window.
 
-[ Voyager · Lv 45 · Tier 4 trial required to advance · Experience held ]
+[ Voyager · Lv 45 · Tier trial required to advance · Experience held ]
 
 The little grey padlock. Patient.
 
