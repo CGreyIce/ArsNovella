@@ -19,13 +19,13 @@ He didn't turn his head.
 
 He'd been holding the post when it went.
 
-That was the thing he kept coming back to. Not the span going up, not the noise. The post. His hand had been on it, flat, the way you put your hand on a doorframe while you wait for somebody. Old iron, warm from the sun, rough with rust. And he'd felt it move. A tiny shift, under his palm, before anything else happened. He'd known. He'd known before his head knew, the way a smith knows a weld's bad by the sound before it cracks. He'd thrown himself backward. He'd got an arm round Alice on the way. And the post had come up out of the rock where his hand had been.
+That was the thing he kept coming back to. Not the span going up, not the noise. The post. His hand had been on it, flat, the way you put your hand on a doorframe while you wait for somebody. Old iron, warm from the sun, rough with rust. And he'd felt it move. A tiny shift, under his palm, before anything else happened. He'd known. He'd known before his head knew, the way a smith knows a weld's bad by the sound before it cracks. He'd thrown himself backward. He'd got an arm round Hana on the way. And the post had come up out of the rock where his hand had been.
 
 If he'd been half a second slower she'd have gone with it. He knew that. He'd known it all night.
 
 And Milli had been on the other side.
 
-He'd stood at the edge with Alice in the dusk, with the empty air where the span had been, and watched the gale-kites come up over the edge of Thornback. He'd watched one small fast shape with a tail put its back to a rock. Alice hadn't made a sound. She'd just stood there with her hand round his arm so tight her nails went through his sleeve, watching, and he'd thought: *no. Not standing here. Not just standing here watching.*
+He'd stood at the edge with Hana in the dusk, with the empty air where the span had been, and watched the gale-kites come up over the edge of Thornback. He'd watched one small fast shape with a tail put its back to a rock. Hana hadn't made a sound. She'd just stood there with her hand round his arm so tight her nails went through his sleeve, watching, and he'd thought: *no. Not standing here. Not just standing here watching.*
 
 So he'd gone to Drew.
 
@@ -51,11 +51,11 @@ But the Linkworks didn't have a hundred metres of chain. It had lengths. Twenty 
 
 Eleven joins. Eleven links.
 
-Otta showed him the first one. Jared did the second. Gabe and Salty worked the bellows and the striking hammer, and the Linkworks rang. Out in the dark, across the town, the whispers kept coming. Alice, every few minutes, short, in lowercase. *still fighting. still fighting. hes ok. theres so many.* Jared read them with sweat in his eyes and hammered harder.
+Otta showed him the first one. Jared did the second. Gabe and Salty worked the bellows and the striking hammer, and the Linkworks rang. Out in the dark, across the town, the whispers kept coming. Hana, every few minutes, short, in lowercase. *still fighting. still fighting. hes ok. theres so many.* Jared read them with sweat in his eyes and hammered harder.
 
 On the third link, he put a rose on it.
 
-He didn't decide to. His hands just did it. On floor 1, at Ulla Dray's forge in Hearthstead, he'd made his first real thing. Not a nail. A rose, out of nail iron, ugly and lumpy and real, and given it to Alice, and she'd pinned it to the front of her crown and never taken it off. Since then, every time he made something that mattered, his hands wanted to put one on it. A tiny rose, worked into the iron with the tip of a punch while it was still soft. Five petals, a dot in the middle. Nobody would ever see it unless they looked.
+He didn't decide to. His hands just did it. On floor 1, at Ulla Dray's forge in Hearthstead, he'd made his first real thing. Not a nail. A rose, out of nail iron, ugly and lumpy and real, and given it to Hana, and she'd pinned it to the front of her crown and never taken it off. Since then, every time he made something that mattered, his hands wanted to put one on it. A tiny rose, worked into the iron with the tip of a punch while it was still soft. Five petals, a dot in the middle. Nobody would ever see it unless they looked.
 
 Otta saw it.
 
@@ -69,7 +69,7 @@ Otta looked at him over the forge. Then she looked at the link. She didn't say a
 
 Gabe didn't talk much that night. That wasn't like him.
 
-He worked the bellows, and the striking hammer, and he carried chain. He didn't say anything except *yeah* and *here* and *okay*. Around two in the morning, when Alice's whispers had gone quiet for a long time and then come back with *they stopped. hes ok. hes sitting down*, all four of them stopped at once. Otta too. They stood round the forge in the red light, breathing, not saying anything.
+He worked the bellows, and the striking hammer, and he carried chain. He didn't say anything except *yeah* and *here* and *okay*. Around two in the morning, when Hana's whispers had gone quiet for a long time and then come back with *they stopped. hes ok. hes sitting down*, all four of them stopped at once. Otta too. They stood round the forge in the red light, breathing, not saying anything.
 
 Then Gabe said, quietly, to the fire:
 
@@ -81,7 +81,7 @@ Jared looked at him.
 
 Jared thought about that.
 
-He'd known Ice since he was twenty-one. Online, the whole time. Never in person. Hours and hours of games and calls, banter, Ice making him laugh until he couldn't breathe. A picture of Jared eating fried chicken in a parking lot that Ice had turned into a postcard to tease Alice with, which had become a bit, which had become a whole running thing between the three of them for years. He'd never met him. He'd never shaken his hand. And he'd still have bet his life on him.
+He'd known Ice since he was twenty-one. Online, the whole time. Never in person. Hours and hours of games and calls, banter, Ice making him laugh until he couldn't breathe. A picture of Jared eating fried chicken in a parking lot that Ice had turned into a postcard to tease Hana with, which had become a bit, which had become a whole running thing between the three of them for years. He'd never met him. He'd never shaken his hand. And he'd still have bet his life on him.
 
 "Nah," said Jared. "He'd have done exactly this."
 
@@ -97,7 +97,7 @@ Gabe looked at him across the forge for a long moment. Then he picked up the str
 
 So now it was dawn, and the chain wasn't ready. Otta's apprentices were still bringing it along the bridges from Tether in a cart, eleven joins and a hundred and ten metres of it, and it'd be noon before it was across. And Jared was hanging under a rope over the end of the world, going hand over hand toward a black rock, because he hadn't been able to wait till noon.
 
-Alice had wanted to go. Of course she had. She'd been at the stump since dusk, all night, with her crown on and her eyes on Thornback. When the first light came and the Tether hunters said a man could go across on the hawser if he knew how, she'd stepped forward before anybody else.
+Hana had wanted to go. Of course she had. She'd been at the stump since dusk, all night, with her crown on and her eyes on Thornback. When the first light came and the Tether hunters said a man could go across on the hawser if he knew how, she'd stepped forward before anybody else.
 
 "Alice," Jared had said. "No."
 
@@ -153,7 +153,7 @@ They went back across together, Milli in front, Jared behind, both of them hangi
 
 When they reached the stump, thirty pairs of hands pulled them up onto the grass.
 
-Jared didn't watch Alice and Milli. He turned round and looked at the cloud instead, so they could have it. Out of the corner of his eye he saw her reach Milli before anybody else did. He saw her not say anything. He saw her put her face in Milli's ruined leathers, with her crown knocked sideways, and the iron rose on the front of it pressing into his chest. And he saw Milli's arms come up round her, slowly, as if they were the heaviest thing he'd ever lifted.
+Jared didn't watch Hana and Milli. He turned round and looked at the cloud instead, so they could have it. Out of the corner of his eye he saw her reach Milli before anybody else did. He saw her not say anything. He saw her put her face in Milli's ruined leathers, with her crown knocked sideways, and the iron rose on the front of it pressing into his chest. And he saw Milli's arms come up round her, slowly, as if they were the heaviest thing he'd ever lifted.
 
 Jared looked at the cloud for a long time.
 
@@ -161,7 +161,7 @@ Jared looked at the cloud for a long time.
 
 Chris was at the edge with his notebook already open.
 
-Milli sat on the grass with Alice beside him and Rachael and Malcolm working on his arms, and told it. In his calm voice, carefully, the way he said everything, as if he was reading it off a page. Thirty-five people stood round him in a ring in the morning sun and listened.
+Milli sat on the grass with Hana beside him and Rachael and Malcolm working on his arms, and told it. In his calm voice, carefully, the way he said everything, as if he was reading it off a page. Thirty-five people stood round him in a ring in the morning sun and listened.
 
 "*Fighting alone*," said Milli. "Times two. It came up after the first three. I'd never seen it before. None of us have. We've never fought anything alone." He paused while Rachael closed a cut. "Then *Outnumbered*. Times three. When they came up over the edge, ten, twelve. I think it's more than twelve to one, or more than ten. I didn't stop to check."
 
@@ -261,7 +261,7 @@ Jared looked down at his raw hands, wrapped in somebody's shirt. He thought abou
 
 "Milli," said Drew quietly. "You did it. Last night. You're the only one who knows. Would you do it again?"
 
-Milli was quiet for a long time. He sat on the grass with Alice's hand round his, looking at the bandages on his arms.
+Milli was quiet for a long time. He sat on the grass with Hana's hand round his, looking at the bandages on his arms.
 
 "No," he said.
 

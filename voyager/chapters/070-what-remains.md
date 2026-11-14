@@ -276,7 +276,7 @@ He didn't know what it would do. He wrote it anyway.
 Somebody should.
 
 [ Party Log · Suzuyun's party · Floor 6 · Day 138
-Suzuyun Lv 28 · Salty Lv 28 · Wendy Lv 28 · Tiger Lv 29 · Cursiffe Lv 28
+Yan Lv 28 · Salty Lv 28 · Wendy Lv 28 · Tiger Lv 29 · Cursiffe Lv 28
 Floor 5 (day 117): the stone scribe under the bridge. Cursiffe wrote OPEN in wet ink on the keyhole. "Write what you saw. Keep it true."
 He wrote Gabe sitting down in the street. The ink never dried. Eternal Record.
 Floor 6: ink dries before the S. Honey fixes it. It smells of pancakes (Tiger).

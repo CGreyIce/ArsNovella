@@ -254,7 +254,7 @@ Thea looked at him.
 "I want to," said Xav.
 
 [ Party Log · Althea's party · Floor 6 · Day 131
-Althea Lv 27 · Xolalotl Lv 28 · Drew Lv 29 · Higu Lv 29 · PenguChi Lv 28
+Thea Lv 27 · Xola Lv 28 · Drew Lv 29 · Higu Lv 29 · PenguChi Lv 28
 Higu drew the map by moonlight. Hyvred saw; Chris wrote; Drew carried the water.
 Eighteen lines into the bowl from every side. All stop at a ring. Wherever he came from, it was in front of him. It wasn't guarding the water. It was guarding him.
 One dark line straight through. In her light.

@@ -270,7 +270,7 @@ Gabe didn't say anything. But after a while he nodded, slowly, and turned the sh
 Wendy didn't know where he'd got that from. It sounded like something somebody else had said first.
 
 [ Party Log · Suzuyun's party · Floor 6 · Day 146
-Suzuyun Lv 29 · Salty Lv 29 · Wendy Lv 30 · Tiger Lv 30 · Cursiffe Lv 29
+Yan Lv 29 · Salty Lv 29 · Wendy Lv 30 · Tiger Lv 30 · Cursiffe Lv 29
 Yan let a shardback go. It went back to its mother.
 On the lip: "Everything's got a light." On this floor the animals' coals are candles, like ours. Wendy: "I'll take the shots you can't."
 Suzu touched Wendy's hand. Thank you.

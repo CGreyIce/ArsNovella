@@ -260,7 +260,7 @@ She put her hand over the scar, very lightly, without any water in it at all.
 "Okay," she said to it, quietly. "Okay. You can stay."
 
 [ Party Log · Althea's party · Floor 6 · Day 127
-Althea Lv 27 · Xolalotl Lv 27 · Drew Lv 28 · Higu Lv 28 · PenguChi Lv 27
+Thea Lv 27 · Xola Lv 27 · Drew Lv 28 · Higu Lv 28 · PenguChi Lv 27
 Thea's shoulder: a scar. Xola's first. Floor 6, things stay. Thea: "It's mine."
 His hand had one too. Across the palm. It shook. He didn't touch her.
 Gigi still wears the forget-me-nots Thea gave her on floor 1. Three of us on the cushions. It didn't hurt, quite.

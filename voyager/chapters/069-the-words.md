@@ -264,7 +264,7 @@ On the third ring below, in the round room, somebody stirred, and Hyvred opened 
 It had gone a little more amber, at the edges, overnight.
 
 [ Party Log · Althea's party · Floor 6 · Day 132
-Althea Lv 28 · Xolalotl Lv 28 · Drew Lv 29 · Higu Lv 29 · PenguChi Lv 28
+Thea Lv 28 · Xola Lv 28 · Drew Lv 29 · Higu Lv 29 · PenguChi Lv 28
 Xav: "Whoever taught him the rest took a long time doing it. Ten years, maybe."
 The reading club, under the moon: thirteen. The map. HOW? Four seconds. The word. The probe.
 Thea said it. "I think he's been here before." Regression.

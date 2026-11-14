@@ -85,7 +85,7 @@ He'd seen the place from above. You could, from the drum platform, if you lay on
 
 He'd felt every hand's width. That was the thing. Standing on the branch with his root-foot on the bark, he could feel the whole of the north tree, the way you feel the whole of your own body without thinking about it. And at the foot of it, at the bottom of everything, there was a wound that had been opened every night for longer than anybody alive could remember. And every night, it was opened again.
 
-He'd tried to help on the first night. He hadn't been able to stop himself. He'd put his foot down on the branch, and drunk, and given it away, the way Taproot did. *Put your feet down. Drink from what's under you. Give it away.* He'd healed Yan's hands that way on floor 3, with the warmth out of a great pine. He tried to give some of it back.
+He'd tried to help on the first night. He hadn't been able to stop himself. He'd put his foot down on the branch, and drunk, and given it away, the way Taproot did. *Put your feet down. Drink from what's under you. Give it away.* He'd healed Yan's hands that way on floor 2, with the warmth out of a great pine. He tried to give some of it back.
 
 The north tree hadn't taken it.
 
@@ -95,7 +95,7 @@ So he stopped trying to give it anything. He just listened.
 
 ***
 
-On the fifth evening, someone else was on the drum platform.
+On the evening of the two hundred and twelfth day, someone else was on the drum platform.
 
 An old woman. Older than Burr. Older than anyone he'd seen in Highcrook. Her moss had gone completely white, and so thin you could see the grey-brown of her scalp through it, and she was sitting on the bare wood of the branch with her back against the trunk of the north tree and her cheek against the bark. Just lying against it. Like someone with their ear to a wall. Her eyes were open. They were pale and milky all over, both of them, and they didn't shine in the foxfire the way the others' did.
 
@@ -157,7 +157,7 @@ Maigo thought about it.
 
 ***
 
-He rooted on the sixth morning.
+He rooted that afternoon.
 
 He'd done it before. Not often. On floor 3, in the warm, to drink. On floor 4, once, in the red dust, which had tasted of nothing and made him feel sick. It was what his body did when it wanted to. It wasn't a skill. It was just him. He sat down on the branch by the trunk of the north tree, where Old Linden sat, and put his bare root-foot flat on the bark. And let go.
 

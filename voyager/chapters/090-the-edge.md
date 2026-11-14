@@ -419,7 +419,7 @@ Just not shorter. For the first time in a hundred and seventy days, not any shor
 He sat with the edge-keeper's pole across his knees and watched it, through the wall, until the kitchen light went out.
 
 [ Party Log · Suzuyun's party · Floor 8 · Day 170
-Suzuyun Lv 33 · Salty Lv 33 · Wendy Lv 34 · Tiger Lv 34 · Cursiffe Lv 33
+Yan Lv 33 · Salty Lv 33 · Wendy Lv 34 · Tiger Lv 34 · Cursiffe Lv 33
 River-folk lights burn low and long. When they die, the light doesn't rise. It waits, and somebody has to walk it.
 Aud the edge-keeper, 191 years at the Edge, no apprentice for a hundred. "You see them." She asked for one.
 Neth's light leaned away from Shelter. Suzu: "There isn't any wind. She wants to go." Hands down.

@@ -303,6 +303,6 @@ Then he went with the others to find somewhere to sleep, because whatever else w
 Declan would have told him that. Probably while punching a goat.
 
 [ Party Log · Xavier's party · Floor 1 · Day 1
-Xavier Lv 1 Knight · Gabe Lv 1 Knight · Rui Xiang Lv 1 Ranger · Malcolm Lv 1 Cleric · John Lv 1 Mage
+Xav Lv 1 Knight · Gabe Lv 1 Knight · Rui Xiang Lv 1 Ranger · Malcolm Lv 1 Cleric · John Lv 1 Mage
 Seen: one punched goat · The book: one line with no name, Knight
 ]

@@ -130,9 +130,9 @@ He posted it in World, because it was useful and people should know, and because
 
 World went quiet. Then filled up very fast.
 
-[ World · Thea: oh my god. that's what held means ]
+[ World · Althea: oh my god. that's what held means ]
 
-[ World · Thea: chris you're a genius ]
+[ World · Althea: chris you're a genius ]
 
 [ World · Chris: you found the padlock. you're the genius. i just drew a graph ]
 
@@ -142,7 +142,7 @@ World went quiet. Then filled up very fast.
 
 [ World · Hako: what did he pick. easy normal or hard ]
 
-[ World · Thea: hard. obviously. ]
+[ World · Althea: hard. obviously. ]
 
 [ World · Gabe: is he ok ]
 

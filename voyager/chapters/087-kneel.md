@@ -65,7 +65,7 @@ There was a long silence on the jetty.
 
 "Yeah."
 
-"*Those whose names you have set down*," said Drew slowly. "Dec. That's what you did on four. Isn't it. In that hall. Hyv said. You set down names."
+"*Those whose names you have set down*," said Drew slowly. "Ice. That's what you did on four. Isn't it. In that hall. Hyv said. You set down names."
 
 "Thirty-five," said Ice.
 

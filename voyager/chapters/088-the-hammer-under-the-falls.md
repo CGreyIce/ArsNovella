@@ -454,7 +454,7 @@ He didn't tell Yan. He'd decided that before he'd even come down the stair. He'd
 He sat there until the fall went from black to grey. He didn't move once.
 
 [ Party Log · Suzuyun's party · Floor 8 · Day 160
-Suzuyun Lv 32 · Salty Lv 32 · Wendy Lv 33 · Tiger Lv 33 · Cursiffe Lv 32
+Yan Lv 32 · Salty Lv 32 · Wendy Lv 33 · Tiger Lv 33 · Cursiffe Lv 32
 Knappers on the ledges below the third fall: three killed for Mott the eel-man. Salty's greatsword chipped edge to edge.
 River-folk ink (lamp-black and eel-oil) sheds the spray. Cursiffe wrote OPEN on a claw. Tiger: "It's FISH."
 The hammer under the second arch: Ressa, a blade eleven years in the folding. "That is a sword made in a hurry."

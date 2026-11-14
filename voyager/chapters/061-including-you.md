@@ -249,7 +249,7 @@ He lay there a long time, with that.
 
 On the hundred-and-eleventh night, it was Niko.
 
-[ World · Niko: gull island. hessa's alive. she waited. reading blade, 1 of 3. thank you. ]
+[ World · Nikorasu: gull island. hessa's alive. she waited. reading blade, 1 of 3. thank you. ]
 
 He sat up.
 

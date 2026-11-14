@@ -19,7 +19,7 @@ So Ina didn't talk to him. Not for two days. He went to the drum.
 
 ***
 
-He turned up on the morning of the two hundred and twentieth day, with his sleeves rolled and his mask round his neck, and stood at the edge of the drum platform until Burr looked round.
+He turned up on the morning of the two hundred and nineteenth day, with his sleeves rolled and his mask round his neck, and stood at the edge of the drum platform until Burr looked round.
 
 "I'd like to learn the ropes," said Ina.
 

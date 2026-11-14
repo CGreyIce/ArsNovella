@@ -410,7 +410,7 @@ She looked at it for a long time. At the net. The whole great net, stretching aw
 And she put her hands in her lap, and didn't pick up another cord.
 
 [ Party Log · Suzuyun's party · Floor 8 · Day 169
-Suzuyun Lv 33 · Salty Lv 33 · Wendy Lv 33 · Tiger Lv 34 · Cursiffe Lv 33
+Yan Lv 33 · Salty Lv 33 · Wendy Lv 33 · Tiger Lv 34 · Cursiffe Lv 33
 The lake net: posts across the lake before the Edge, mended every autumn for 260 autumns by Neth. Her last autumn.
 The slow knot: tied quick, it slips. Tiger, 31 tries the first morning. Ice tried. It slipped. "Another quick one."
 "You peel onions really well." "I read it about forty times." The water-cache skins: "in case it was you."

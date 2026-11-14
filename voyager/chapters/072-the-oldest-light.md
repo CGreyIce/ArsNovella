@@ -280,7 +280,7 @@ It rang once. Then it stopped. And in the silence after it, standing in the door
 Other bells. Many of them. Hanging somewhere in the dark below, not ringing. Just moving a little, in the wind, against each other. The way bells do when they're waiting to be rung.
 
 [ Party Log · Suzuyun's party · Floor 6 → Floor 7 · Day 150
-Suzuyun Lv 30 · Salty Lv 30 · Wendy Lv 31 · Tiger Lv 31 · Cursiffe Lv 30
+Yan Lv 30 · Salty Lv 30 · Wendy Lv 31 · Tiger Lv 31 · Cursiffe Lv 30
 The Prism's candle went out. Suzu: "They go somewhere. Not nowhere. Somewhere."
 The white room: his candle was burned down to almost nothing, and the brightest in the room.
 Suzu covered Yan's eyes on purpose. "He didn't want to be seen... It seemed rude to watch."
