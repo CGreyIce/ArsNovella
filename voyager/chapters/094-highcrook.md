@@ -99,7 +99,7 @@ They counted them together. He'd thought, on the stair up from floor 7, that it 
 
 No gap.
 
-At the top there was a door. Plain, round-topped. Like all of them. And there was a landing in front of it, wide enough for everybody if Salty breathed in, and they stopped there in the dark, the way they did now, because of Higu's rule.
+At the top there was a door. Plain, round-topped. Like all of them. And there was a landing in front of it, wide enough for everybody if they all breathed in, and they stopped there in the dark, the way they did now, because of Higu's rule.
 
 "Go on, then," said Higu.
 
@@ -341,7 +341,7 @@ He didn't mean to. His legs did it. He sat down on the nearest root in the dark 
 
 They went up in baskets.
 
-Big round woven ones, on the ends of the ropes, that took three at a time if the three weren't Salty. The ropes went up into the dark and over something high above, and somebody up there hauled, fast, and the baskets went up quickly and swinging. Healers first, then ranged, then everyone else. Tanks last. Then Ice.
+Big round woven ones, on the ends of the ropes, that took three at a time if one of the three wasn't Gabe. The ropes went up into the dark and over something high above, and somebody up there hauled, fast, and the baskets went up quickly and swinging. Healers first, then ranged, then everyone else. Tanks last. Then Ice.
 
 He'd meant to go last by himself. Gabe had looked at him.
 
@@ -473,6 +473,287 @@ He didn't answer. She didn't make him. She went back to her map, and he sat besi
 
 ***
 
+He didn't think about how he fought. He hadn't for years. That was the point of it.
+
+He found out what it looked like from the outside on the first evening, at the top of the rope, from Deston's party.
+
+Rooters, the bough-folk called them. They were what the walkers' parties hunted in the Down by day, because they were what there was. Pony-sized, low and heavy and brown-black, with a ridge of stiff hooked bristles down the spine like a fern gone to iron, and a long snout, and two tusks that curved up out of it as long as a forearm. They went through the Grow in sounders of eight or ten, rooting it up as they went, and by noon it had grown back over the trail as if they'd never been. Most of them were nothing to him. The old ones weren't. The old boars, grey in the snout, with the tusks gone yellow. You found them in the middle of a sounder, and you didn't get them on their own.
+
+He'd gone down at dawn and walked west along the foot of the seven until he heard one. The tearing, grunting sound of a sounder in a fern-gap. He'd walked out into the gap, into the open, in the gold-green light with his shield on his arm, and banged the flat of his sword on the rim, three times, hard, the way you'd knock on a door you wanted opened.
+
+Behind him, a long way back, up on a root as high as a house, Deston's five stood in a row and watched.
+
+[ Rooter · Lv 48–50 · ×6 ]
+
+They came at him all at once, the way they always did. A line of them, heads down, tusks low, through the ferns, faster than anything that heavy had a right to go. Six. They went for the thing that had knocked.
+
+He wasn't where they went.
+
+That was all it was, really. Ten years of it. You didn't stand still and let things hit you, whatever a Knight's door had given you. You stood where they were going to miss. The first one came in at his legs and he stepped left and it went past, and the second came in behind it with its head already coming up for the hook, and he was already turned, and the tusk met the shield, not flat, never flat, but on the slope of it, on the curve, so it rode up the face and over his shoulder and hooked nothing. Nobody had taught him that. It wasn't advice. It was just what his arm did.
+
+Step. Turn. Slope it. Step. A tusk past his ear. A hoof past his hip. The sword down behind the ear, where the bristles parted, when one came close enough, and out again before it hit the ground.
+
+The fifth one got him.
+
+It came out of the ferns where he hadn't been looking, low, fast, and its tusk caught him across the back of the right thigh above the greave and opened him up. He felt it go. Cold first, the way it always was, and then hot. He didn't look down. He put the sword down behind its ear while it was still swinging its head back for another go, and turned to the sixth.
+
+[ HP 84% ]
+
+"Eighty-four," said Alea, in his ear. "Back of the right leg. Deep-ish."
+
+He tipped his head. A fraction. The way he always did when she said a number. It meant *heard*.
+
+He didn't heal it. Rachael was on the root behind him. She could have it after. A Mend Self in the middle of a fight was a second with his hand on his side instead of on his shield, and you didn't spend a second you didn't need to. He hadn't needed to for a long time. For ten years she'd been a voice that told him his health. He'd never once looked at the number himself. He still didn't. He waited for her to say it, and if she said one he didn't like, he spent the second. And if she didn't, he didn't.
+
+He killed the sixth. It took a while. It was the oldest, grey to the eyes, and it was clever, and it came for his legs twice, and twice his legs weren't where it went.
+
+Then he wiped the sword on the moss and walked back to the root.
+
+***
+
+Rachael healed him at the top of the rope.
+
+She didn't say anything while she did it. She knelt on the platform by the drum with her hands flat on the back of his thigh, and her face was very white and very set, and she healed it the way floor 9 healed things, slowly, like a door pushed against a drift of snow. It took a long time. She didn't look at him once.
+
+When it was closed she sat back on her heels.
+
+"You didn't heal yourself," she said.
+
+"You were there."
+
+"I couldn't tell you were *hit*." She said it flatly. Not loud. "I was stood on that root with my hands up the whole time, Dec. The whole time. Ready. And I didn't know. I didn't know till you walked back and I saw your trousers." She looked at her hands. "You didn't do *anything*."
+
+"I killed it."
+
+"You know what I mean."
+
+He did.
+
+"You didn't even go *ow*," said Calvin. He was lying on his back on the platform with his arms out, the way he lay everywhere. "I'd have gone *ow*. I'd have gone *OW*, *OW*, *MY LEG*, I'd have rolled about. You just—" He sat up and did it. A small dead-faced turn, sword out, nothing. "That. You did *that*."
+
+"Four," said Dennis.
+
+Everybody looked at him.
+
+"Four got through," said Dennis. He had his little book out. He was the treasurer; he counted things. "Out of, I don't know. Forty? Fifty? I lost count of the ones that missed. They kept missing. But four got through. I saw them. The leg, and one on your left arm, on the shield side, and one on the shoulder, and a hoof on the back of your knee." He looked up. "You didn't look at any of them. Not one. You didn't even look down."
+
+"He tipped his head," said Deston.
+
+Quietly. From the edge of the platform, where he was sitting with his hand on his shirt pocket. He'd hardly said anything all day.
+
+"Every so often," said Deston. "He tips his head. Like somebody's said something to him." He looked at Ice. "That's the only thing. That's the only thing you do."
+
+Ice didn't say anything.
+
+"Your system," said Deston. Not a question.
+
+"Yeah," said Ice.
+
+"Telling you how bad it is."
+
+"Yeah."
+
+Deston nodded slowly. He didn't ask anything else. He looked out at the blue dark coming up from the Down and his hand stayed on his pocket.
+
+Azac had said nothing at all. He was sitting against the drum with his own shield across his knees, and he'd been looking at it, not at Ice, the whole time the others talked. Turning it over. Looking at the face, and the rim.
+
+"You didn't block one," said Azac.
+
+Ice looked at him.
+
+"Not one," said Azac. "I watched for it. All day. I'm the tank. It's your old spot, Dec, I've been keeping it warm for two years and I watched you all day to see how you do it and you didn't block *one*." He turned the shield over. "You're a Knight. You've got the biggest shield on the floor. And you didn't stand still once. You just weren't there. And when you were there, it went off you sideways. Every time." He was quiet. "I'd have stood there and taken it. All six. That's what you do. You stand there."
+
+"You stand there," said Ice, "and the old ones get a tusk under the shield and lift you off your feet."
+
+Azac looked at the bottom edge of his shield for a long time.
+
+"Yeah," he said eventually. "Yeah. Okay."
+
+***
+
+Xav's party watched him on the second day.
+
+He felt them on the root behind him the whole time. Gabe most. Gabe watching was a weight between his shoulder blades, like a hand. He knew exactly where Gabe was standing without turning round, and he knew Gabe had his shield up, Gabe's own, for no reason, a mile away from anything, because he couldn't not.
+
+Eight rooters. A bigger sounder. Two got through. A tusk on the left forearm, above the strap, and a hoof on the ribs that he felt crack.
+
+"Seventy," said Alea. "Rib. One. Don't twist."
+
+He tipped his head. He didn't twist. Malcolm was on the root; Malcolm always had a backup heal half-cast. He left it.
+
+Then a third, a tusk across the top of his shoulder as he turned, and Alea said "*Fifty-two*," in a different voice, and he spent the second. Hand flat on his side. The warm gold of it going through him from the inside, the way it did. Paladin. He could heal himself. Not much, not fast. Enough. The shoulder stopped screaming and started aching. He finished it.
+
+"*That's* when," said Malcolm, at the top of the rope.
+
+He was healing Ice's ribs. He did it the way Malcolm did everything, with his tongue between his teeth and a second spell already waiting in his other hand in case the first one wasn't enough. He'd been holding that spell all day, Ice realised. Half-cast. On a root. For six hours.
+
+"Your hand went gold," said Malcolm. "Once. At the end. On the shoulder one." He looked at Ice. "That's the only way you can tell. All day. When his hand goes gold, it was bad. That's it. That's the only sign." He went back to the ribs. "I had this the whole time. The whole time. I could've—"
+
+"You'd have broken it."
+
+"I *know* I'd have broken it. The rule. I know." Malcolm's jaw went tight. "I'm just saying. I had it."
+
+"I know you did," said Ice. "I could feel you having it."
+
+Malcolm didn't say anything to that.
+
+Rui Xiang was sitting on the edge of the platform with his legs over the dark. He hadn't said anything. He didn't, usually, until he'd thought about it.
+
+"You move before they do," said Rui Xiang.
+
+Ice looked at him.
+
+"Not fast," said Rui Xiang. "You're not fast. Tiger's faster. Calvin's faster. I'm faster." He said it without any pride at all, as a measurement. "You're early. You're already going the way they're going to come. Before they know they're coming." He was quiet for a moment. "I do that. With people. It took me four floors to learn it." He looked at Ice. "You do it with *everything*."
+
+"He does it like he's already seen it," said Xav.
+
+Very low. From the drum, where he was sitting with his back to it and his eyes shut. Everybody heard. Nobody looked at anybody.
+
+And Gabe didn't say anything at all, until the others had gone to the hanging houses, and it was just the two of them on the edge of the platform in the blue foxfire with their legs over the Down.
+
+"That's not tanking, mate," said Gabe.
+
+"It's how I tank."
+
+"It's not how you *used* to." Gabe was looking at the dark, not at him. "You stand there. That's tanking. You stand in front of everybody and you hold, and it hits you, and you hold anyway. That's the whole job." He was quiet. "You didn't stand anywhere. All day. You were never in the place it hit."
+
+"Standing there's how you get a tusk under the ribs."
+
+"Yeah," said Gabe. "Yeah, I worked that out, watching." He turned his shield over on his knees. "And when it does hit you, you don't do anything. Rach said. I didn't believe her." He looked at Ice. "It took your arm open. I saw it. From the root. And your face didn't move." He stopped. "When did you stop doing that?"
+
+Ice didn't answer.
+
+He didn't have an answer that he could say. He sat with his legs over the dark and thought about it. About a lot of things, and a long time, and a lot of people standing behind him, and what happened to a line when the front of it flinched. You flinched once, and everybody behind you flinched with you, and turned to look, and a healer who was looking at you wasn't looking at the person next to her. So you stopped. Not on purpose. You just stopped, one fight at a time, until there wasn't anything left to stop.
+
+"I don't know," he said.
+
+Gabe looked at him for a long time.
+
+Then he put his hand on the edge of the platform next to Ice's, so their knuckles touched, the way he had in the basket. And left it there.
+
+***
+
+Hyvred's party watched on the third day, and Hyvred could see it.
+
+That was the thing about Hyvred. She didn't just watch. Her eyes did the thing they did, the true sight, and she saw where things had *been*. On floor 2 she'd seen the trace of somebody who went through first. On floor 6 she'd seen his noon trail bend through the Prism's beams. She stood on the root a mile away from him with her bow across her back, and she saw every place a tusk had touched him, like a mark on the air.
+
+"Three," she said at the top of the rope. "Left hip. Back of the hand. Here." She touched her own collarbone. "I can see them on you. Like chalk." She was looking at him with her head on one side. "You didn't look at any of them, Ice. I could see you get hit and I could see you not look. It's the weirdest thing I've ever seen, and I've seen *you*."
+
+"Healing doesn't cure tired," said Kei. Doing the hand. Slowly. "On this floor. It closes it. It doesn't make it not have happened." He looked up. "You're tired. You're more tired than you were this morning by about three rooters' worth. And you don't look it either."
+
+Bee didn't say anything. She held out her sketchbook.
+
+She'd drawn him. Of course she had. While it happened, on the root, quick lines, the way her hand did it whether she wanted it to or not. A man with a shield turned, and a rooter's tusk riding up over it, and another coming in low from the side and catching him across the hip. She'd drawn the moment it caught him. The tusk. The hip. And his face.
+
+His face was nothing.
+
+Not grim. Not brave. Not anything. Calm. Absolutely calm. Looking at the next one. Like somebody doing the washing-up and thinking about something else.
+
+"That's when it got you," said Bee. "I drew it right when it got you." She looked at the drawing. "Look at your face."
+
+He looked at it.
+
+"I don't like it," said Bee. Very quietly. "I'm sorry. It's a good drawing. I don't like it."
+
+Hako looked over her shoulder at the board for a long time.
+
+"Classic," said Hako. But he didn't say it the way he usually did.
+
+***
+
+Hana's party, the fourth day.
+
+Jared watched him the way one tank watches another. Ice could feel it. Not the weight of Gabe; something more careful. Measuring. Jared stood on the root with his thorn-shield on his arm and the rose inside its rim, and he watched every time a tusk met the lamp shield, and every time it went off sideways.
+
+"You're not blocking, man," said Jared, at the top of the rope. "You're *steering*."
+
+"Yeah."
+
+"I block." Jared looked at his own shield. "I put it there and it hits it and I hold. You put it there and it hits it and you *move* it. Like, a bit. Just a bit. At the end." He did it with his hand, flat, tilting. "And it goes past. Every time. It goes past you like you're not even—" He stopped. "How long did that take you?"
+
+"A while."
+
+"A while," said Jared. And looked at him in the way Jared looked at things he believed and didn't understand. "Okay."
+
+"He's not faster than me," said Milli. Calm, rational, like a measurement. "I watched his feet. He's slower than me. He's just *earlier*."
+
+"Rui Xiang said that," said Ice.
+
+"Rui Xiang's right," said Milli. "It's annoying."
+
+"He fights off the beat," said Newish.
+
+She'd been quiet the whole way up. She was the one with the count. She heard things in beats, the way Aleaka heard things in calls. "They come on a beat," said Newish. "The rooters. Grunt, grunt, charge. Grunt, grunt, charge. You can hear it. And he's never on it. He's always in the gap. Every single time. Like he's dancing to a different song." She frowned. "On *purpose*."
+
+And Hana, who'd watched with her crown in her hands and said nothing at all on the root or on the way back or in the basket, said, at the end, very lightly, as if it didn't matter:
+
+"You keep tilting your head."
+
+Everybody stopped.
+
+"Like somebody's talking to you," said Hana. "In the middle. You tilt it. Just a bit. And then you carry on." She looked at him, sharp, with her ears up. "What do they say?"
+
+"Numbers," said Ice.
+
+"Just numbers?"
+
+"Mostly."
+
+Hana looked at him for a long moment.
+
+"That's lonely," said Hana. And put her crown back on, and went in.
+
+***
+
+Thea's party watched him on the fifth day.
+
+He knew they would. It was on the rock. He'd known for four days that on the fifth one he'd walk out into the Down and stand in front of a sounder of rooters and know that Thea was standing on a root a mile behind him with the lantern in her hand, watching. He'd thought he wouldn't mind. He'd been watched by everybody else.
+
+He minded.
+
+Not the watching. The other thing. That she'd see it. That she'd see what Rachael saw, and Gabe, and Bee had drawn. A man who got hit and didn't do anything. He didn't want her to see that. He didn't know why. He went out anyway.
+
+Seven rooters. Three got through.
+
+Alea said "Seventy-one," and then "Sixty," and he tipped his head both times and didn't heal, because Xola was on the root. And then a tusk went into the gap under his arm, where the vest met, and Alea said "*Forty-four*," and he spent the second, hand flat on his side, gold, and finished it.
+
+Drew was the first to say anything. At the bottom of the rope, before the basket, standing in the blue with his buckler on his arm.
+
+"That's mine," said Drew.
+
+Ice looked at him.
+
+"The turning," said Drew. He held up the buckler. It was the size of a plate. "I worked that out on floor 2. Because I had *this*. You can't block anything with this. You have to turn it. You have to make it a door, not a wall. Let it through, just past you." He looked at the lamp shield on Ice's arm. Full-sized. Fen iron. Kiln rim. "You've got a proper shield. You don't need to do that. You could stand there."
+
+"I could."
+
+"But you don't."
+
+"No."
+
+Drew looked at him for a long time. His face did the thing it did, under the jokes, where you could see him thinking very fast and very carefully about something he'd decided not to say.
+
+"Somebody thank me," said Drew eventually. "For inventing it."
+
+"Thanks, Drew."
+
+"You're welcome," said Drew. "I'll be sending a bill."
+
+Higu had a tally. Of course Higu had a tally. She didn't show it to anybody. She just wrote it on the rock that night, at the bottom, under *UP BEFORE DARK* and *ALL OF US*, in very small capitals, so small you had to kneel to read it. Ice knelt and read it.
+
+*HITS: 3. HEALS: 1. SOUNDS: 0.*
+
+Xola didn't say anything at all, which was the most frightening thing that happened that day. She healed the gap under his arm at the top of the rope, cool and clear and moving, like water, and she didn't say *babe* once. She looked at him when she'd done, with her violet eyes very wide.
+
+Then she went and sat with Chi.
+
+And Thea didn't say anything either. Not at the top of the rope. Not at supper. She sat across from him at the big platform with the lantern by her plate and ate her nut bread and looked at him, now and then, and said nothing, and he couldn't read her face at all, which he could always, always do.
+
+She didn't say anything until midnight.
+
+
+***
+
 On the fifth night he heard the sawyers.
 
 It was very late. He was on the rota, the midnight-to-two, with Rui Xiang, on the platform at the top of the rope drum. Rui Xiang had his back to a branch and his knees up and was asleep with his eyes open, the way he did, which meant he'd wake up the moment anything moved. Below them, the dark was total. No moon. No stars. No sky. Just the ticking, all the time, coming up out of the Down the way the sound of the falls had come up out of floor 8, so big and constant that you stopped hearing it.
@@ -504,6 +785,20 @@ He didn't ask her how she knew. He'd stopped asking her that, too.
 She didn't ask anything else. She didn't ask what it was, or where, or when. She'd promised on a bridge in Evermorrow. *What was the first time? Not yet. Okay.* She'd meant it. She sat beside him with her hands round her knees, the same as his, and the lantern between them, and listened to it with him. That was all.
 
 It was a great deal.
+
+"Everybody said you can't tell," said Thea, after a long time.
+
+He looked at her.
+
+"When you're hurt." She wasn't looking at him. She was looking at the dark, where the sawing was. "Rachael said. Gabe said it to Xav, and Xav said it to me. Bee showed me her drawing. I thought they were making it bigger than it was." She was quiet. "I stood on that root all day. And I couldn't. Not once. You tipped your head, and I thought, *there*, that's one, and then you didn't do anything, and I didn't know if it was one or not. And then your hand went gold, at the end, and I knew it had been bad. And I hadn't known. I'd been watching the whole time, and I hadn't known."
+
+"There's nothing to see," said Ice.
+
+"There is," said Thea. "It's in your head. When you tip it." She turned and looked at him, in the amber and the blue. "The third time, you did it slower. A bit. Not much. Before your hand went gold." She looked back at the dark. "I nearly saw it. I'm going to learn it."
+
+He didn't say anything.
+
+"I'm not asking," said Thea. "I'm just telling you. So you know somebody's learning it."
 
 "Thea," he said.
 

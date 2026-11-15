@@ -177,21 +177,23 @@ The window hung over the whole line. Eleven of them.
 
 He put his shield up and walked forward to meet them.
 
-The first one came at him sideways, fast, low, the way crabs moved, claw out. He took it on the shield. The lamp shield: Fen iron, Kiln-iron rim, Jared's rose inside it against his arm. The claw hit it like a hammer on an anvil and the shock went up into his shoulder, and the claw didn't close, because there was nothing to close on. He put his sword into the place where the claw met the body, the soft joint underneath, and felt it go in through the gristle, and twisted, and pulled. The claw went dead. The wracker backed off, clicking, with the claw hanging.
+The first one came at him sideways, fast, low, the way crabs moved, claw out. He met it with the shield. The lamp shield: Fen iron, Kiln-iron rim, Jared's rose inside it against his arm. Not flat. Never flat. He met it on the slope, and the claw hit the curve like a hammer glancing off an anvil and skidded, and the shock went up into his shoulder, and the claw didn't close, because there was nothing to close on. He put his sword into the place where the claw met the body, the soft joint underneath, and felt it go in through the gristle, and twisted, and pulled. The claw went dead. The wracker backed off, clicking, with the claw hanging.
 
 Two more came in on his left.
 
 He'd known they would. He'd fought this shape of thing before, on other floors, in the first life, and he knew the rule of it, the one thing you needed: *they can't right themselves fast*. He dropped his shoulder and put the Kiln rim of the shield under the front edge of the nearer one's shell as it came in, and heaved, with his legs, with everything, and it went up and over onto its back with its legs going, and slid into the one behind it.
 
-He was already turning. The fourth was behind him. The claw caught his left calf as he turned, below the greave, and closed, and he felt it bite down through the leather to the meat. Hard. He shouted. He brought the sword down on the joint of the claw and it came off, and the claw stayed on his leg, still clamped, with nothing behind it, and he had to kick it off against the rock.
+He was already turning. The fourth was behind him. The claw caught his left calf as he turned, below the greave, and closed, and he felt it bite down through the leather to the meat. Hard. He didn't shout. He didn't look down. He brought the sword down on the joint of the claw and it came off, and the claw stayed on his leg, still clamped, with nothing behind it, and he had to kick it off against the rock.
 
 [ HP 81% ]
 
-He put his hand flat against his own side and the warm gold of it went through him from the inside, the way it did. Paladin. He could heal himself. Not much, not fast, not in the middle of eleven of them. Enough. The bite in his calf stopped screaming and started aching.
+"Eighty-one," said Alea. "Left calf."
+
+He tipped his head. *Heard.* He didn't heal it. Xola was in a pool fifty metres back, and she could have it after, and a Mend Self in the middle of eleven of them was a second with his hand on his side instead of on his shield. The bite in his calf went on screaming. He let it.
 
 And then he stopped thinking about it, because all of them came at once.
 
-It was a long fight. Longer than it had any right to be, with nothing above fifty-seven on the shelf. Because there were eleven, and they didn't come at him one at a time, they came in a ring, the way the Down's ticking things had come, and the rock under his boots was wet weed over black stone and every time he planted a foot it slid. He fought in the old way for the first part of it, the way he'd fought for ten years: wall, turn, wall, turn. Take it on the shield. Turn the shield. Put the edge of it under the shell. Heave. Flip. Kill the one on its back before it could right itself, the sword straight down through the soft plates of the belly where they met. Turn. Again.
+It was a long fight. Longer than it had any right to be, with nothing above fifty-seven on the shelf. Because there were eleven, and they didn't come at him one at a time, they came in a ring, the way the Down's ticking things had come, and the rock under his boots was wet weed over black stone and every time he planted a foot it slid. He fought in the old way, the way he'd fought for ten years: don't be where it lands. Step. Turn. And when you can't step, the shield, and never flat. Turn it. Put the edge of it under the shell. Heave. Flip. Kill the one on its back before it could right itself, the sword straight down through the soft plates of the belly where they met. Turn. Again.
 
 He flipped six. He killed four on their backs. He lost the fifth when its legs caught the edge of a pool and it rolled the right way up again, and came straight back at him, angry, with the shell behind its eyes cracked from where it had landed.
 
@@ -199,7 +201,7 @@ He was breathing hard. His leg hurt. There was salt in his eyes, and blood, his 
 
 [ HP 64% ]
 
-"Seven left," said Alea. "Six. Ice, the water's—"
+"Sixty-four," said Alea. He tipped his head. "Seven left. Six. Ice, the water's—"
 
 He felt it before she said it.
 
@@ -261,6 +263,10 @@ He hadn't known crabs could. It was a high, grinding, rasping noise like a ship'
 
 [ HP 49% ]
 
+"Forty-nine," said Alea. Not calm.
+
+He spent the second. Flat on his back in a foot of water, with his hand on his side, and the warm gold of Mend Self went through him from the inside, the way it did. Paladin. He could heal himself. Not much. Not fast. Enough.
+
 He came up coughing salt.
 
 His sword was still in the joint. Sticking out of it like a flag. The great claw was hanging lower than it had been. Not dead. Slower. Dragging. And the other one, the left, ordinary, the size of a wracker, was coming at him across the water, fast, low.
@@ -293,7 +299,7 @@ Something inside the joint gave with a crack he felt in his teeth.
 
 The great claw dropped into the water and didn't lift.
 
-She screamed again, and let go of the shield to get at him, and that was what he'd been waiting for. He pulled the sword out, and fell back, and she came after him with the small claw, and he put the shield up, and the claw hit it, and this time he turned it, the way Drew turned things: not a wall, a door. The claw slid off the rim and past him and its own weight took her further than she meant to go, over, sideways, into the water, onto her side.
+She screamed again, and let go of the shield to get at him, and that was what he'd been waiting for. He pulled the sword out, and fell back, and she came after him with the small claw, and he put the shield up, and the claw hit it, and this time he turned it, the way he turned everything when he could: not a wall, a door. The claw slid off the rim and past him and its own weight took her further than she meant to go, over, sideways, into the water, onto her side.
 
 On her side, she couldn't reach him.
 
@@ -347,7 +353,7 @@ And then there was rock under his boots, and Thea's hand coming down out of the 
 
 Thea knelt in front of him and took his face in both her hands and looked at it.
 
-"You're bleeding," she said. Her voice was very steady. Her hands weren't. "Your head. Your *leg*. Ice, your *leg*—"
+"You're bleeding," she said. Her voice was very steady. Her hands weren't. "Your head. Your *leg*. I didn't know it had your *leg*. You didn't even look *down*—"
 
 "It's fine."
 
@@ -362,6 +368,16 @@ Thea knelt in front of him and took his face in both her hands and looked at it.
 The water came out of her hands. That was what her healing was. Cool, and clear, and moving, the way the pools had been, sliding over the bite in his calf and into it and through it. He felt the torn muscle under the leather draw together like a rope being spliced. It didn't hurt. It felt like putting your hand in a stream on a hot day.
 
 Then the cut on his head. Then a long scrape down his ribs he hadn't even noticed. Then she sat back on her heels on the rock and looked at him with her hair dripping into her eyes, and stopped grinning.
+
+"You didn't do your gold thing," she said. "Not till she put you on your back."
+
+"You were there."
+
+"I was in a *pool*, babe."
+
+"You were there," said Ice.
+
+Xola looked at him for a long moment. "You got *bitten*," she said. "On the leg. Right at the start. I saw it close. And you didn't even look at it. I thought it *missed*." She shook her head, and water flew off her gills. "Everybody on nine said. I thought they were being dramatic. They were not being dramatic."
 
 "You held onto the shield," she said. "We saw. She was pulling you into the channel and you held onto the shield."
 
@@ -453,7 +469,11 @@ He knew what she meant.
 
 "You held it," he said.
 
-"I held it." She closed her hand. "Is that what it's like? For you? Every time? Watching one of us?"
+"I held it." She closed her hand. "And I knew. At the end. When she put you on your back." She turned her head and looked at him. "You tipped your head slower. Like on nine, the third time. I told you I'd learn it." She looked at her closed hand. "I knew before your hand went gold. That's the first time. The first time I've ever known before."
+
+He didn't say anything.
+
+"Is that what it's like?" said Thea. "For you? Every time? Watching one of us?"
 
 He thought about it. About eleven hours on floor 9 with his hand up. About standing on the edge of the Steward's ring and not getting up. About ten years.
 
