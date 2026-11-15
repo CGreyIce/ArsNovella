@@ -739,17 +739,81 @@ Drew looked at him for a long time. His face did the thing it did, under the jok
 
 "You're welcome," said Drew. "I'll be sending a bill."
 
-Higu had a tally. Of course Higu had a tally. She didn't show it to anybody. She just wrote it on the rock that night, at the bottom, under *UP BEFORE DARK* and *ALL OF US*, in very small capitals, so small you had to kneel to read it. Ice knelt and read it.
+Xola healed him at the top of the rope.
+
+She didn't say anything while she did it. She put both hands flat on the gap under his arm, where the vest met, and the heal went in cool and clear and moving, like water, the way hers always did. But fast. Hard. Like water thrown, not poured. And she didn't say *babe* once, which was the most frightening thing that had happened all day.
+
+Then she took her hands away and looked at him, with her violet eyes very wide.
+
+"Under half," she said.
+
+He hadn't told her the number. He hadn't told anybody.
+
+"I can feel it, when I put my hands on. How much is gone." Her voice was quite level. That was the frightening part. Xola's voice was never level. "You were under half. You were under *half*, and you tipped your head like somebody'd told you the time."
+
+"I was fine."
+
+"Don't."
+
+He stopped.
+
+"Don't say fine," said Xola. Her voice wasn't level any more. It had started going up, the way it went up when she laughed, except that she wasn't laughing. "You used to say fine. Every night. At four in the morning, with that face, the four-in-the-morning face, *I'm fine*, and I believed you. Because you were my best friend." She jabbed a finger at the hanging houses, where Thea was still coming up the last of the rope with the lantern. "And hers. Both of ours. The three of us. Remember? I put you in that call, and I left you two in it till six, and then it was the three of us every night for a year, and I believed every *fine* you ever said."
+
+He remembered. He'd been the third of three, once. Her laughing in the background while Thea sang. Him playing with the sound turned down so he could hear them both.
+
+"And then we stopped," said Xola. "All of us. It just thinned out and stopped and nobody said anything. And you probably said fine about that too, and I never asked, because I'd stopped asking by then." She took a breath that shook. "I'm asking now. I'm *angry* now." And then, at last, as if she couldn't help it, the word came out, and it came out furious: "I'm so angry with you, *babe*."
+
+She went and sat with Chi.
+
+Chi didn't come over. She sat on the edge of the platform with Waddles in her lap and Xola's head on her shoulder, and looked at him across the boards, the way she looked at windows when she was reading them.
+
+"You let them," said Chi.
+
+It wasn't a question. Chi's voice was always calm. It was calm now.
+
+"Some," said Ice.
+
+"Why?"
+
+"It's quicker."
+
+Chi looked at him for a long moment.
+
+"That's not why," she said. And looked away, out at the blue. "I don't like it."
+
+From Chi, that was shouting.
+
+Thea came up the rope last.
+
+She came across the platform with the lantern, past Xola and Chi, past Drew, who opened his mouth and then, for once in his life, shut it again. She stopped in front of Ice.
+
+He waited for her to say something. He could always tell what she was going to say. He'd been able to tell for two lives.
+
+"Three," said Thea.
+
+"I know."
+
+"You *know*." Her voice was very quiet. It was the angriest he had ever heard it. In either life. "I stood on a root a mile away all day, with this—" the lantern, held up between them, amber, shaking very slightly "—watching you. Like everybody said. Rachael, and Gabe, and Bee. I thought they were making it bigger than it was. And I couldn't tell. Do you know what that's like? Watching—" She stopped. Started again. "Watching *you*. And not knowing if you're dying."
+
+He opened his mouth.
+
+"Don't say fine," said Thea. "Xola's right. You said it to both of us. Every night. For a year." Her eyes were very bright. "And then you stopped saying anything at all, and so did we, and I let you. I *let* you." She lowered the lantern. "I'm not letting you now."
+
+She turned round and walked away down the bridge to the hanging houses, and didn't look back.
+
+Drew let out a long breath.
+
+"Well," he said, to nobody. "I'm glad I went first."
+
+Higu had a tally. Of course Higu had a tally. She didn't show it to anybody. She just wrote it on the rock that night, at the bottom, under *UP BEFORE DARK* and *ALL OF US*, in very small capitals, so small you had to kneel to read it. She pressed so hard on the last number that the chalk snapped in her fingers. She drew a box round it with the stub. Ice knelt and read it.
 
 *HITS: 3. HEALS: 1. SOUNDS: 0.*
 
-Xola didn't say anything at all, which was the most frightening thing that happened that day. She healed the gap under his arm at the top of the rope, cool and clear and moving, like water, and she didn't say *babe* once. She looked at him when she'd done, with her violet eyes very wide.
+At supper Thea sat across from him at the big platform with the lantern by her plate and ate her nut bread and looked at him, now and then, and said nothing. Xola sat beside her and said nothing too, and when Calvin asked her to pass the honey she passed it without saying *babe*, and Calvin looked at the honey as if it had bitten him. Chi didn't look at him at all. Higu looked at him once, over her bowl, and then at the rock, and then at him again.
 
-Then she went and sat with Chi.
+For once he could read Thea's face perfectly. He wished he couldn't.
 
-And Thea didn't say anything either. Not at the top of the rope. Not at supper. She sat across from him at the big platform with the lantern by her plate and ate her nut bread and looked at him, now and then, and said nothing, and he couldn't read her face at all, which he could always, always do.
-
-She didn't say anything until midnight.
+She didn't say anything else until midnight.
 
 
 ***
@@ -776,7 +840,11 @@ He knew who it was before she sat. He'd felt her thread come along the bridge fr
 
 They sat there. The sawing went on, a long way off. *Rrrrrrr.* Stop.
 
-"That's the sound," said Thea, after a while. "Isn't it."
+"I'm still angry," said Thea, after a while.
+
+"I know."
+
+"Good." She was looking at the dark. "That's the sound. Isn't it."
 
 He didn't ask her how she knew. He'd stopped asking her that, too.
 
@@ -790,7 +858,7 @@ It was a great deal.
 
 He looked at her.
 
-"When you're hurt." She wasn't looking at him. She was looking at the dark, where the sawing was. "Rachael said. Gabe said it to Xav, and Xav said it to me. Bee showed me her drawing. I thought they were making it bigger than it was." She was quiet. "I stood on that root all day. And I couldn't. Not once. You tipped your head, and I thought, *there*, that's one, and then you didn't do anything, and I didn't know if it was one or not. And then your hand went gold, at the end, and I knew it had been bad. And I hadn't known. I'd been watching the whole time, and I hadn't known."
+"When you're hurt." She wasn't looking at him. She was looking at the dark, where the sawing was. "I've been going over it. All evening. Every one." She was quiet. "You tipped your head, and I thought, *there*, that's one, and then you didn't do anything, and I didn't know if it was one or not. And then your hand went gold, at the end, and I knew it had been bad. And I hadn't known. I'd been watching the whole time, and I hadn't known."
 
 "There's nothing to see," said Ice.
 
