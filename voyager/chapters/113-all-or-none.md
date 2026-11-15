@@ -75,7 +75,7 @@ Thea didn't say anything.
 
 "I don't remember that."
 
-"I do." Xola pulled her knees up. Squiddles slid down onto her shoulder and settled there, unbothered. "And then floor 7. The bridge. And then floor 8, every single morning, you sitting at the back of the room with the lantern where he can see it. And floor 9." She was quiet. "On the root. Watching him get hit and not even look. You were so angry you couldn't eat your bread. I couldn't say *babe* to him without wanting to hit him for about a week." She tugged Squiddles's tail, very gently. "I'm still a bit angry, actually. Are you?"
+"I do." Xola pulled her knees up. Squiddles slid down onto her shoulder and settled there, unbothered. "And then floor 7. The bridge. And then floor 8, every single morning, you sitting at the back of the room with the lantern where he can see it. And floor 9." She was quiet. "On the root. Watching him get hit and not even look. You were so angry you couldn't eat your bread. I couldn't even say *Icey* to him without wanting to hit him for about a week." She tugged Squiddles's tail, very gently. "I'm still a bit angry, actually. Are you?"
 
 "Yes," said Thea.
 

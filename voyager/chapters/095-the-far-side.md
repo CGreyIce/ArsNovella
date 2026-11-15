@@ -77,7 +77,7 @@ Ice looked at it.
 
 ***
 
-Xola didn't say *babe* at breakfast either.
+Xola didn't say his name at breakfast either.
 
 She passed him the honey when he asked for it. She passed it without looking at him, and without a word, and Calvin, on her other side, looked from her to Ice and back again and very sensibly ate his porridge. Thea sat on the far side of the platform, with Chi and Higu. She didn't look at him much. When she did, it wasn't at his face. It was at his hands. His shoulders. The side of his head. The way you'd look at something you'd decided to learn.
 
@@ -553,7 +553,7 @@ World · Aleaka: everyone comes ice
 World · Chris: its not close. we voted ]
 
 [ World · Xolalotl: you said fine
-World · Xolalotl: you said FINE. one DAY babe. you lasted one DAY ]
+World · Xolalotl: you said FINE. one DAY ice. you lasted one DAY ]
 
 [ World · Althea: everyone comes.
 World · Althea: i'm still angry. i'm coming anyway ]
@@ -676,7 +676,7 @@ He didn't move.
 
 [ World · Althea: i see it ]
 
-[ World · Xolalotl: i see it. im coming. and THEN im going to kill you babe ]
+[ World · Xolalotl: i see it. im coming. and THEN im going to kill you ice coob ]
 
 [ World · Calvin: THERE HE IS. THERE HE IS. IM COMING DECLAN IM COMING ]
 

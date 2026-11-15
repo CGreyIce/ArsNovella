@@ -363,7 +363,7 @@ Water poured off her. Her hair was everywhere. Her gills were spread out so wide
 
 "It's over."
 
-"*Okay* then," said Xola, "not *helping*, babe, just *swimming*, nothing in the rules about swimming," and took hold of the back of his vest in one fist, and turned over in the water, and *went*.
+"*Okay* then," said Xola, "not *helping*, Ice, just *swimming*, nothing in the rules about swimming," and took hold of the back of his vest in one fist, and turned over in the water, and *went*.
 
 He'd forgotten. He'd completely forgotten. In the first life she'd been the one who went into the water after things. On every floor with water in it. Rings off jetties. Lost packs. Once, on a lake on some floor in the thirties, a whole cart. She'd laughed every time. *Freshwater, she says.*
 
@@ -403,7 +403,7 @@ Then the cut on his head. Then a long scrape down his ribs he hadn't even notice
 
 He didn't say anything.
 
-"I was in a *pool*, babe. I saw your hand go gold. At sixty-four. In the middle of them. With me *there*." Her voice did something. "You never do that. Not above fifty. Not if I'm there. Not *once*, not on nine, not on ten—"
+"I was in a *pool*, Ice. I saw your hand go gold. At sixty-four. In the middle of them. With me *there*." Her voice did something. "You never do that. Not above fifty. Not if I'm there. Not *once*, not on nine, not on ten—"
 
 "You said don't come back under half."
 
@@ -463,7 +463,7 @@ Xola had been lying on her back on the warm rock with her eyes shut, steaming ge
 
 "Xola—"
 
-"It's a *mile*," said Xola. "I just did a hundred metres with *you* on my back. A mile is *nothing*. A mile is a *lovely little swim*." She looked down at Thea, sitting on the rock. Then at Ice. And something in her face went very soft and very wicked at the same time. "And I'll go *very* slowly," she said. "I'll take my *time*. I'm a freshwater animal. It takes us ages. Bye, babe."
+"It's a *mile*," said Xola. "I just did a hundred metres with *you* on my back. A mile is *nothing*. A mile is a *lovely little swim*." She looked down at Thea, sitting on the rock. Then at Ice. And something in her face went very soft and very wicked at the same time. "And I'll go *very* slowly," she said. "I'll take my *time*. I'm a freshwater animal. It takes us ages. Bye, Icey. Bye, babe."
 
 And she went off the edge of the rock in one long, perfect dive, and was gone, and a moment later came up twenty metres away, and waved, and went under again, a long lilac shape sliding away across the bay toward Hythe, not slowly at all.
 

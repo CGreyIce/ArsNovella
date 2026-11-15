@@ -741,7 +741,7 @@ Drew looked at him for a long time. His face did the thing it did, under the jok
 
 Xola healed him at the top of the rope.
 
-She didn't say anything while she did it. She put both hands flat on the gap under his arm, where the vest met, and the heal went in cool and clear and moving, like water, the way hers always did. But fast. Hard. Like water thrown, not poured. And she didn't say *babe* once, which was the most frightening thing that had happened all day.
+She didn't say anything while she did it. She put both hands flat on the gap under his arm, where the vest met, and the heal went in cool and clear and moving, like water, the way hers always did. But fast. Hard. Like water thrown, not poured. And she didn't say his name once. Not *Ice*. Not *Icey*. Nothing. Which was the most frightening thing that had happened all day.
 
 Then she took her hands away and looked at him, with her violet eyes very wide.
 
@@ -761,7 +761,7 @@ He stopped.
 
 He remembered. He'd been the third of three, once. Her laughing in the background while Thea sang. Him playing with the sound turned down so he could hear them both.
 
-"And then we stopped," said Xola. "All of us. It just thinned out and stopped and nobody said anything. And you probably said fine about that too, and I never asked, because I'd stopped asking by then." She took a breath that shook. "I'm asking now. I'm *angry* now." And then, at last, as if she couldn't help it, the word came out, and it came out furious: "I'm so angry with you, *babe*."
+"And then we stopped," said Xola. "All of us. It just thinned out and stopped and nobody said anything. And you probably said fine about that too, and I never asked, because I'd stopped asking by then." She took a breath that shook. "I'm asking now. I'm *angry* now." And then, at last, as if she couldn't help it, his name came out, the soft one, and it came out furious: "I'm so angry with you, *Icey*."
 
 She went and sat with Chi.
 
