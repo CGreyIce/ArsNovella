@@ -21,7 +21,7 @@ He looked at the stars instead.
 
 They were real. He'd worked that out about ten minutes after they came out of the door. On floors 1 to 3, the stars had come on at dusk all at once, in rows, like lights in an office building. You stopped seeing them after a week. On floor 4 there hadn't been any at all. These were *everywhere*. No pattern. Too many. Some bright, some so faint you weren't sure. When the wind moved a cloud across them, they went out behind it and came back one at a time.
 
-Milli was a rational person. He liked things to make sense. And sitting on a rock in the sky with his wife asleep on his shoulder, he found that he couldn't make any sense of how much he wanted to cry about some stars.
+Milli was a rational person. He liked things to make sense. And sitting on a rock in the sky with Hana asleep on his shoulder, the girl he was going to marry, he found that he couldn't make any sense of how much he wanted to cry about some stars.
 
 So he looked at the others instead. It helped. People made sense, mostly.
 

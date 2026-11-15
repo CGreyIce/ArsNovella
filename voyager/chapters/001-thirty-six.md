@@ -204,7 +204,7 @@ She came out of sleep the way she did everything: all at once and already compos
 
 He knew what she was seeing. A black tactical vest with teal tabs over a white shirt with the sleeves rolled up. Black hair, a teal streak. The boy from the little drawings he'd put on every emote and profile picture he'd ever made, and who had once spent an entire stream of hers drawing increasingly stupid cats in her chat to make her laugh. He watched her know him.
 
-Then Milli, asleep beside her, jerked awake and grabbed her arm. "Honey?" he said, frightened, and Alice turned her head toward him without thinking, the way you do for the person you married. And the moment broke, and when she turned back, the light from Milli's pillar was between them.
+Then Milli, asleep beside her, jerked awake and grabbed her arm. "Honey?" he said, frightened, and Alice turned her head toward him without thinking, the way you do for the person you're going to marry. And the moment broke, and when she turned back, the light from Milli's pillar was between them.
 
 "Five," said Alea.
 

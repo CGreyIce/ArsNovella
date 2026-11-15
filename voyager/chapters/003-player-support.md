@@ -131,7 +131,7 @@ It hadn't worked. That was fine. Most things didn't, the first time. But the lig
 
 "Nothing," said Hana. "Very carefully."
 
-Milli looked at her. He had the look he always got when he was trying to be rational about something that frightened him: brow down, mouth tight, as if he could reduce the problem to a set of steps. She loved that look. It had got them through a wedding.
+Milli looked at her. He had the look he always got when he was trying to be rational about something that frightened him: brow down, mouth tight, as if he could reduce the problem to a set of steps. She loved that look. It was going to get them through a wedding.
 
 "Hana," he said. "I didn't see anybody. When I woke up. I'm sorry. I was looking at you."
 

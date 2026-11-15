@@ -257,7 +257,7 @@ She came down the slip after him, through the crowd, with her crown on, and stop
 
 "I'm the fastest."
 
-"I know you're the fastest." Her ears were flat. Her voice was perfectly steady. "I married the fastest. I was there." She reached up and straightened his collar, which didn't need straightening. "One blow?"
+"I know you're the fastest." Her ears were flat. Her voice was perfectly steady. "I'm marrying the fastest. I said yes." She reached up and straightened his collar, which didn't need straightening. "One blow?"
 
 "No. It's tight. Two."
 
@@ -588,7 +588,7 @@ Hana Lv 47 · Milli Lv 47 · Jared Lv 46 · Newish Lv 47 · Aleaka Lv 47
 The port way was eleven centimetres low over twenty metres. Corran had known for three years. "Nobody's got the arms."
 Four days lifting the Patience a finger at a time. On the fourth day three tide-folk took a lever.
 Jared made rudder irons it can't take. "It'll take something else." "Then I'll make that too."
-The big tide. Milli took the port dog. Hana: "I married the fastest. I was there." Two blows.
+The big tide. Milli took the port dog. Hana: "I'm marrying the fastest. I said yes." Two blows.
 Newish threw "ONE" to everybody. She swam. Corran stood up by himself. "Look at her go."
 "I'm glad I lived to have somebody do it."
 Calvin jumped three metres of sea for a loaf of bread. Azac caught him.
