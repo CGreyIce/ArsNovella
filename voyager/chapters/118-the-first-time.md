@@ -419,6 +419,26 @@ He didn't answer straight away. He thought about *record found: one of two*. Abo
 
 "No," said Ice. "We're not."
 
+"Then don't waste it," said Thea. She didn't lift her head off his shoulder. "Don't come back under half."
+
+He was quiet.
+
+"Xola said it on nine," said Thea. "At the top of the rope. I heard her. And you said *I won't*, and she said you don't get to say *won't*."
+
+"I don't do it on purpose," he said, after a while. "The head. Not healing. Not looking." He stopped. He'd never said this to anybody. Not in either life. "Ten years at the front of a line. If the front flinches, everybody flinches. If the healer's looking at me, she's not looking at the one beside her. So I stopped. One fight at a time. I don't know how to start again."
+
+"Then don't start," said Thea. "Just heal sooner. That's all. A bit. So I don't have to stand on a root a mile away and learn your head."
+
+"You've learned it."
+
+"I'm still learning it. I'd rather not have to." Her hand found his on the cold stone. "Try."
+
+He thought about the root. About Xola's water, thrown, not poured. *Under half.* About Thea at the top of the rope, the angriest he had ever heard her, in either life.
+
+"I'll try," he said.
+
+"Good," said Thea. "That's the first thing you've ever said to me about it that wasn't *fine*."
+
 On the stone beside the lantern, Alea stirred.
 
 "Can she hear me?" said Thea. She'd felt him turn his head. "Alea?"
@@ -489,4 +509,5 @@ Four. It was four. I just didn't hear the last one.
 Then the rest. She says she kissed me. I say I kissed her.
 John's light. Deston's gold. Gabe's fire.
 Nothing was watching. We were.
+Don't come back under half. I said I'd try.
 ]

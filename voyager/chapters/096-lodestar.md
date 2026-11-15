@@ -370,7 +370,7 @@ He didn't remember all of what happened after that. Bits of it.
 
 He remembered Gabe on his knees in front of him, in the green, with both hands on his face, one of them wet, saying *Dec, Dec, Dec, you idiot, Dec*. He remembered Thea in the gap behind him with the lantern held up, and the amber in it leaning, so hard it lay flat against the glass, all of it pointing at him, and her face over it, in the morning, not saying anything at all. He remembered her putting it down on the green beside his knee. Just setting it down. Next to his light.
 
-He remembered them all coming in. Through the briar, cutting it wide, thirty-five of them, round him on every side. He remembered Rachael's hands on his thigh and her face going white. He remembered the sawing, from somewhere out in the grey, still coming, because his hand was still up, because he'd forgotten to put it down.
+He remembered them all coming in. Through the briar, cutting it wide, thirty-five of them, round him on every side. He remembered Rachael's hands on his thigh and her face going white. He remembered Xola beside her, on her knees in the green, with her water already going into him, cool and clear and thrown, saying *under half, under half, babe, you were under half again*, over and over, crying and furious and not stopping, with one hand locked round his wrist as if he might get up and walk off. He remembered the sawing, from somewhere out in the grey, still coming, because his hand was still up, because he'd forgotten to put it down.
 
 And he remembered Sanctuary.
 
@@ -485,6 +485,26 @@ They looked after him for four days.
 He hated it. He'd known he would. He lay in the heap of blankets in the hanging house with his arm on the blanket, and people came in. All day. They brought things. He couldn't stop them.
 
 Hako brought him grubs, roasted, in a leaf, and sat by the door watching him to make sure he ate one. Tiger came in on the second morning with a sack of onions and sat cross-legged on the floor and peeled them, all of them, every one, without saying anything, the way Ice did, layer by layer, and put the skins in a neat pile, and went out again. Aleaka told him off for an hour for something he hadn't done yet. Dennis came and negotiated with the bough-folk, through the window, at length, for a better kind of blanket. Kei left a jar of something green that Dose said was disgusting. Bee drew him asleep, without asking, and showed him.
+
+Xola came every morning to do his leg. It was closed. It didn't need doing. She did it anyway. She didn't say *babe*. Not once, the first two mornings. She did the leg, cool and clear and moving, with her mouth shut tight, and watched the side of his head the whole time, and went. On the third morning she finished, and sat back on her heels on the floor of the hanging house, and looked at him for a long moment.
+
+"You stood still," she said.
+
+"Yeah."
+
+"Eleven hours. With that leg."
+
+"Yeah."
+
+"Okay," said Xola. And then, very quietly, as if it had got out on its own: "Babe." And she got up and went out before he could see her face.
+
+Thea came in the evenings. She didn't say much. She sat on the floor by the round door, the way Rachael had sat on the stool, with the lantern beside her, and watched him. Not his face. The side of his head. On the second evening Alea said something to him, he never told anybody what, and his head tipped, and he saw Thea see it. She didn't say anything. She looked down at the back of her own hand, and moved her finger on it, once, the way Higu kept a tally. And looked up again.
+
+"I'm still angry," she said, on the last evening, at the door, with the lantern. "I want you to know. In case you thought it went."
+
+"I didn't think it went."
+
+"Good," said Thea. "I'm still learning it, too." And went.
 
 He let them.
 

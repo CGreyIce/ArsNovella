@@ -195,13 +195,31 @@ And then he stopped thinking about it, because all of them came at once.
 
 It was a long fight. Longer than it had any right to be, with nothing above fifty-seven on the shelf. Because there were eleven, and they didn't come at him one at a time, they came in a ring, the way the Down's ticking things had come, and the rock under his boots was wet weed over black stone and every time he planted a foot it slid. He fought in the old way, the way he'd fought for ten years: don't be where it lands. Step. Turn. And when you can't step, the shield, and never flat. Turn it. Put the edge of it under the shell. Heave. Flip. Kill the one on its back before it could right itself, the sword straight down through the soft plates of the belly where they met. Turn. Again.
 
+Nearly the old way. In the old way, twice, he'd have gone straight in and let a claw have his arm for the half-second it saved. He didn't. Both times he took the extra step instead, and it cost him the half-second, and he felt Thea on her rock behind him the whole time, like a hand flat between his shoulder blades, and took the step anyway.
+
 He flipped six. He killed four on their backs. He lost the fifth when its legs caught the edge of a pool and it rolled the right way up again, and came straight back at him, angry, with the shell behind its eyes cracked from where it had landed.
 
 He was breathing hard. His leg hurt. There was salt in his eyes, and blood, his own, from somewhere on his forehead where a claw had nearly had his ear.
 
 [ HP 64% ]
 
-"Sixty-four," said Alea. He tipped his head. "Seven left. Six. Ice, the water's—"
+"Sixty-four," said Alea. He tipped his head.
+
+Sixty-four was nothing. In the old way, you left sixty-four for after. Xola was fifty metres back in a pool. He'd done it a thousand times.
+
+*Don't come back under half.*
+
+*Try*, Thea had said. On a rock under the aurora, with her cold feet against his leg. *Heal sooner. A bit.*
+
+He spent the second. In the middle of six of them, with his hand flat on his side instead of on his shield, and the warm gold of Mend Self went through him from the inside, and a wracker came in on his open side while he did it, and he stepped, and it missed.
+
+[ HP 79% ]
+
+"*Oh*," said Alea. Very quietly.
+
+"Don't."
+
+"I'm not saying anything." A pause. "I'm logging it." Another pause. "Seven left. Six. Ice, the water's—"
 
 He felt it before she said it.
 
@@ -261,11 +279,13 @@ Old Shears screamed.
 
 He hadn't known crabs could. It was a high, grinding, rasping noise like a ship's hull dragged over rock, and the whole of her shuddered and swung, and he went off the arm sideways with his sword still in her and hit the rock flat on his back in a foot of water.
 
-[ HP 49% ]
+[ HP 58% ]
 
-"Forty-nine," said Alea. Not calm.
+"Fifty-eight," said Alea. Not calm.
 
-He spent the second. Flat on his back in a foot of water, with his hand on his side, and the warm gold of Mend Self went through him from the inside, the way it did. Paladin. He could heal himself. Not much. Not fast. Enough.
+He tipped his head. Slowly. It had been a bad one, the fall, the whole weight of the rock coming up through his back, and he knew how slowly his head had gone even as it went.
+
+He spent the second again. Twice in one fight, with a healer watching. He'd never once done that in his life. Flat on his back in a foot of water, with his hand on his side, and the warm gold of Mend Self went through him from the inside, the way it did. Paladin. He could heal himself. Not much. Not fast. Enough.
 
 He came up coughing salt.
 
@@ -355,9 +375,19 @@ Thea knelt in front of him and took his face in both her hands and looked at it.
 
 "You're bleeding," she said. Her voice was very steady. Her hands weren't. "Your head. Your *leg*. I didn't know it had your *leg*. You didn't even look *down*—"
 
-"It's fine."
+"It's f—"
 
-"Don't say it's *fine*. Hako says it's fine." She turned his head to look at the cut over his ear. "*Xola.*"
+He stopped. He heard it coming and stopped it halfway, the way you'd catch a cup going off the edge of a table.
+
+"It hurts," he said. "The leg. And my head."
+
+Thea went very still, with his face in her hands.
+
+"Say that again."
+
+"It hurts."
+
+She looked at him for a long moment. Something went across her face that he'd never seen on it, in either life. Then she turned his head, very carefully, to look at the cut over his ear. "*Xola.*"
 
 "*Babe*, I'm *right here*." Xola hauled herself up onto the rock beside them in a long sheet of water, like a seal, and lay there for a moment on her front on the warm stone with her eyes shut and her gills slowly folding. Squiddles slid down off her head onto the rock and lay there too, flat, like a dropped glove. "Hang on. Hang *on*. I've never swum that fast in my *life*. I'm a *freshwater animal*." She opened one violet eye at Thea. "It's after, right? He's finished? It's *after*?"
 
@@ -369,15 +399,25 @@ The water came out of her hands. That was what her healing was. Cool, and clear,
 
 Then the cut on his head. Then a long scrape down his ribs he hadn't even noticed. Then she sat back on her heels on the rock and looked at him with her hair dripping into her eyes, and stopped grinning.
 
-"You didn't do your gold thing," she said. "Not till she put you on your back."
+"You did your gold thing," she said. Slowly. "At *sixty-four*."
 
-"You were there."
+He didn't say anything.
 
-"I was in a *pool*, babe."
+"I was in a *pool*, babe. I saw your hand go gold. At sixty-four. In the middle of them. With me *there*." Her voice did something. "You never do that. Not above fifty. Not if I'm there. Not *once*, not on nine, not on ten—"
 
-"You were there," said Ice.
+"You said don't come back under half."
 
-Xola looked at him for a long moment. "You got *bitten*," she said. "On the leg. Right at the start. I saw it close. And you didn't even look at it. I thought it *missed*." She shook her head, and water flew off her gills. "Everybody on nine said. I thought they were being dramatic. They were not being dramatic."
+Xola stared at him.
+
+"On nine," he said. "At the top of the rope."
+
+"You *heard* that?"
+
+"I heard it."
+
+Xola looked at him for a long moment, with the water running out of her hair. Then she looked away, quickly, at the sea, and wiped her face with the back of her wrist, which did nothing, because everything was wet.
+
+"You still got *bitten*," she said. "On the leg. Right at the start. I saw it close. And you didn't even look at it. I thought it *missed*." She shook her head, and water flew off her gills. "I watched it on nine. All day. I thought I'd got used to it." She wiped her face again. "I have *not* got used to it."
 
 "You held onto the shield," she said. "We saw. She was pulling you into the channel and you held onto the shield."
 
@@ -470,6 +510,14 @@ He knew what she meant.
 "You held it," he said.
 
 "I held it." She closed her hand. "And I knew. At the end. When she put you on your back." She turned her head and looked at him. "You tipped your head slower. Like on nine, the third time. I told you I'd learn it." She looked at her closed hand. "I knew before your hand went gold. That's the first time. The first time I've ever known before."
+
+She was quiet.
+
+"And you healed," she said. "Before. At sixty-four. In the middle of them."
+
+"You said try."
+
+"I said try." She opened her hand again and looked at it. "I didn't think you'd *do* it."
 
 He didn't say anything.
 
@@ -729,6 +777,7 @@ I said: it looks like the Last Light, and it's in the wrong place, and it's a da
 The rota: Thea watching. Xola. "It's on the rock, Dec."
 The Shoals. Eleven wrackers and Old Shears, Lv 59. Lv 57. Alone, outnumbered. Times six.
 Thea called the tide. Then she stopped calling, and didn't come. I felt how hard it was.
+Healed at sixty-four. Xola saw. "With me *there*." Said it hurts, not fine. Thea went still.
 I held onto the shield. Xola towed me a hundred metres through the sea, laughing. "Not helping, just swimming."
 Six hours on a rock in the sun. The longest I've ever sat with her in daylight. Either life.
 I told her about the rhythm. She says it isn't blocking me. It's asking. "Where did you come from" without words.

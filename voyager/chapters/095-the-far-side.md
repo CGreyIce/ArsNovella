@@ -77,6 +77,30 @@ Ice looked at it.
 
 ***
 
+Xola didn't say *babe* at breakfast either.
+
+She passed him the honey when he asked for it. She passed it without looking at him, and without a word, and Calvin, on her other side, looked from her to Ice and back again and very sensibly ate his porridge. Thea sat on the far side of the platform, with Chi and Higu. She didn't look at him much. When she did, it wasn't at his face. It was at his hands. His shoulders. The side of his head. The way you'd look at something you'd decided to learn.
+
+They were still angry. Both of them. He could feel it across the platform, the way you feel weather coming. It hadn't gone in the night. He hadn't thought it would.
+
+It wasn't the kind of angry that shouts. He knew that kind. This was the other kind. The kind that's mostly frightened, and has decided to stay angry because angry is easier to carry.
+
+He'd been their best friend, once. Both of theirs. He'd forgotten what that weighed.
+
+At the top of the rope, when the parties were going down, Xola stopped beside him. Just for a second. She didn't look at him.
+
+"Don't come back under half," she said.
+
+"I won't."
+
+"You don't get to say *won't* either." And she swung out on the rope and went down.
+
+Thea went down after her party, last, with the lantern. She didn't say anything to him. But at the top, as she swung out over the green, she looked back. Once. Not at his face. At the side of his head. Waiting for it to tip.
+
+It didn't. Nothing had hit him yet.
+
+***
+
 He went with Xav's party that day, because the rock said so. Gabe on his left. Rui Xiang ahead, John's motes over their heads, Malcolm behind with his backup heal already half-cast the way it always was. Xav beside him, saying nothing in the way Xav said nothing, which was a way of saying a great deal.
 
 They went down the ropes in the green morning and walked west.
@@ -163,6 +187,20 @@ The window came up.
 The ropes' thanks. ]
 
 Tansy, who'd come down a rope at the start to watch from a branch, whistled, high and long. Somewhere up in the trees a long way east, very faint, another whistle answered.
+
+Xola got to him before anybody else did.
+
+She came across the trodden sawdust fast, with her hands already half up, and stopped in front of him, and didn't touch him. She looked at the side of his head.
+
+"Nothing got through," he said.
+
+"I didn't ask."
+
+"You were going to."
+
+She looked at him a moment longer. At his arms. At the shield across his knees, without a mark on it. Then she let her breath out, all of it, the way you do when you've been holding it for an hour. She didn't say anything else. She went back across the sawdust to Thea.
+
+Thea was standing by the end of the log with the lantern. She'd been watching him. Not the sawyers. Him. He'd felt it the whole fight, like a hand flat between his shoulder blades. When Xola got back to her, Thea said something, very quietly, and Xola shook her head. *Nothing.* And Thea shut her eyes for a second, and opened them, and went on watching.
 
 Everybody started to laugh. It was relief, mostly. Calvin was lying flat on his back in the sawdust laughing at nothing. Kei was going round with Dose looking at cuts, and Dose was saying things to him nobody else could hear, and Kei was saying *I know, I know*. Rachael had her hands on Azac's ribs, the cracked one, and Azac was making the face he made. Gabe was sitting next to Ice, close, the way he always sat now, with his shoulder nearly against his, and his own shield across his knees, and he was looking at the rim of Ice's.
 
@@ -514,6 +552,16 @@ World · Tiger: everyone comes
 World · Aleaka: everyone comes ice
 World · Chris: its not close. we voted ]
 
+[ World · Xolalotl: you said fine
+World · Xolalotl: you said FINE. one DAY babe. you lasted one DAY ]
+
+[ World · Althea: everyone comes.
+World · Althea: i'm still angry. i'm coming anyway ]
+
+He read those twice.
+
+*One day.* She was right. He'd sat on a platform at midnight and let Thea tell him she was going to learn it, and he'd lasted one day. Less. He'd typed *im fine* with his thumb before he'd even finished thinking it, the way he'd said it at four in the morning, for a year, to both of them.
+
 They kept coming. He couldn't read them fast enough. One name after another, all down the window. Thirty-four of them.
 
 And then the thirty-fifth.
@@ -627,6 +675,8 @@ He didn't move.
 [ World · Hyvred: i see it ]
 
 [ World · Althea: i see it ]
+
+[ World · Xolalotl: i see it. im coming. and THEN im going to kill you babe ]
 
 [ World · Calvin: THERE HE IS. THERE HE IS. IM COMING DECLAN IM COMING ]
 
