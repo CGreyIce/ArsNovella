@@ -105,6 +105,26 @@ Xav didn't say anything for a long time.
 
 "Yeah," he said. "That's what we think."
 
+Gabe nodded.
+
+That was all. He nodded, slowly, the way you nod when somebody tells you the name of a song you've been humming for years without knowing what it was called. He looked for the surprise. He actually looked for it, sitting there against anvil nine, the way you feel for a step in the dark. It wasn't there.
+
+"You knew," said Xav. Very quietly.
+
+"No." Gabe looked at his burned hands. "Yeah. Sort of. Not *knew*." He was quiet. "I've had it since the white room, Xav. Since the first minute."
+
+Xav looked at him.
+
+"He looked at me," said Gabe. "On the first morning. Across the ring. I woke up and he was standing by the arch, and he looked at me, and I said his name." He swallowed. "And he looked at me like he hadn't seen me in years. Not since the last call. *Years.* Like I was somebody he'd lost." He turned his hands over. "I told Dest he looked at me. I never told anybody how. I thought I'd made it up. I thought I'd just woken up weird in a white room."
+
+The Breath went up. Came down.
+
+"And then a coat on a bench," said Gabe. "And a note about floor 3. And the onions. And every floor after that, every time, the same feeling. Like he wasn't finding things. Like he was *remembering* them." He almost laughed. "I never said it. Not to anybody. Not even to me, properly. Because it was mad. And because it was his. If it was true, it was his to say." He looked at Xav. "So I waited. I told myself I was waiting for him to tell me what the thing was. I wasn't. I knew what the thing was. I was waiting for him to be ready to say it."
+
+"Gabe," said Xav.
+
+"You've been carrying it a hundred and twenty days so you could tell me first," said Gabe. "I know. Thank you. I mean it." He leaned his head back against the anvil. "You didn't tell me anything I didn't know, mate. You just said it out loud."
+
 ***
 
 He told it the way Thea had told it, on six. He said so. He said *Thea said this, on six, at the top of the pit, I'll say it the way she said it.* And then he did.
@@ -131,7 +151,9 @@ The Breath went up and came down. In. Out.
 
 Gabe sat against anvil nine with his eyes shut and his hands open in his lap, palms up, burned, and didn't move for a long time.
 
-He'd thought it would feel like being hit. It didn't. It felt like a door in a house you'd lived in your whole life, that you'd walked past every day, opening. And behind it, a room you'd always known was there. Full of furniture. Full of everything. With the dust on it.
+He'd always thought, if anybody ever said it out loud, it would feel like being hit. It didn't. It felt like a door in a house you'd lived in your whole life opening, a door you'd walked past every day and leaned your ear against at night. And behind it, the room you'd always known was there. Full of furniture. Full of everything. With the dust on it. Exactly where you'd thought it would be.
+
+What he hadn't known was how big it was.
 
 *A hundred and fifty-three days*, he thought. *For one word.*
 
@@ -223,7 +245,7 @@ And somewhere in it, under it, he understood something else. The way you underst
 
 He wasn't angry.
 
-He'd thought he would be. He'd been angry for a hundred and fifty-three days on floors 1 to 7, so angry he'd spent all his money on iron. He'd been angry in the bakery. He'd thought, if he ever found out what the thing was, he'd be so angry he'd go up the stair and find Declan and hit him again.
+He'd thought he would be. He'd been angry for a hundred and fifty-three days on floors 1 to 7, so angry he'd spent all his money on iron. He'd been angry in the bakery. He'd thought, if anybody ever said it out loud, if it ever stopped being a feeling and turned into words, he'd be so angry he'd go up the stair and find Declan and hit him again.
 
 He wasn't. He sat there and looked for it, and it wasn't anywhere.
 
@@ -442,6 +464,7 @@ The hundredth fold. Geir: "The best fold at this anvil since my master. Now you 
 Xav came down. "I swore, on six, you'd hear it from me first. The day it was a fact." "Is it a fact?" "No."
 Gabe: "He's been here before." Xav: "That's what we think." Fourteen now.
 "Make a fire." "You always quench too early." "So it broke."
+Gabe wasn't surprised. He's had it since the white room: "He looked at me like he hadn't seen me in years." Xav just said it out loud.
 Gabe isn't angry. He looked. It wasn't anywhere.
 He's still waiting. For Dec. Not for the thing.
 Xav worked the bellows all night.
