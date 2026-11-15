@@ -453,7 +453,7 @@ Ina sat very still.
 
 *I never once remembered what you said.*
 
-He'd never said anything to Calvin before tonight. Not like that. Not ever. He'd known Calvin three hundred and thirty-seven days, and he'd never once sat by him while he shook and said anything at all.
+He'd never said anything to Calvin before tonight. Not like that. Not ever. He'd known Calvin three hundred and thirty-eight days, and he'd never once sat by him while he shook and said anything at all.
 
 He sat with it.
 
@@ -507,7 +507,7 @@ It wasn't. Not here. Not on this step.
 
 It turned out it was the opposite.
 
-[ Party Log · Chris's party · Floor 12 · Day 338
+[ Party Log · Chris's party · Floor 12 · Day 339
 Chris Lv 51 · Niko Lv 51 · Maigo Lv 51 · Winter Lv 52 · Ina Lv 52
 The steam off the salt went into Ina's mask and came back fresh. "Salt doesn't go up."
 There's no fire on the Salt. There's Ina's. It doesn't need anything.

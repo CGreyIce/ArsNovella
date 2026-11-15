@@ -493,7 +493,7 @@ Through the threads. A little. A cup from each. Thirty-five cups. They told him 
 
 Maigo didn't feel any of it. He was asleep.
 
-But he woke, on the morning of the three hundred and thirty-first day, lying on his back on the sled in the grey light, and reached up under his hood without thinking, the way he did every morning, and found the two little branches, and went along them.
+But he woke, on the morning of the three hundred and thirty-second day, lying on his back on the sled in the grey light, and reached up under his hood without thinking, the way he did every morning, and found the two little branches, and went along them.
 
 One leaf. Near the top. On the left.
 
@@ -599,7 +599,7 @@ Under him, through the wood of the sled, through the salt, very faint, so faint 
 
 And somewhere in it, in the dark, a thousand years of seeds turned over in their sleep, the way you do when somebody you don't know yet says your name.
 
-[ Party Log · Chris's party · Floor 12 · Day 331
+[ Party Log · Chris's party · Floor 12 · Day 332
 Chris Lv 51 · Niko Lv 50 · Maigo Lv 50 · Winter Lv 51 · Ina Lv 51
 Maigo counts his leaves. 212 on floor 11. 106 on day 328. The salt cracks his bark and pulls.
 Ice brought him a pot of earth from the cone-fire in Highcrook. Carried for 103 days. "I'm a cook."
@@ -610,5 +610,5 @@ Day 3: seeds. A forest, asleep, a thousand years. And in the west, a heart that 
 The Old Wood (3 of 3) complete. Hidden class: Druid. Tier 4: Grovekeeper. Skill: Undergrowth.
 One leaf left. Ina warmed the salt. Gigi talked his roots out.
 Deston: "Not on your own." Link to all thirty-five. Rachael healed him and it came out of everybody.
-Day 331: a bud.
+Day 332: a bud.
 ]
