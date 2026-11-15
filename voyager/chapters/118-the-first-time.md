@@ -197,7 +197,63 @@ She was crying.
 
 Not loudly. Not the way he'd ever seen her cry. She was sitting beside him on the rock with her hand on his arm and her feet in the cold water and the tears running down her face, steadily, in the light of the aurora, and she wasn't making any sound at all. She was just looking at him.
 
-"And then a window," he said. Quieter. He had to finish. If he stopped now he'd never start again. "With two buttons. *Go home. Go back.* Alea said it was older than the thing on the throne. She'd had a soul for two years by then. I'd given her one on eighty-eight." He felt Alea, on his shoulder, very small and very still. "And home was a room in Malacca, and the same night, the same minute, and a group chat with thirty-five people in it who'd never send another message." He breathed. "If I went home, you didn't."
+"And then a window," he said. Quieter. He had to finish. If he stopped now he'd never start again. "With two buttons. *Go home. Go back.* Alea said it was older than the thing on the throne. She'd had a soul for two years by then. I'd given her one on eighty-eight."
+
+He stopped.
+
+Because Alea had moved.
+
+He felt her decide to. On his shoulder. He'd felt her do it before, twice, for Thea: once on floor 6, for one second, in a bowl of gold glass, and once on floor 7, on purpose. And again on the barracks step, sitting on the lantern. Small, every time. The size of his hand. A little pale thing you could mistake for a reflection.
+
+She came down off his shoulder now. Onto the rock. Onto the flat grey stone between them, beside the lantern. And she wasn't small.
+
+She'd been making herself small for two hundred and eighty-five days. He'd never asked her to. She'd just done it, from the first minute in the white room, so that nobody would look twice. So that nobody would ask what she was. She'd folded herself down to the size of a hand and sat on his shoulder where nobody could see her and said *your foot's tapping*, for nine floors.
+
+She let it go.
+
+She sat on the rock between them the way she'd sat on the black stone of the hundredth floor, beside his leg, saying *your health's at four percent*. The size of a cat. Made of light. Pale teal at the edges and almost white at the centre, with one long tail curled round her feet, and two pinpricks of brighter white for eyes. When she moved, she left a faint shimmer on the air, like heat over a road. The aurora went over her and through her and she glowed under it, softly, like a lamp somebody had turned up.
+
+Thea stopped breathing.
+
+She looked at the fox. The fox looked at her. Neither of them moved.
+
+"Oh," said Thea. Very quietly. "You're *bigger*."
+
+"This is what she looks like," said Ice. His voice had gone. "She's been making herself small. Since the white room. So nobody would ask."
+
+Alea didn't say anything. She sat between them on the rock with her tail round her feet and looked at Thea, steadily, with her white eyes. The way she'd looked at things for ten years. The way she'd learned, a long time ago, which things not to look at, and had looked at them anyway.
+
+"She was there," said Ice. "All of it. Every floor. She was a ball of light for eight years that said *welcome, player* and *quest updated*, the same as yours. And then on eighty-eight I gave her a soul, and she was *her*." He swallowed. "And at the end, on the floor of that room, with all of you, she was the one who said *go back*. She said *I think souls go where they're carried. If you go, I'm coming. I'm not asking.*" He looked at the fox. "She's the only thing that came back with me. Everything else stayed up there. My levels. My class. My shield, in two pieces. All of it. Except her."
+
+Thea looked at Alea for a long time.
+
+Then, very slowly, the way you'd hold your hand out to a cat you didn't know, she took her hand off his arm, and held it out. Palm up. On the stone. Between them.
+
+Alea looked at the hand.
+
+And then she got up, and walked across the rock, two steps, three, leaving a shimmer on the air behind her. And put her forehead down into Thea's open palm.
+
+Thea made a sound. Ice felt it go through her. Through her thread, close as a rope.
+
+"She's warm," said Thea. "She's *warm*. Like holding your hand over a lamp."
+
+"She's always been warm," said Ice.
+
+"*Tell her*," said Alea, very quietly, in his ear, without lifting her head out of Thea's hand, "*I was there. Tell her I saw her step round you. Tell her I saw the ward.*" A pause. "*Tell her I've been waiting two hundred and eighty-five days to say hello properly.*"
+
+He told her.
+
+Thea was crying again. She didn't seem to notice. She sat there on the rock with her feet in the cold water and a fox made of light with its forehead in her palm, and looked at it, and said, in a voice that barely worked:
+
+"Hello, Alea. Properly."
+
+Alea lifted her head. She looked at Thea for one more long moment. Then she turned round, and walked back across the rock, and lay down on the stone beside the lantern, curled, with her tail over her nose and her eyes open, between the two of them. Not small. Not hiding. Just there.
+
+Thea put her hand back on his arm.
+
+"Go on," she said. "I'm here. She's here." She swallowed. "Go on."
+
+"And home was a room in Malacca, and the same night, the same minute, and a group chat with thirty-five people in it who'd never send another message." He breathed. "If I went home, you didn't."
 
 "So you went back," said Thea.
 
@@ -363,13 +419,13 @@ He didn't answer straight away. He thought about *record found: one of two*. Abo
 
 "No," said Ice. "We're not."
 
-On his shoulder, so small she was almost nothing, Alea stirred.
+On the stone beside the lantern, Alea stirred.
 
 "Can she hear me?" said Thea. She'd felt him turn his head. "Alea?"
 
 "She can hear everything," said Ice.
 
-Thea lifted her head off his shoulder and looked at the place where the fox was. She couldn't see her. Alea had stopped showing herself an hour ago, Ice thought, to give them the rock. But Thea looked at the place anyway, the way you'd look at somebody standing in a dark doorway.
+Thea lifted her head off his shoulder and looked at her. At the fox curled on the stone beside the lantern, the size of a cat, pale teal and white, watching them both with her pinprick eyes. She hadn't made herself small again. She hadn't gone anywhere. She'd been lying there since the window, between them, glowing softly in the aurora like a lamp turned low.
 
 "Thank you," said Thea. "For staying with him. Both times."
 
@@ -424,6 +480,7 @@ Nine, and Gabe's fire. Ninety-nine, and the fire, and six for six.
 The room. Deston. Yan. Hana. Drew made it stand.
 Her. The ward. Three words, maybe four.
 Two buttons. The white room. Her face longest. I ran.
+Alea showed herself to her. Her real size, the way she was on 100. Her forehead in Thea's hand. "Hello, Alea. Properly."
 Record found: one of two.
 I love you. Two lives late.
 She put her hand on my face and told me what she said.
