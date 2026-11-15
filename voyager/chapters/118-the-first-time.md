@@ -233,7 +233,31 @@ Alea didn't say anything. She sat between them on the rock with her tail round h
 
 Thea looked at Alea for a long time.
 
-Then, very slowly, the way you'd hold your hand out to a cat you didn't know, she took her hand off his arm, and held it out. Palm up. On the stone. Between them.
+And then the first thing she said to her, the very first thing, with the tears still running down her face, was:
+
+"Thank you."
+
+Not to him. To the fox.
+
+"For looking after him," said Thea. "For ten years. On your own. For talking to him, when he wouldn't talk to anybody else, because I *know* he wouldn't. I know exactly what he's like." Her voice wobbled, and she didn't let it. "For putting up with him. He's an idiot. He's got a head like a brick. He's the most stubborn buffoon I have ever met in my life, and you kept him alive anyway." She wiped her face with the heel of her hand. "So thank you. That's all. I wanted that to be first."
+
+Alea laughed.
+
+He'd heard her laugh a handful of times in ten years. It went off in his ear like something bright knocked over: high, and delighted, and helpless. Her whole body shook with it on the stone, and her light went up so bright that the wet rock round her turned teal.
+
+Thea couldn't hear it. She didn't need to. She saw it. She saw a fox made of light sit on a rock under the aurora and laugh at the man she'd come all this way for, and she started laughing too, with her face still wet. And the two of them looked at each other over him like two people who'd been carrying the same heavy, stupid, impossible thing up a very long stair, and had only just found out that somebody else had the other end.
+
+"*Oh*," said Alea, in his ear, still laughing. "*Oh, I like her. I liked her the first time, too.*" A breath. "*Tell her* head like a brick *is generous.*"
+
+"I'm not telling her that."
+
+"*Tell her.*"
+
+He told her.
+
+"I know," said Thea. "I've met him."
+
+Then, very slowly, the way you'd hold your hand out to a cat you'd only just met and already understood, she took her hand off his arm, and held it out. Palm up. On the stone. Between them.
 
 Alea looked at the hand.
 
@@ -453,11 +477,11 @@ On the stone beside the lantern, Alea stirred.
 
 Thea lifted her head off his shoulder and looked at her. At the fox curled on the stone beside the lantern, the size of a cat, pale teal and white, watching them both with her pinprick eyes. She hadn't made herself small again. She hadn't gone anywhere. She'd been lying there since the window, between them, glowing softly in the aurora like a lamp turned low.
 
-"Thank you," said Thea. "For staying with him. Both times."
+"Then you heard him," said Thea. "He said he'd try."
 
 Alea didn't say anything for a long moment.
 
-"Tell her she's welcome," said Alea, very quietly, in his ear. "Tell her I liked her the first time too." A pause. "Tell her she *was* unbearable on fifty-something, for days, and she was right."
+"Tell her I'll hold him to it," said Alea, very quietly, in his ear. "Tell her I've been holding him to things for ten years and he's never once let me." A pause. "Tell her she *was* unbearable on fifty-something, for days, and she was right."
 
 Ice told her.
 
@@ -506,7 +530,8 @@ Nine, and Gabe's fire. Ninety-nine, and the fire, and six for six.
 The room. Deston. Yan. Hana. Drew made it stand.
 Her. The ward. Three words, maybe four.
 Two buttons. The white room. Her face longest. I ran.
-Alea showed herself to her. Her real size, the way she was on 100. Her forehead in Thea's hand. "Hello, Alea. Properly."
+Alea showed herself to her. Her real size, the way she was on 100. Thea thanked her first, before anything. For keeping me alive. "Head like a brick. Stubborn buffoon." Alea laughed. They understood each other at once.
+Her forehead in Thea's hand. "Hello, Alea. Properly."
 Record found: one of two.
 I love you. Two lives late.
 She put her hand on my face and told me what she said.
