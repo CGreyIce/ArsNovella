@@ -257,7 +257,7 @@ He was a big man. Slightly overweight and very strong, the way he'd always been,
 
 "Nine years."
 
-"You walked it on your own. Every year. Eight times." Gabe's jaw was tight. "We didn't know. Any of us. We were in Singapore going to work and you were walking across a battlefield on your own to sit by a grave. Every year." He breathed. "I want to walk it with you. Once. Just once."
+"You walked it on your own. Every year. Eight times." Gabe's jaw was tight. "We didn't know. Any of us. We were at home going to work and you were walking across a battlefield on your own to sit by a grave. Every year." He breathed. "I want to walk it with you. Once. Just once."
 
 "I know."
 

@@ -257,7 +257,7 @@ Dennis stopped breathing.
 
 He knew that laugh.
 
-He'd known it since he was seventeen. He'd heard it across a hundred tables, in a hundred calls. He'd heard it in Malacca, the year before the white room, when all of them had gone over on the coach to see him. The whole lot of them, Deston and Gabe and Rae and Cal and him. And the door had opened. And there'd been that face. And then that laugh, exactly that one, sudden and helpless, before he'd even said hello.
+He'd known it since he was seventeen. He'd heard it across a hundred tables, in a hundred calls. He'd heard it in Malacca, two years before the white room, before Gabe moved away, when all of them had gone over on the coach to see him. The whole lot of them, Deston and Gabe and Rae and Cal and him. And the door had opened. And there'd been that face. And then that laugh, exactly that one, sudden and helpless, before he'd even said hello.
 
 Dennis took a step toward the counter. Toward the door at the back.
 

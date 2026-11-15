@@ -138,7 +138,7 @@ He looked at *Go home* for a long time.
 
 Home was Malacca. Home was a rented room with a fan that clicked on every third turn, and a kettle, and a view of a wall. It was twenty-six-year-old Declan's phone on the bedside table, with messages from thirty-five people who would never send another one. Time hadn't moved there, the systems had said on the first day, in their strange careful way. He would go back to the same night, the same minute. He'd probably be healed. It was a reward screen, after all; reward screens didn't kill you.
 
-He'd wake up, and it would still be that night, and the group chat would still be going. And somewhere in the world Gabe's phone would be lying face-up on a bed in Singapore with nobody in the room to pick it up, and it would stay like that forever.
+He'd wake up, and it would still be that night, and the group chat would still be going. And somewhere in the world Gabe's phone would be lying face-up on a bed in Australia with nobody in the room to pick it up, and it would stay like that forever.
 
 "If I go home," he said, "they don't."
 

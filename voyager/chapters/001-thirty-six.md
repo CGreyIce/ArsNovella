@@ -94,7 +94,7 @@ Ice opened his mouth to say his name.
 
 He shut it again.
 
-*He doesn't know,* he told himself. *He's never stood at a gate. He's never made you a shield. He's twenty-four and he went to sleep in Singapore with his phone on his chest, and that's all.*
+*He doesn't know,* he told himself. *He's never stood at a gate. He's never made you a shield. He's twenty-four and he went to sleep in Australia with his phone on his chest, and that's all.*
 
 He'd have to do that every time, he realised. Every time he looked at one of them, he'd have to stop and put the ten years back in their box before he said a word. Otherwise he'd talk to the Gabe in his head, and the one on the floor would have no idea what he was talking about.
 
