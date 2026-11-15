@@ -437,7 +437,17 @@ Burr gave her a look. She didn't care.
 
 Calvin laughed. Then stopped laughing, because she wasn't.
 
-They levelled in the Down by day. In parties, the way they always had, out from the foot of the seven in different directions, and back to the rope tree by the time the light at the top started to turn. Ice went with a different party every day, because of the rock. Drew had added a line to it, at the bottom, in the blue light, the first night: *UP BEFORE DARK.* And under that, after a moment's thought: *ALL OF US.*
+They levelled in the Down by day. In parties, the way they always had, out from the foot of the seven in different directions, and back to the rope tree by the time the light at the top started to turn.
+
+Ice levelled on his own.
+
+That had been settled on floor 8, after three evenings of Drew and Rachael and Gabe arguing with him at the long table in the house for lights. He was a party of one. He was ten levels above anything the floor had to throw at him, which meant almost nothing on it gave him anything at all unless he went looking for the worst of it, alone, outnumbered, the way he had for a hundred and fifty-three days. Times two for alone. Times three for outnumbered. *It's a warning written as a reward*, Rachael had said, on floor 5, and said again, flatly, across the table. *I know*, he'd said. *I read it the first time too.*
+
+In the end Higu had settled it, the way Drew had settled it once on floor 5 for Ina, with a ladder and Winter sitting at the bottom of it all night in the sleet. He hunted alone. But never out of sight. Every day a different party went out with him, and stood off at a distance, and watched, and didn't lift a hand unless he went down. *With someone* didn't have to mean beside. It just had to mean somebody was looking.
+
+Calvin called it the Ina rule. Ina said that was the nicest thing anybody had ever named after him, and that he'd prefer a bridge.
+
+So Ice hunted alone, and a different party watched him every day, because of the rock. Drew had added a line to it, at the bottom, in the blue light, the first night: *UP BEFORE DARK.* And under that, after a moment's thought: *ALL OF US.*
 
 Every morning the Down was different.
 
