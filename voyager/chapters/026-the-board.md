@@ -163,7 +163,7 @@ They stood there. Drew didn't say anything. That was the trick, mostly. Most peo
 
 Drew looked at her.
 
-"She looks like she's not sleeping," said Gigi. She didn't look at him. "She's got the thing under her eyes. She used to get it before exams. She'd stay up all night and then pretend she hadn't." A pause. "I'm not asking because I care. I'm just asking."
+"She looks like she's not sleeping," said Gigi. She didn't look at him. "She's got the thing under her eyes. She used to get it. Before. She'd stay up all night and then pretend she hadn't." A pause. "I'm not asking because I care. I'm just asking."
 
 "She's not sleeping much," said Drew.
 
@@ -173,15 +173,15 @@ Drew looked at her.
 
 Gigi nodded slowly. She didn't say anything for a long time. The wind came off the mountain and moved her silver hair, and the forget-me-nots pinned in it.
 
-"She used to stay up with him," she said. "Every night. For a whole year. She'd sing and he'd play something, and she'd turn up the next day looking like a ghost and smiling like an idiot." She pulled her fur tighter. "I used to be so annoyed about it. Not because of him. Because she'd stopped staying up with *me*."
+"She used to stay up with him," she said. "Every night. For a whole year. She'd sing and he'd play something, and she'd turn up the next day looking like a ghost and smiling like an idiot." She pulled her fur tighter. "I used to be so annoyed about it. Not at him. At her. I took it out on her." A pause. "I took everything out on her. If she did well, I was horrible about it. If she did badly, I was horrible about that." She said it very fast, to the mountain, like somebody getting a thing out of their mouth before it could burn.
 
 Drew didn't say anything.
 
-"That's stupid," said Gigi. "I know that's stupid."
+"I know what that is," said Gigi. "Don't say it."
 
-"It's not stupid."
+He didn't.
 
-"It's a bit stupid." She was quiet. "Tell her—"
+She was quiet. "Tell her—"
 
 She stopped.
 
@@ -201,11 +201,11 @@ She didn't jump when he came up. She'd heard him.
 
 Thea went very still.
 
-"Gigi," said Drew. "Out by the stockade. She asked if you were sleeping. She said you've got the thing under your eyes, from exams." He paused. "She said she wasn't asking because she cared."
+"Gigi," said Drew. "Out by the stockade. She asked if you were sleeping. She said you've got the thing under your eyes. From before." He paused. "She said she wasn't asking because she cared."
 
 Thea didn't say anything for a long time. Then she put the chalk down on the ledge under the slate, very carefully, as if it might break.
 
-"She always noticed that," she said. Her voice wasn't quite steady. "The exam thing. Nobody else ever did."
+"She always noticed," she said. Her voice wasn't quite steady. "She noticed everything about me. That was—" She stopped. "That was always the trouble."
 
 "I know."
 

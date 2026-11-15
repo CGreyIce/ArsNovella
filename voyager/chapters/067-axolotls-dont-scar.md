@@ -63,15 +63,17 @@ Xola didn't say anything. She couldn't.
 
 Xola had been there for the first one. That was the thing about Xola and Thea and Ice. She'd been there at the very beginning, and it had been her fault, and she'd never once been sorry.
 
-Thea was eighteen. Xola was nineteen. They'd been friends for a year, the internet kind, the four-in-the-morning kind. And there was a boy Xola knew from a tournament. They'd played in it together on the same team, a long weekend of a thing, years ago now. He was funny, and loud, and kind, and good at games in a way that made you want to watch him play. And Xola had thought, one night, for no reason she could explain, *these two should know each other*.
+He'd been her friend first. Hers. Funny, and loud, and kind, and good at games in a way that made you want to watch him play. He'd liked her, once, for a while. She'd known. Nothing had come of it, and he'd never once made it weird; he'd just stayed, which most people didn't, and been her best friend instead. And one night Xola had thought, for no reason she could explain, *Thea should know him*.
 
-So she'd made a call. Three of them. And then she'd made an excuse halfway through and left the two of them in it.
-
-They'd stayed in it till six in the morning. He'd played. Thea had sung. And then they'd done it again the next night, and the next. Every night for most of a year, him playing, her singing, Xola dropping in sometimes and dropping out again with a grin nobody could see.
+So she'd made a call. Three of them. And then it was the three of them most nights, the three best friends anybody ever had. And more and more, after Xola had gone to bed, it was the two of them. He played. Thea sang. Every night for most of a year.
 
 *Best thing I ever did*, Xola had said to Thea, on floor 2, in Larchwick, in the snow. Thea had been sitting up at four in the morning with the face. The *four-in-the-morning face*, Xola called it, the one Thea got when she was thinking about something she couldn't stop thinking about. *Best thing I ever did, bringing him into that call. Second best was you.*
 
-It had passed. Of course it had. Things did. Thea had gone into her second year of studying and got tired, and the calls had thinned out, and then they'd stopped. And then it had been years, and then it had been a white room, and a blank name at the top of a list.
+And then there'd been Gigi.
+
+Xola didn't like thinking about the end of that. A thing with no name that ate every night Thea had. Gigi blaming her for everything, a good night or a bad one, and Thea taking it, and taking it, and saying *it's probably fair*, at four in the morning, on a different call, to Xola. It hadn't been fair. Xola had sat on the other end of that call for months and held her together, until the night Thea finally ended it.
+
+And somewhere in the middle of all that, he'd gone quiet. Then gone. Into Yan's calls instead of theirs. Thea said it had passed, for him. Xola had never been sure. She'd thought, privately, that he'd seen Thea with Gigi and walked away before it broke him, and been too kind to say why. She'd had her hands too full of Thea to go after him. And then it had been a white room, and a blank name at the top of a list.
 
 And now Thea had a scar from a thing that showed you what you wanted. And she'd been thinking about his hand for three days.
 
@@ -137,11 +139,11 @@ Thea looked at her for a moment. Then she drank.
 
 Xola looked at the two of them. Gigi, sitting cross-legged with her silver hair hanging down and the dead blue flowers still in it, not looking at Thea. Thea, drinking, with her eyes on Gigi over the top of the skin.
 
-Three days ago, in the cistern, Gigi had sat with Thea's head in her lap all night, wiping her face, and not said a word. Xola had fallen asleep against the wall around two, with her hands on Thea's arm. She'd woken up a little after three to the sound of two people talking very quietly. She hadn't moved. She'd kept her eyes shut and listened. *It showed me you. Staying up with me. Like before.* And *I should have stayed up. Some nights.* And then nothing, for a long time, and when she'd opened her eyes a crack, Gigi had her forehead against Thea's, and their hair was over both of them like a curtain.
+Three days ago, in the cistern, Gigi had sat with Thea's head in her lap all night, wiping her face, and not said a word. Xola had fallen asleep against the wall around two, with her hands on Thea's arm. She'd woken up a little after three to the sound of two people talking very quietly. She hadn't moved. She'd kept her eyes shut and listened. *It showed me you. Staying.* And *Don't say sorry to me. I used to make you say that.* And then nothing, for a long time, and when she'd opened her eyes a crack, Gigi had her forehead against Thea's, and their hair was over both of them like a curtain.
 
 Xola hadn't said anything about it. To either of them. It wasn't hers.
 
-But she'd been waiting years for those two to be in the same room without it hurting. And they were sitting on either side of her now, on cushions in a pit in the desert, and it didn't, quite. Not like before.
+She'd held Thea up through the worst of Gigi, and she'd never forgiven Gigi for it. Not once. Not for a single one of those calls. But she'd lain there in the dark with her eyes shut and heard Gigi say *I used to make you say that*, out loud, to Thea's face, and something in her chest had come unclenched that she hadn't known was clenched. And they were sitting on either side of her now, on cushions in a pit in the desert, and it didn't hurt, quite. Not like before.
 
 "Your flowers are dead," Xola said to Gigi.
 
@@ -157,7 +159,7 @@ Gigi didn't answer for a second.
 
 Thea had stopped drinking.
 
-Xola looked from one of them to the other. Then she reached out and took Gigi's hand and Thea's hand, one in each of hers. She held them both, very tightly, sitting between them on the floor, and didn't say anything at all. Because for once in her life she couldn't think of anything flowery enough.
+Xola looked from one of them to the other. Then she reached out and took Thea's hand. And after a long moment, Gigi's. One in each of hers. She held them both, very tightly, sitting between them on the floor, and didn't say anything at all. Because for once in her life she couldn't think of anything flowery enough.
 
 ***
 
@@ -177,7 +179,7 @@ Thea didn't look up from the lantern.
 
 "Like what?"
 
-"Like when you used to get your exam results," said Xola. "And you'd known for weeks what they'd be. And you'd been hoping you were wrong."
+"Like when Gigi used to start," said Xola. "On a call. And you'd known for an hour where it was going. And you'd been hoping you were wrong."
 
 Thea was quiet for a long time.
 
@@ -235,7 +237,7 @@ Xola went very still in her arms.
 
 Xola didn't say anything at all.
 
-She sat there on the floor of the round room, at the bottom of a pit in a desert of broken glass, with her best friend's arm round her. She thought about a call she'd made when she was nineteen. Three people. And then an excuse, halfway through, so she could leave the other two in it.
+She sat there on the floor of the round room, at the bottom of a pit in a desert of broken glass, with her best friend's arm round her. She thought about a call she'd made, years ago. Three people. A boy who'd liked her once and stayed her friend anyway, and the girl who was going to be her best friend for the rest of her life.
 
 *Best thing I ever did.*
 

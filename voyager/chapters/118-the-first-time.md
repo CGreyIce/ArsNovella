@@ -131,15 +131,21 @@ Not the floors. Them. The two of them. The first time.
 
 He felt her go still.
 
-"You knew," he said. "You always knew. On the calls. A year of them. You singing and me playing and both of us pretending it was just that." He looked at the tarn. "And then it passed. For me. The way those things pass. You had exams. You meant to call more. I meant to call more. And then a white room."
+"You knew," he said. "You always knew. On the calls. A year of them. You singing and me playing and both of us pretending it was just that." He looked at the tarn. "And then there was Gigi."
 
-"I know," said Thea. Very quietly.
+Thea didn't move.
 
-"And then up here," said Ice, "it came back."
+"I said it passed," said Ice. "To everybody. To me. It didn't pass. I just couldn't sit in those calls any more and be fine about it. So I went. Quietly. Into Yan's calls instead of yours." He was quiet. "It was that or not be all right. I picked all right. I never told you why."
+
+"I didn't know," said Thea. Very quietly. "I thought it passed. I told Xola it passed."
+
+"And I didn't know what it was like for you," he said. "With her. Any of it. Not till a week before the white room." He looked at the water. "A week. And then there wasn't any time."
+
+"And then up here," said Ice, "it didn't stop."
 
 The aurora rippled over the tarn. Green. Violet. A long slow fold of blue at the edge, like the hem of something.
 
-"So slowly I didn't see it," he said. "Ten years. It came back the way a tide comes in. You don't notice it. You look up and it's round your ankles." He swallowed. "On this rock. The first year. The tenth floor. You were sitting right here, where you are now, with your boots off and your feet in the water. Singing. To nobody. That song. The one from the end of the calls."
+"So slowly I didn't see it," he said. "Ten years. It came in the way a tide comes in. You don't notice it. You look up and it's round your ankles." He swallowed. "On this rock. The first year. The tenth floor. You were sitting right here, where you are now, with your boots off and your feet in the water. Singing. To nobody. That song. The one from the end of the calls."
 
 Thea's breath went out of her.
 

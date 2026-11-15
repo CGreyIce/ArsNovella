@@ -69,9 +69,9 @@ Nobody said anything for a while.
 
 Gigi looked at the place by the fire where, according to Hyvred, a man had sat on his own, peeling onions, in the snow, on his first night on floor 2, with something small asleep beside him.
 
-She'd known Ice for four years. Through Xola, and then through Thea, back when she and Thea had done everything together. He'd been in the calls. He'd been funny. He'd been, she'd thought at the time, a bit much: always on, always joking, always making everybody laugh. She hadn't trusted it. She didn't trust people who were that easy to be around. Easy was usually hiding something.
+She'd known Ice a long time. Through Xola, and then through Thea, back when she and Thea had been— whatever they'd been. Nobody had ever put a word to it. He'd been in the calls. He'd been funny. He'd been, she'd thought at the time, a bit much: always on, always joking, always making everybody laugh. She hadn't trusted it. She didn't trust people who were that easy to be around. Easy was usually hiding something.
 
-And then she'd watched him in a call one night when Thea was upset about something. Gigi couldn't remember what now. Exams, probably. Thea was always upset about exams. And Ice had stopped joking. Just stopped, completely, mid-sentence. He'd gone quiet, and started asking Thea questions. Small, boring questions, about other things, one after another, until Thea was talking about something else and had forgotten she'd been upset. Then he'd gone back to joking as if nothing had happened.
+And then she'd watched him in a call one night when Thea was upset about something. Gigi knew exactly what, now. It had been her. It was usually her. And Ice had stopped joking. Just stopped, completely, mid-sentence. He'd gone quiet, and started asking Thea questions. Small, boring questions, about other things, one after another, until Thea was talking about something else and had forgotten she'd been upset. Then he'd gone back to joking as if nothing had happened.
 
 Gigi had decided that night that she'd been wrong about him. It didn't happen very often.
 
@@ -213,11 +213,11 @@ But that wasn't why she'd gone out.
 
 She'd gone out because she'd been in the trapper's hall when Thea came in from the east slope. She'd seen her face in the firelight. The shadows under her eyes, like bruises. The way she'd stood at the board, very straight, reading her own small line at the bottom of it, and touched it with one finger as if she were checking it was still there.
 
-Gigi had seen that face before. Before every exam, every year, for years. Thea staying up all night and then pretending she hadn't. And Gigi had always been the one who noticed. The one who said *you look like death, go to bed*. The one who brought her coffee.
+Gigi had seen that face before. Plenty of times. She'd put it there, most of them.
 
-Until she hadn't been.
+It had never been anything they'd said out loud, her and Thea. Not together, exactly. Not not. Just every night, for a long time, and everything else arranged round it. And Gigi had blamed her for everything. If Thea had a good night, she was showing off, and Gigi felt small, and made sure Thea knew it. If Thea had a bad one, she'd dragged them both down, and Gigi made sure she knew that too. She'd known it wasn't fair while she was doing it. She hadn't been able to stop. It was easier to be angry at Thea than at anything else, and Thea let her.
 
-Until Gigi had been busy, and tired, and bad at replying, and bad at turning up. Bad at all the small boring things you have to keep doing to keep a friendship alive. Thea had done all of them, for both of them, for a year. And then one day she'd stopped, and said so, and Gigi had been so angry she'd stopped speaking to her. Angry because Thea was right. That was the part she'd never said, not even to herself. Thea had been right. A bit.
+Thea had taken it for a long time. Much longer than she should have. With Xola on the other end of a different call at four in the morning, holding her together. And then one day Thea had stopped, and said so, and ended it. And Gigi had been so angry she'd stopped speaking to her. Angry because Thea was right. That was the part she'd never said, not even to herself. Thea had been right. All of it.
 
 She stood at the stockade and looked at the light on the mountain.
 

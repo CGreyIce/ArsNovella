@@ -47,7 +47,7 @@ Kei noticed. Everybody noticed. Gigi, who was supposed to be lying down herself,
 
 Her silver hair was hanging down over both of them. The little blue flowers she kept in it had been dead since the heat, and she hadn't taken them out.
 
-Kei didn't say anything to her about it. Nobody did. Everybody knew about Thea and Gigi. They'd been close, years ago, the three of them, Thea and Gigi and Xola. And then they hadn't been. Gigi had wanted more nights than Thea could give, when Thea's studies got hard. Thea had stopped staying up. And it had sat between them ever since, in the draft, on floor 1, every floor. Thea passing over Gigi in the white room. Gigi asking Drew on floor 2, carefully, *is she sleeping?*
+Kei didn't say anything to her about it. Nobody did. Everybody knew about Thea and Gigi. Or knew enough. They'd been something, before, on Earth; nobody had ever been told what to call it. And it had gone wrong the slow, bad way. Gigi blaming Thea for everything, the good nights and the bad ones, and Thea taking it, for much too long, with Xola on the other end of a different call at four in the morning holding her together. Until Thea stopped, and ended it. And it had sat between them ever since, in the draft, on floor 1, every floor. Thea passing over Gigi in the white room. Gigi asking Drew on floor 2, carefully, *is she sleeping?*
 
 Gigi had run into a hole in the air this morning saying *Thea, Thea, wait.* And the real Thea had knocked her flat and taken the edge across her own shoulder.
 
@@ -277,7 +277,7 @@ Gigi didn't say anything.
 
 Gigi's mouth twisted.
 
-"It showed me you," she said. Her voice was blunt, the way it always was. Bratty. Cracked down the middle. "It was so stupid. You were just *sitting* there. On the glass. With your knees up. Like you used to. On calls. At two in the morning. Waiting for me to stop being an idiot so we could keep talking." She wiped her face with the back of her wrist, hard. "It showed me you *staying up*. That's what I wanted. More than anything. That's what it found in me. You. Staying up with me. Like before."
+"It showed me you," she said. Her voice was blunt, the way it always was. Bratty. Cracked down the middle. "It was so stupid. You were just *sitting* there. On the glass. With your knees up. Like you used to. On calls. At two in the morning. Before." She wiped her face with the back of her wrist, hard. "It showed me you *staying*. That's what I wanted. More than anything. That's what it found in me. You. Not leaving."
 
 Thea looked up at her for a long time.
 
@@ -289,13 +289,19 @@ Thea looked up at her for a long time.
 
 "I know."
 
-"I'm still angry at you," said Gigi. "About before. I'm still—"
+"I'm still angry at you," said Gigi. "About before. About you going. I'm still—"
 
-"I know," said Thea. "Me too. At me."
+"I know," said Thea. "I'm sor—"
 
-Gigi stopped.
+"*Don't*."
 
-"I should have stayed up," said Thea. Very quietly. "Some nights. I should have. I didn't, because I was tired and I was scared of my exams and I thought there'd be time. I always thought there'd be time." She looked up at the stars in the mouth of the cistern. "There isn't always time, Gi. I think I've—" She stopped. "I think I've only just found out how much there isn't."
+It came out of Gigi so hard that Kei stopped packing his jars.
+
+"Don't say sorry to me," said Gigi. "That's—" Her mouth worked. "I used to make you say that. Every time. Whatever happened. You'd have a good night and I'd make you sorry for it. You'd have a bad one and I'd make you sorry for that. And you said it. Every time. And I *let* you." She was crying properly now, without any noise, the tears just running. "I'm angry at you for going. And you were right to go. Both. I don't know how to do both."
+
+Thea didn't say anything for a long time. She looked up at the stars in the mouth of the cistern.
+
+"There isn't always time, Gi," she said at last. Very quietly. "I think I've only just found out how much there isn't."
 
 Gigi looked down at her for a long moment.
 

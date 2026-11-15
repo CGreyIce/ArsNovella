@@ -15,7 +15,7 @@ It wasn't leaning toward her now. It was leaning toward the end of the room, by 
 
 Xola watched it for a long time.
 
-She'd known Thea for years. Years, and three hundred and ninety-four days, if you counted the tower, and Xola always counted the tower. She'd been the one who'd put Thea in a call with a boy she'd met online, at nineteen, because she liked him and she liked Thea and she thought they'd be good at being friends. And then made an excuse, and left them in it until six in the morning.
+She'd known Thea for years. Years, and three hundred and ninety-four days, if you counted the tower, and Xola always counted the tower. She'd been the one who'd put Thea in a call with him, years ago: her best friend, who'd liked her once and stayed her friend anyway, and the girl who was going to be her best friend for the rest of her life. Because she liked them both, and she thought they'd be good at being friends.
 
 Best thing she'd ever done. She'd said so. Out loud, to both of them. *Second best was you.*
 
@@ -37,7 +37,7 @@ Happy, yes. That had been the first thing, the obvious thing, the thing Xola had
 
 But under the happy, there'd been something else. Something that had come back round the tarn with her and had been with her every day since. Something Thea was carrying very carefully, in both hands, up a stair.
 
-Xola had seen Thea carry things before. Exams, with the shadows coming up under her eyes. She knew what Thea's face did when she was carrying something and didn't want anybody to help, because if she let go of it for a second to let somebody help, she'd drop it.
+Xola had seen Thea carry things before. Gigi, at the end, with the shadows coming up under her eyes. She knew what Thea's face did when she was carrying something and didn't want anybody to help, because if she let go of it for a second to let somebody help, she'd drop it.
 
 This was that. But bigger. And Thea had been carrying it for a hundred and nine days, and she hadn't put it down once. Not even for Xola.
 

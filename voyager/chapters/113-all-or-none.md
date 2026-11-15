@@ -99,7 +99,7 @@ The wind came down the pass from the high side, over the roof, and didn't touch 
 
 She hadn't said it out loud. Ever. Not to Xola, not to herself. She heard it come out of her in the cold and sat there with it.
 
-"It didn't pass," she said. "It went somewhere. I was busy. I had exams. I meant to call more. And then the calls thinned out, and I told myself that was fine, that was just how it went. And then a white room. And a blank name at the top of the rankings." She pressed her hands together. "And I knew. On the first day. Before anybody. Not who it was. Just that whoever it was had already lost something here. And I couldn't stop thinking about him. And I thought it was the mystery. For about a hundred days. I really did think that."
+"It didn't pass," she said. "It went somewhere. There was Gigi. You know what there was. And he went quiet, and then he went, and I told myself that was fine, that it had passed for him and that was good, because I didn't have anything left over anyway. And then a white room. And a blank name at the top of the rankings." She pressed her hands together. "And I knew. On the first day. Before anybody. Not who it was. Just that whoever it was had already lost something here. And I couldn't stop thinking about him. And I thought it was the mystery. For about a hundred days. I really did think that."
 
 "Babe," said Xola.
 

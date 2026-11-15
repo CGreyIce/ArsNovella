@@ -177,9 +177,9 @@ Gigi stopped.
 
 Gigi stood there in the dark with her hands in her cardigan sleeves and looked at her.
 
-They hadn't been alone together since floor 6. Not really. Since a cistern at the bottom of a desert, with Thea's head in her lap all night and the fever going, and Thea saying *I should have stayed up. Some nights*, in the dark, very quietly, with her eyes shut. And Gigi saying *I'm still angry at you*. And Thea saying *me too. At me.* And their foreheads together, for a long time.
+They hadn't been alone together since floor 6. Not really. Since a cistern at the bottom of a desert, with Thea's head in her lap all night and the fever going, and Gigi saying *I used to make you say that*, out loud, for the first time in her life. And *I'm still angry at you. And you were right to go.* And their foreheads together, for a long time.
 
-And then nothing. Not nothing. They sat near each other at meals. They talked, in the club, about the ones before, about him. Thea had passed her the salt on floor 8 and Gigi had said thanks. It was fine. It was *fine*. They were people who'd been best friends once and were being very polite about the fact that they weren't, and it had been fine for a hundred days, and Gigi had hated every single one of them.
+And then nothing. Not nothing. They sat near each other at meals. They talked, in the club, about the ones before, about him. Thea had passed her the salt on floor 8 and Gigi had said thanks. It was fine. It was *fine*. They were two people who'd been something once, something nobody had a word for, and were being very polite about the fact that it had gone wrong, and it had been fine for a hundred days, and Gigi had hated every single one of them.
 
 "Hyvred's coming," said Gigi.
 
@@ -203,7 +203,7 @@ Gigi started to notice things. She didn't want to, but she did.
 
 She noticed that Thea held the lantern low, at the level of Gigi's hands, so she could see what she was doing, and not up where it would have been easier. She noticed that Thea had worked out on the second morning which bits of the hedge got torn worst, which was the north side, toward the Down, and stood there. She noticed that Thea's free hand kept going to her left shoulder, the way it did, to the scar, and then away again.
 
-She noticed that Thea didn't ask her for anything. Not once. Not to talk. Not to forgive her. Not to say any of the things they'd been not saying for a hundred days, or for the long time before that, on Earth, when the messages took a week to come back and then didn't come back at all.
+She noticed that Thea didn't ask her for anything. Not once. Not to talk. Not to forgive her. Not to say any of the things they'd been not saying for a hundred days, or for the long time before that, on Earth, after Thea ended it, when Gigi stopped answering at all.
 
 She just turned up. Every morning. In the dark, on the edge of the platform, with the lantern.
 
@@ -225,31 +225,37 @@ Thea didn't answer for a long time.
 
 "So why—"
 
-"Because you said *staying up*," said Thea.
+"Because you said *staying*," said Thea.
 
 Gigi's hands stopped.
 
-"In the cistern," said Thea. "When you had my head on your knee. You said it showed you me. On six. The thing that shows you what you want. You said it showed you me *staying up with you. Like before*." Her voice was very even. "That's what you wanted most. On the whole of floor 6. Out of everything." She paused. "Not him. Not home. Me. Staying up."
+"In the cistern," said Thea. "When you had my head on your knee. You said it showed you me. On six. The thing that shows you what you want. You said it showed you me *staying*. Not leaving." Her voice was very even. "That's what you wanted most. On the whole of floor 6. Out of everything." She paused. "Not him. Not home. Me. Staying."
 
 Gigi didn't say anything. She was looking at her hands on the ground.
 
-"I didn't, on Earth," said Thea. "Stay up. Not enough. I know I didn't. I was always too tired, or too busy, or I'd say *tomorrow*, and then it was tomorrow and I'd say it again." She was quiet. "And you stopped coming. And I told everyone it was because you didn't pull your weight. I told *myself*. For ages." The lantern moved, very slightly. "I was right. You didn't. But I didn't either. I just didn't say that part."
+"I can't do before," said Thea. "I'm not going back to before, Gi. I'm not doing that again. Not ever." The lantern didn't move. "But I can do this. I can stand here every morning where you can see me. With the light where you need it. That's staying. That's the bit of it I can do."
 
 The Down ticked round them, in the grey.
 
-"So I'm staying up," said Thea. "That's all. It's morning, so it doesn't really count. But it's what I've got." She paused again. "I'm not asking you for anything. I'm not asking you to forgive me. I just wanted to be somewhere you could see me doing it."
+"I'm not asking you for anything," said Thea. "I'm not asking you to say anything. I just wanted to be somewhere you could see me doing it."
 
 Gigi knelt in the ash with her hands on the ground.
 
 She didn't know what her face was doing. She was glad Thea was behind her. She was glad of the dark, and the hedge, and the seedling standing in front of her, taller than her knee now, with its fist of a bud at the top, not caring about any of it.
 
-"I'm still angry at you," said Gigi. It came out very thick.
+"I blamed you for everything," said Gigi.
 
-"I know."
+It came out very thick. She hadn't known it was coming until it was out.
 
-"I've been angry at you for ages. It's—I'm *good* at it. I know how to do it. I know where everything is." She pressed her hands into the earth. "Bee says I never let go of anything."
+"I know," said Thea.
 
-"Bee's right," said Thea. "You never did. That was the best thing about you."
+"*Everything.* You'd do well, and it was at me. You'd do badly, and it was because of you. I had it both ways. I made sure I had it both ways." She pressed her hands into the earth. "And you took it. For ages. And Xola picked you up off the floor every night, and you came back and took it again. And then you stopped, and I told everybody you'd left me." Her voice cracked straight across. "You didn't leave me. I pushed until there was nothing left to stay on."
+
+Thea didn't say anything. The lantern stayed low.
+
+"I'm still angry," said Gigi. "I don't even know at who any more. I'm *good* at angry. I know where everything is. Bee says I never let go of anything."
+
+"Bee's right," said Thea. "You never did. That was the best thing about you. When it was pointing the right way."
 
 Gigi laughed. She didn't mean to. It came out of her wet and furious and sudden, on her knees in the ash, and she put her arm up over her face and laughed into her sleeve, and couldn't stop.
 
@@ -441,7 +447,7 @@ The ash was going. The Grow ate a finger a night.
 Gigi: Bramble, a hedge round the seedling. It fought it every night. She grew it back every morning.
 Hidden quest: The Garden (1 of 3). Keep one that cannot keep itself. Come back every day.
 Hyvred went down with her first. Then Thea, every morning, with the lantern. "Coming."
-Thea: "You said staying up." Gigi: "I'm still angry at you." "Bee's right. You never let go. That was the best thing about you."
+Thea: "You said staying." "I can't do before... But I can do this." Gigi: "I blamed you for everything." "I know." "Bee's right. You never let go. That was the best thing about you. When it was pointing the right way."
 Bee drew it every morning. Knee, thigh, waist, taller than Gigi.
 Eighth morning: its own roots. The Grow stopped. Gigi let go.
 The Garden (1 of 3), complete. Gigi: Hedgerow. Next: pull up one that was never planted.

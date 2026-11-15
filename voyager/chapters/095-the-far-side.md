@@ -87,6 +87,8 @@ It wasn't the kind of angry that shouts. He knew that kind. This was the other k
 
 He'd been their best friend, once. Both of theirs. He'd forgotten what that weighed.
 
+Xola first. He'd liked her, a long time ago, and she'd known, and nothing had come of it, and they'd stayed friends anyway, which he'd always thought was the best thing either of them ever did. Then Thea, through Xola. A year of calls. And then Thea and Gigi, and him sitting in those calls being fine about it, until he couldn't be, and he'd gone. Quietly. Into Yan's lot. For his own sake, and without ever telling either of them why. He hadn't known what it had been like for Thea, with Gigi. Not any of it. Not until a week before the white room. And then there hadn't been any time at all.
+
 At the top of the rope, when the parties were going down, Xola stopped beside him. Just for a second. She didn't look at him.
 
 "Don't come back under half," she said.

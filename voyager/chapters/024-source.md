@@ -108,11 +108,13 @@ She shut the window and didn't say anything for a while. Chi, beside her, didn't
 
 ***
 
-Thea had known Ice since she was eighteen. Four years.
+Thea had known Ice for years.
 
 Not the way Gabe had known him, or Yan, or Hana. Not from the start. Xola had brought him into a call one night, the way Xola brought people into everything, and he'd been funny. That was all, at first: funny, quick, a voice in a call. Then, somehow, it had become every night. Every single night for most of a year, the two of them on a call, after everyone else had gone to bed. He played games with her, or for her, when she was too tired to play and just wanted to watch. And she sang. She didn't know how that had started. One night she'd been humming something, and he'd said *louder*, and she'd said *no*, and he'd said *please*. And she'd sung it. After that it was every night: him playing, and her singing, and neither of them saying much in between.
 
-She'd known he liked her. At one point. She wasn't stupid; she'd known. He'd never said anything, and she'd never said anything, and it had been sweet, and slightly awkward, and then, sometime in her second year of studying, it had passed. She'd felt it pass, the way you feel the weather change. He'd never made it weird. He'd just kept being there, every night, being funny, being kind. Until school got busy and the calls got fewer, and then fewer, and then they were the kind of friends who talked every few weeks and said *we should call more* and didn't.
+She'd known he liked her. At one point. She wasn't stupid; she'd known. He'd never said anything, and she'd never said anything, and it had been sweet, and slightly awkward. And then there'd been Gigi. Not a thing either of them had ever put a word to, her and Gigi. But a thing. A thing that took every night she had, and then the ones she didn't. And he'd gone quieter, and the calls got fewer, and then fewer, and she'd told herself it had passed, for him, the way you feel the weather change, and that that was good. He'd never made it weird. He'd just gone, slowly and kindly, into Yan's calls instead of hers, and then they were the kind of friends who talked every few weeks and said *we should call more* and didn't.
+
+By the time it was over with Gigi, she hadn't known how to start again.
 
 She'd meant to call more.
 
