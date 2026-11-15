@@ -397,7 +397,7 @@ Wendy watched him go to Marrit, at the wheel, and ask. She saw Marrit shake her 
 
 Wendy didn't say anything.
 
-"She went down the steps at night," said Yan, "for a needle-case. Her needle-case. The seal's tooth one. And she fell, or she slipped, and the tide was in, and nobody saw." He put his thumb on the knot. "And Corran tied a knot for her. Because nobody else was going to. Because somebody has to."
+"She went down the steps at night," said Yan, "for a needle-case. Her needle-case. The seal's tooth one. And she fell, or she slipped, and the tide was in, and nobody saw." He put his thumb on the knot. "And Corran tied a knot for her. Because nobody else was going to."
 
 "Annis," said Wendy.
 
@@ -469,7 +469,7 @@ Nobody on the deck said anything.
 
 And then Morva, at the side, by the rail, very quietly, hummed. Three notes. A little tune. Wendy didn't know it. Nobody did, except Morva. And then stopped, embarrassed, and looked at her hands.
 
-Yan's eyes were wet. He went on.
+Yan's head came up at the hum, quick, the way it did when a thing fitted. Then he went on.
 
 "Jory Kittiwake," he said, near the end of the tenth. "Corran's son. Marrit's uncle. Twenty-six. The long calm. He folded his shirt on the rail first." He swallowed. "He always asked. He always wanted to know things."
 
@@ -551,7 +551,7 @@ Wendy stood up.
 
 "Kitto," said Wendy.
 
-"He's down there." Yan's hands had gone white on the rail. "In it. In the hole. With all of them. I said his name and he *heard* me. He turned round." His voice cracked. "He's fourteen, Wendy. He's been down there seventy years. In the dark. And I said his name and he turned round to see who it was."
+"He's down there." Yan's hands had gone white on the rail. "In it. In the hole. With all of them. I said his name and he *heard* me. He turned round." His voice didn't crack. Wendy noticed that. It went the other way: quick, and low, and lit, the way it went over a knot he'd nearly got undone. "Seventy years in the dark, Wen, and I said his name and he turned round to see who it was. They *hear* it. They come when they're called."
 
 Wendy put her hand on his arm. On the cords. She didn't say anything. She was good at that.
 

@@ -33,7 +33,7 @@ Not much worse. A bit more gorse, a bit more stone, more walls for the Woolbacks
 
 Yan had chosen the south fields because of that.
 
-"If we're going to be scared," he'd said to his party that morning, outside the Spoon in the grey light, "I'd rather it was now. On purpose. With all of us together. Than later, by accident, on our own."
+"A ram broke Calvin's arm," he'd said to his party that morning, outside the Spoon in the grey light. "So that's where the rams are. I'd like to see one. Before one sees us."
 
 "That's very wise," Cursiffe had said, adjusting his round wire glasses. "And slightly ominous."
 
@@ -65,6 +65,8 @@ And Cursiffe, who was a Mage, who'd come out of the staff door with a slim black
 
 Yan liked him more every hour.
 
+Yan had a staff too. A plain one, pale wood with a knob at the top, that the man at the Cleric's door had handed him on the first morning without looking up. Yan had asked for a scythe. The man had looked up then. *Clerics get staffs.* So Yan had a staff, and every so often, walking out to the fields with it over his shoulder, he mentioned it, mildly, the way other people mentioned the weather. *I wanted a scythe. They gave me a stick.* Tiger thought it was the funniest thing anybody had ever said. By the third day Salty had started saying it back.
+
 ***
 
 He'd been watching the Woolbacks' candles all morning, and that was the other thing he hadn't told anyone.
@@ -85,13 +87,17 @@ Then he'd looked at the girl with the eggs, who'd been at the door. A candle. Sm
 
 He'd been hoping, a little, he realised, that they wouldn't.
 
-Malcolm had said it at the arch, the first day: *they're NPCs. It's a game.* And part of Yan had wanted that to be true. It would be easier. If the people here were painted fronts and recorded lines, then this was a game, a very good, very frightening game, and you could play a game. You could be brave in a game. You could leave a game behind.
+Not because it frightened him. It didn't, much. Because it would have been simpler. Malcolm had said it at the arch, the first day: *they're NPCs. It's a game.* And part of Yan had liked that. If the people here were painted fronts and recorded lines, then you didn't owe them anything. You could be polite to them, and use them, and step round them, and leave them behind, and nobody would be any the worse.
 
 But Mother Crane had a candle. And when the girl with the eggs had dropped one on the step this morning, Yan had watched her candle jump and flare with dismay, then settle again when Mother Crane told her it didn't matter, the way any child's would.
 
 *Nobody can tell the difference,* Yan thought. *Not even me.*
 
-And he was the only one who could see them.
+He turned it over, sitting there with his spoon, the way he turned everything over, slowly, all the way down. And found, a little to his own surprise, that it didn't change as much as it should have. He'd never owed strangers much. He was kind to the ones who were kind, and he didn't think about the rest. That could go on being true here. Candle or no candle.
+
+But it was interesting. It was the most interesting thing that had ever happened to him.
+
+And he was the only one who could see them. He decided to keep it that way, for a while. A thing nobody else knew was worth more if you didn't spend it.
 
 ***
 
@@ -137,7 +143,7 @@ He thought of home, years ago, on a night the power went out in a storm. He'd li
 
 You couldn't make it bigger. But you could keep the wind off it.
 
-Yan put both his hands out over Salty's chest. Not touching him. Cupped, the way you'd cup them round a flame, one on each side, curved in. He didn't push anything into him. He just put his hands where the wind was coming from, and held them there, and thought, as hard as he'd ever thought anything: *not this one*.
+Yan put both his hands out over Salty's chest. Not touching him. Cupped, the way you'd cup them round a flame, one on each side, curved in. He didn't push anything into him. He just put his hands where the wind was coming from, and held them there, and thought, as hard as he'd ever thought anything: *not him. Not one of mine.*
 
 The wind hit his hands.
 
@@ -217,7 +223,11 @@ He had been. Under all of it, the whole time. The figure by the arch on the firs
 
 *I heard.*
 
-"I lied." He looked down at the white snake on his collarbone. "I'm not less sure. I'm scared. It's different."
+"I lied." He looked down at the white snake on his collarbone. "I'm not less sure. I just didn't want to argue with Malcolm in front of the porridge."
+
+*You lie a lot*, said Suzu.
+
+"Not to you." He was quiet for a moment. "I'm *sure*. That's the trouble. If it was him, he walked out of that door on purpose. On his own. Without us. And I'd like to know why before I decide how cross to be."
 
 Suzu turned her head and looked at him, green eyes in the dark.
 

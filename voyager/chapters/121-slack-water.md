@@ -399,37 +399,95 @@ The water came out of her hands. That was what her healing was. Cool, and clear,
 
 Then the cut on his head. Then a long scrape down his ribs he hadn't even noticed. Then she sat back on her heels on the rock and looked at him with her hair dripping into her eyes, and stopped grinning.
 
-"You did your gold thing," she said. Slowly. "At *sixty-four*."
+All at once. Like a lamp going out.
+
+"You did your gold thing," she said. Slowly. "At sixty-four. I saw it. From the pool. With me *there*. I nearly *cheered*." She wiped the water out of her eyes with the heel of her hand. "And then you *stayed*."
 
 He didn't say anything.
 
-"I was in a *pool*, Ice. I saw your hand go gold. At sixty-four. In the middle of them. With me *there*." Her voice did something. "You never do that. Not above fifty. Not if I'm there. Not *once*, not on nine, not on ten—"
+"Marrit said. At the slip. In front of everybody. *When it turns, you get out.* She said it twice. She said it to *you*." Her voice was climbing. "And it turned. Thea *called* it. I heard her from the pool. The whole *Shoals* heard her. And there was a crab the size of a *cart* coming up out of the channel, and you didn't get out. You went and *met* it."
 
-"You said don't come back under half."
+"It was three above me."
 
-Xola stared at him.
+"I don't *care* if it was three above you!" Squiddles went flat on the rock. "I don't care if it was *thirty* above you! You had twenty minutes of rock left and you spent them on a *crab*!"
 
-"On nine," he said. "At the top of the rope."
+He'd heard her angry with him before. On nine. At the top of the rope. *Don't come back under half.* It was the same voice. And he noticed, sitting there with the sea running out of his hair, that she hadn't said his name. Not since the water had gone out of her hands. She'd said it all the way across the bay, laughing, *not helping, Ice, just swimming*. And now she wouldn't.
 
-"You *heard* that?"
+She hadn't said it for days, on nine, either.
 
-"I heard it."
+"And then you were taking your *greaves* off." She pointed at them, still half-buckled on his shin. "In the *sea*. What was that? What was the *plan*? Swim it? A hundred metres, with the tide coming in at a *walk*, in a vest, with a *sword*? Were you going to hold it in your *teeth*?"
 
-Xola looked at him for a long moment, with the water running out of her hair. Then she looked away, quickly, at the sea, and wiped her face with the back of her wrist, which did nothing, because everything was wet.
+"I'd have—"
 
-"You still got *bitten*," she said. "On the leg. Right at the start. I saw it close. And you didn't even look at it. I thought it *missed*." She shook her head, and water flew off her gills. "I watched it on nine. All day. I thought I'd got used to it." She wiped her face again. "I have *not* got used to it."
+"You'd have *sunk*. She told you. I bet she told you. I bet she said *you'll sink*."
 
-"You held onto the shield," she said. "We saw. She was pulling you into the channel and you held onto the shield."
+Alea, on his shoulder, small and soaked, said nothing at all, very loudly.
+
+"And the *shield*," said Xola. "She had you by the shield. She was pulling you into the *deep*. Into the channel. Where the *boy* went. And you wouldn't let *go*."
 
 "Gabe made it."
 
-"I *know* Gabe made it," said Xola. "Gabe would *kill* you."
+"I *know* Gabe made it! Gabe would *kill* you!"
 
 "Gabe would have held onto it too."
 
-Xola opened her mouth. Shut it. Looked at Thea.
+Xola opened her mouth. Shut it.
 
-"Yeah," said Xola. "Yeah, okay, he would." She looked at Ice for a long moment. Then she leaned forward and put her wet forehead against his, briefly, hard, the way she did to Thea sometimes. "You're both *idiots*," she said. "All of you. Every single one."
+"Then he's an idiot as well," she said. "You're both *idiots*. All of you. Every single—" And her voice went on *single*, and she turned her face away to the sea, quickly, and wiped it with the back of her wrist, which did nothing, because everything was wet. "I watched it on nine. All day. I thought I'd got used to it." She sniffed, hard. "I have *not* got used to it."
+
+Thea hadn't said anything.
+
+She was still kneeling in front of him. She'd let go of his face while Xola healed him, and she was sitting back on her heels now with her hands on her knees and the lantern on the wet rock beside her, and she'd listened to every word with nothing on her face at all. He knew that face. He'd seen it on nine, at midnight, after the brood. *I'm still angry.*
+
+"Xola's right," she said.
+
+Quietly. The mean voice. The one she kept for when she needed it.
+
+"I called the tide," said Thea. "I called it, and you heard me. I *saw* you hear me. You looked at the water. And then you looked at her coming up out of the channel, and you went." She didn't look away from him. "You didn't even decide. I watched you. You just *went*. As if the sea was somebody else's problem."
+
+"Thea—"
+
+"If Xola had been anybody else," said Thea. "If she'd been on the land instead of in a pool. If she'd been *me*. You'd be at the bottom of the bay with your greaves half off. And I'd be standing on a rock with a lantern in my hand. Watching." Her voice didn't shake. Her hands, on her knees, had closed. "Following the rule. Is that what the rule's for? So I can *watch*?"
+
+He didn't have anything to say to that. There wasn't anything.
+
+"Under the lights," said Thea. "On ten. I said heal sooner. A bit. *Try.* And you said you'd try."
+
+"I tried," he said. "Sixty-four."
+
+"You tried at sixty-four. And then you stayed out in the sea for a crab." She took a breath. "Try isn't enough. I thought it would be. It isn't. I'm not having *try*."
+
+She reached out and took his sword hand off the hilt across his knees, and held it in both of hers. Hard. Wet and cold and hard.
+
+"Promise me," she said.
+
+"Promise what?"
+
+"That you'll look after yourself. Properly. Not when it's nearly too late. When it *hurts*. That when Alea says a number you don't like, you heal, and you don't wait for a worse one. That you get out when the tide turns. That you come *back*." Her grip tightened. "I know you won't do it for you. You never have. I don't think you know how. So don't do it for you." Her eyes were very bright, and very steady. "Do it for me."
+
+He looked at her.
+
+At her hands round his. At the lantern on the black rock beside her, burning in the full sun where nobody needed it. At Xola, very still now, with the water running out of her hair, watching him the way she'd watched him from the pool.
+
+Nobody had ever asked him for that. He'd never stood still long enough for anybody to.
+
+"*Ice*," said Thea.
+
+"I promise."
+
+"Say it properly."
+
+He held her hands.
+
+"I promise," he said. "I'll look after myself. I'll heal when it hurts. I'll get out when it turns." He swallowed salt. "For you."
+
+Thea let her breath out. All of it, slowly, as if she'd been holding it since the tide turned. She didn't smile. She nodded once, the way you'd nod at something that had just gone on the rock. Then she leaned forward and put her forehead against his and stayed there.
+
+"I heard that," said Xola. Thickly. "I'm a witness. That's a *witnessed promise*. I'm putting it on the rock."
+
+"It's not going on the rock," said Thea, into his hair.
+
+"It's going on *my* rock." Xola sniffed again. Then she leaned in and put her own wet forehead against the side of his head, briefly, hard, the way she did to Thea sometimes. "You *idiot*," she said. And then, after a moment, very quietly, as if it was something she'd been holding back as well: "*Icey*."
 
 ***
 
@@ -513,13 +571,11 @@ He knew what she meant.
 
 She was quiet.
 
-"And you healed," she said. "Before. At sixty-four. In the middle of them."
+"You promised," she said. Not asking. Checking. The way you'd put your hand on a pocket to feel the thing was still in it.
 
-"You said try."
+"I promised."
 
-"I said try." She opened her hand again and looked at it. "I didn't think you'd *do* it."
-
-He didn't say anything.
+"Good." She opened her hand again and looked at it.
 
 "Is that what it's like?" said Thea. "For you? Every time? Watching one of us?"
 
@@ -777,8 +833,11 @@ I said: it looks like the Last Light, and it's in the wrong place, and it's a da
 The rota: Thea watching. Xola. "It's on the rock, Dec."
 The Shoals. Eleven wrackers and Old Shears, Lv 59. Lv 57. Alone, outnumbered. Times six.
 Thea called the tide. Then she stopped calling, and didn't come. I felt how hard it was.
-Healed at sixty-four. Xola saw. "With me *there*." Said it hurts, not fine. Thea went still.
+Healed at sixty-four. Said it hurts, not fine. Thea went still.
 I held onto the shield. Xola towed me a hundred metres through the sea, laughing. "Not helping, just swimming."
+Then they both shouted at me. I stayed after the turn. Xola wouldn't say my name.
+Thea: "Try isn't enough. Do it for me." I promised. Heal when it hurts. Get out when it turns. Come back. For her.
+Xola: "That's a witnessed promise." Then, "Icey."
 Six hours on a rock in the sun. The longest I've ever sat with her in daylight. Either life.
 I told her about the rhythm. She says it isn't blocking me. It's asking. "Where did you come from" without words.
 It doesn't know she knows. She says she'll keep it from it, too. She never looked east all night.

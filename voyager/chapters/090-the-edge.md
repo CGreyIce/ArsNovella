@@ -11,7 +11,7 @@ Yan had noticed it on the stair, the first evening, when Oarin came up out of th
 
 That was what four hundred years looked like, he supposed. You didn't burn bright. You burned *long*.
 
-He'd stopped being able to look at them for very long. It was too much like looking at the sea.
+He could have looked at them for hours. Some evenings he did. It was like looking at the sea.
 
 ***
 
@@ -19,7 +19,7 @@ Three more boats went over in the ten days after the first one.
 
 It was autumn. The river-folk said the old went before the ice, the way leaves did. They said it simply, the way they said everything, and went on with their slow lives. And three times more, at dusk, the low humming started all over the city, and the lamps went out from the top of the falls down, and a reed boat with one small light at its bow went out across the lake on the end of Aud's line.
 
-He watched every one. He couldn't not.
+He watched every one. He wouldn't have missed one for anything.
 
 Every time, it was the same. The candle didn't rise. On every floor below this one, when something died, a thin thread went up off it like smoke off a snuffed wick, and went somewhere. Here, it didn't. It stayed. Sitting in the boat, under the green net, with the body. Small, and uncertain, and turned very low, the way a lamp sits in a window after everybody's gone to bed, not knowing whether anybody is coming back to put it out.
 
@@ -73,9 +73,9 @@ He didn't say anything.
 
 "I have done it a hundred and ninety-one years," said Aud. "I was apprenticed to Hessel, who did it before me, and he was apprenticed to Coll. Back and back. There has always been an edge-keeper." She looked out at the Edge. At the long straight lip at the end of the lake, the water going over it in a smooth green curve, into the white. "There has been no apprentice for a hundred years. The young are afraid of it. Of the causeway. Of the Edge." She was quiet. "Of the warmth. They do not like to feel it."
 
-"I'm not surprised," said Yan.
+"I'd like to," said Yan. "Feel it."
 
-"No." She turned her large dark eyes on him. "*You* see them."
+Aud turned her large dark eyes on him and looked at him for a while. "Yes," she said. "I thought you might." A pause. "*You* see them."
 
 It wasn't a question. He didn't pretend it was.
 
@@ -91,7 +91,7 @@ Aud looked at him a long time.
 
 He hadn't been asked that since Salty, on this same jetty. *Does mine look all right?* He looked at the middle of her chest, under the grey robe. He'd looked at it every evening for ten days and not let himself think about it.
 
-"Very low," he said. Gently. He'd always believed that you didn't lie to people about their own light. "Turned down. Like a lamp at night. But steady. It's very steady."
+"Very low," he said. He didn't dress it up. He lied about plenty of things, when it was quicker; he had never once lied to anybody about their own light. "Turned down. Like a lamp at night. But steady. It's very steady."
 
 Aud nodded slowly, as if he'd told her the weather.
 
@@ -149,7 +149,7 @@ Cupped. Round it. The way you cup a candle in a draught.
 
 *You can't make the light bigger*, he'd said to himself, on the first floor, the first time. *You can keep the wind off it.*
 
-He could keep the wind off it. He could keep it for an hour. Two. Longer, if he didn't mind his hands going white to the elbow. He could sit here on the jetty and hold it, and she'd stay. She'd stay, and Tiger would stay, with her hand on his head—
+He could keep the wind off it. He could keep it for an hour. Two. Longer, if he didn't mind his hands going white to the elbow. It wasn't for her. He didn't much mind about Neth, if he was honest; he'd spoken to her twice. But he could sit here on the jetty and hold it, and she'd stay. And *Tiger* would stay, with her hand on his head, and his face not gone calm like that—
 
 The light leaned away from his hands.
 
@@ -173,7 +173,7 @@ He sat there with his hands cupped.
 
 He put his hands down.
 
-It was the hardest thing he'd done on any floor. Harder than the Prism. Harder than lowering his staff in the glass while Wendy drew. He laid his hands on his knees. They were white to the wrist. He let them lie there, and let her light be.
+It was the hardest thing he'd done on any floor. Not for her. For the quick one beside him, with his face gone calm. He laid his hands on his knees. They were white to the wrist. He let them lie there, and let her light be.
 
 It settled. Leaning out over the water. Small and blue and very still.
 
@@ -199,7 +199,7 @@ And she said, "*Hm*."
 
 And that was all.
 
-Yan watched the light. He watched it the whole time. He'd told Wendy on six that somebody should. He watched the small blue bead go stiller, and stiller, until it was so still it wasn't burning at all. Just *there*. Sitting in her. Not going out. Not going up. Not rising off her in a thin thread the way every light on every floor below had risen, every single time. Just sitting in her, very small, as if it had been told to wait somewhere and had sat down to do it.
+Yan watched the light. He watched it the whole time. He'd watched every light he'd ever seen go out. He wasn't going to miss this one. He watched the small blue bead go stiller, and stiller, until it was so still it wasn't burning at all. Just *there*. Sitting in her. Not going out. Not going up. Not rising off her in a thin thread the way every light on every floor below had risen, every single time. Just sitting in her, very small, as if it had been told to wait somewhere and had sat down to do it.
 
 Her hand slid off Tiger's head onto the planks.
 
@@ -247,7 +247,7 @@ It was long. Longer than he was tall, by a head. Pale wood, worn dark and smooth
 
 He held it upright beside him.
 
-It felt—he didn't know what it felt like. Like the right weight. Like a word he'd known once and forgotten, coming back into his mouth. He'd carried a plain staff since floor 1. It had always been fine. He'd never once thought about what it might be like to carry something else.
+It felt—he didn't know what it felt like. Like the right weight. Like a word he'd known once and forgotten, coming back into his mouth. He'd carried a plain staff since floor 1, because Clerics got staffs and the man at the door had had nothing else, and he'd said so about once a week ever since. *I wanted a scythe. They gave me a stick.* And here it was. Near enough. Not a scythe; a keeper's pole. But the blade sat across the end of it the way a scythe's did, and it was the right weight, and his hands already knew where to go.
 
 *Oh*, said Suzu. Very quietly, by his ear. *Oh, Yun.*
 
@@ -315,7 +315,7 @@ He waited.
 
 *Until it lies down*, Aud had said. *You will see it.*
 
-He didn't know what that meant. He stood at the Edge with the water pulling at his knees, and the line in his fist, and the long pole upright in his other hand, and he watched. The way he'd watched the Prism. The way he'd watched every light he'd ever watched go out. Because somebody should.
+He didn't know what that meant. He stood at the Edge with the water pulling at his knees, and the line in his fist, and the long pole upright in his other hand, and he watched. The way he'd watched the Prism. The way he'd watched every light he'd ever seen go out. Closely, all the way, because he wanted to know.
 
 The light sat in the boat. Small. Still. Not afraid any more, he thought. But not going, either. Just sitting there at the very end of everything, the way it had sat on the jetty. Waiting to be told.
 
@@ -396,7 +396,7 @@ He sat up late that night, on the bench outside the house for lights, with the p
 
 He looked at the lights.
 
-He did it on bad nights. It helped. He couldn't have said why. Thirty-five candles, through the windows of the house, burning in the dark. Salty's, roaring softly like a banked forge, out at the second arch where he'd gone again, thinking nobody knew. Wendy's, small and steady, right by the door where she'd put her bedroll. Tiger's, still on the jetty. Not flickering. For the first time since the white room, Tiger's light wasn't flickering at all. It was just burning. Very steady. As if it had learned to sit.
+He did it most nights. It was how he counted them. Thirty-five candles, through the windows of the house, burning in the dark. Salty's, roaring softly like a banked forge, out at the second arch where he'd gone again, thinking nobody knew. Wendy's, small and steady, right by the door where she'd put her bedroll. Tiger's, still on the jetty. Not flickering. For the first time since the white room, Tiger's light wasn't flickering at all. It was just burning. Very steady. As if it had learned to sit.
 
 And Ice's.
 

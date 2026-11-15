@@ -225,17 +225,17 @@ Not at it. At the place under its breastbone. Under the wing. The way Yan looked
 
 Nobody said anything.
 
-"It was in there," said Yan. Very quietly. To Suzu, or to nobody. "The whole time. Its light. It couldn't go. The salt kept it. Like it kept the birds." His face was wet. Rain, and not only rain. "A thousand years. In there. Waiting. It couldn't go anywhere. It wasn't allowed."
+"It was in there," said Yan. To Suzu, or to nobody. "The whole time. Its light. It couldn't go. The salt kept it. Like it kept the birds." The rain ran down his face and he didn't wipe it. He didn't sound sorry for the thing. He sounded the way Yan always sounded about what nobody else could see: interested. "A thousand years. In there. Waiting. It couldn't go anywhere. It wasn't allowed."
 
 He watched the place under the wing for a long time.
 
-"It's going now," said Yan. "It's going up. On its own. It doesn't need walking." He swallowed. "It's just going. Like the ones on the floors below. Like a thread."
+"It's going now," said Yan. "It's going up. On its own. It doesn't need walking." He sounded pleased. "It's just going. Like the ones on the floors below. Like a thread."
 
 Suzu put her head against his jaw.
 
 Yan stood in the rain and watched something nobody else could see go up out of a dead heron into the dark grey sky, and Ice watched Yan watch it, and he thought about the kept birds round the Mast with their wings out, and the raker's sled with the strap still on, and the boats, and everything the salt had held on to for a thousand years because it couldn't let go. And the rain coming down on all of it.
 
-"Bye," said Yan. Very softly. Up.
+"Bye," said Yan. Up. Cheerfully, the way you'd wave somebody off at a gate.
 
 ***
 

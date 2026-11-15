@@ -35,7 +35,7 @@ Tiger was on the bowsprit still. Higu had said he could be. *Tiger on the bowspr
 
 Below him, at the very front of the ship, where the bulwarks came together at the stem, Yan's party.
 
-Salty in front. Right in the angle of the bow, at the rail, with his chipped greatsword in both hands, the one that was *serrated, that's a feature*, feet planted. Salty always went first. Behind him, Yan. Standing straight, with the cords on his left arm from wrist to elbow, black at the top, brown at the bottom, and in his right hand Working On It, the butt of the pale ash on the deck and the long curved blade high over his head, catching the noon sun along the grain. Suzu round his neck with her head up.
+Salty in front. Right in the angle of the bow, at the rail, with his chipped greatsword in both hands, the one that was *serrated, that's a feature*, feet planted. Salty always went first. Behind him, Yan. Standing straight, with the cords on his left arm from wrist to elbow, black at the top, brown at the bottom, and in his right hand Working On It, the butt of the pale ash on the deck and the scythe's long curved blade high over his head, catching the noon sun along the grain. Suzu round his neck with her head up.
 
 Wendy at the foot of the bowsprit. Right below Tiger. Bow strung, quiver at her hip, black heavy arrowheads, kneeling on the deck with one knee up. Wendy went for the eyes.
 
@@ -87,7 +87,7 @@ He watched Yan's face.
 
 "*Morwen Gull! Bryok Gull!*"
 
-Yan's face changed. Something went across it. Not happy. Something bigger than happy, and sadder.
+Yan's face changed. Something went across it. Not sad. Hungry, nearly. The look he got when a thing he'd been working at for days finally gave.
 
 "Yes," said Yan. Quietly. Under the noise. To the sea. "Yes. Here. That's it."
 
@@ -413,7 +413,7 @@ Not much. A hair. A line, down the side of the black, where the two blades had s
 
 Tiger heard it. He didn't understand it. Wendy couldn't see in here. Wendy was a quarter of a mile away and he was down inside a slit in the top of a dome, and there was no way she could—
 
-*Don't watch*, Wendy had said, on floor 6, on the glass, with the Prism standing over them. And Yan had said, *I have to. Somebody should.* And she'd shot it. Without seeing. Where Yan said.
+*Tell me when*, Wendy had said, on floor 6, on the glass, with the Prism standing over them. And Yan had said, *Now.* And she'd shot it. Without seeing. Where Yan said.
 
 The arrow came down out of the sky.
 

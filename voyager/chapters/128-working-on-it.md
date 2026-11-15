@@ -53,7 +53,7 @@ Geir had said *hm* once. On the last night. Standing behind him with his arms fo
 
 Gabe had never said a word about it. Not once, in forty days, four anvils away. Neither had Jared. That was the nail guild. That was how it worked. You knew, and you didn't say, and when the other one needed his tongs held, you held them.
 
-Then floor 11. Hythe. Corran's cold forge, which Jared had lit for the rudder irons. Salty had used it at night, after Jared went to bed, with the shutters closed, shaping. The long curve. The point. The thick back and the thin, thin inside edge. He'd told everybody he was making knives, and he'd made knives too, a few, in the evenings, to sell for Ice's sacks of things, so it was true. It was just not all of it.
+Then floor 11. Hythe. Corran's cold forge, which Jared had lit for the rudder irons. Salty had used it at night, after Jared went to bed, with the shutters closed, shaping. A scythe's blade: the long curve, the point, the heel that would sit across the head of the haft, the thick back and the thin, thin inside edge. He'd told everybody he was making knives, and he'd made knives too, a few, in the evenings, to sell for Ice's sacks of things, so it was true. It was just not all of it.
 
 He'd hardened it on the last night before the launch. Brought it up to the colour Ressa called *the inside of a cherry*, in the dark, and carried it, glowing, out of the forge and down the slip to where the tide was in, and put it in the sea.
 
@@ -69,9 +69,9 @@ He hadn't meant for knives.
 
 And now there was the ash.
 
-It was lying beside him in the lamplight, unwrapped, finished. Corran's first piece of the *Patience*. A haft as long as a man, pale and straight and smooth, with a slight swell where your hands would go and a slight taper at the end. Jago had lent him a drawknife and Jared had lent him a spokeshave and Salty had spent six nights shaving it down a curl at a time, so slowly that Jared, coming down for something on the fourth night and seeing him, had said, *Man, I've seen glaciers*, and then sat down on a cask and watched him for an hour without saying anything else.
+It was lying beside him in the lamplight, unwrapped, finished. Corran's first piece of the *Patience*. A haft as long as a man, pale and straight and smooth, with two short grips of ash pegged into it where Yan's hands would go, the way a scythe's are, and a slight taper at the end. Jago had lent him a drawknife and Jared had lent him a spokeshave and Salty had spent six nights shaving it down a curl at a time, so slowly that Jared, coming down for something on the fourth night and seeing him, had said, *Man, I've seen glaciers*, and then sat down on a cask and watched him for an hour without saying anything else.
 
-The socket was fitted. He'd done that this morning. A collar of iron round the head of the haft, that Jared had made, and that had to go on hot so it shrank and gripped. Hot meant fire. The only fire on the *Patience* was Ottery's stove.
+The socket was fitted. He'd done that this morning. A collar of iron round the head of the haft, to hold the blade's heel, that Jared had made, and that had to go on hot so it shrank and gripped. Hot meant fire. The only fire on the *Patience* was Ottery's stove.
 
 He'd gone to the galley hatch at dawn and stood there.
 
@@ -87,7 +87,7 @@ And stood aside.
 
 So the collar was on. It had gone on with a hiss and a smell of scorched ash, and gripped, and he'd quenched it with a cup of Ottery's water, and she'd watched the whole thing from the corner with her arms folded, and when he'd finished and cleaned the stove top with a rag until it shone, she'd put a hand on his head, very briefly, the way you'd touch a dog that had done well, and gone back to her porridge.
 
-And the blade was on the haft. Seated in the socket, pinned through with two iron pins.
+And the blade was on the haft. Set across the head of it, the way a scythe's is, the heel seated in the collar, pinned through with two iron pins.
 
 It was nearly done.
 
@@ -433,9 +433,9 @@ He came the way he always came along the deck, talking, half to Suzu and half to
 
 He stopped.
 
-Salty was standing up. He'd stood up when he heard Yan coming. He had it in both hands, upright, the butt of the ash on the deck and the blade at the top, curving over, catching the last of the light from the west and the first of the Last Light, three short and a long, and the lamp somebody had lit at the foremast.
+Salty was standing up. He'd stood up when he heard Yan coming. He had it in both hands, upright, the butt of the ash on the deck and the blade across the top, a scythe's blade, curving out and over, catching the last of the light from the west and the first of the Last Light, three short and a long, and the lamp somebody had lit at the foremast.
 
-It was taller than both of them. It curved over the top like a new moon.
+It was taller than both of them. The blade curved over the top like a new moon.
 
 Yan stood there.
 
@@ -463,7 +463,11 @@ His face did that now. Exactly that. And then more.
 
 He held it. He felt the weight of it, the balance, the swell of the ash where his hands went, Salty had shaped that for his hands, from memory, from three hundred days of watching Yan hold a staff. He turned it, slowly, and the light ran along the blade, along the grain, the folds, the water over stones, and down the inside edge, which was the sharpest thing in the world.
 
-"Folded under the Breath," said Salty, because he couldn't not. He was talking too fast. He knew he was. "Two hundred and twelve. That's not many. Ressa did two thousand. Fall-iron, from floor 8, she gave me the bar, she said it had to be mine. Hardened in the sea at Hythe. The haft's Corran's. The first ash he cut for her. He gave it me. He knew. He was *awake*, the whole time, the old—" He stopped. "The binding's Tiger's. It's Neth's knot."
+"It's a scythe," said Yan.
+
+"You said," said Salty. "The first morning. *I wanted a scythe. They gave me a stick.*" His voice did something. "You've said it every week since. For three hundred days. I thought somebody'd better."
+
+"Folded under the Breath," he went on, because he couldn't not. He was talking too fast. He knew he was. "Two hundred and twelve. That's not many. Ressa did two thousand. Fall-iron, from floor 8, she gave me the bar, she said it had to be mine. Hardened in the sea at Hythe. The haft's Corran's. The first ash he cut for her. He gave it me. He knew. He was *awake*, the whole time, the old—" He stopped. "The binding's Tiger's. It's Neth's knot."
 
 Yan looked down at the binding.
 
@@ -477,7 +481,7 @@ And the window came up.
 
 Salty saw it come. He saw Yan's eyes go to the air in front of the blade. And Yan read it out, in the flat voice, but the flat voice didn't hold, it went on the second line and he had to stop and start again.
 
-[ Edge-blade · Unique
+[ Scythe · Unique
 Made by Salty. Folded under the Breath. Hardened in the sea at Hythe. Hafted in the first ash of the Patience.
 It does not cut too soon.
 Unnamed ]
@@ -507,7 +511,7 @@ There was a short silence.
 And the window changed. Salty saw it. He couldn't see the window but he saw Yan's eyes go to it, and Yan's mouth start to go, at the corner, very slightly, and Yan read it out.
 
 [ Working On It
-Edge-blade · Unique ]
+Scythe · Unique ]
 
 "It's on the *window*," said Tiger. In a voice of pure horror and delight. "*It's on the WINDOW.*"
 
@@ -517,7 +521,7 @@ Edge-blade · Unique ]
 
 Salty opened his mouth.
 
-He'd had something to say. He'd had a whole thing. He'd been going to say that you couldn't name a Unique edge-blade folded under the Breath *Working On It*, it was stupid, it was the stupidest thing he'd ever heard, Ressa would *kill* him, Geir would come up four floors specifically to say *no*.
+He'd had something to say. He'd had a whole thing. He'd been going to say that you couldn't name a Unique scythe folded under the Breath *Working On It*, it was stupid, it was the stupidest thing he'd ever heard, Ressa would *kill* him, Geir would come up four floors specifically to say *no*.
 
 What came out instead was a laugh.
 

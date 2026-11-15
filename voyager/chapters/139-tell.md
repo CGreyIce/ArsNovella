@@ -33,7 +33,7 @@ Yan went out after Tiger, into the light.
 
 It was a market. A big one. A square of uneven grey stones with a fountain in the middle that didn't work and had a cat asleep in it, and stalls all round under striped awnings: cheese and eels and cabbages and hens in wicker cages and bolts of brown cloth and copper pans and a man with a tray of pies. Tall narrow houses on every side, leaning together over the square with their upper floors jutting out, and washing strung between them, and window boxes. Streets going off between the houses, and every street going *up*.
 
-And people. A great many people. Hundreds. Standing still, now, all of them, with their baskets and their purses and their children, looking at the well-house. At Tiger, standing in front of it in the sun with his hands loose by his blades and his tail very still. At Yan, coming out behind him with a long curved blade on a pale ash haft and a small white snake round his neck.
+And people. A great many people. Hundreds. Standing still, now, all of them, with their baskets and their purses and their children, looking at the well-house. At Tiger, standing in front of it in the sun with his hands loose by his blades and his tail very still. At Yan, coming out behind him with a scythe on a pale ash haft and a small white snake round his neck.
 
 And their lights.
 
@@ -253,7 +253,7 @@ And the woman took an apple out of the basket, and held it out at arm's length, 
 
 Tiger looked at it. Then he went and took it, very carefully, and said "thank you" in the smallest voice Yan had ever heard him use, and went back to the door, and held it in both hands and didn't eat it.
 
-Yan found that his eyes had gone hot.
+Yan found that he'd stopped breathing, to see it better.
 
 *I saw her decide*, he thought. *I saw it happen. Inside her. Before she did it.*
 
@@ -443,15 +443,21 @@ But he did. He knew before she asked. Because on the third name, down in the low
 
 It had been lying very low and very still in an upstairs room, with three or four others round it, close round it, the way his friends had sat round Corran's bunk. And when the voice on the hill said the name, it rose. Straight up. Off the bed, and through the roof, and up into the dark over the city, quick and sure and clean as a thread, the way the lights had gone up on every floor he'd ever seen, before the river, before the sea. Not hanging. Not sinking. Not waiting for anybody to walk it anywhere. As if it had heard its name, and known the way, and gone.
 
-"They say them," said Yan. "Every one. Every night. Everybody who died that day." His voice wasn't working very well. "Wendy, nobody *here* goes without a name. Nobody. They write them all down. They say every one of them out loud."
+"They say them," said Yan. "Every one. Every night. Everybody who died that day." His voice had gone quick, the way it went when something clicked. "Wendy, nobody *here* goes without a name. Nobody. They write them all down. They say every one of them out loud."
 
-He was crying. He didn't try to stop. He thought about Annis, with no boat and a needle-case made of a seal's tooth, going down the steps at night after something nobody remembered, with nobody to knot her but an old man. He thought about Corran, *put me at the end, two Rs*. He thought about three hundred years of tide-folk dead sinking into the dark under the sea because everyone who loved them was too frightened to say a word.
+He wasn't sad. He noticed that, the way he'd noticed it on every floor. Beside him Wendy had gone very still, and her light had gone small and bright the way it did when she was trying not to cry, and all he felt was the click of a thing fitting into place. He thought about Annis, with no boat and a needle-case made of a seal's tooth, who'd have gone down into the dark under the sea for good if one old man hadn't bothered. He thought about Corran, who had bothered, *put me at the end, two Rs*, and whom he'd liked. He thought about three hundred years of tide-folk sinking into the dark because everyone who loved them was too frightened to say a word. Frightened of a *word*.
 
-And here was a city where somebody stood on a step at the end of every day and said them all.
+And here was a city that had simply worked it out. Somebody stood on a step at the end of every day and said them all, and they went.
+
+*That's how*, he thought. *That's the whole trick.*
 
 Wendy didn't say anything. She left her hand where it was.
 
-*Yun*, said Suzu, after a long time, very gently. And put her small white head against his cheek.
+*Yun*, said Suzu, after a long time. And put her small white head against his cheek. *You've got your planning face on.*
+
+"I haven't got a planning face."
+
+*You've got a planning face*, said Suzu. *I love it. It frightens Wendy.*
 
 The hatch behind them creaked.
 

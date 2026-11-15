@@ -125,15 +125,17 @@ Wendy put an arrow in the second one's eye. Then the other eye. It let go of his
 
 The third one was the smallest.
 
-It was backing away. Toward the water. With its little claw up, in front of its face, the way you'd put your arm up. And Salty saw Yan look at it. And lower his staff.
+It was backing away. Toward the water. With its little claw up, in front of its face, the way you'd put your arm up. And Salty saw Yan look at it.
 
-He didn't say anything. He just lowered it. And looked at it. At the small one, backing up the ledge, with its claw up.
+Yan stood up. He didn't hurry. He walked up the wet ledge in the spray, past Salty, with his staff in both hands, and the small one backed until its legs were in the water, with its claw up, and Yan hit it. Once. The heavy end of the staff, down between the eyestalks where Tiger had shown them it was soft, with his whole weight behind it, the way you'd drive in a post.
 
-Wendy looked at Yan. Then at the knapper.
+It went down all at once, without moving again.
 
-She drew. She didn't hurry. She put an arrow through the soft place under its eyestalks, where Tiger had shown them it was, very cleanly, so that it went down all at once, without moving again.
+Yan stood over it. He looked at it. Not at the shell. Lower. At something under it that Salty couldn't see. He watched it for a long time, with his head a little on one side, the way you'd watch the last of a fire.
 
-She lowered her bow. She didn't look at Yan. She just stood next to him, in the spray, with her shoulder touching his.
+"It had your arm," said Yan. Mildly. As if that explained everything. And he came back down the ledge and knelt by Salty and took the arm in his hands, and his face was the calm still again.
+
+Wendy had drawn on it. She let the string down slowly, and looked at Yan, and then at the knapper, and then she came and stood next to him, in the spray, with her shoulder touching his.
 
 Salty sat on the wet ledge holding his arm and watched them both, and didn't understand, and filed it away.
 
@@ -333,7 +335,7 @@ And he told him.
 
 ***
 
-He didn't tell it long. Yan never told anything long. Candles. In everybody. Under the breastbone, since the white room. Big and small and different colours. In the people, and in the NPCs, the same, exactly the same, so that he couldn't tell them apart and had stopped trying. In animals, smaller, like coals. And on six, in the glass, the coals had started burning like people's. So that he didn't know what he was killing any more. And Wendy took the shots he couldn't.
+He didn't tell it long. Yan never told anything long. Candles. In everybody. Under the breastbone, since the white room. Big and small and different colours. In the people, and in the NPCs, the same, exactly the same, so that he couldn't tell them apart and had stopped trying. In animals, smaller, like coals. And on six, in the glass, the coals had started burning like people's. And he'd found that he didn't much mind which was which, and never really had, as long as it wasn't one of theirs. And Wendy took the shots he couldn't reach, and did the minding.
 
 Salty listened to all of it. He didn't say anything until Yan had finished.
 
@@ -341,11 +343,21 @@ Then he said, "Okay."
 
 Yan looked at him.
 
-"Okay," said Salty again. "That's—yeah. Okay." He thought about it. He thought about the small knapper on the ledge with its claw up in front of its face, and Yan lowering his staff, and Wendy drawing without hurrying, so it wouldn't move again. He thought about Wendy muttering since the glass. "That's why she's been taking your shots."
+"Okay," said Salty again. "That's—yeah. Okay." He thought about it. He thought about the small knapper on the ledge with its claw up in front of its face, and Yan walking up the ledge without hurrying and putting it down like a post. And then standing over it, watching something Salty couldn't see. *It had your arm.* "That's why you watch them," he said. "When they go."
 
 "Yes," said Yan.
 
-"Good," said Salty. He looked at Wendy. "Good. That's—good, Wen."
+"And it doesn't—" Salty stopped.
+
+"No," said Yan. "Not much. Not unless it's one of you."
+
+Salty thought about that for a while. He thought about a ram in the gorse on the first floor, and two white hands over his chest, and Yan's face going grey above them, as if it was Yan the ram was hitting.
+
+"You're a bit scary, mate," he said.
+
+"Wendy says only a bit."
+
+"Wendy's right," said Salty. He looked at Wendy. "Good. That's—good, Wen."
 
 Wendy didn't say anything. She just put her hand in his.
 
@@ -409,9 +421,9 @@ The hammer came down.
 
 "Eleven years."
 
-He'd thought she'd say that. He sat on the stool and looked at the hammer and thought about it. About eleven years. About a boat going over a fall with one small lamp in it, and an old woman's arms shaking on a long pole. About Yan, standing at the end of a jetty with his hands cupped round nothing, looking at that curved blade catch the light, the way you look at something you didn't know you'd been waiting for.
+He'd thought she'd say that. He sat on the stool and looked at the hammer and thought about it. About eleven years. About a boat going over a fall with one small lamp in it, and an old woman's arms shaking on a long pole. About Yan, standing at the end of a jetty with his hands cupped round nothing, looking at that curved blade catch the light, the way you look at something you've been waiting for since the first morning.
 
-Yan had carried a plain staff since floor 1. He'd never complained about it. Yan never complained about anything.
+Yan had carried a plain staff since floor 1. He complained about it about once a week, mildly, the way other people mentioned the weather. *I wanted a scythe. They gave me a stick.* It was the only thing Yan ever complained about.
 
 "Teach me," said Salty.
 

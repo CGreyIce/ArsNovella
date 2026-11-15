@@ -101,6 +101,18 @@ The man in the apron stood in his doorway with mud on his fingers, staring after
 
 The man went back inside and shut the door.
 
+Yan was still looking at the door.
+
+"I'll know his light now," he said. Quite pleasantly. "Anywhere. In the dark. I could find him tonight."
+
+Wendy looked at him.
+
+"Yan."
+
+"I'm not going to." He turned away from the door and started up the Wellgate again, after Ice. "Ice didn't turn round. So I won't either." A pause. "Today."
+
+Wendy didn't know, for a moment, whether he was joking. She'd known him for years and she still didn't always know. She decided he probably wasn't, and that it didn't matter. He'd said *Ice didn't turn round*. That was the bit that would hold him. She'd make sure it held.
+
 Ice didn't say anything about it that night. Nobody asked. Thea sat next to him on the copy-room floor and ate her soup, and once, while he was talking to Drew about something else, she put two fingers on the back of his left shoulder, very lightly, where the stone had hit. He didn't look round at that either.
 
 But he stopped talking for a second.
@@ -259,9 +271,9 @@ On the third afternoon Wendy sat down opposite him.
 
 "Then what are you doing?"
 
-He turned the roll a little. Smoothed it flat. There was a name under his finger. *Gil Hawker, of the Rope Walk, a carter. Two hands.*
+"Seeing how it's done." He turned the roll a little. Smoothed it flat. There was a name under his finger. *Gil Hawker, of the Rope Walk, a carter. Two hands.*
 
-"Somebody did," he said. "Every single one. Somebody sat here and wrote every single one of them down. In two hands. So they'd be *said*." He looked up at her then. His eyes were very bright. "I just wanted to see what that looks like. All of them. Written down. With nobody left out."
+"Somebody did," he said. "Every single one. Somebody sat here and wrote every single one of them down. In two hands. So they'd be *said*." He looked up at her then. His eyes were very bright, the way they went over a puzzle. "Three hundred years the tide-folk fed their dead to that thing because nobody would say a word. And here it's a *job*, Wen. A teller does it on a step, at dusk. I want to see what that looks like. All of them. Written down. With nobody left out."
 
 Wendy looked at the wall of the dead, from the floor to the ceiling.
 

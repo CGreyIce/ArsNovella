@@ -7,13 +7,13 @@ date: 2026-11-13
 
 Yan didn't sleep the night after the Prism. He lay on his bedroll in the round room on the third ring with Suzu round his neck and watched thirty-five candles burn in the dark.
 
-He did that sometimes. On bad nights. He'd done it on floor 1, in the inn in Hearthstead, the first week, when he couldn't stop seeing them and didn't know what they were. He'd done it on floor 4, in the hall on the first square, with the silence pressing on the roof. It helped. He couldn't have said why. Lying in the dark, looking at the lights of everybody he loved, all of them burning, all of them still there.
+He did that sometimes. Not on bad nights; Yan didn't really have bad nights. On thinking nights. He'd done it on floor 1, in the inn in Hearthstead, the first week, working out what they were. He'd done it on floor 4, in the hall on the first square, with the silence pressing on the roof. He liked it. Lying in the dark, counting the lights of everybody he loved, all of them burning, all of them still there. The way some people counted money.
 
 Salty's, across the room, enormous, roaring softly in his sleep like a banked forge. Tiger's, flickering so fast even asleep that it looked like it was humming. Wendy's, small and still and very bright, right next to his own bedroll. She'd put her bedroll there without asking. Cursiffe's, dark blue-black, like light through a bottle of ink. It had changed lately, he'd noticed, since the statue on floor 5. There was a little more light in it, at the edges. As if somebody had turned the ink up to the window.
 
 He looked at them all, one by one. Thirty-five. And he thought about the one that had gone out in the water at dusk.
 
-He'd watched it go. He'd told Wendy *somebody should*, and he'd meant it. Deep in the glass, where four cracks met, a candle. Not a coal. A real one, cold and white and very steady, like a light in a lighthouse. And when Wendy's arrow went in, he'd watched it flare. Once. Bright. The way Tiger's flared when he was frightened.
+He'd watched it go. All the way. Deep in the glass, where four cracks met, a candle. Not a coal. A real one, cold and white and very steady, like a light in a lighthouse. And when Wendy's arrow went in, he'd watched it flare. Once. Bright. The way Tiger's flared when he was frightened.
 
 And then go out. Slowly. White to grey. And the thread.
 
@@ -21,17 +21,17 @@ And then go out. Slowly. White to grey. And the thread.
 
 Suzu, in his head. Soft. She'd been quiet all evening.
 
-"I'm all right."
+"I'm awake."
 
-*You're not.*
+*I know you're awake. You're thinking so loudly I can't sleep.*
 
-"No." He looked at the ceiling. "I'm not."
+"Sorry." He wasn't, much. He looked at the ceiling.
 
 She shifted round his neck, cool and dry, her head moving up along his jaw until it rested by his ear. She didn't say anything else for a while. She didn't have to. She was there. She'd been there since the first morning, since before the first morning, round his neck in the white room when he opened his eyes.
 
 "Where do they go?" said Yan.
 
-He'd never asked her. Not in a hundred and forty-six days. He'd watched a hundred lights go out, sheep and wolves and eels and wisps and shardbacks. He'd watched the threads go up off them, too faint to call light, and gone. And he'd never once asked.
+He'd never asked her. Not in a hundred and forty-six days. He'd watched a hundred lights go out, sheep and wolves and eels and wisps and shardbacks. He'd watched the threads go up off them, too faint to call light, and gone. And he'd never once asked. He'd wanted to work it out himself.
 
 Suzu was quiet for a long time.
 
@@ -41,11 +41,13 @@ Suzu was quiet for a long time.
 
 *It's the only one there is, Yun.* Her voice was very gentle. *They go somewhere. Not nowhere. Somewhere.* A pause. *That's all I know. That's all anybody knows. It's enough.*
 
-He lay there with that.
+"It's not enough," said Yan. "Not for me. I want to know *where*."
 
-*Somewhere.*
+*I know you do*, said Suzu, and he could hear that she was smiling. *That's what worries me.*
 
-It didn't fix anything. But he found that he could breathe a bit better, after.
+He lay there with that, and found he liked it.
+
+*Somewhere.* It was a start.
 
 ***
 
@@ -239,7 +241,7 @@ Round Yan's neck, Suzu lifted her head and looked at Gabe for a long moment. The
 
 They went up on the hundred-and-fiftieth day.
 
-They killed the Prism again first, at dusk, the way they had before. It was quicker now. Ina and Winter knew the trick. Cursiffe called the gaps from his rock without looking at his pages. Wendy took the shot. Yan pointed. He didn't look away. Somebody should.
+They killed the Prism again first, at dusk, the way they had before. It was quicker now. Ina and Winter knew the trick. Cursiffe called the gaps from his rock without looking at his pages. Yan pointed. Wendy took the shot. He didn't look away. He never did.
 
 Then the stair. It was in a little stone arch on the far side of the Still Water, half in the shallows, where the dead Prisms lay. They went up it in the dark, in a long line, the way they always did. Calvin first. Rachael on his collar. Drew last.
 

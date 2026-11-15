@@ -27,13 +27,17 @@ Yan had been right there. Two metres from it. With his staff up.
 
 He'd lowered it.
 
-He'd stood there on the glass with his staff down, looking at the little shardback pushing at the big one, and let it go. It had run off into the dunes with the others. Then it had come back round the side of a dune thirty seconds later and gone for Tiger's ankle, and Tiger had had to kill it himself, swearing, with a bite through his boot.
+He'd stood there on the glass with his staff down, looking at the little shardback pushing at the big one, with his head on one side, the way he looked at a page he was reading. And let it go. It had run off into the dunes with the others. Then it had come back round the side of a dune thirty seconds later and gone for Tiger's ankle, and got its teeth through Tiger's boot.
 
-Yan hadn't said anything. He'd healed Tiger's ankle. He'd looked at the dead shardbacks on the glass for a long time. Then he'd walked back to the pit without a word.
+Yan had killed it before Tiger had finished swearing.
+
+One blow. The heavy end of the staff, down on the flat glassy head, hard enough that Wendy heard the scales go. He hadn't hurried, and he hadn't hesitated, and he hadn't looked sorry. He'd healed Tiger's ankle. Then he'd crouched by the little dead thing on the glass and looked at it for a long time, at the place under its breastbone, with an expression Wendy couldn't put a name to. Not sad. She knew what Yan looked like sad; she'd seen it about twice in all the years she'd known him. This was nearer the way Cursiffe looked at a word he didn't know.
+
+Then he'd walked back to the pit humming.
 
 Wendy had watched him do it.
 
-She'd watched him the next day, too. And the day after. He didn't let any more go. He killed what he had to. He was a Cleric; he didn't do much killing anyway. But every time something died near him out on the Glass, he looked at it. Not at the body. At the place under its breastbone. And his face did something, every time. As if he'd watched a light go out.
+She'd watched him the next day, too. And the day after. He didn't let any more go. He killed what came at them, when it came, without any fuss at all; he was a Cleric, he didn't do much killing, but when he did it, it was done. And every time something died near him out on the Glass, he looked at it. Not at the body. At the place under its breastbone. Closely. All the way to the end. As if he were watching something go out, and didn't want to miss how.
 
 On the hundred-and-forty-first evening, on the lip of the pit, she sat down next to him.
 
@@ -49,19 +53,27 @@ Yan didn't look at her.
 
 "The day before yesterday," said Wendy. "The little one. It went back to the big one and you put your staff down." She looked out at the Glass, going purple in the dusk. "I'm not having a go. I just saw."
 
-Yan was quiet for a long time.
-
-"It went back to her," he said.
+"It went back to her," said Yan.
 
 "I saw."
 
-"It went back to her, Wen. It ran *back*. Into us. To push at her. Because she was—" He stopped.
+"It ran *back*, Wen. Into us. To push at her." He didn't sound upset. That was the thing. He sounded *interested*, the way he sounded when Cursiffe found a word nobody knew. "I've never seen an animal do that. I wanted to see what it did next."
 
-"Because she was its mum," said Wendy. "Yeah. I saw."
+"And then it bit Tiger."
 
-He didn't say anything.
+"And then it bit Tiger," Yan agreed. "So I killed it."
 
-"You look at things," said Wendy. "You've looked at things since the first day. People. Under here." She put two fingers on her own breastbone. "I've never asked. I'm not asking now, if you don't want me to." She looked at him sideways. "But you've been looking at the shardbacks like that for a week. And your face does a thing. Every time one dies. And I'd like to know what it is, so I know if I should be worried."
+"You didn't even blink."
+
+He did look at her then. Mildly. As if she'd said something a bit odd. "It bit *Tiger*."
+
+Wendy looked at him for a long time.
+
+"You look at things," she said. "You've looked at things since the first day. People. Under here." She put two fingers on her own breastbone. "I've never asked. I'm not asking now, if you don't want me to." She looked at him sideways. "But you've been looking at the shardbacks like that for a week. Every time one dies. Right to the end, like you don't want to miss it. And I'd like to know what it is, so I know if I should be worried."
+
+"About me?"
+
+"About whatever you're looking at."
 
 Yan was quiet for a long time. Suzu shifted round his neck.
 
@@ -79,41 +91,49 @@ Wendy waited.
 
 She didn't say anything else. She'd been expecting something like that. Not that, exactly. Something.
 
-"Animals too," said Yan. "Everything alive. The sheep had them, on floor 1. Small. Dull. Like coals. When you killed one, it went out like a coal goes out. Slow. Red to grey." He swallowed. "I got used to that. It was sad. But they were coals. They weren't—" He stopped.
+"Animals too," said Yan. "Everything alive. The sheep had them, on floor 1. Small. Dull. Like coals. When you killed one, it went out like a coal goes out. Slow. Red to grey. And then a thread. Something goes up off it, too faint to call light, and goes somewhere." He said it the way you'd tell somebody the weather. "On this floor they're not coals any more. The shardbacks. They're *candles*. Real ones. Like yours. Like Tiger's. They flare up when they're scared. They lean toward each other." Something that was nearly a smile went across his face. "The little one's leaned toward the big one's the whole time, before you shot. And when hers went out, his went up so bright. *Exactly* like Tiger's does when he's frightened. Exactly."
 
-"Weren't what?"
+Wendy didn't say anything for a moment.
 
-"Weren't like ours."
+"Yan," she said. "Doesn't that bother you?"
 
-He turned and looked at her. His pale cyan eyes were wet.
+He thought about it. Properly. She watched him do it, the slow way he did everything, all the way down.
 
-"They're like ours here, Wen," he said. "On this floor. The shardbacks. The little glass ones. They're not coals any more. They're *candles*. Real ones. Like yours. Like Tiger's. They flare up when they're scared. They lean toward each other when they're close. The little one's leaned toward the big one's the whole time I was watching them, before you shot." He was very quiet. "And when the big one went out, the little one's flared up so bright. Like Tiger's does when he's frightened. *Exactly* like that."
+"No," he said. "Should it?"
 
-Wendy didn't say anything.
+"I don't know. Probably."
 
-"I can't tell the difference any more," said Yan. "Between them and us. I never could, with people. Mother Crane, the egg girl, Ostrel, they've got candles exactly like ours. I made a rule on floor 1 that I'd never let what I see tell me who's real. Because I can't. Nobody can." He looked out at the Glass. "But the animals were different. They were coals. And now they're not. And I don't know what I'm killing any more."
+"It's got a light. So has a sheep. So has supper." He moved one shoulder, very slightly, under Suzu. "So has Mother Crane. So has every stranger in Deepwell. I can't tell them apart from us, Wen. Nobody can. I worked that out on floor 1, at breakfast." He looked out at the Glass. "So I stopped trying. I look after mine. The rest can look after themselves."
 
 The dusk had gone dark. The moon was coming up over the far rim of the pit, huge and white. Down below them, somebody on the third ring had started the singing again, the family that sang every night.
 
+"And the face?" said Wendy. "The looking?"
+
+"That's not sad." He almost laughed. "That's the best bit. When they go out, there's a thread. It goes up. Every time. It goes *somewhere*." He looked up at the moon. "I want to know where."
+
 Wendy thought about it for a long time. She thought about it the way she thought about everything: honestly, assuming the worst, and then looking for the bit that was still all right.
+
+The worst was easy. Somebody who could watch a light go out and only want to know where it had gone. Somebody who'd hold his hands over Salty's chest until they went white to the elbow, and over Tiger's, and over hers, and not much mind about anybody else's in the world. She knew what you'd call that, in a book. She'd read the books.
+
+The bit that was still all right was that he'd told her. And that the thing that bit Tiger had been dead before Tiger finished swearing.
 
 "Okay," she said.
 
 Yan looked at her.
 
-"Okay," said Wendy again. "So that's what your face does." She pulled her knees up and put her arms round them. "That's horrible, Yan. I'm sorry. That's really horrible. I'd hate that."
+"Okay," said Wendy again. "So that's what your face does." She pulled her knees up and put her arms round them. "You're a bit frightening, Yan. You know that?"
 
-"I *do* hate it."
+"Only a bit."
 
-"Yeah." She looked out at the moon. "So here's what we do. You don't take the shots."
+"Only a bit," Wendy agreed. She looked out at the moon. "So here's what we do. You can see them. The lights. Where the thing is, that you'd have to hit."
 
-He stared at her.
+"Yes."
 
-"You're a healer," said Wendy. "You don't take many anyway. So you don't take any. Not on this floor. Not on any floor where they've got candles like ours." She shrugged. "I'll take them. I take shots anyway. That's my whole thing. I've got a bow."
+"And you've got a stick."
 
-"Wen—"
+"I wanted a scythe."
 
-"*I'll* take the shots you can't." She said it flatly, the way she said things that weren't up for discussion. "I don't see what you see. It's just a shardback to me. It's got teeth and it wants to bite Tiger. I can shoot it and go to sleep." She looked at him. "So let me. That's what a party's for."
+"You've got a *stick*," said Wendy. "And I've got a bow. So you tell me where, and I'll take the shots you can't. The far ones. The ones in the glass." She shrugged. "And you don't mind, and that's fine. I'll do the minding. For both of us. Somebody should." She looked at him. "That's what a party's for."
 
 Yan looked at her for a long time.
 
@@ -191,7 +211,7 @@ Yan. Below her, on the rocks, with the healers. He'd stood up. He was looking at
 
 He pointed. Not at the middle. A little to the left of the middle, and low. At a place where four cracks met, deep in the glass.
 
-"There," he said again. His voice had gone strange. "Under the cracks. Where they meet. Wen. It's *there*."
+"There," he said again. His voice had gone quick and certain, the way it almost never was. "Under the cracks. Where they meet. Wen. It's *there*."
 
 She didn't ask what. She didn't need to. She'd sat on the lip of the pit with him in the dusk.
 
@@ -199,9 +219,9 @@ It had a candle. Of course it had a candle. Everything did, on this floor. And h
 
 She drew the arrow back to her cheek. She didn't aim at the glass. She aimed at the place where Yan's finger was pointing. Through four cracks of broken glass, at something she couldn't see.
 
-"*Don't watch*," she said to him. Without looking down.
+"*Tell me when*," she said to him. Without looking down.
 
-"I have to," said Yan. "Somebody should."
+"Now," said Yan.
 
 She let go.
 
@@ -215,11 +235,11 @@ Nobody cheered. Not straight away.
 
 Wendy lowered her bow.
 
-Below her, on the rocks, Yan was still looking at the Prism. At the place where the four cracks met. Watching. She saw his face. She saw it do the thing, the slow terrible thing it did, as he watched something go out that nobody else could see. Red to orange to grey. And then a thread of something, too faint to call light, going up off it and gone.
+Below her, on the rocks, Yan was still looking at the Prism. At the place where the four cracks met. Watching. She saw his face. Intent, and still, and very nearly happy, as he watched something go out that nobody else could see. Red to orange to grey. And then a thread of something, too faint to call light, going up off it and gone.
 
 He didn't look away until it was over.
 
-Then he sat down on the rock very suddenly, as if his legs had stopped, and put his face in his hands. Suzu wound herself up round his neck, close, her white head pressed against his jaw.
+Then he let his breath go, slowly, and sat down on the rock, and said to Suzu, quite cheerfully, "That one went *miles*." Suzu wound herself up round his neck, close, her white head pressed against his jaw.
 
 Wendy climbed down off the north rock and sat next to him. She didn't say anything. She didn't touch him. She just sat there, shoulder to shoulder, with her bow across her knees. Round them, thirty-three other people started to laugh and shout and hug each other in the red dusk. Calvin went round the ring of rocks yelling *NOBODY GOT BURNED*. And Cursiffe sat on his rock with his pages in his lap and a very small, slow smile.
 
@@ -229,7 +249,7 @@ Wendy climbed down off the north rock and sat next to him. She didn't say anythi
 
 "So it's mine. Not yours."
 
-Yan took his hands off his face. He looked at her. His eyes were red.
+Yan looked at her. His eyes were very bright.
 
 "It's both of ours," he said. "I showed you where."
 
@@ -271,8 +291,8 @@ Wendy didn't know where he'd got that from. It sounded like something somebody e
 
 [ Party Log · Suzuyun's party · Floor 6 · Day 146
 Yan Lv 29 · Salty Lv 29 · Wendy Lv 30 · Tiger Lv 30 · Cursiffe Lv 29
-Yan let a shardback go. It went back to its mother.
-On the lip: "Everything's got a light." On this floor the animals' coals are candles, like ours. Wendy: "I'll take the shots you can't."
+Yan let a shardback go, to see what it did. It went back to its mother. Then it bit Tiger, and Yan killed it.
+On the lip: "Everything's got a light." On this floor the animals' coals are candles, like ours. It doesn't bother him. "I look after mine." Wendy: "I'll take the shots you can't. I'll do the minding."
 Suzu touched Wendy's hand. Thank you.
 The Prism at dusk. Cursiffe called the gaps. Winter's glass-dish plan: Ina burned, Winter froze, it cracked. Four faces.
 Yan: "There." Wendy took the shot. "Both of ours."

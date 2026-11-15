@@ -209,7 +209,7 @@ Yan thought about it the way he thought about everything, slowly, all the way do
 
 "I remember."
 
-"I lied." His deep voice was very quiet. "I wasn't less sure. I was scared. They feel the same from the outside. They're not the same." He looked at the onion skin in her hand. "I think you're scared too, Hana."
+"I lied." His deep voice was very quiet, and not in the least sorry. "I wasn't less sure. I just didn't want to have the argument. Not at breakfast, with the whole table." He looked at the onion skin in her hand. "You're scared, though, Hana. You've been scared since you came in. It's all over you."
 
 She didn't say anything.
 
