@@ -544,3 +544,21 @@ A ring went out across the pool. All the way to the roots.
 "*One*," said Newish. Out loud. On it.
 
 And all round the pool, very quietly, in their lanterns, the lights hummed.
+
+[ Party Log · Hanarisu's party · Floor 16 · Day 756
+Hana Lv 65 · Milli Lv 66 · Jared Lv 65 · Newish Lv 65 · Aleaka Lv 66
+The drip falls into the pool. Twenty-two drips is a fall. It fell eleven. Newish: "Oh, I love it here."
+Lanterns for all of us. Gabe's was the worst Nesta ever saw. He gave it to Ice. Ice has no light. He wears it empty. "It's for if."
+Milli's went in at once. Aleaka's after three drips. Jared's sits. Newish's wouldn't.
+Edda: in her gran's gran's time some strays went UP the stair, the far one. Called. Never came back.
+Aleaka listened to Hana's light humming at the strays. "I was one. I was one of you."
+Edda: "Somebody taught it to talk." Chris drew an arrow up off the page. Higu too. Nothing at the end.
+Edda went on the seventh fall. She asked for "the one with the mouth."
+Newish counted her out. Four drips. Lanthorn hummed on every one. Some of our lights hummed too. Her glim went out on fourteen. On the count. Quiet.
+Newish let the count go and cried.
+Ice: "I used to say except Newish. It was easier than saying I was glad somebody did. Love you. Including you." "Rude." "Mostly."
+Newish's light went into Salty's crooked lantern and hummed. One, two, three.
+Thea unwrapped the Fen lantern for a count of ten for Edda. Far down, the Great Moth opened its eyes. Every lantern went quiet.
+The window said: The Great Moth. Floor Guardian.
+Thea: "It saw." Ice: "Better it's for her." "We'll find out how. All of us."
+]

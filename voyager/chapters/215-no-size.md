@@ -476,3 +476,20 @@ He found he didn't mind as much as he'd thought.
 *Plink*, went the drip. Far off.
 
 He started counting again.
+
+[ Party Log · Hanarisu's party · Floor 15 → Floor 16 · Day 746
+Hana Lv 64 · Milli Lv 65 · Jared Lv 64 · Newish Lv 63 · Aleaka Lv 65
+Eleven hundred and four steps. An arch. Dark with no edges. Milli couldn't measure it.
+Thirty-five lights went dim at once. "I am not able—" Stopped. Every one. Mid-sentence. First time.
+Ice: "How far down does it go?" Milli: "I don't know." "Me neither."
+Hana in front. "Is that what you do?" "I think that's most of it."
+Ice: "Small fire." Whoever made the ring made it small.
+No morning. A drip, far off. An hour and six minutes. Milli counted it. Newish: "Marry me." Hana: "He's married."
+The goat went off in the dark. First time ever.
+Milli to his light: "Could you be less? Please." It went to a spark. Nobody had ever said please to one.
+Fifty wild lights round the goat in a clearing. Aleaka, Heed: they're saying "whose." To him: "how."
+Isel, with an empty lantern and a light that hums: "They're strays. If you let them follow you home, the moths come."
+"Yours talks. Who taught it?" Milli: "I don't know."
+One stray followed the goat back. It won't go.
+Hana's light leaned toward it and hummed. Not the voice. Milli heard. He didn't wake her.
+]

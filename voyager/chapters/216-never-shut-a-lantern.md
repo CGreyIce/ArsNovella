@@ -536,3 +536,21 @@ He looked at his hands. Smith's hands. Big and blunt.
 He'd do the weave better if he looked.
 
 He knew all of them exactly.
+
+[ Party Log · Hanarisu's party · Floor 16 · Day 752
+Hana Lv 65 · Milli Lv 66 · Jared Lv 65 · Newish Lv 64 · Aleaka Lv 66
+Lanthorn: a town in the roots round a black pool. Thousands of open iron lanterns. Nobody says please to a window. Now all thirty-five of us do.
+Thea wrapped the Fen lantern in her cloak. It still leans.
+Edda keeps the lamps. Every child gets a stray. Its glim, for life. When you die it goes back out. "Whose." Fewer every year. Moths.
+The goat put his head in her hand. "Nothing comes from below. Then somebody broke it. Or it bent."
+Corwen's knot: a light in a hundred points. A moth can't find the middle. Jared: "That's armour." "Never shut a lantern. A lantern with a door's a jar."
+Jared has smith's hands. "You're worse." "You do the weave better when you look."
+Moth night. Bells. Moths go over shields. Shield edge, not face. Newish counted. Milli took the wings.
+One got Hana. It drank her light. Her light SCREAMED. Not the voice. Jared took it off her.
+Hana, on her knees, her light a grain in her hands: Glamour, Centre Stage, Beguile. Every moth went into a light that wasn't there and down into the pool.
+Ice asked Corwen about holding up a big light. "It'd help tonight. Then the Moth would come up." "Okay. Not that, then."
+Corwen, of Thea's lantern: "That one'll bring it up from the bottom."
+Jared made a lantern the size of a walnut. Her light went in by itself. It hums. It's on her crown by the rose.
+"I can reach her." "Idiot. You did."
+Corwen: "Thirty-four more." Jared: "Yeah. I know."
+]
