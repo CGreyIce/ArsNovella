@@ -59,7 +59,7 @@ It was the habit. He'd made it in the white room and it was already working on i
 
 She'd fed all thirty-six of them for their first month in the Spire, on credit, because none of them had any money and she said she'd never yet let a Climber starve on her floor and wasn't starting now. She'd shouted at Calvin for putting his feet on her table. She'd put a bowl of plain water with a pinch of salt in front of Maigo the second night, because she'd decided a tree would want watering, and Maigo had drunk all of it to be polite. She'd caught Ice in her kitchen on the fourth morning, trying to help, and instead of throwing him out she'd handed him a knife and a sack of onions and said, *Well, go on, then, if you're going to stand there.* And for a month after that, every morning before the others woke up, he'd peeled her onions and she'd told him about her husband, who'd been dead twenty-two years and was still, in her opinion, the most irritating man on the floor.
 
-In the second winter, while all thirty-six of them were eight floors up, she'd caught a fever and died in her bed above the kitchen. Nobody had told them for a month. When word finally came up through the floors, he'd gone and sat on his own for a whole evening, and Thea had found him there and not asked why, and sat with him.
+In the second winter, while they were thirteen floors up, she'd caught a fever and died in her bed above the kitchen. Nobody had told them for a month. When word finally came up through the floors, he'd gone and sat on his own for a whole evening, and Thea had found him there and not asked why, and sat with him.
 
 The old woman at the stove looked up and saw him in the door.
 
