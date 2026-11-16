@@ -39,7 +39,7 @@ Ice read for a long time. Then he got up, and made coffee, and stood at the kitc
 tehpeng: MORNING
 tehpeng: WHY IS IT SO BUSY
 lowkeyfrog: the clip went viral on the forum lol
-lowkeyfrog: hello new people. the rules are: he says trust, it's over. he goes dark, we say ice went dark
+titanium_ii_fluoride: hello new people :) rules are pinned. be nice. if he says trust, it's over. if he goes dark, type !dark
 mangoes4ever: and herbalism was right
 Salty: and herbalism was right
 dl_learnsforms: hi! i made the clip, hope that's ok
@@ -144,6 +144,17 @@ Maigo: nice feet
 ]
 
 That was a whole paragraph, from Maigo. Ice grinned at the reeds.
+
+Xyro turned up a little after that. That made sense: Tif had clearly been making him watch all week.
+
+[ Chat · 85 watching
+xyrolizea: yo ice
+xyrolizea: tif's had your stream on all week. had to see what the fuss was about
+xyrolizea: the fuss is a swamp
+titanium_ii_fluoride: it's a GOOD swamp
+]
+
+"It's a good swamp, Xyro," said Ice. "Listen to Tif."
 
 And then, a little later still, Tiger, who'd never been in his chat before in his life, as far as Ice knew.
 

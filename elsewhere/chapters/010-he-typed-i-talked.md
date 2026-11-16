@@ -25,7 +25,8 @@ It was still there on Monday morning, when he went down for coffee. He touched i
 
 [ Chat · 104 watching
 tehpeng: MORNING
-lowkeyfrog: morning. rules for new people: trust = its over. ice went dark = he found something. herbalism was right
+titanium_ii_fluoride: morning :) new people, the rules are pinned
+lowkeyfrog: trust = its over. ice went dark = he found something. herbalism was right
 Salty: and he led crimson ledger to the swamp monster
 dl_learnsforms: that's my favourite clip ever
 nightowl_kr: the death log screenshot has 2k upvotes
@@ -35,7 +36,7 @@ nightowl_kr: the death log screenshot has 2k upvotes
 
 They didn't, entirely. But it was fine.
 
-The new rule held. He streamed the fights near town, on the south walk and at the near edge of the fen, where anybody could walk and there was nothing to find. He taught as he went now, without really meaning to. He'd say *back foot* as he cut, or *watch the slope* as he turned a strike, and chat would type it back to him, *BACK FOOT*, like a congregation. When they went out toward the stones, he said "Going dark, back in a bit," and ended it. Chat said *ice went dark*, and somebody always added *(15)* or *(16)*, keeping count.
+The new rule held. He streamed the fights near town, on the south walk and at the near edge of the fen, where anybody could walk and there was nothing to find. He taught as he went now, without really meaning to. He'd say *back foot* as he cut, or *watch the slope* as he turned a strike, and chat would type it back to him, *BACK FOOT*, like a congregation. When they went out toward the stones, he said "Going dark, back in a bit," and ended it. Chat typed *!dark*, and the bot Tif had set up on the first day answered with the count: *ICE WENT DARK (15)*, then *(16)*.
 
 At about half past nine, between fights, a name typed that had never typed before.
 

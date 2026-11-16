@@ -211,6 +211,7 @@ He knew what he was going to do before he'd finished thinking it, and he also kn
 [ Chat · 23 watching
 Baer: dec no
 Aleaka: no!!! no no no
+titanium_ii_fluoride: ice please be careful
 Salty: hes going to do it
 Nikorasu: hes going to do it
 YoJareddo: he's absolutely going to do it
@@ -256,6 +257,7 @@ YoJareddo: that was actually so clean though
 YoJareddo: the two plank thing. thats a real play
 kittycatsoup: wait he planned that??
 lowkeyfrog: he always plans it. then it goes wrong. then he fixes it
+titanium_ii_fluoride: ok. breathing again
 ]
 
 "Almost isn't," said Ice to the fen, and lay back on the boards, and looked at the sky, which was blue now and very high and had a single heron in it, flying home.

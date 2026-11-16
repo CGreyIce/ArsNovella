@@ -48,6 +48,7 @@ The title said: *ELSEWHERE launch day | POV | trust*.
 ***
 
 [ Chat · 4 watching
+titanium_ii_fluoride: morning ice
 tehpeng: MORNING
 lowkeyfrog: he's actually live at 7am. the world is ending
 tehpeng: is that the coffin behind u
@@ -55,7 +56,7 @@ tehpeng: is that the coffin behind u
 
 The webcam was on for now, a little box in the corner of his screen, his real face, his real hair, which was flat on one side. He'd stream with his model once he was in. Out here he was just a man in a T-shirt with a mug.
 
-"It's not a coffin," Ice said. "Good morning. It's an egg. Hello, frog. Hello, Teh Peng. Yes, I'm awake. No, I don't want to talk about it."
+"It's not a coffin," Ice said. "Good morning. It's an egg. Morning, Tif. Hello, frog. Hello, Teh Peng. Yes, I'm awake. No, I don't want to talk about it."
 
 [ Chat · 7 watching
 mangoes4ever: GOOD MORNING
@@ -75,7 +76,7 @@ Nikorasu: its a nice fridge
 
 "Thank you, Mashi."
 
-He did know these people. That was the funny part about ten viewers. The streamers his friends watched had numbers with a K after them and chat that went past too fast to read. His went past at walking pace, and every name in it was a name he could put a voice to. Teh Peng had been watching him for four years and still had never said where he lived. Frog had once stayed up until four in the morning to watch him lose the same fight thirty-one times and had typed *again* after every single one. Mangoes was a student in Ipoh who watched with her lectures muted in another tab. These were his regulars. On a good month he streamed five or six times, and on a good night ten of them came.
+He did know these people. That was the funny part about ten viewers. The streamers his friends watched had numbers with a K after them and chat that went past too fast to read. His went past at walking pace, and every name in it was a name he could put a voice to. Teh Peng had been watching him for four years and still had never said where he lived. Frog had once stayed up until four in the morning to watch him lose the same fight thirty-one times and had typed *again* after every single one. Mangoes was a student in Ipoh who watched with her lectures muted in another tab. And Tif had been his mod for four years, and these days she was the only one who still did it. She was always first in and said very little, and somehow the chat was calmer for her being in it. These were his regulars. On a good month he streamed five or six times, and on a good night ten of them came.
 
 That was fine. He wasn't doing it to be big. He liked the company.
 
@@ -234,9 +235,9 @@ gr8grape: ill stay for the first hour
 
 He glanced at the viewer list down the side of the screen. Most of the names had typed something. A few hadn't.
 
-*itswendy*. *Suzuyunn*. *Kai*. *Sketch*.
+*itswendy*. *Suzuyunn*. *Resent*. *satayboy*. *Kai*. *Sketch*.
 
-Wendy, who never said anything in anyone's chat but was always there. Suzu. And Deston and Xav, who had both sworn they were too busy and were both, quite clearly, lurking.
+Wendy, who never said anything in anyone's chat but was always there. Suzu. Ryan from poly, who lurked and never typed. Jun Liang, also from poly, who'd modded for him back when he streamed every week and still had the little sword next to his name; he'd drifted off when Ice had. And Deston and Xav, who had both sworn they were too busy and were both, quite clearly, lurking.
 
 "Hi, lurkers," said Ice, to nobody in particular. "I see you."
 
@@ -269,6 +270,7 @@ The lid came down slowly on its long arm, and the room went dim and blue through
 On the laptop across the room, where he couldn't see it now, chat was still going.
 
 [ Chat · 21 watching
+titanium_ii_fluoride: have fun ice :) we'll be here
 Aleaka: GOOD LUCK
 Aleaka: good luck good luck good luck
 Hanarisu: have fun!!

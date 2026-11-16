@@ -185,6 +185,7 @@ He hadn't told them. They didn't need telling. They took one look at the little 
 Salty: TEN
 Aleaka: TEN!!!!!!!!!!
 Hanarisu: CONGRATULATIONS!!!
+titanium_ii_fluoride: ten!! so proud of you ice
 dumbo: CLASS?? WHAT CLASS
 nightowl_kr: what class what class
 lowkeyfrog: HE WENT DARK FOR THE LEVEL UP

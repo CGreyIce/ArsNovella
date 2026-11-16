@@ -357,6 +357,7 @@ Neither did chat, a minute later, when they got there. For a long moment the pan
 [ Chat · 21 watching
 Hanarisu: oh
 Aleaka: oh my god
+titanium_ii_fluoride: oh. that's so beautiful
 mangoes4ever: im actually going to cry
 tehpeng: ok this is worth 2.5k
 Salty: ok

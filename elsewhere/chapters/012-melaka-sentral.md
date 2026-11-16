@@ -305,6 +305,7 @@ Salty: SUZU
 Salty: IT WAS SUZU
 Nikorasu: SUZU!!!!
 Aleaka: SUZUUUUUUU
+titanium_ii_fluoride: hi suzu :)
 Hanarisu: he's so pretty in 3d oh my god
 dl_learnsforms: who's this? ice raided
 tehpeng: thats suzu. theyre a duo

@@ -118,6 +118,7 @@ Salty: NO WAY
 Nikorasu: launch minute 3 letter name
 Nikorasu: hes the luckiest man alive
 Aleaka: IT'S YOURS. IT SAYS IT'S YOURS
+titanium_ii_fluoride: congrats ice
 dumbo: names are unique across the world. noted. thats huge
 dumbo: thats a land grab. everyone with a short name is going to sell it
 mangoes4ever: someone will pay you for that name
