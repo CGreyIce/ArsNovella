@@ -23,7 +23,7 @@ Then she rang Bee.
 
 Somebody had clipped her first minute.
 
-Not the whole stream. Forty-three seconds. Her, standing in the little wooden room with her horns and her red ribbon, very still, crying. Her hand going slowly out to the side, and the fingers moving. Her voice, wet and laughing: *Sorry, sorry, give me a minute. I can see the ceiling.* And then, cut in at the end, her saying *Look. Look where my hand is. I can see it there.*
+Not the whole stream. Forty-three seconds. Her, standing in the little wooden room with her horns and her red ribbon, very still, crying. Her hand going slowly out to the side, and the fingers moving. Her voice, laughing through the crying: *Sorry, sorry, give me a minute. I can see the ceiling.* And then, cut in at the end, her saying *Look. Look where my hand is. I can see it there.*
 
 Under it, whoever had cut it had written: *This VTuber has tunnel vision. This is her first minute in a full-dive pod.*
 

@@ -217,7 +217,7 @@ He read it the way Ice had known he would: slowly, every line, with one finger m
 
 Vivian looked at him, and something in her face approved.
 
-"Then this agreement never starts," she said, "and you've been a guest in Malacca who plays video games. Which is what you'll be until they say yes, in any case. Nothing is lost. You go home, or you stay as a visitor for as long as a visitor may. We try again, if there's a reason they said no that can be fixed." She paused. "I don't expect them to say no. The company is in order. You'll be paid more than the minimum. And I'll be filing it."
+"Then this agreement never starts," she said, "and you've been a guest in Malacca who plays video games. Which is what you'll be until they say yes, in any case. Nothing is lost. You go home, or you stay as a visitor for as long as a visitor may. We try again, if there's a reason they said no that can be fixed." She paused. "I don't expect them to say no. The company is in order. Your salary meets the threshold. And I'll be filing it."
 
 Suzu looked at her for a moment more.
 

@@ -77,7 +77,7 @@ The stream had been running since she'd lain down. She'd set it up last night, i
 
 She hadn't planned this.
 
-Her chat was a ghost panel at the edge of her vision. At the *edge*. She could see it there without turning her head. That set her off again, and she laughed, a wet loud laugh in the middle of crying, because she couldn't help it.
+Her chat was a ghost panel at the edge of her vision. At the *edge*. She could see it there without turning her head. That set her off again, and she laughed, loud, right in the middle of crying, because she couldn't help it.
 
 "Sorry," she said to it, to all of them. "Sorry, sorry, give me a minute. I can see the ceiling."
 
