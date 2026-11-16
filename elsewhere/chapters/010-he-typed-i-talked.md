@@ -25,7 +25,7 @@ It was still there on Monday morning, when he went down for coffee. He touched i
 
 [ Chat · 104 watching
 tehpeng: MORNING
-titanium_ii_fluoride: morning :) new people, the rules are pinned
+titanium_ii_fluoride: morning :) new people, the rules are pinned. yes he's always like this
 lowkeyfrog: trust = its over. ice went dark = he found something. herbalism was right
 Salty: and he led crimson ledger to the swamp monster
 dl_learnsforms: that's my favourite clip ever
@@ -228,6 +228,15 @@ Ice: in a day. the week was for the certificate
 ]
 
 Another long wait.
+
+[ Messages · Suzu
+Suzu: my mum
+Ice: i know
+Ice: singapore's three hours on the bus. you go home every weekend. more if she needs you. i'll drive you to melaka sentral myself
+Ice: and you can still read her the post on video like you always do. you'd just be a bit further away when you do it
+]
+
+The dots came and went for a while.
 
 [ Messages · Suzu
 Suzu: why me

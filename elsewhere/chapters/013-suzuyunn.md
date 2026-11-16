@@ -357,6 +357,18 @@ He sat on the edge of the bed with the fan going round above him, and listened t
 
 ***
 
+At seven on Friday morning he sat on the edge of the bed in the guest room, with the fan going round, and video-called his mum.
+
+He'd done it every morning for as long as she'd had a phone that could. It was the same as it had always been, only further away. She held the phone up to the post that had come, one envelope at a time, close to the camera, the way he'd shown her, and he read each one out. A letter from the clinic with a date on it, which he made her say back to him twice. A bill, which he told her he'd sort out. A supermarket flyer, which he read all the way through anyway, because she liked knowing what was on offer.
+
+She asked if the room was nice. He looked round it: the fan, the tight corners, the four pillows.
+
+"It's nice," he said. "There's a fan."
+
+When she'd gone, he sat there for a minute with the phone in his hand. Five thousand ringgit a month, when the pass came through. He'd already worked out how much of it would go home. Most of it. That had been the first sum he'd done on the bus, before the one about what time it was in Elsewhere.
+
+***
+
 He mowed the long meadow down on Friday.
 
 At eight in the morning he and Ice drove to the shoplot together, and climbed into the two eggs side by side in the back room, and lay down at the same moment. Neither of them said anything about it, but both of them noticed. Ice went to his swamp. Suzu went to his hill.

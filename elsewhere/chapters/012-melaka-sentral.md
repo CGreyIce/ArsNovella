@@ -181,6 +181,16 @@ Suzu sat in the passenger seat with the pillow on his knees and looked out of th
 
 They drove for a while.
 
+"I told my mum," Suzu said eventually, still to the window. "That I'd be home on weekends. Starting next week."
+
+"Weekends," said Ice. "I'll drive you to the bus."
+
+"She said to tell you to eat properly."
+
+Ice laughed. "Tell her I'll try."
+
+They drove a bit further.
+
 "Thanks," said Suzu, to the window.
 
 Ice didn't say anything. He didn't trust himself to say the right thing, so he didn't say anything at all, and drove, and after a while Suzu reached out without looking and turned the radio on. It was a song neither of them knew, in a language neither of them spoke, and they listened to the whole thing.
@@ -305,7 +315,7 @@ Salty: SUZU
 Salty: IT WAS SUZU
 Nikorasu: SUZU!!!!
 Aleaka: SUZUUUUUUU
-titanium_ii_fluoride: hi suzu :)
+titanium_ii_fluoride: hi suzu :) good luck living with him
 Hanarisu: he's so pretty in 3d oh my god
 dl_learnsforms: who's this? ice raided
 tehpeng: thats suzu. theyre a duo

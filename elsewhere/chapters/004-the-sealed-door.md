@@ -212,6 +212,7 @@ dumbo: he found something
 lowkeyfrog: ICE WENT DARK
 tehpeng: ice went dark
 Salty: ice went dark
+titanium_ii_fluoride: he's fine. he's just dramatic
 titanium_ii_fluoride: i'll make it a command
 titanium_ii_fluoride: !dark
 Nightbot: ICE WENT DARK (dark count: 1)

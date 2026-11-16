@@ -39,7 +39,7 @@ Ice read for a long time. Then he got up, and made coffee, and stood at the kitc
 tehpeng: MORNING
 tehpeng: WHY IS IT SO BUSY
 lowkeyfrog: the clip went viral on the forum lol
-titanium_ii_fluoride: hello new people :) rules are pinned. be nice. if he says trust, it's over. if he goes dark, type !dark
+titanium_ii_fluoride: hello new people :) rules are pinned. be nice. if he says trust, it's over. if he goes dark, type !dark. he will not tell you what he found. don't ask
 mangoes4ever: and herbalism was right
 Salty: and herbalism was right
 dl_learnsforms: hi! i made the clip, hope that's ok

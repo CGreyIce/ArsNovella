@@ -27,7 +27,7 @@ His legs felt fine this morning. His back didn't. Twelve hours in an egg had lef
 At seven fifty he went live.
 
 [ Chat · 26 watching
-titanium_ii_fluoride: morning ice :)
+titanium_ii_fluoride: morning :) he's back. hide your herbs
 tehpeng: ICE WENT DARK
 lowkeyfrog: ice went dark
 mangoes4ever: ICE WENT DARK
