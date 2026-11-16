@@ -24,7 +24,7 @@ He found he didn't mind as much as he'd expected. He minded a precise amount, in
 [ Suzuyunn — available.
 Names are unique across the world. This one is yours. ]
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 131 watching
 Salty: SOMEONE TOOK SUZUYUN
 Nikorasu: name sniper
 Aleaka: NOOOOO
@@ -59,7 +59,7 @@ He didn't think about it. He didn't need to. He'd watched Ice push the slider al
 
 He wasn't going to be at the front. But he was going to be next to the man who was.
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 128 watching
 YoJareddo: FIFTY??
 Hanarisu: suzu no!!
 Salty: why is everyone in this friend group like this
@@ -84,7 +84,7 @@ He took the staff. It was the closest thing on the rack: long, two hands, the ri
 
 "I wanted a scythe," he told his chat. "They gave me a stick."
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 121 watching
 Nikorasu: lmao
 Aleaka: the STICK
 Ice: someone in that world cuts grass
@@ -120,7 +120,7 @@ There were people in it. Not travellers, the people who lived here. Six of them 
 
 *Shhhhk.*
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 117 watching
 Salty: SCYTHES
 Salty: SUZU SCYTHES
 Aleaka: SOMEONE IN THAT WORLD CUTS GRASS!!!!
@@ -224,7 +224,7 @@ Wenna had stopped her own mowing to watch. She looked at the swathe. She looked 
 
 "From a friend," said Suzu. "Who's in a swamp."
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 104 watching
 Ice: back foot
 Suzuyunn: i know
 dl_learnsforms: HE DID THE BACK FOOT
@@ -279,7 +279,7 @@ He stood on the path in the blue dusk and looked at it, close, with his half-clo
 
 It faded out in his palm, slowly, like a coal going grey.
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 86 watching
 Hanarisu: oh that's so pretty
 Aleaka: a little light!!!
 lowkeyfrog: whats that? ice's rats never did that
@@ -418,7 +418,7 @@ She looked at him, the long silver hair and the pointed ears and the half-closed
 
 "You mow like one, though." She went back inside, out of the rain.
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 58 watching
 Salty: SCYTHE
 Salty: HE GOT THE SCYTHE
 Aleaka: SUZU GOT HIS SCYTHE!!!!!!!!!
@@ -443,7 +443,7 @@ He had the jar out before they could fade.
 
 [ Essence (Faint) ×3 · Essence Harvesting +12 ]
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 61 watching
 dl_learnsforms: the scythe CATCHES them??
 dl_learnsforms: thats new
 Ice: suzu
@@ -478,7 +478,7 @@ The man looked at him. Then at the scythe. Then back at his face. Whatever he sa
 
 Suzu went and sat down on the wall again, and picked up his rag, and went on cleaning the blade. After a while, Wenna's dog came and lay down across his feet.
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 63 watching
 Salty: suzu is scary
 Nikorasu: suzu has always been scary
 lowkeyfrog: snake energy
@@ -514,7 +514,7 @@ They looked at each other.
 Ice laughed, and climbed out, and held out a hand to pull him up, because his legs had forgotten again. Suzu took it.
 
 [ Suzuyunn · Lv 6 · Larkhollow · Day 13
-Gold 0g 9s 40c · Camera: Follow
+Gold 0g 9s 40c · Camera: Follow · Peak viewers 136 (Ice's raid; usually about 22)
 New: Aldo's Scythe · Mowing Stroke (Intermediate, 58%) · Essence Harvesting · Enchanting · Party: Moonlight Harvest
 Quest complete: The Long Meadow (supper, and her good opinion)
 ]

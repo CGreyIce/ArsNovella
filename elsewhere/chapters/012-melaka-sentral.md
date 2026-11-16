@@ -310,7 +310,7 @@ Long hair, silver-white, falling past his shoulders, with pale gold streaks at t
 
 His own chat was there already, the people who'd always watched him, and they were losing their minds. And then a hundred and twelve more arrived at once and lost theirs too.
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 134 watching
 Salty: SUZU
 Salty: IT WAS SUZU
 Nikorasu: SUZU!!!!
@@ -335,7 +335,7 @@ He thought about it for a second. Ten days ago, on a Monday morning, a name had 
 
 He typed.
 
-[ Chat (Suzuyunn)
+[ Chat (Suzuyunn) · 136 watching
 Ice: hi
 ]
 
