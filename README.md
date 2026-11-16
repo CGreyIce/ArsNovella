@@ -12,6 +12,8 @@
 
 ***Regressor Diary of a Voyager*** lives in `voyager/` (its own `novel.json` and `chapters/`) and builds to `docs/voyager/`. It isn't linked anywhere: on the Fisherman's page the **Isekai** tag opens a code box, and the code goes to `voyager/`. The Voyager page's own Isekai tag links back. Its reading progress and comments are separate (`arsnovella.progress.voyager`, `voyager_comments`); reader settings are shared. Add its chapters exactly as above, under `voyager/chapters/`.
 
+***Live from Elsewhere*** lives in `elsewhere/` and builds to `docs/elsewhere/`. It's hidden one level deeper: on the Voyager page the **Slow reveal** tag opens a sign-in box (checked against a SHA-256 hash in `reader.js`, so the login isn't in the source), and the Elsewhere page's **LitRPG** tag links back to Voyager. Its progress and comments are separate (`arsnovella.progress.elsewhere`, `elsewhere_comments`). Add its chapters under `elsewhere/chapters/`. Set `ARS_ELSEWHERE=0` to build without it.
+
 ## Reader features
 
 - Reader settings (saved in the browser): theme (Dark, Light, Sepia, Lake, or custom colours), font, size, line and paragraph spacing, text width.
@@ -41,6 +43,6 @@ Firestore needs this block in its rules (Firebase console → Firestore Database
     }
 ```
 
-The hidden novel's comments go to `voyager_comments/{chapter}/items/{id}` and need a second, identical block with `arsnovella_comments` changed to `voyager_comments`.
+The hidden novels' comments go to `voyager_comments/{chapter}/items/{id}` and `elsewhere_comments/{chapter}/items/{id}`, and each needs its own identical block with `arsnovella_comments` changed to that name.
 
 Nobody can edit or delete comments from the site. To remove one, delete it in the Firebase console under `arsnovella_comments → <chapter> → items`.

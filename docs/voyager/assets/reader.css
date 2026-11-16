@@ -142,6 +142,7 @@ kbd { padding: 1px 6px; border: 1px solid var(--border); border-bottom-width: 2p
   background: var(--card); color: var(--fg); letter-spacing: .08em; }
 .code-form input:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: transparent; }
 .code-msg { min-height: 1.4em; margin: 6px 0 0; font-size: 13px; color: var(--danger); }
+.signin-head { margin: 0 0 8px; font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: var(--muted); }
 .empty-note { color: var(--muted); }
 .btn[aria-disabled="true"] { opacity: .6; cursor: default; }
 .btn[aria-disabled="true"]:hover { background: var(--card); }
@@ -164,7 +165,7 @@ kbd { padding: 1px 6px; border: 1px solid var(--border); border-bottom-width: 2p
   .cover { width: min(220px, 60%); margin: 0 auto; }
   .info { text-align: center; }
   .chips, .tags, .cta, .code-form { justify-content: center; }
-  .code-msg { text-align: center; }
+  .code-msg, .signin-head { text-align: center; }
   .synopsis { text-align: left; }
   .chapter-list a { grid-template-columns: 1fr; gap: 2px; }
 }

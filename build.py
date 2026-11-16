@@ -5,7 +5,12 @@ Builds two novels: The Fisherman of Lake Ilse (repo root -> docs/) and the hidde
 Regressor Diary of a Voyager (voyager/ -> docs/voyager/). The Fisherman's "Isekai" tag
 opens a code box; TRUST goes to the Voyager page, whose "Isekai" tag links back.
 
+A third novel, Live from Elsewhere (elsewhere/ -> docs/elsewhere/), is hidden one level
+deeper: Voyager's "Slow reveal" tag opens a sign-in box (checked by hash in reader.js),
+and Elsewhere's "LitRPG" tag links back. Set ARS_ELSEWHERE=0 to build without it.
+
 Usage: python build.py
+       ARS_OUT=<dir> python build.py   (build somewhere other than docs/)
 
 Chapter files look like:
 
@@ -22,13 +27,16 @@ Chapter files look like:
 """
 import html
 import json
+import math
+import os
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SRC = ROOT / "src"
 SITE = "https://cgreyice.github.io/ArsNovella/"
-OUT = ROOT / "docs"
+OUT = Path(os.environ["ARS_OUT"]) if os.environ.get("ARS_OUT") else ROOT / "docs"
+ELSEWHERE_ON = os.environ.get("ARS_ELSEWHERE", "1") == "1"
 FONTS = ("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400"
          "&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap")
 WPM = 230
@@ -329,9 +337,23 @@ def tag_item(t, cfg):
     if kind == "secret":
         return (f'<li class="has-btn"><button type="button" class="tag-btn" data-secret '
                 f'data-href="{esc(href)}" aria-expanded="false">{esc(t)}</button></li>')
+    if kind == "signin":
+        return (f'<li class="has-btn"><button type="button" class="tag-btn" data-signin '
+                f'data-href="{esc(href)}" aria-expanded="false">{esc(t)}</button></li>')
     if kind == "link":
         return f'<li class="has-btn"><a class="tag-btn" href="{esc(href)}">{esc(t)}</a></li>'
     return f'<li>{esc(t)}</li>'
+
+
+SIGNIN_BOX = """<div class="code-box signin-box" data-signin-box hidden>
+        <p class="signin-head">ELSEWHERE · Sign in</p>
+        <form class="code-form" data-signin-form autocomplete="off" novalidate>
+          <label><span class="sr">Username</span><input name="user" maxlength="24" placeholder="Username" spellcheck="false" autocapitalize="off" autocorrect="off"></label>
+          <label><span class="sr">Password</span><input name="pass" type="password" maxlength="24" placeholder="Password" autocomplete="off"></label>
+          <button type="submit" class="btn">Sign in</button>
+        </form>
+        <p class="code-msg" data-signin-msg aria-live="polite"></p>
+      </div>"""
 
 
 CODE_BOX = """<div class="code-box" data-code-box hidden>
@@ -357,6 +379,7 @@ def series_page(novel, chapters, cfg):
     synopsis = "".join(f"<p>{inline(p)}</p>" for p in novel["synopsis"])
     tags = "".join(tag_item(t, cfg) for t in novel["tags"])
     has_secret = any(k == "secret" for k, _ in cfg.get("tag_links", {}).values())
+    has_signin = any(k == "signin" for k, _ in cfg.get("tag_links", {}).values())
     vols = {}
     for c in chapters:
         vols.setdefault(str(c["volume"]), []).append(c)
@@ -397,7 +420,7 @@ def series_page(novel, chapters, cfg):
       </div>
       <div class="synopsis">{synopsis}</div>
       <ul class="tags" aria-label="Tags">{tags}</ul>
-      {CODE_BOX if has_secret else ""}
+      {CODE_BOX if has_secret else ""}{SIGNIN_BOX if has_signin else ""}
     </div>
   </section>
   <section class="chapters" id="chapters">
@@ -412,11 +435,65 @@ def series_page(novel, chapters, cfg):
 """
 
 
+def elsewhere_cover():
+    """Drawn cover for Live from Elsewhere: a camera's-eye view of a night fen, the ring of
+    heron-stones with the moonbells open in the middle, a LIVE badge in the corner."""
+    cx, cy, rx, ry = 150, 268, 100, 24
+    stones = []
+    for i in range(9):  # back stones first, so the near ones overlap them
+        a = math.radians(i * 40 - 90)
+        x, y = cx + rx * math.cos(a), cy + ry * math.sin(a)
+        stones.append((y, x))
+    stone_paths = "".join(
+        f'<path d="M{x - 6:.1f} {y:.1f} l1.6 -{30 + (y - cy) * 0.5:.1f} h8.8 l1.6 {30 + (y - cy) * 0.5:.1f} Z"/>'
+        for y, x in sorted(stones))
+    bells = "".join(f'<circle cx="{x}" cy="{y}" r="{r}"/>' for x, y, r in
+                    ((118, 266, 4), (132, 260, 3.4), (150, 268, 4.6), (166, 261, 3.6), (182, 267, 4),
+                     (126, 276, 3.2), (141, 279, 3.8), (159, 280, 3.4), (174, 277, 3.2), (150, 255, 2.8)))
+    reeds = "".join(f'<path d="M{x} 250 l{lean} -{h}"/>' for x, h, lean in
+                    ((6, 30, -2), (14, 22, 1), (22, 36, -1), (31, 26, 2), (40, 18, -1), (52, 28, 1), (63, 20, -2),
+                     (236, 22, 2), (246, 32, -1), (255, 20, 1), (264, 34, -2), (273, 24, 1), (283, 30, -1), (292, 18, 2)))
+    stars = "".join(f'<circle cx="{x}" cy="{y}" r="{r}"/>' for x, y, r in
+                    ((40, 60, 1), (78, 34, 1.2), (118, 76, 0.8), (182, 30, 1), (30, 132, 0.9), (98, 124, 0.7),
+                     (262, 128, 0.9), (150, 46, 0.8)))
+    corner = "M{0} {1}v{2}M{0} {1}h{3}"
+    finder = "".join(f'<path d="{corner.format(x, y, dy, dx)}"/>' for x, y, dx, dy in
+                     ((16, 16, 18, 18), (284, 16, -18, 18), (16, 300, 18, -18), (284, 300, -18, -18)))
+    return f"""<svg class="cover-art" viewBox="0 0 300 420" role="img" aria-label="Cover: a live stream's view of a night fen, a ring of standing stones with silver flowers glowing in the water between them">
+  <defs>
+    <linearGradient id="esky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050a12"/><stop offset=".62" stop-color="#132a3a"/><stop offset="1" stop-color="#0a1620"/></linearGradient>
+    <linearGradient id="ewater" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2230"/><stop offset="1" stop-color="#03070b"/></linearGradient>
+    <radialGradient id="ebell"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#d8eef2" stop-opacity=".6"/><stop offset="1" stop-color="#d8eef2" stop-opacity="0"/></radialGradient>
+    <radialGradient id="ering"><stop offset="0" stop-color="#cfeff0" stop-opacity=".35"/><stop offset="1" stop-color="#cfeff0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="300" height="420" fill="url(#esky)"/>
+  <g fill="#e9f3f6" opacity=".8">{stars}</g>
+  <circle cx="222" cy="78" r="22" fill="#f1f6f8" opacity=".95"/>
+  <rect y="250" width="300" height="170" fill="url(#ewater)"/>
+  <g stroke="#f1f6f8" stroke-linecap="round" opacity=".35"><path d="M210 274h24" stroke-width="2"/><path d="M204 288h36" stroke-width="1.5"/><path d="M214 302h16" stroke-width="1.5"/></g>
+  <g stroke="#06101a" stroke-width="2.2" stroke-linecap="round">{reeds}</g>
+  <ellipse cx="{cx}" cy="{cy}" rx="{rx + 24}" ry="{ry + 20}" fill="url(#ering)"/>
+  <g fill="#5a6c7c">{stone_paths}</g>
+  <g fill="url(#ebell)">{bells}</g>
+  <g stroke="#eef3f6" stroke-width="1.6" fill="none" opacity=".7">{finder}</g>
+  <rect x="24" y="24" width="40" height="15" rx="3" fill="#e5484d"/>
+  <text x="44" y="35" text-anchor="middle" fill="#ffffff" font-family="Inter, sans-serif" font-size="9" font-weight="700" letter-spacing="1.5">LIVE</text>
+  <text x="276" y="35" text-anchor="end" fill="#eef3f6" opacity=".75" font-family="Inter, sans-serif" font-size="9" letter-spacing="1">21 watching</text>
+  <text x="150" y="346" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="13" letter-spacing="6">LIVE FROM</text>
+  <text x="150" y="382" text-anchor="middle" fill="#eef3f6" font-family="Lora, Georgia, serif" font-size="28" letter-spacing="3">ELSEWHERE</text>
+  <text x="150" y="408" text-anchor="middle" fill="#9fd8e0" font-family="Inter, sans-serif" font-size="11" letter-spacing="4">CGREYICE</text>
+</svg>"""
+
+
 FISHERMAN = {"key": "", "dir": ROOT, "out": "", "comments": "", "cover": cover_html,
              "tag_links": {"Isekai": ("secret", "voyager/")}}
 VOYAGER = {"key": "voyager", "dir": ROOT / "voyager", "out": "voyager/", "comments": "voyager_comments",
            "cover": voyager_cover, "tag_links": {"Isekai": ("link", "../")}}
-NOVELS = (FISHERMAN, VOYAGER)
+ELSEWHERE = {"key": "elsewhere", "dir": ROOT / "elsewhere", "out": "elsewhere/", "comments": "elsewhere_comments",
+             "cover": elsewhere_cover, "tag_links": {"LitRPG": ("link", "../voyager/")}}
+if ELSEWHERE_ON:
+    VOYAGER["tag_links"]["Slow reveal"] = ("signin", "../elsewhere/")
+NOVELS = (FISHERMAN, VOYAGER, ELSEWHERE) if ELSEWHERE_ON else (FISHERMAN, VOYAGER)
 
 
 def load_chapters(folder):

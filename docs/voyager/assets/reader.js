@@ -129,9 +129,44 @@
     });
   }
 
+  /* ---------- the second tag: a sign-in box, checked by hash so the login isn't in the source ---------- */
+  var SIGNIN = "0312e22b56d07c6f5261b6e8729598ba0e1b3cbf814d225e8db618c5cfcdc316";
+  function sha256hex(s) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(s)).then(function (buf) {
+      return Array.prototype.map.call(new Uint8Array(buf), function (b) { return ("0" + b.toString(16)).slice(-2); }).join("");
+    });
+  }
+  function initSignin() {
+    var tag = $("[data-signin]"), box = $("[data-signin-box]");
+    if (!tag || !box) return;
+    var form = box.querySelector("[data-signin-form]"), user = form.elements.user, pass = form.elements.pass;
+    var msg = box.querySelector("[data-signin-msg]");
+    function show(open) {
+      box.hidden = !open;
+      tag.setAttribute("aria-expanded", String(open));
+      if (open) { msg.textContent = ""; user.value = ""; pass.value = ""; user.focus(); }
+    }
+    tag.addEventListener("click", function () { show(box.hidden); });
+    [user, pass].forEach(function (inp) {
+      inp.addEventListener("keydown", function (e) { if (e.key === "Escape") { show(false); tag.focus(); } });
+      inp.addEventListener("input", function () { msg.textContent = ""; });
+    });
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (!window.crypto || !crypto.subtle) { msg.textContent = "Sign-in isn't available here."; return; }
+      sha256hex(user.value.trim().toLowerCase() + ":" + pass.value.trim()).then(function (h) {
+        if (h === SIGNIN) { location.href = tag.getAttribute("data-href"); return; }
+        msg.textContent = "Wrong username or password.";
+        pass.value = "";
+        pass.focus();
+      });
+    });
+  }
+
   /* ---------- series page ---------- */
   function initSeries() {
     initSecret();
+    initSignin();
     var p = load(PKEY, null);
     var btn = $("[data-continue]");
     if (!p || !btn || !p.href) return;
