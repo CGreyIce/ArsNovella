@@ -202,7 +202,7 @@ The haul was in the party chest. That was a thing the game did for parties of fi
 
 "Obviously," said Suzu, from the bus.
 
-"Second thing." Ice looked at Deston. "Dee wants the pages."
+"Second thing." Ice looked at Deston. "Deston wants the pages."
 
 Deston looked up from the rock. "I want to *read* them. I'm not—I'll pay for them. Out of my share. However you want to do it."
 
@@ -224,7 +224,7 @@ Xav looked up at that. "The lights are worth—"
 
 There was a short silence, with the bus engine in it.
 
-"Okay," said Xav. He wrote something on his paper and crossed something else out. "Okay. So Dee takes the pages and Suzu takes the lights, and the rest gets sold, and we split it three ways." He looked at the other three. "Me, you, Kotori."
+"Okay," said Xav. He wrote something on his paper and crossed something else out. "Okay. So Deston takes the pages and Suzu takes the lights, and the rest gets sold, and we split it three ways." He looked at the other three. "Me, you, Kotori."
 
 Kotori's head came up so fast her bell rang.
 
