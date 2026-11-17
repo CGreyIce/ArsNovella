@@ -34,13 +34,13 @@ There were other notices. People selling things, mostly: *Rat pelts, 1c each, bu
 There was a notice down in the bottom corner, half covered by a newer one. It said simply, in neat small writing, *healer, lv 10, available most days*. Somebody had already scrawled across it in red, *TAKEN*.
 
 [ Chat · 158 watching
-dumbo: every mmo ever
-dumbo: 80% dps 15% tank 5% healer
-Salty: the healer shortage is real
-YoJareddo: rip
-titanium_ii_fluoride: post one anyway
-titanium_ii_fluoride: you're 7th in the world. someone will come
-titanium_ii_fluoride: probably a weirdo but someone
+◆ dumbo: every mmo ever
+◆ dumbo: 80% dps 15% tank 5% healer
+◆ Salty: the healer shortage is real
+◆ YoJareddo: rip
+⚔ titanium_ii_fluoride: post one anyway
+⚔ titanium_ii_fluoride: you're 7th in the world. someone will come
+⚔ titanium_ii_fluoride: probably a weirdo but someone
 ]
 
 ***
@@ -95,10 +95,10 @@ By the twentieth, it was dark, and the mudwolves were getting bored, and so was 
 
 [ Chat · 140 watching
 lowkeyfrog: healer 19 stood IN the water
-Salty: healer 20 healed the mudwolf
-Nikorasu: he healed the WOLF
-titanium_ii_fluoride: i'm adding a counter for this
-titanium_ii_fluoride: !healers
+◆ Salty: healer 20 healed the mudwolf
+◆ Nikorasu: he healed the WOLF
+⚔ titanium_ii_fluoride: i'm adding a counter for this
+⚔ titanium_ii_fluoride: !healers
 Nightbot: Healers tried: 20. Healers kept: 0
 ]
 
@@ -198,13 +198,13 @@ Kotori looked at the post under her feet, as if she'd only just noticed it.
 [ Chat · 171 watching
 dl_learnsforms: oh
 dl_learnsforms: oh she's GOOD
-dumbo: she healed BEFORE the damage landed. look at his bar
-dumbo: it never finished dropping
-Salty: she stood on a POST
-Nikorasu: "it looked like a place where nothing would go"
-YoJareddo: that's literally the best positioning call i've ever heard
-titanium_ii_fluoride: she said sorry for an early heal
-titanium_ii_fluoride: protect her at all costs
+◆ dumbo: she healed BEFORE the damage landed. look at his bar
+◆ dumbo: it never finished dropping
+◆ Salty: she stood on a POST
+◆ Nikorasu: "it looked like a place where nothing would go"
+◆ YoJareddo: that's literally the best positioning call i've ever heard
+⚔ titanium_ii_fluoride: she said sorry for an early heal
+⚔ titanium_ii_fluoride: protect her at all costs
 ]
 
 ***
@@ -279,13 +279,13 @@ Sketch: Five
 Ice looked at the five names in the party window, one under the other. Two of them had been in the same school choir. One had been in the same poly class. One was on a hill a long way off with an old farmer's war scythe. And one was sitting on a river wall beside him, swinging her feet over the water, saying sorry to nobody, with a bell on her staff.
 
 [ Chat · 174 watching
-titanium_ii_fluoride: !healers
+⚔ titanium_ii_fluoride: !healers
 Nightbot: Healers tried: 23. Healers kept: 1
-Aleaka: FIVE!!!!
-Hanarisu: welcome kotori!!!
-titanium_ii_fluoride: she says sorry to monsters
-titanium_ii_fluoride: she's too good for you ice
-titanium_ii_fluoride: be nice to her
+◆ Aleaka: FIVE!!!!
+◆ Hanarisu: welcome kotori!!!
+⚔ titanium_ii_fluoride: she says sorry to monsters
+⚔ titanium_ii_fluoride: she's too good for you ice
+⚔ titanium_ii_fluoride: be nice to her
 ]
 
 [ Ice · Lv 11 · Holdfast · Brackenford · Day 15

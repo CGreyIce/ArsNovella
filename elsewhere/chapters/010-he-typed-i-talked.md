@@ -25,9 +25,9 @@ It was still there on Monday morning, when he went down for coffee. He touched i
 
 [ Chat · 104 watching
 tehpeng: MORNING
-titanium_ii_fluoride: morning :) new people, the rules are pinned. yes he's always like this
+⚔ titanium_ii_fluoride: morning :) new people, the rules are pinned. yes he's always like this
 lowkeyfrog: trust = its over. ice went dark = he found something. herbalism was right
-Salty: and he led crimson ledger to the swamp monster
+◆ Salty: and he led crimson ledger to the swamp monster
 dl_learnsforms: that's my favourite clip ever
 nightowl_kr: the death log screenshot has 2k upvotes
 ]
@@ -41,7 +41,7 @@ The new rule held. He streamed the fights near town, on the south walk and at th
 At about half past nine, between fights, a name typed that had never typed before.
 
 [ Chat · 107 watching
-Suzuyunn: morning
+◆ Suzuyunn: morning
 ]
 
 He stopped walking.
@@ -65,31 +65,31 @@ It was a strange way to have a conversation, and also the most natural thing in 
 Now Suzu didn't have a voice. He had lowercase letters, a minute behind, and Ice answered him out loud, inside a game, with a sword in his hand.
 
 [ Chat · 108 watching
-Suzuyunn: so the swamp monster
-Suzuyunn: did you plan that or did you get lucky
+◆ Suzuyunn: so the swamp monster
+◆ Suzuyunn: did you plan that or did you get lucky
 ]
 
 "Bit of both," said Ice. "I knew it lived there. I didn't know if it'd come back yet."
 
 [ Chat · 108 watching
-Suzuyunn: thats the most you thing
-Suzuyunn: plan 70%. then trust
-Salty: plan 70% then trust
-Nikorasu: accurate
+◆ Suzuyunn: thats the most you thing
+◆ Suzuyunn: plan 70%. then trust
+◆ Salty: plan 70% then trust
+◆ Nikorasu: accurate
 ]
 
 "It's a good system."
 
 [ Chat · 109 watching
-Suzuyunn: it got you a tournament once
-Suzuyunn: barely
+◆ Suzuyunn: it got you a tournament once
+◆ Suzuyunn: barely
 ]
 
 "You carried me in that tournament."
 
 [ Chat · 109 watching
-Suzuyunn: i know
-Suzuyunn: i was there
+◆ Suzuyunn: i know
+◆ Suzuyunn: i was there
 ]
 
 The new viewers didn't know who he was. Ice could see them trying to work it out: *who's suzuyunn? are they friends? why is he talking to one guy?* And somebody old, probably Teh Peng, typing *thats suzu. theyre a duo. have been for years.*
@@ -103,16 +103,16 @@ Suzu asked what was on the weapon rack.
 "Sword, shield, spear, hatchet, hammer, two daggers, a bow, a staff, a wand. And Deston's book."
 
 [ Chat · 111 watching
-Suzuyunn: no scythe
+◆ Suzuyunn: no scythe
 ]
 
 "No scythe."
 
 [ Chat · 111 watching
-Suzuyunn: tragic
-Suzuyunn: if i ever play im finding a scythe
-Suzuyunn: there will be a scythe somewhere
-Suzuyunn: someone in that world cuts grass
+◆ Suzuyunn: tragic
+◆ Suzuyunn: if i ever play im finding a scythe
+◆ Suzuyunn: there will be a scythe somewhere
+◆ Suzuyunn: someone in that world cuts grass
 ]
 
 Ice laughed so hard a leech nearly got him.
@@ -122,13 +122,13 @@ Ice laughed so hard a leech nearly got him.
 Around noon he went quiet for a bit, because they were going out to the stones and he'd ended the stream. When he came back, the first thing in chat, before *ice went dark (17)*, was:
 
 [ Chat · 104 watching
-Suzuyunn: wb
+◆ Suzuyunn: wb
 ]
 
 And somewhere in the afternoon, after a fight, when chat was busy talking about something else and the new viewers were asking Dee about the clip, Suzu typed:
 
 [ Chat · 106 watching
-Suzuyunn: you sound happy
+◆ Suzuyunn: you sound happy
 ]
 
 Ice didn't say anything for a second.
@@ -138,7 +138,7 @@ He was standing in the shallows at the edge of the fen with his sword hanging fr
 "I am," he said.
 
 [ Chat · 106 watching
-Suzuyunn: good
+◆ Suzuyunn: good
 ]
 
 That was all. Chat went on talking about the clip. But Ice stood there in the water for a while after, not fighting anything, and Deston looked up from his book and didn't say anything either.
@@ -177,9 +177,9 @@ He said goodnight to chat at a little after eight, sitting on the end of Sedge's
 [ Chat · 112 watching
 tehpeng: gn
 mangoes4ever: goodnight!!
-Aleaka: gn!!!! 112 viewers ice!!!! 112!!!
-Salty: gn
-Suzuyunn: gn
+◆ Aleaka: gn!!!! 112 viewers ice!!!! 112!!!
+◆ Salty: gn
+◆ Suzuyunn: gn
 ]
 
 And then he was heavy, lying in gel in the dim blue egg, with the fan going round, and his legs had forgotten how to be legs.

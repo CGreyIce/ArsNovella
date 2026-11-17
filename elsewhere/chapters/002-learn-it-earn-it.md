@@ -25,11 +25,11 @@ Ice went back to the start.
 The chat panel was a ghost at the edge of his eye, scrolling a minute behind him. It had been scrolling the same thing for twenty minutes.
 
 [ Chat · 22 watching
-dumbo: 12 17 15 20 22 9
-dumbo: the 9 is the fast one. speed is penalised if feet dont move
-dumbo: im making a sheet
-Salty: chris is making a sheet
-Nikorasu: of course he is
+◆ dumbo: 12 17 15 20 22 9
+◆ dumbo: the 9 is the fast one. speed is penalised if feet dont move
+◆ dumbo: im making a sheet
+◆ Salty: chris is making a sheet
+◆ Nikorasu: of course he is
 ]
 
 "Chris is making a sheet," Ice said to the dummy, fondly.
@@ -72,10 +72,10 @@ It wasn't fake heaviness. His arm actually ached, a dull fizzing burn in the lon
 "Stamina," he told chat, and sat down on the packed earth to let it fill, with his back against the fence. "It's not just a number. Your arm actually gets tired. I can feel it in the—" he flexed his wrist—"here. It's like the end of a gym set."
 
 [ Chat · 22 watching
-Salty: how would you know what the end of a gym set feels like
-Nikorasu: LOL
-YoJareddo: salty violence
-Aleaka: be nice, he's working very hard!!
+◆ Salty: how would you know what the end of a gym set feels like
+◆ Nikorasu: LOL
+◆ YoJareddo: salty violence
+◆ Aleaka: be nice, he's working very hard!!
 ]
 
 "Thank you, Leaka. Salty, I'll remember that."
@@ -109,9 +109,9 @@ He hit him again. Ice tilted the shield, too much, and the stick came off the to
 Grade: 9%. You turned it into your own head. ]
 
 [ Chat · 23 watching
-Salty: HAHAHAHAHA
-Baer: right in the ear
-Hanarisu: ICE ARE YOU OK
+◆ Salty: HAHAHAHAHA
+◆ Baer: right in the ear
+◆ Hanarisu: ICE ARE YOU OK
 lowkeyfrog: the game roasting him too now
 ]
 
@@ -148,7 +148,7 @@ Ice stood at the edge of it all for a moment and watched, and his chest did some
 kittycatsoup: ok i see what he meant now
 kittycatsoup: everyone is just. flailing
 gr8grape: thats literally what i would do though
-YoJareddo: thats what EVERYONE would do lol
+◆ YoJareddo: thats what EVERYONE would do lol
 ]
 
 The rats were the size of small dogs, with wet dark fur and long bald tails and yellow teeth that showed when they moved. They were fast and low, and they didn't stand still.
@@ -178,13 +178,13 @@ It took him six cuts in all, and two more bites. When it died, it lay still on t
 There was a pause in chat, a minute later, while everybody read it.
 
 [ Chat · 23 watching
-Salty: four xp
-Salty: FOUR
+◆ Salty: four xp
+◆ Salty: FOUR
 lowkeyfrog: out of two hundred??
 kittycatsoup: thats 50 rats for one level
-dumbo: 50 rats x 6 cuts x 1 cut per 2 seconds plus walking
-dumbo: about two hours per level. at level 1
-Nikorasu: and it gets worse
+◆ dumbo: 50 rats x 6 cuts x 1 cut per 2 seconds plus walking
+◆ dumbo: about two hours per level. at level 1
+◆ Nikorasu: and it gets worse
 ]
 
 "It gets worse," Ice agreed. He was grinning. He couldn't help it. "Chat, it's *hard*. It's actually hard. Do you understand how long I've wanted somebody to make one of these hard?"
@@ -209,12 +209,12 @@ He looked up and down the south walk. Out past where the boards got thin, three 
 He knew what he was going to do before he'd finished thinking it, and he also knew exactly how stupid it was. If he died, the game would lock him out for twenty-four hours. On launch day. He'd come back tomorrow to find a thousand people a level ahead of him in his own town, and he'd have spent ten thousand ringgit to watch them do it.
 
 [ Chat · 23 watching
-Baer: dec no
-Aleaka: no!!! no no no
-titanium_ii_fluoride: ice please. i am not modding a funeral
-Salty: hes going to do it
-Nikorasu: hes going to do it
-YoJareddo: he's absolutely going to do it
+◆ Baer: dec no
+◆ Aleaka: no!!! no no no
+⚔ titanium_ii_fluoride: ice please. i am not modding a funeral
+◆ Salty: hes going to do it
+◆ Nikorasu: hes going to do it
+◆ YoJareddo: he's absolutely going to do it
 ]
 
 "I'm not going to do it the stupid way," said Ice. "I'm going to do it the clever stupid way. Watch."
@@ -248,16 +248,16 @@ His calf hurt. His ankle hurt. There was a dull throb in the knuckles of his shi
 "Nine," he said.
 
 [ Chat · 24 watching
-Aleaka: ICE
-Aleaka: ICE YOU HAD NINE HEALTH
-Baer: dec
-Salty: you almost died on launch day
-Hanarisu: my heart!!
-YoJareddo: that was actually so clean though
-YoJareddo: the two plank thing. thats a real play
+◆ Aleaka: ICE
+◆ Aleaka: ICE YOU HAD NINE HEALTH
+◆ Baer: dec
+◆ Salty: you almost died on launch day
+◆ Hanarisu: my heart!!
+◆ YoJareddo: that was actually so clean though
+◆ YoJareddo: the two plank thing. thats a real play
 kittycatsoup: wait he planned that??
 lowkeyfrog: he always plans it. then it goes wrong. then he fixes it
-titanium_ii_fluoride: ok. breathing again. you owe me a new heart
+⚔ titanium_ii_fluoride: ok. breathing again. you owe me a new heart
 ]
 
 "Almost isn't," said Ice to the fen, and lay back on the boards, and looked at the sky, which was blue now and very high and had a single heron in it, flying home.
@@ -281,8 +281,8 @@ The whole south walk went quiet. Somebody said, in Spanish and then in English, 
 gr8grape: oh no
 gr8grape: on launch day
 kittycatsoup: imagine paying 2.5k and getting locked out the first day
-Salty: thats what almost happened to him btw
-Salty: 45 minutes ago
+◆ Salty: thats what almost happened to him btw
+◆ Salty: 45 minutes ago
 ]
 
 Ice didn't say anything for a moment. He looked at the place on the water where the dust had gone.
@@ -330,13 +330,13 @@ Unspent: 5 ]
 He put three in VIT and two in STR without thinking about it, the way he had in every game since he was eleven. Tanks went vitality. You couldn't hold anything if you were dead.
 
 [ Chat · 24 watching
-YoJareddo: level 2 lets go
-Nikorasu: 3 vit 2 str. predictable. correct
-Aleaka: well done!!!
-dumbo: 3h 41m to level 2. compared with the average from other streams i checked: hes about 40 min ahead
-dumbo: everyone else is still level 1 mostly
-Salty: chris has been watching other streams at the same time
-Salty: chris is watching four streams
+◆ YoJareddo: level 2 lets go
+◆ Nikorasu: 3 vit 2 str. predictable. correct
+◆ Aleaka: well done!!!
+◆ dumbo: 3h 41m to level 2. compared with the average from other streams i checked: hes about 40 min ahead
+◆ dumbo: everyone else is still level 1 mostly
+◆ Salty: chris has been watching other streams at the same time
+◆ Salty: chris is watching four streams
 ]
 
 He laughed, and turned north, toward the end of the walk where an old woman was three days behind.

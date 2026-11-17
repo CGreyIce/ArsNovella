@@ -7,7 +7,7 @@ date: 2026-11-18
 
 [ Messages · Chris
 Chris: vanta wiped again. 3rd time. 1:14am their time
-Chris: they got the cistern boss to 12%
+Chris: kestrel says they got the last boss to 12%. the one with the baton
 Chris: TWELVE
 Chris: kestrel said on stream "tomorrow night. we have it now"
 Chris: 61k were watching
@@ -299,7 +299,7 @@ And under it, quieter:
 
 Every traveller in Elsewhere.
 
-Three million people. Everyone in Fernwick and Brackenford and Larkhollow and Saltwhistle and Heatherbrook. Rafi on the north walk with his sack. Hyvred on her cliff. Bee on her moor. Tiger in his canal city and Drew in his mountain village. The CL sashes in four hundred towns. Kestrel and VANTA in a desert on the other side of the world, getting ready for tonight.
+Three million people. Everyone in Fernwick and Brackenford and Larkhollow and Saltwhistle and Heatherbrook. Rafi on the north walk with his sack. Hyvred on her cliff. Bee on her moor. Tiger in his canal city and Drew in his mountain village. The CL sashes in four hundred towns. Kestrel and VANTA in a salt marsh on the other side of the world, at the top of their own green steps, getting ready for tonight.
 
 All of them, at the same moment, wherever they were, doing whatever they were doing, had just seen a window open in front of their faces with five names in it.
 

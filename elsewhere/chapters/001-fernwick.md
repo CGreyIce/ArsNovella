@@ -29,16 +29,16 @@ He made a fist. He opened it.
 
 The room was small and plain, made of a pale wood that smelled faintly of sap. There was the window, a tall mirror in a frame against one wall, a rack of weapons by a closed door, and nothing else. No music. No narrator. Only the rain.
 
-In the corner of his vision, where it would have been on a monitor, a small translucent panel had appeared. When he looked at it, it came forward and sharpened. When he looked away, it faded back to a ghost. *Chat*, it said at the top, and under that a column of lines he couldn't make sense of for a second, because they were all about things that hadn't happened yet.
+In the corner of his vision, where it would have been on a monitor, a small translucent panel had appeared. When he looked at it, it came forward and sharpened. When he looked away, it faded back to a ghost. *Chat*, it said at the top, and under that a column of lines he couldn't make sense of for a second, because they were all about things that hadn't happened yet. It was his own stream's chat, the same one he'd have had on a second monitor at home, with the same pink diamonds beside the names he knew and the same green sword beside Tif's. Even in here.
 
 Then he got it. The delay. He was a minute ahead of them. They were still watching him lie down in an egg.
 
 [ Chat · 21 watching
 tehpeng: hes gone
 lowkeyfrog: screen is black
-Aleaka: ICE?
-Salty: rip
-dumbo: 07:59:58 black. 08:00:01 still black
+◆ Aleaka: ICE?
+◆ Salty: rip
+◆ dumbo: 07:59:58 black. 08:00:01 still black
 ]
 
 He laughed out loud, alone in a wooden room, and the laugh bounced back at him too.
@@ -78,9 +78,9 @@ He put his finger on the slider and pushed it all the way to the end.
 Nothing happened. Of course nothing happened; nothing had touched him. He looked at the chat panel, knowing it was pointless.
 
 [ Chat · 21 watching
-Hanarisu: oh!! there's a room
-Aleaka: IT'S RAINING
-Aleaka: ice there's rain on the window that's so nice
+◆ Hanarisu: oh!! there's a room
+◆ Aleaka: IT'S RAINING
+◆ Aleaka: ice there's rain on the window that's so nice
 kittycatsoup: wait he can talk? like his real voice?
 ]
 
@@ -113,16 +113,16 @@ They were not normal about it.
 
 [ Chat · 22 watching
 lowkeyfrog: ICE IS AVAILABLE???
-Salty: no way
-Salty: NO WAY
-Nikorasu: launch minute 3 letter name
-Nikorasu: hes the luckiest man alive
-Aleaka: IT'S YOURS. IT SAYS IT'S YOURS
-titanium_ii_fluoride: congrats. he's never going to shut up about this
-dumbo: names are unique across the world. noted. thats huge
-dumbo: thats a land grab. everyone with a short name is going to sell it
+◆ Salty: no way
+◆ Salty: NO WAY
+◆ Nikorasu: launch minute 3 letter name
+◆ Nikorasu: hes the luckiest man alive
+◆ Aleaka: IT'S YOURS. IT SAYS IT'S YOURS
+⚔ titanium_ii_fluoride: congrats. he's never going to shut up about this
+◆ dumbo: names are unique across the world. noted. thats huge
+◆ dumbo: thats a land grab. everyone with a short name is going to sell it
 mangoes4ever: someone will pay you for that name
-Salty: dont sell it
+◆ Salty: dont sell it
 ]
 
 "I'm not selling it," said Ice, a minute ahead of all of them, and grinned, because Chris had already done the maths that he had too.
@@ -146,10 +146,10 @@ He took the sword in his right hand. It was heavier than he'd expected and light
 "Tank," he said, unnecessarily.
 
 [ Chat · 22 watching
-Baer: tank diff
-YoJareddo: of course
-Salty: every single game
-Hanarisu: he's so predictable i love it
+◆ Baer: tank diff
+◆ YoJareddo: of course
+◆ Salty: every single game
+◆ Hanarisu: he's so predictable i love it
 ]
 
 The door had a line of text on it, written into the wood the way a name is written over a shop.
@@ -206,9 +206,9 @@ The streamer turned to his orb. "Chat, the NPC just roasted me."
 [ Chat · 23 watching
 kittycatsoup: LMAOOO
 lowkeyfrog: the eel man has seen enough
-Salty: eel man diff
-dumbo: wait the npc answered in context. it reacted to tone
-dumbo: thats not a dialogue tree
+◆ Salty: eel man diff
+◆ dumbo: wait the npc answered in context. it reacted to tone
+◆ dumbo: thats not a dialogue tree
 ]
 
 ***
@@ -239,15 +239,15 @@ kittycatsoup: wait where is he going
 kittycatsoup: everyone else is going to fight
 gr8grape: hes going to the tutorial lol
 lowkeyfrog: its not a tutorial its a TRAINER. he does this every game
-Salty: he always talks to the trainers
+◆ Salty: he always talks to the trainers
 ]
 
 "Everybody's going to fight," said Ice, who'd read this a minute before they typed it. "Every single trailer said the same thing: no buttons. A skill is a movement. You do it right, it works. You do it wrong, it doesn't. So think about it." He stepped around a gap in the planks where the black water showed through, cold, smelling of iron. "If I go out there right now and hit rats for four hours with my arm doing whatever it wants, what am I practising? I'm practising doing it wrong. Four hours of wrong. Then I come back and somebody has to fix me. That's slower." He shrugged. "Learn it once. Learn it right. Then go and hit things."
 
 [ Chat · 23 watching
-Nikorasu: big brain
-YoJareddo: this is the most ice thing ive ever seen
-Aleaka: he's so sensible it's annoying
+◆ Nikorasu: big brain
+◆ YoJareddo: this is the most ice thing ive ever seen
+◆ Aleaka: he's so sensible it's annoying
 ]
 
 ***

@@ -254,25 +254,25 @@ It was the stupidest thing. It was just words in the air. He couldn't stop looki
 He went live again from the end of the north walk.
 
 [ Chat · 37 watching
-Salty: HES BACK
-Salty: what did you find
+◆ Salty: HES BACK
+◆ Salty: what did you find
 tehpeng: ICE WENT DARK AGAIN
-Aleaka: WAIT
-Aleaka: what's that above their heads
-dumbo: MOONLIGHT HARVEST
-dumbo: they made a party
+◆ Aleaka: WAIT
+◆ Aleaka: what's that above their heads
+◆ dumbo: MOONLIGHT HARVEST
+◆ dumbo: they made a party
 mangoes4ever: moonlight harvest!!!! that's so cute
-YoJareddo: thats a farming game name lmao
-Nikorasu: its a nice name
-Salty: what did you find
+◆ YoJareddo: thats a farming game name lmao
+◆ Nikorasu: its a nice name
+◆ Salty: what did you find
 ]
 
 "It's a farming game name," Ice agreed. "Thank you, Jared. Xav said the same thing. We're keeping it."
 
 [ Chat · 38 watching
-YoJareddo: no its good. its good. i respect it
-Hanarisu: i love it so much
-Salty: WHAT DID YOU FIND
+◆ YoJareddo: no its good. its good. i respect it
+◆ Hanarisu: i love it so much
+◆ Salty: WHAT DID YOU FIND
 ]
 
 "Something for later, Salty."
@@ -341,20 +341,20 @@ He was laughing. He couldn't help it.
 A minute later, chat saw exactly what he'd seen, from exactly where he'd been standing, when he'd seen it.
 
 [ Chat · 41 watching
-dumbo: TITLE
-dumbo: FIRST IN THE WORLD
-dumbo: FIRST TRAVELLER IN ELSEWHERE
-Salty: ok
-Salty: herbalism was right three times
-Aleaka: ICE!!!!!!
-Aleaka: FIRST IN THE WORLD AT MAKING POTIONS
-Hanarisu: congratulations!!!!!
+◆ dumbo: TITLE
+◆ dumbo: FIRST IN THE WORLD
+◆ dumbo: FIRST TRAVELLER IN ELSEWHERE
+◆ Salty: ok
+◆ Salty: herbalism was right three times
+◆ Aleaka: ICE!!!!!!
+◆ Aleaka: FIRST IN THE WORLD AT MAKING POTIONS
+◆ Hanarisu: congratulations!!!!!
 mangoes4ever: i was here
 tehpeng: i was here
 lowkeyfrog: we were all here. he was sniffing a pot
-YoJareddo: from POV too. we saw it pop exactly when he did
-YoJareddo: thats actually so cool
-Baer: dec!!!!!
+◆ YoJareddo: from POV too. we saw it pop exactly when he did
+◆ YoJareddo: thats actually so cool
+◆ Baer: dec!!!!!
 ]
 
 "I wasn't even *trying*," he said to them, and to the fen, and to Sedge's back, which was bent over her own pot at the other end of the table and didn't turn round.

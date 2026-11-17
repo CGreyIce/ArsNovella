@@ -34,12 +34,12 @@ Then he started to laugh. It was a big, hoarse, surprised laugh, and it came fro
 "*That's* the captain," said Hollis. "That's him. That's exactly him, the stubborn old ass." He wiped his eyes with the back of his three-fingered hand. "Go on. Go. Get out of my yard."
 
 [ Chat · 147 watching
-titanium_ii_fluoride: hollis LAUGHED
-Aleaka: he's crying a bit!!!
-Salty: the anchor bounced him
+⚔ titanium_ii_fluoride: hollis LAUGHED
+◆ Aleaka: he's crying a bit!!!
+◆ Salty: the anchor bounced him
 lowkeyfrog: "that's the captain"
-YoJareddo: man im gonna miss hollis
-titanium_ii_fluoride: ice you're not allowed to make the old man cry
+◆ YoJareddo: man im gonna miss hollis
+⚔ titanium_ii_fluoride: ice you're not allowed to make the old man cry
 ]
 
 ***
@@ -101,13 +101,13 @@ Travellers here now: 2,847 ]
 There were more people in Brackenford than Ice had seen in one place in the whole twelve days. They were everywhere: on the bridges, in the market, sitting on the river walls with their legs over the water, the way he did on Sedge's porch. Not all of them wore linen shirts now. A lot of them had real armour on: leather and studded leather and, here and there, a glint of mail. A woman went past in a long blue robe with a staff taller than she was. Two men argued loudly over a hand-drawn map on a bridge parapet. Somebody's camera orb drifted overhead, then somebody else's, then four more. And the noise: a hundred conversations at once, in thirty languages coming to him in English a heartbeat late, all with their accents on, so the whole town sounded like the whole world.
 
 [ Chat · 156 watching
-Salty: WOW
+◆ Salty: WOW
 dl_learnsforms: its so BIG
-Aleaka: ice it's beautiful!!! the bridges!!!
-dumbo: 2847 travellers. fernwick had 64 on day 1
-dumbo: this must be the hub for a lot of beginner towns
-titanium_ii_fluoride: he's going to stand there with his mouth open for five minutes
-titanium_ii_fluoride: yep
+◆ Aleaka: ice it's beautiful!!! the bridges!!!
+◆ dumbo: 2847 travellers. fernwick had 64 on day 1
+◆ dumbo: this must be the hub for a lot of beginner towns
+⚔ titanium_ii_fluoride: he's going to stand there with his mouth open for five minutes
+⚔ titanium_ii_fluoride: yep
 ]
 
 He did stand there with his mouth open. Then Xav put a hand between his shoulder blades and pushed, gently, and they went down into the town.
@@ -166,19 +166,19 @@ And then, because his eyes kept going on their own, *11 · Sketch*, and *13 · K
 Nobody said anything for a long time.
 
 [ Chat · 163 watching
-Salty: SEVEN
-Salty: SEVENTH IN THE WORLD
-Aleaka: ICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Nikorasu: top 10. called it
-dumbo: 7th of ~3 million
-dumbo: and xav 11th and dest 13th
-dumbo: THREE moonlight harvest in the top 15
-Hanarisu: ICE!!!!!!!!!!!!
-Baer: DEC
-Baer: DEC THATS YOU ON THE STONE
-YoJareddo: yo. YO.
-titanium_ii_fluoride: seventh in the world and he still can't make toast
-titanium_ii_fluoride: congrats you idiot. proud of you
+◆ Salty: SEVEN
+◆ Salty: SEVENTH IN THE WORLD
+◆ Aleaka: ICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+◆ Nikorasu: top 10. called it
+◆ dumbo: 7th of ~3 million
+◆ dumbo: and xav 11th and dest 13th
+◆ dumbo: THREE moonlight harvest in the top 15
+◆ Hanarisu: ICE!!!!!!!!!!!!
+◆ Baer: DEC
+◆ Baer: DEC THATS YOU ON THE STONE
+◆ YoJareddo: yo. YO.
+⚔ titanium_ii_fluoride: seventh in the world and he still can't make toast
+⚔ titanium_ii_fluoride: congrats you idiot. proud of you
 mangoes4ever: i was here day 1. ten viewers
 tehpeng: i was here when it was four
 ]

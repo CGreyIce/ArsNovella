@@ -48,7 +48,7 @@ The title said: *ELSEWHERE launch day | POV | trust*.
 ***
 
 [ Chat · 4 watching
-titanium_ii_fluoride: morning ice. you're up before noon. are you ok
+⚔ titanium_ii_fluoride: morning ice. you're up before noon. are you ok
 tehpeng: MORNING
 lowkeyfrog: he's actually live at 7am. the world is ending
 tehpeng: is that the coffin behind u
@@ -61,55 +61,55 @@ The webcam was on for now, a little box in the corner of his screen, his real fa
 [ Chat · 7 watching
 mangoes4ever: GOOD MORNING
 kopiCdude: is that the pod is that the pod
-Salty: bro you paid two and a half grand to lie in a fridge
+◆ Salty: bro you paid two and a half grand to lie in a fridge
 lowkeyfrog: SALTY IS HERE
 ]
 
 "It's not a fridge either. Morning, Salty."
 
 [ Chat · 8 watching
-Salty: its a fridge
-Salty: how much was it in ringgit
-Nikorasu: let him cook
-Nikorasu: its a nice fridge
+◆ Salty: its a fridge
+◆ Salty: how much was it in ringgit
+◆ Nikorasu: let him cook
+◆ Nikorasu: its a nice fridge
 ]
 
 "Thank you, Mashi."
 
-He did know these people. That was the funny part about ten viewers. The streamers his friends watched had numbers with a K after them and chat that went past too fast to read. His went past at walking pace, and every name in it was a name he could put a voice to. Teh Peng had been watching him for four years and still had never said where he lived. Frog had once stayed up until four in the morning to watch him lose the same fight thirty-one times and had typed *again* after every single one. Mangoes was a student in Ipoh who watched with her lectures muted in another tab. And Tif had been his mod for four years, and these days she was the only one who still did it. She was always first in. She didn't say much, and what she did say was usually at his expense, which was how he knew she liked him. Somehow the chat was calmer for her being in it. These were his regulars. On a good month he streamed five or six times, and on a good night ten of them came.
+He did know these people. That was the funny part about ten viewers. The streamers his friends watched had numbers with a K after them and chat that went past too fast to read. His went past at walking pace, and every name in it was a name he could put a voice to. Teh Peng had been watching him for four years and still had never said where he lived. Frog had once stayed up until four in the morning to watch him lose the same fight thirty-one times and had typed *again* after every single one. Mangoes was a student in Ipoh who watched with her lectures muted in another tab. And Tif had been his mod for four years, and these days she was the only one who still did it. She was always first in. She didn't say much, and what she did say was usually at his expense, which was how he knew she liked him. Somehow the chat was calmer for her being in it. These were his regulars. And everyone he actually knew had a small pink diamond beside their name. Over the years he'd made every one of them a VIP the first time they turned up in his chat, so that in a busy chat his friends stood out like lit windows. Tif and Jun Liang had the green sword of a mod. In a chat of ten, it mostly meant that half the room was pink. On a good month he streamed five or six times, and on a good night ten of them came.
 
 That was fine. He wasn't doing it to be big. He liked the company.
 
 [ Chat · 10 watching
-Aleaka: ICE
-Aleaka: ICE I'M HERE
-Aleaka: it's midnight here. i want that on the record. i am here at midnight
-Salty: she's here at midnight
+◆ Aleaka: ICE
+◆ Aleaka: ICE I'M HERE
+◆ Aleaka: it's midnight here. i want that on the record. i am here at midnight
+◆ Salty: she's here at midnight
 ]
 
 "Leaka! Go to bed."
 
 [ Chat · 10 watching
-Aleaka: absolutely not
-Aleaka: how much was it again? the. the egg. i mean the pod
-Salty: TELL HER THE NUMBER
+◆ Aleaka: absolutely not
+◆ Aleaka: how much was it again? the. the egg. i mean the pod
+◆ Salty: TELL HER THE NUMBER
 ]
 
 "I'm not saying the number."
 
 [ Chat · 10 watching
-Salty: two thousand four hundred and ninety nine us dollars
-Nikorasu: plus shipping
-Aleaka: that's that's a car
-Aleaka: that's a small car ice
+◆ Salty: two thousand four hundred and ninety nine us dollars
+◆ Nikorasu: plus shipping
+◆ Aleaka: that's that's a car
+◆ Aleaka: that's a small car ice
 ]
 
 "It's not a car. A car doesn't take you anywhere." He picked up the mug, remembered it was cold, and put it down again. "Okay, listen. This is a sensible purchase, trust. I've been playing MMOs since I was a child. I have been waiting my entire life for somebody to make one you could actually stand inside. I'm not going to *not* be there on day one."
 
 [ Chat · 10 watching
-Salty: you said trust
-Salty: its over
-Nikorasu: its so over
+◆ Salty: you said trust
+◆ Salty: its over
+◆ Nikorasu: its so over
 lowkeyfrog: he said trust lmaooo
 ]
 
@@ -164,46 +164,46 @@ Then he typed *ill tell you everything*, and put the phone face down, and turned
 By half past seven, the number in the corner said fourteen.
 
 [ Chat · 14 watching
-Baer: dec
-Baer: u really bought it
-Baer: how much is that in aud
-Salty: GABE
+◆ Baer: dec
+◆ Baer: u really bought it
+◆ Baer: how much is that in aud
+◆ Salty: GABE
 ]
 
 "Gabe! It's ten in the morning in Australia, shouldn't you be working?"
 
 [ Chat · 14 watching
-Baer: i am working
-Baer: this is work
-Baer: dont die on stream
+◆ Baer: i am working
+◆ Baer: this is work
+◆ Baer: dont die on stream
 ]
 
 "I'm not going to die on stream." He considered. "Probably. If I die I'm locked out for twenty-four hours, so you'll know, because you'll see a man sitting in a chair for a day, crying."
 
 [ Chat · 15 watching
-dumbo: does the pod expose an API
-dumbo: i want to log your heart rate
-dumbo: for science
-Nikorasu: chris no
+◆ dumbo: does the pod expose an API
+◆ dumbo: i want to log your heart rate
+◆ dumbo: for science
+◆ Nikorasu: chris no
 ]
 
 "Chris, it's seven in the morning."
 
 [ Chat · 15 watching
-dumbo: its half six here. batam is behind you
-dumbo: i set an alarm
-dumbo: i want the HR data ice
+◆ dumbo: its half six here. batam is behind you
+◆ dumbo: i set an alarm
+◆ dumbo: i want the HR data ice
 ]
 
 "There's no API," said Ice. "I checked. For you. You're welcome."
 
 [ Chat · 17 watching
-Hanarisu: good morning~
-Hanarisu: is this the coffin
-YoJareddo: yo
-YoJareddo: you really did it huh
-Aleaka: HANA
-Aleaka: JARED
+◆ Hanarisu: good morning~
+◆ Hanarisu: is this the coffin
+◆ YoJareddo: yo
+◆ YoJareddo: you really did it huh
+◆ Aleaka: HANA
+◆ Aleaka: JARED
 ]
 
 Hana and Jared, both together, the way they always seemed to arrive. Hana hadn't streamed in a while. She'd said she was taking a break, and that something big was happening soon that she'd tell everyone about when it happened. She still turned up in his chat, though, the way she always had, with a tilde on the end of good morning.
@@ -211,9 +211,9 @@ Hana and Jared, both together, the way they always seemed to arrive. Hana hadn't
 "It's not a coffin, Hana. Jared. My man. It's seven at night where you are, isn't it?"
 
 [ Chat · 17 watching
-YoJareddo: sunday night. perfect time to watch a man lie in a box
-Hanarisu: it's very white
-Hanarisu: i like the glass
+◆ YoJareddo: sunday night. perfect time to watch a man lie in a box
+◆ Hanarisu: it's very white
+◆ Hanarisu: i like the glass
 ]
 
 There were names he didn't know, too. One by one they came, curious, and some of them left again. A launch-day stream had that, even a small one. People typed ELSEWHERE into a search bar, clicked whatever was live, and checked whether anyone had said yet if it was worth the money.
@@ -242,8 +242,8 @@ Wendy, who never said anything in anyone's chat but was always there. Suzu. Ryan
 "Hi, lurkers," said Ice, to nobody in particular. "I see you."
 
 [ Chat · 19 watching
-Salty: who
-Salty: who are you talking to
+◆ Salty: who
+◆ Salty: who are you talking to
 lowkeyfrog: the lurkers know
 ]
 
@@ -270,15 +270,15 @@ The lid came down slowly on its long arm, and the room went dim and blue through
 On the laptop across the room, where he couldn't see it now, chat was still going.
 
 [ Chat · 21 watching
-titanium_ii_fluoride: have fun ice :) try not to die in the first five minutes
-titanium_ii_fluoride: we'll be here
-Aleaka: GOOD LUCK
-Aleaka: good luck good luck good luck
-Hanarisu: have fun!!
-Salty: dont die
-Nikorasu: tell us if it smells like anything
-dumbo: logging start time 07:58
-Baer: go dec
+⚔ titanium_ii_fluoride: have fun ice :) try not to die in the first five minutes
+⚔ titanium_ii_fluoride: we'll be here
+◆ Aleaka: GOOD LUCK
+◆ Aleaka: good luck good luck good luck
+◆ Hanarisu: have fun!!
+◆ Salty: dont die
+◆ Nikorasu: tell us if it smells like anything
+◆ dumbo: logging start time 07:58
+◆ Baer: go dec
 ]
 
 He couldn't read it. He knew what it would say anyway.

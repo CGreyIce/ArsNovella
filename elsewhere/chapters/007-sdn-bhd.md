@@ -301,21 +301,21 @@ Deston and Xav were waiting for him inside the ring. They'd been fighting at the
 "My secretary," said Ice, and found that he liked saying it a great deal.
 
 [ Chat · 43 watching
-Salty: HIS SECRETARY
-Salty: who is this man
-Nikorasu: CEO arc
-Aleaka: what does the company do???
-dumbo: Moonlight Harvest Workshop Sdn Bhd. i checked. name's reserved on ssm
-dumbo: its real
-YoJareddo: he really did that today
+◆ Salty: HIS SECRETARY
+◆ Salty: who is this man
+◆ Nikorasu: CEO arc
+◆ Aleaka: what does the company do???
+◆ dumbo: Moonlight Harvest Workshop Sdn Bhd. i checked. name's reserved on ssm
+◆ dumbo: its real
+◆ YoJareddo: he really did that today
 tehpeng: CEO ICE
 ]
 
 "Chris, please don't look up my company on the government website on stream."
 
 [ Chat · 43 watching
-dumbo: too late
-dumbo: its public information ice
+◆ dumbo: too late
+◆ dumbo: its public information ice
 ]
 
 They fought until the window told him to rest. He got to level five about an hour before it did. That was a long, ugly fight at the edge of the deep water: four leeches at once, pulled to a narrow place in the reeds, with Deston's voice steady behind him and Xav's blades going in where the bodies bent. The *Outnumbered* line was on every kill.

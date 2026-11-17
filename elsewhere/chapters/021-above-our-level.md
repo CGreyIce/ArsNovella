@@ -55,13 +55,13 @@ Eighth. Then, by the afternoon, when he walked through the square with Xav and K
 "You're still looking at it."
 
 [ Chat · 166 watching
-titanium_ii_fluoride: he's looking at the stone
+⚔ titanium_ii_fluoride: he's looking at the stone
 lowkeyfrog: he's looking at the stone again
-Salty: just stop looking at the stone
-titanium_ii_fluoride: !stone
+◆ Salty: just stop looking at the stone
+⚔ titanium_ii_fluoride: !stone
 Nightbot: Times Ice has looked at the Tally today: 7
-dumbo: tif did you make a counter for him looking at the rock
-titanium_ii_fluoride: yes
+◆ dumbo: tif did you make a counter for him looking at the rock
+⚔ titanium_ii_fluoride: yes
 ]
 
 ***
@@ -196,14 +196,14 @@ Seventy per cent.
 He looked at the chat panel at the edge of his eye.
 
 [ Chat · 159 watching
-titanium_ii_fluoride: ice
-titanium_ii_fluoride: xav said not the ford
-Salty: xav said not the ford
+⚔ titanium_ii_fluoride: ice
+⚔ titanium_ii_fluoride: xav said not the ford
+◆ Salty: xav said not the ford
 lowkeyfrog: he's going to the ford
-Nikorasu: he's going to the ford
-titanium_ii_fluoride: i am not modding a funeral
-titanium_ii_fluoride: i said this on day one
-titanium_ii_fluoride: ICE
+◆ Nikorasu: he's going to the ford
+⚔ titanium_ii_fluoride: i am not modding a funeral
+⚔ titanium_ii_fluoride: i said this on day one
+⚔ titanium_ii_fluoride: ICE
 ]
 
 "I'm only looking," he told them.
@@ -287,23 +287,23 @@ Dropped where you fell: Silverleaf (Good) ×6 ]
 On the laptop on the folding table, where he couldn't see it, chat was still going.
 
 [ Chat · 171 watching
-Salty: no
-Salty: NO
-Aleaka: ICE???
-Aleaka: ice no
+◆ Salty: no
+◆ Salty: NO
+◆ Aleaka: ICE???
+◆ Aleaka: ice no
 lowkeyfrog: he fell
 mangoes4ever: the second one. there was a SECOND ONE
-dumbo: night spawn. it said "the river is awake"
-dumbo: xav said not at night
-YoJareddo: man
-YoJareddo: that was the best fight i've ever seen him do though
-YoJareddo: that last cut
-Hanarisu: oh no
-titanium_ii_fluoride: i told you
-titanium_ii_fluoride: i literally told you
-titanium_ii_fluoride: i said i'm not modding a funeral
-titanium_ii_fluoride: you idiot
-titanium_ii_fluoride: ...are you ok
+◆ dumbo: night spawn. it said "the river is awake"
+◆ dumbo: xav said not at night
+◆ YoJareddo: man
+◆ YoJareddo: that was the best fight i've ever seen him do though
+◆ YoJareddo: that last cut
+◆ Hanarisu: oh no
+⚔ titanium_ii_fluoride: i told you
+⚔ titanium_ii_fluoride: i literally told you
+⚔ titanium_ii_fluoride: i said i'm not modding a funeral
+⚔ titanium_ii_fluoride: you idiot
+⚔ titanium_ii_fluoride: ...are you ok
 ]
 
 ***

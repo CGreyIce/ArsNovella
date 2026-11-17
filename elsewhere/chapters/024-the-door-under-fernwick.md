@@ -92,24 +92,24 @@ He went dark at the end of the north walk, where the boards ran out. That was th
 "Chat," he said. "I'm going dark. For a long time. Probably all day."
 
 [ Chat · 227 watching
-titanium_ii_fluoride: !dark
+⚔ titanium_ii_fluoride: !dark
 Nightbot: ICE WENT DARK (dark count: 31)
-Salty: HE'S GOING TO THE THING
-Nikorasu: he's going to the thing
+◆ Salty: HE'S GOING TO THE THING
+◆ Nikorasu: he's going to the thing
 lowkeyfrog: five of them. he's taking all five to the thing
-dumbo: the 9th heron. it's the 9th heron. it's been the 9th heron since day 1
-Aleaka: ICE WHAT IS THE THING
-YoJareddo: say less
+◆ dumbo: the 9th heron. it's the 9th heron. it's been the 9th heron since day 1
+◆ Aleaka: ICE WHAT IS THE THING
+◆ YoJareddo: say less
 ]
 
 "I'm recording," said Ice. "Everything. From my eyes. I'm not streaming it, because I can't, because then everybody knows where it is. But I'm recording it. All of it." He paused. "And when it's done, you'll see it. I promise."
 
 [ Chat · 229 watching
-Salty: WHEN WHAT IS DONE
-titanium_ii_fluoride: he promised. everyone saw
+◆ Salty: WHEN WHAT IS DONE
+⚔ titanium_ii_fluoride: he promised. everyone saw
 mangoes4ever: i'm not going to sleep
 tehpeng: we'll be here
-titanium_ii_fluoride: go. be careful. you idiot
+⚔ titanium_ii_fluoride: go. be careful. you idiot
 ]
 
 He ended the stream. Then he opened the Cradle's settings, found the one he'd found on the first night in the spare room in Malacca and never used, and turned it on.
@@ -200,7 +200,7 @@ And from somewhere far down inside, very faint, the singing started again, from 
 
 He'd told them it was a scout.
 
-That was what he'd said on the walk, and in the ring, and at the slab, and they'd all agreed. They'd go in, they'd see what it was, they'd see what hit, they'd see how far they could go. And the first time something made Xav's face do the thing it did when he'd decided, they'd turn round and walk out. No wipe. A wipe was five people locked out for a day, and VANTA would be back in their cistern tonight.
+That was what he'd said on the walk, and in the ring, and at the slab, and they'd all agreed. They'd go in, they'd see what it was, they'd see what hit, they'd see how far they could go. And the first time something made Xav's face do the thing it did when he'd decided, they'd turn round and walk out. No wipe. A wipe was five people locked out for a day, and VANTA would be back in their own drowned church tonight.
 
 He told himself that all the way down the steps.
 
@@ -333,7 +333,7 @@ They went back to the heron-stones in the late afternoon and sat in the warm wat
 Before they logged out, Ice opened the little messages window the companion app let him see in game, and looked at what had come in while he was dark.
 
 [ Messages · Chris
-Chris: vanta going in again tonight. 3rd attempt. 52k watching last time
+Chris: vanta going in again tonight. 3rd attempt. 52k sat in her chat last time while she was dark
 Chris: also are you ok. you've been dark for 9 hours
 Chris: also i know it's the heron
 ]

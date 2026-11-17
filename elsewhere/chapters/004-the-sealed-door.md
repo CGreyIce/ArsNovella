@@ -14,10 +14,10 @@ There wasn't really a choice. He'd tried, once, an hour after moonrise, to see w
 "Nope," he'd said. "We live here now."
 
 [ Chat · 17 watching
-Salty: coward
-Nikorasu: correct choice
-Salty: correct coward
-YoJareddo: the fen said not today
+◆ Salty: coward
+◆ Nikorasu: correct choice
+◆ Salty: correct coward
+◆ YoJareddo: the fen said not today
 ]
 
 So he made himself useful.
@@ -27,10 +27,10 @@ He picked, slowly, all the way round the ring under the moonlight. Silverleaf an
 When his pack started to get heavy, he stopped picking and practised. He stood in the warm shallow water with his sword and did Falling Cuts at nothing until his stamina ran out, then sat on a stone until it came back, then stood up and did them again. He found out you could do a Falling Cut in ankle-deep water, but the water dragged at your back foot and the game didn't like that. *Your feet were slow.* He found out that if he set his back foot first, before the cut, as a small separate movement, it was better. Then he found out that was cheating, because the game noticed the pause and docked him for it. Then he found a way to start the foot a heartbeat earlier inside the same movement, so it was all one thing, and the grade went up to forty-four.
 
 [ Chat · 16 watching
-dumbo: 44
-dumbo: water penalty is about 6% at ankle depth
-dumbo: he found a fix for it in 20 minutes
-dumbo: im writing all of this down
+◆ dumbo: 44
+◆ dumbo: water penalty is about 6% at ankle depth
+◆ dumbo: he found a fix for it in 20 minutes
+◆ dumbo: im writing all of this down
 lowkeyfrog: chris is going to sell that sheet one day
 ]
 
@@ -43,17 +43,17 @@ They talked. Not about the game, after a while. Mangoes had an exam tomorrow and
 At a little past two in the morning, her time, Aleaka finally went to bed.
 
 [ Chat · 16 watching
-Aleaka: ok i'm going. i'm going to go. i'm really going
-Aleaka: goodnight!!! don't die!!! i'll watch the vod
-Aleaka: ice you have to promise not to die while i'm asleep
+◆ Aleaka: ok i'm going. i'm going to go. i'm really going
+◆ Aleaka: goodnight!!! don't die!!! i'll watch the vod
+◆ Aleaka: ice you have to promise not to die while i'm asleep
 ]
 
 "I promise," he said, a minute too early, as usual. "Go to sleep, Leaka."
 
 [ Chat · 16 watching
-Aleaka: he promised. everyone saw
-Salty: everyone saw
-Aleaka: gn <3
+◆ Aleaka: he promised. everyone saw
+◆ Salty: everyone saw
+◆ Aleaka: gn <3
 ]
 
 ***
@@ -94,10 +94,10 @@ He walked over to it. It was the most worn of the nine, the heron almost gone, j
 [ Chat · 18 watching
 kittycatsoup: i'm back. what happened
 lowkeyfrog: nothing for 3 hours. it was amazing
-Salty: hes looking at a rock
-dumbo: the 9th heron faces out. the other 8 face in
-dumbo: i noticed that at moonrise and didnt say anything
-dumbo: i should have said something
+◆ Salty: hes looking at a rock
+◆ dumbo: the 9th heron faces out. the other 8 face in
+◆ dumbo: i noticed that at moonrise and didnt say anything
+◆ dumbo: i should have said something
 ]
 
 He looked out the way the beak was pointing. There was nothing to see but reeds and grey water and the beginnings of a mist. The tussocks didn't go that way. Nothing went that way.
@@ -143,11 +143,11 @@ For a second, he was underneath. Cold black water in his nose, in his ears, in h
 He got his feet under him and came up coughing, and the bar said twenty-two per cent.
 
 [ Chat · 21 watching
-Baer: DEC
-Hanarisu: ICE
-Salty: get out get out get out
-Nikorasu: he cant get out its faster than him in water
-YoJareddo: he has to finish it
+◆ Baer: DEC
+◆ Hanarisu: ICE
+◆ Salty: get out get out get out
+◆ Nikorasu: he cant get out its faster than him in water
+◆ YoJareddo: he has to finish it
 kittycatsoup: OH MY GOD
 ]
 
@@ -196,25 +196,25 @@ Sixty seconds. The delay was still a minute behind him. Anything he'd seen in th
 He'd find out later how that went.
 
 [ Chat · offline
-Salty: ???
-Salty: did he die
+◆ Salty: ???
+◆ Salty: did he die
 kittycatsoup: STREAM ENDED???
 mangoes4ever: no no no he was at 9 percent
-Baer: dec??
+◆ Baer: dec??
 lowkeyfrog: he said "im going dark trust" i heard it
 lowkeyfrog: like right before
-Nikorasu: he found something
-Salty: he found something
-Hanarisu: he promised leaka he wouldnt die!!!
-dumbo: he didnt die. death screen would show the 24h notice before the cut and there wasnt one
-dumbo: also you cant end a stream when youre dead. he ended it himself
-dumbo: he found something
+◆ Nikorasu: he found something
+◆ Salty: he found something
+◆ Hanarisu: he promised leaka he wouldnt die!!!
+◆ dumbo: he didnt die. death screen would show the 24h notice before the cut and there wasnt one
+◆ dumbo: also you cant end a stream when youre dead. he ended it himself
+◆ dumbo: he found something
 lowkeyfrog: ICE WENT DARK
 tehpeng: ice went dark
-Salty: ice went dark
-titanium_ii_fluoride: he's fine. he's just dramatic
-titanium_ii_fluoride: i'll make it a command
-titanium_ii_fluoride: !dark
+◆ Salty: ice went dark
+⚔ titanium_ii_fluoride: he's fine. he's just dramatic
+⚔ titanium_ii_fluoride: i'll make it a command
+⚔ titanium_ii_fluoride: !dark
 Nightbot: ICE WENT DARK (dark count: 1)
 ]
 
@@ -275,11 +275,11 @@ He called it *later*.
 He waited twenty minutes before he went live again. He wanted to be well away first, back inside the stones, his health full, the door a long way behind him in the mist.
 
 [ Chat · 22 watching
-Salty: HE'S BACK
-Salty: WHAT DID YOU FIND
+◆ Salty: HE'S BACK
+◆ Salty: WHAT DID YOU FIND
 mangoes4ever: OMG HE'S ALIVE
-Hanarisu: you scared everyone!!!
-Baer: dec i almost called you
+◆ Hanarisu: you scared everyone!!!
+◆ Baer: dec i almost called you
 lowkeyfrog: ICE WENT DARK
 tehpeng: ICE WENT DARK
 ]
@@ -287,10 +287,10 @@ tehpeng: ICE WENT DARK
 "I'm alive," he said. "Hi. Sorry. I'm alive."
 
 [ Chat · 22 watching
-Salty: what did you find
-Nikorasu: what did you find
-YoJareddo: bro what did you find
-dumbo: what did you find
+◆ Salty: what did you find
+◆ Nikorasu: what did you find
+◆ YoJareddo: bro what did you find
+◆ dumbo: what did you find
 ]
 
 "Something for later," said Ice.
@@ -357,13 +357,13 @@ Find a place to rest soon. ]
 At seven past eight, sitting on the edge of Sedge's porch with his boots off and his feet in the cool water of the channel, he said goodnight to chat.
 
 [ Chat · 19 watching
-Hanarisu: goodnight!!!
-Salty: what did you find
-Salty: i'll ask again tomorrow
-Nikorasu: gn ice
-YoJareddo: best launch day stream i've watched honestly. and i watched like six
-dumbo: final: lv 3 at 8h 31m. fastest i saw on stream was a guy in brazil, lv 3 at 8h 10m
-dumbo: but nobody else found the outnumbered bonus. or crafted. or went dark
+◆ Hanarisu: goodnight!!!
+◆ Salty: what did you find
+◆ Salty: i'll ask again tomorrow
+◆ Nikorasu: gn ice
+◆ YoJareddo: best launch day stream i've watched honestly. and i watched like six
+◆ dumbo: final: lv 3 at 8h 31m. fastest i saw on stream was a guy in brazil, lv 3 at 8h 10m
+◆ dumbo: but nobody else found the outnumbered bonus. or crafted. or went dark
 tehpeng: ICE WENT DARK
 mangoes4ever: ice went dark lmao
 ]

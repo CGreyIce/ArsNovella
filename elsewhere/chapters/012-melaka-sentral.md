@@ -31,20 +31,20 @@ He streamed for an hour, from the new pod, at eleven. It was the first time he'd
 
 [ Chat · 109 watching
 tehpeng: MORNING
-Salty: why are you late
+◆ Salty: why are you late
 dl_learnsforms: back foot lesson today?
 lowkeyfrog: he said yesterday "I'm picking someone up tomorrow"
-Salty: WHO
-Nikorasu: who
+◆ Salty: WHO
+◆ Nikorasu: who
 ]
 
 "Somebody," said Ice. "You'll find out tonight. I'm only on for an hour. Then I've got to go and do a real-life thing."
 
 [ Chat · 111 watching
-Salty: real life??
-Salty: in this economy
-Aleaka: ooooh who is it!!!
-Suzuyunn: lol
+◆ Salty: real life??
+◆ Salty: in this economy
+◆ Aleaka: ooooh who is it!!!
+◆ Suzuyunn: lol
 ]
 
 He saw *Suzuyunn: lol* and grinned at nothing on the end of Sedge's porch. Suzu was on a bus. Suzu was watching him on a phone, on a bus, coming up the North–South Expressway, and he'd typed *lol*, and he was going to be in Malacca in four hours.
@@ -290,8 +290,8 @@ He sat at the folding table, next to Suzu's pillow, with his laptop open. He lis
 He went live first, very quickly, for one minute, from the laptop, camera off, black screen. A hundred and twelve people came, the way they always did now, a little faster every day.
 
 [ Chat · 112 watching
-Salty: hes back??
-Salty: whats this black screen
+◆ Salty: hes back??
+◆ Salty: whats this black screen
 lowkeyfrog: who did he pick up
 tehpeng: WHO DID HE PICK UP
 ]

@@ -126,8 +126,8 @@ dl_learnsforms: thats why his grades are 60+
 nightowl_kr: the singing guy is a support? with a book??
 nightowl_kr: the book was useless on every stream i watched
 lowkeyfrog: not useless. you have to SING it
-Salty: deston's carrying
-Nikorasu: deston's carrying
+◆ Salty: deston's carrying
+◆ Nikorasu: deston's carrying
 ]
 
 *Deston's carrying.* He read it four times and turned his phone over on his chest and lay in the dark grinning at the ceiling like a fool.

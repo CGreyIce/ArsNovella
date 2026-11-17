@@ -30,15 +30,15 @@ It was the eleventh day of ELSEWHERE, or the twelfth. She'd lost count. He was w
 [ Chat · 118 watching
 dl_learnsforms: BACK FOOT
 tehpeng: back foot
-titanium_ii_fluoride: you've said back foot nine times this morning
-titanium_ii_fluoride: they know about the foot ice
+⚔ titanium_ii_fluoride: you've said back foot nine times this morning
+⚔ titanium_ii_fluoride: they know about the foot ice
 lowkeyfrog: lmaooo
 ]
 
 She typed.
 
 [ Chat · 119 watching
-Hanarisu: good morning~
+◆ Hanarisu: good morning~
 ]
 
 A minute later, on the walkway in the swamp, Ice looked up, at nothing, at her.
@@ -46,21 +46,21 @@ A minute later, on the walkway in the swamp, Ice looked up, at nothing, at her.
 "Morning, Hana," he said. He sounded pleased. He always did, when she turned up. He'd sounded pleased when she turned up on his stream when she was nineteen and just starting out, and he'd sounded pleased every single time since, and she'd never once told him how much that had helped.
 
 [ Chat · 120 watching
-Hanarisu: i'm at the airport~
+◆ Hanarisu: i'm at the airport~
 ]
 
 "Airport?" said Ice, a minute later. "Where are you *going?*"
 
 [ Chat · 121 watching
-Hanarisu: nowhere :)
-Hanarisu: someone's coming
-Salty: WHO
-Aleaka: OH MY GOD
-Aleaka: IS IT TODAY???
-Aleaka: HANA IS IT TODAY
-Hanarisu: it's today
-Aleaka: SAY HI TO HIM FOR ME!!!!! TELL HIM I SAID HI
-Aleaka: and tell him to eat something green he never eats anything green
+◆ Hanarisu: nowhere :)
+◆ Hanarisu: someone's coming
+◆ Salty: WHO
+◆ Aleaka: OH MY GOD
+◆ Aleaka: IS IT TODAY???
+◆ Aleaka: HANA IS IT TODAY
+◆ Hanarisu: it's today
+◆ Aleaka: SAY HI TO HIM FOR ME!!!!! TELL HIM I SAID HI
+◆ Aleaka: and tell him to eat something green he never eats anything green
 ]
 
 On the screen, a minute later, Ice laughed out loud in his swamp, a big surprised laugh.

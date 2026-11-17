@@ -43,11 +43,11 @@ He locked the shutter, drove home, and climbed into his own egg in the spare roo
 [ Chat · 118 watching
 tehpeng: MORNING
 lowkeyfrog: day 10. how close is he
-dumbo: lv 9. 87%. ish. he doesnt show the exact bar on stream
-dumbo: but he said yesterday "probably tomorrow"
+◆ dumbo: lv 9. 87%. ish. he doesnt show the exact bar on stream
+◆ dumbo: but he said yesterday "probably tomorrow"
 nightowl_kr: ten today???
-Salty: ten today
-Aleaka: TEN TODAY!!!
+◆ Salty: ten today
+◆ Aleaka: TEN TODAY!!!
 ]
 
 "I said *probably*," said Ice. "Morning, everyone. Probably."
@@ -182,12 +182,12 @@ He went live again from the end of the north walk.
 He hadn't told them. They didn't need telling. They took one look at the little *10* next to his name in the corner of the stream overlay, and chat exploded.
 
 [ Chat · 124 watching
-Salty: TEN
-Aleaka: TEN!!!!!!!!!!
-Hanarisu: CONGRATULATIONS!!!
-titanium_ii_fluoride: ten!! proud of you ice
-titanium_ii_fluoride: don't let it go to your head
-dumbo: CLASS?? WHAT CLASS
+◆ Salty: TEN
+◆ Aleaka: TEN!!!!!!!!!!
+◆ Hanarisu: CONGRATULATIONS!!!
+⚔ titanium_ii_fluoride: ten!! proud of you ice
+⚔ titanium_ii_fluoride: don't let it go to your head
+◆ dumbo: CLASS?? WHAT CLASS
 nightowl_kr: what class what class
 lowkeyfrog: HE WENT DARK FOR THE LEVEL UP
 tehpeng: ICE WENT DARK (19)
@@ -197,22 +197,22 @@ mangoes4ever: HE MADE US MISS THE LEVEL UP
 "Sorry," said Ice, and was not sorry at all. "It happened in the fen. I'll tell you." He opened the window and turned it so chat could read it, *Class: Holdfast*, and the lines above it. Then he stood still for a minute on the end of the north walk while they read, because he wanted them to read the lines above it too.
 
 [ Chat · 127 watching
-dumbo: HOLDFAST
-dumbo: never seen that one. ive got 23 classes logged. vanguard bladesman skirmisher hedge mage warden of thorns
-dumbo: holdfast is new
+◆ dumbo: HOLDFAST
+◆ dumbo: never seen that one. ive got 23 classes logged. vanguard bladesman skirmisher hedge mage warden of thorns
+◆ dumbo: holdfast is new
 dl_learnsforms: "you did not flinch"
 dl_learnsforms: oh
-Aleaka: you did not flinch
-Aleaka: im actually crying ice
-Hanarisu: it suits you so much
-YoJareddo: "where a holdfast stands a line exists" GOES HARD
-Suzuyunn: holdfast
-Suzuyunn: good
-Salty: ok herbalism was right AND this
-AltheaVT: the description is so specific. it's describing behaviour
-AltheaVT: so classes are generated from how you actually played. not a list
-AltheaVT: that's really cool
-dumbo: THEA IS RIGHT. the 23 i logged all have different descriptions
+◆ Aleaka: you did not flinch
+◆ Aleaka: im actually crying ice
+◆ Hanarisu: it suits you so much
+◆ YoJareddo: "where a holdfast stands a line exists" GOES HARD
+◆ Suzuyunn: holdfast
+◆ Suzuyunn: good
+◆ Salty: ok herbalism was right AND this
+◆ AltheaVT: the description is so specific. it's describing behaviour
+◆ AltheaVT: so classes are generated from how you actually played. not a list
+◆ AltheaVT: that's really cool
+◆ dumbo: THEA IS RIGHT. the 23 i logged all have different descriptions
 ]
 
 Thea was right. He hadn't thought of it like that, but she was: the window hadn't picked him off a list. It had looked at a week of narrow places and turned blows and Falling Cuts breathed out, and *made* something out of it. Somewhere in the world, other people with a sword and a shield had reached ten this week and become something else entirely, because they'd done it differently.
@@ -220,9 +220,9 @@ Thea was right. He hadn't thought of it like that, but she was: the window hadn'
 "Thea says the class is made from how you played," he told chat. "Not picked from a list. I think she's right."
 
 [ Chat · 128 watching
-AltheaVT: i'm usually right
-xolalotl: she IS usually right
-xolalotl: it's very annoying
+◆ AltheaVT: i'm usually right
+◆ xolalotl: she IS usually right
+◆ xolalotl: it's very annoying
 ]
 
 ***
@@ -257,8 +257,8 @@ Hollis looked at him a moment longer. Then he nodded, once, and picked the dummy
 nightowl_kr: wait he's not going to the intermediate town??
 gr8grape: the LEADERBOARD is there
 dl_learnsforms: you might be top 10!! you're one of the first 10s i've seen
-Salty: go see your rank
-Nikorasu: go see your rank
+◆ Salty: go see your rank
+◆ Nikorasu: go see your rank
 ]
 
 "No," said Ice. "Sunday, probably. All three of us. Deston's got finals."

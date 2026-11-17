@@ -92,14 +92,14 @@ At noon, with the sun high and the river glittering and Brackenford's bridges fu
 Word had got round, the way it did. The swamp guy who'd died at the ford was going back with his party. By the time they reached the bank there were fifty people on the nearest bridge, leaning on the parapet, and three camera orbs hanging overhead. Ice had his own stream up, and it was busier than it had been since the Tally.
 
 [ Chat · 211 watching
-titanium_ii_fluoride: !ford
+⚔ titanium_ii_fluoride: !ford
 Nightbot: Times Ice has fought the ford: 1. Times Ice has won at the ford: 0
-Salty: revenge arc
-Nikorasu: revenge arc
-YoJareddo: five of them this time. let's GO
-Aleaka: kotori's on her rock!!!!
-dumbo: positions: ice 2nd stone, xav downstream, suzu upstream bank, dest behind, kotori the flat rock
-dumbo: xav drew a diagram. of course he did
+◆ Salty: revenge arc
+◆ Nikorasu: revenge arc
+◆ YoJareddo: five of them this time. let's GO
+◆ Aleaka: kotori's on her rock!!!!
+◆ dumbo: positions: ice 2nd stone, xav downstream, suzu upstream bank, dest behind, kotori the flat rock
+◆ dumbo: xav drew a diagram. of course he did
 ]
 
 Kotori was on her rock. She'd got there without getting her feet wet, as she always did. Ice still didn't know how. She was standing in the middle of it with her feet together and her staff held out, and the bell was very still.
@@ -187,19 +187,19 @@ And Xav came up out of the water beside him, soaked to the chest, and stood ther
 "Good." He looked at the river. "That was good, Dec."
 
 [ Chat · 268 watching
-Salty: REVENGE
-Salty: REVENGE ARC COMPLETE
-titanium_ii_fluoride: !ford
+◆ Salty: REVENGE
+◆ Salty: REVENGE ARC COMPLETE
+⚔ titanium_ii_fluoride: !ford
 Nightbot: Times Ice has fought the ford: 2. Times Ice has won at the ford: 1
-titanium_ii_fluoride: ok
-titanium_ii_fluoride: ok i'm proud of you
-titanium_ii_fluoride: don't do it again
-Aleaka: KOTORI'S CRYING I'M CRYING
-dumbo: 9 minutes with 5. 20+ alone and he lost
-dumbo: thats the whole argument for parties in one fight
-YoJareddo: "toward, not back" suzu holding that little one by himself for 9 min tho
-Nikorasu: suzu caught the light off the big one. on the BLADE
-Hanarisu: the people on the bridge clapping!!!!
+⚔ titanium_ii_fluoride: ok
+⚔ titanium_ii_fluoride: ok i'm proud of you
+⚔ titanium_ii_fluoride: don't do it again
+◆ Aleaka: KOTORI'S CRYING I'M CRYING
+◆ dumbo: 9 minutes with 5. 20+ alone and he lost
+◆ dumbo: thats the whole argument for parties in one fight
+◆ YoJareddo: "toward, not back" suzu holding that little one by himself for 9 min tho
+◆ Nikorasu: suzu caught the light off the big one. on the BLADE
+◆ Hanarisu: the people on the bridge clapping!!!!
 ]
 
 ***
@@ -231,17 +231,25 @@ On the second day, Chris found out about VANTA.
 He told chat first, and chat told Ice, and Ice read it at the edge of his eye in the middle of a mudwolf.
 
 [ Chat · 194 watching
-dumbo: news
-dumbo: kestrel hit 15 yesterday. vanta found a five-man
-dumbo: it's in a desert beginner town on the other side of the map. "the glass cistern"
-dumbo: they went in last night on stream. 40k watching
-dumbo: they wiped
-dumbo: all five. 24 hour lockout. they'll go again tomorrow night
+◆ dumbo: news
+◆ dumbo: kestrel hit 15 yesterday. vanta found a five-man
+◆ dumbo: a salt marsh on the other side of the map. they streamed right up to the door and then cut it
+◆ dumbo: the door had herons on it
+◆ dumbo: and five hands
+◆ dumbo: "FIVE VOICES, AND NONE BELOW FIFTEEN"
+◆ dumbo: they went in dark. 40k sat in her chat waiting
+◆ dumbo: all five came up on the death log two hours later. wiped. 24 hour lockout
 ]
 
 He finished the mudwolf. Then he stood very still on the bridge.
 
-*A five-man.* Somewhere on the other side of the world, in a desert, VANTA had found a door of their own, with forty thousand people watching. And whichever five people cleared any of them first, anywhere, would be first in the whole world.
+Herons. Five hands. Five words.
+
+His door.
+
+No. Not his door. *A* door. Somewhere on the other side of the world, in a salt marsh he'd never heard of, there was another arch with herons cut wing to wing round it. Another slab, the same five words, the same choir singing underneath. The Drowned Choir had more than one way in. Every party that found a door would go down its own steps into its own drowned church, alone. But it was the same church and the same choir and the same song. And whichever five people finished it first, anywhere in the world, would be first in the whole world.
+
+He'd been so sure nobody knew where the door was. He'd been right. Nobody knew where *his* door was. That had never been the question.
 
 "Dec," said Xav, beside him.
 
@@ -302,6 +310,6 @@ Suzu was looking at his jar again, the one with the big Warden's light in it. It
 [ Party Log · Moonlight Harvest · Brackenford · Day 24
 Ice Lv 15 · Kai Lv 15 · Sketch Lv 15 · Suzuyunn Lv 15 · Kotori Lv 15
 New: Ford Wardens defeated (first in the world at the old ford) · 41 Good draughts brewed, none sold
-VANTA (the Glass Cistern): wiped ×2
+VANTA (the Drowned Choir, through their own door): wiped ×2
 Tomorrow: Fernwick
 ]

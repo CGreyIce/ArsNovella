@@ -14,9 +14,9 @@ Floating on the water around the platform, tied to it with ropes, were rafts. Ea
 "Oh, she's got a *garden*," said Ice.
 
 [ Chat · 19 watching
-Hanarisu: wait this is so cute
-Hanarisu: floating garden!!!
-Aleaka: i want to live there
+◆ Hanarisu: wait this is so cute
+◆ Hanarisu: floating garden!!!
+◆ Aleaka: i want to live there
 gr8grape: ok crafting. im off. gl
 kittycatsoup: ill come back for the fights
 ]
@@ -102,12 +102,12 @@ But he'd been looking at the ground all morning, and he knew what he'd seen.
 [ Herbalism · Lv 1 ]
 
 [ Chat · 18 watching
-Nikorasu: herbalism. ok
-Salty: no mining???
-Salty: ice the money is in ore every game
-dumbo: noted: life skills are permanent. one gather one make
-YoJareddo: thats a big decision on day 1
-Aleaka: herbalism is lovely!! it suits you
+◆ Nikorasu: herbalism. ok
+◆ Salty: no mining???
+◆ Salty: ice the money is in ore every game
+◆ dumbo: noted: life skills are permanent. one gather one make
+◆ YoJareddo: thats a big decision on day 1
+◆ Aleaka: herbalism is lovely!! it suits you
 ]
 
 "The money's in ore *later*," said Ice, a minute before Salty asked. "Right now sixty people in this town have bitten ankles and there are no potions. The money's in leaves."
@@ -125,10 +125,10 @@ Sedge considered this. "Like a far-glass."
 "Hm." She went back inside. Over her shoulder, she said, "Tell your friends the money's in leaves. It's always in leaves. Nobody ever believes it until their ankle hurts."
 
 [ Chat · 18 watching
-Salty: ok
-Salty: fair
-Hanarisu: SHE HEARD YOU
-Hanarisu: she said tell your friends!!!!
+◆ Salty: ok
+◆ Salty: fair
+◆ Hanarisu: SHE HEARD YOU
+◆ Hanarisu: she said tell your friends!!!!
 lowkeyfrog: the herb lady just talked to chat
 ]
 
@@ -187,12 +187,12 @@ He stood looking at that last line for a moment. *+1 XP to Ice.* Small. A tenth 
 "Chat," he said. "Making things gives you a little bit of your level, too."
 
 [ Chat · 18 watching
-dumbo: about 10% of craft xp goes to char level
-dumbo: thats massive if you can craft fast
-dumbo: crafting at night when its dangerous out = still levelling
-Nikorasu: chris is cooking
-Salty: so he was right about herbalism
-Salty: i hate it here
+◆ dumbo: about 10% of craft xp goes to char level
+◆ dumbo: thats massive if you can craft fast
+◆ dumbo: crafting at night when its dangerous out = still levelling
+◆ Nikorasu: chris is cooking
+◆ Salty: so he was right about herbalism
+◆ Salty: i hate it here
 ]
 
 He made six more. He got two Poor, three Fair, and one that was very nearly Good and then went cabbagey at the last second because he'd looked round when a frog went past the door. By the end, his arm hurt from the circles in a completely different way from how it hurt after the sword, and he'd learned more about the smell of cut grass than he had ever wanted to.
@@ -236,12 +236,12 @@ Reward: she'll tell you what they're for. ]
 He accepted it before she'd finished speaking.
 
 [ Chat · 20 watching
-Hanarisu: A QUEST
-Hanarisu: from the herb grandma!!
-Aleaka: moonbells is such a pretty name
+◆ Hanarisu: A QUEST
+◆ Hanarisu: from the herb grandma!!
+◆ Aleaka: moonbells is such a pretty name
 kittycatsoup: ok im back. is he going into the deep swamp at night
 lowkeyfrog: yes
-Salty: obviously
+◆ Salty: obviously
 ]
 
 ***
@@ -272,12 +272,12 @@ He killed the leech.
 +14 XP · +Above your level ×1.3 → 18 XP ]
 
 [ Chat · 20 watching
-YoJareddo: the potion he made!!
-YoJareddo: thats so sick
-dumbo: above level x1.3 at +1 level. need more data
-Salty: ok herbalism was right
-Salty: im saying it once
-Nikorasu: screenshot that
+◆ YoJareddo: the potion he made!!
+◆ YoJareddo: thats so sick
+◆ dumbo: above level x1.3 at +1 level. need more data
+◆ Salty: ok herbalism was right
+◆ Salty: im saying it once
+◆ Nikorasu: screenshot that
 ]
 
 The second fight was another leech, and it went better.
@@ -310,12 +310,12 @@ He sat down on a flat stone at the edge of the ring, with his boots in the warm 
 ***
 
 [ Chat · 19 watching
-Aleaka: it's so peaceful
-Aleaka: i can hear frogs
-Hanarisu: the sky is so orange
+◆ Aleaka: it's so peaceful
+◆ Aleaka: i can hear frogs
+◆ Hanarisu: the sky is so orange
 mangoes4ever: is anyone else just. relaxing
 lowkeyfrog: this is the most relaxed ive ever been on his stream
-Baer: dec its monday afternoon and ur sitting in a pond
+◆ Baer: dec its monday afternoon and ur sitting in a pond
 ]
 
 "I'm sitting in a *warm* pond," said Ice. "Different thing."
@@ -333,10 +333,10 @@ He didn't get up. He sat very still on his stone inside the ring, with his sword
 [ Chat · 20 watching
 kittycatsoup: did anyone else see that
 kittycatsoup: EYES
-Salty: that was eyes
-Aleaka: ICE THAT WAS EYES
-Nikorasu: big eyes
-YoJareddo: nah im good, im good, im just gonna watch from here
+◆ Salty: that was eyes
+◆ Aleaka: ICE THAT WAS EYES
+◆ Nikorasu: big eyes
+◆ YoJareddo: nah im good, im good, im just gonna watch from here
 ]
 
 And then the moon came up.
@@ -355,13 +355,13 @@ He didn't say anything for a long time.
 Neither did chat, a minute later, when they got there. For a long moment the panel at the edge of his eye stayed perfectly still. And then:
 
 [ Chat · 21 watching
-Hanarisu: oh
-Aleaka: oh my god
-titanium_ii_fluoride: oh. that's so beautiful
+◆ Hanarisu: oh
+◆ Aleaka: oh my god
+⚔ titanium_ii_fluoride: oh. that's so beautiful
 mangoes4ever: im actually going to cry
 tehpeng: ok this is worth 2.5k
-Salty: ok
-Salty: ok yeah
+◆ Salty: ok
+◆ Salty: ok yeah
 ]
 
 He got up, and waded in, and picked three for Sedge, twist and lift, very gently. Each one rang a little when it left the water. Then he stood among them for a while, up to his knees in the warm and the silver, and picked a few more, one in three, and not a single one more.

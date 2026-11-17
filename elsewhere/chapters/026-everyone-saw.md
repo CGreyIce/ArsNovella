@@ -59,7 +59,7 @@ At seven, Xav rang. The video call came up on the laptop on the folding table: X
 
 Xav read it out, flatly, the way he read everything that mattered.
 
-"*Congratulations, Moonlight Harvest. Genuinely. We've been in our cistern four nights and you walked into yours and walked out. See you at the next one.*" He looked up. "That's a pro being gracious in public. It means she's furious in private, and she means it about the next one."
+"*Congratulations, Moonlight Harvest. Genuinely. We've been down our steps four nights and you walked down yours and walked out. See you at the next one.*" He looked up. "That's a pro being gracious in public. It means she's furious in private, and she means it about the next one."
 
 "Good," said Suzu, from the floor.
 
@@ -120,17 +120,17 @@ He did it from the folding table, on the laptop, with his webcam on. His real fa
 He'd thought he was ready for it.
 
 [ Chat · 2,140 watching
-titanium_ii_fluoride: ICE
-titanium_ii_fluoride: oh my god you're live
-titanium_ii_fluoride: everyone the rules are pinned
-titanium_ii_fluoride: BE NICE
-Salty: WORLD FIRST
-Salty: WORLD FIRST WORLD FIRST
-Nikorasu: first voices
-Aleaka: ICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Aleaka: I'M AWAKE IT'S 1PM HERE I'VE BEEN AWAKE SINCE THE WINDOW
-dumbo: 2140 at 8:55
-dumbo: i'm logging this
+⚔ titanium_ii_fluoride: ICE
+⚔ titanium_ii_fluoride: oh my god you're live
+⚔ titanium_ii_fluoride: everyone the rules are pinned
+⚔ titanium_ii_fluoride: BE NICE
+◆ Salty: WORLD FIRST
+◆ Salty: WORLD FIRST WORLD FIRST
+◆ Nikorasu: first voices
+◆ Aleaka: ICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+◆ Aleaka: I'M AWAKE IT'S 1PM HERE I'VE BEEN AWAKE SINCE THE WINDOW
+◆ dumbo: 2140 at 8:55
+◆ dumbo: i'm logging this
 tehpeng: i was here when it was four
 mangoes4ever: i was here when it was ten
 lowkeyfrog: i was here for the rat pelts
@@ -143,18 +143,18 @@ He looked at it. Then at the webcam. Then at Suzu on the floor, who looked back 
 "Hi," said Ice. His voice came out wrong. He cleared his throat. "Hi. Welcome. Hello, new people. The rules are pinned. Tif made them. Be nice to Tif."
 
 [ Chat · 2,610 watching
-titanium_ii_fluoride: be nice to me
-titanium_ii_fluoride: also ice you look like you've been crying
-titanium_ii_fluoride: i'm not saying anything. i'm just saying
+⚔ titanium_ii_fluoride: be nice to me
+⚔ titanium_ii_fluoride: also ice you look like you've been crying
+⚔ titanium_ii_fluoride: i'm not saying anything. i'm just saying
 ]
 
 "I haven't been crying."
 
 [ Chat · 2,880 watching
-titanium_ii_fluoride: ok
-Salty: he's been crying
+⚔ titanium_ii_fluoride: ok
+◆ Salty: he's been crying
 lowkeyfrog: he's been crying
-Nikorasu: let him cry, he got a world first
+◆ Nikorasu: let him cry, he got a world first
 ]
 
 At nine o'clock exactly, the video went public. He shared his screen, and turned the sound up, and pressed play.
@@ -172,53 +172,53 @@ He watched them watch it. He watched the counter in the corner climb, three thou
 And then the names started.
 
 [ Chat · 4,120 watching
-Baer: dec
-Baer: dec i'm watching it at work
-Baer: i'm not at work. i'm on the toilet at work. dont tell anyone
-YoJareddo: yo
-YoJareddo: the way the singers come apart when deston comes in
-YoJareddo: chills
-Hanarisu: ice!!!!!!!!!!! we're watching it together!!!!
-Hanarisu: milli says hi. milli says "the swamp guy did it"
-dumbo: 4120
-AltheaVT: oh
-AltheaVT: the bass line BREAKS THEIR TIME
-AltheaVT: that's so clever. it's a rhythm desync
-xolalotl: thea shhh we're watching
-xolalotl: hi ice!!!!! you did it!!!!!!
-Maigo: maigotron here
-Maigo: nice
+◆ Baer: dec
+◆ Baer: dec i'm watching it at work
+◆ Baer: i'm not at work. i'm on the toilet at work. dont tell anyone
+◆ YoJareddo: yo
+◆ YoJareddo: the way the singers come apart when deston comes in
+◆ YoJareddo: chills
+◆ Hanarisu: ice!!!!!!!!!!! we're watching it together!!!!
+◆ Hanarisu: milli says hi. milli says "the swamp guy did it"
+◆ dumbo: 4120
+◆ AltheaVT: oh
+◆ AltheaVT: the bass line BREAKS THEIR TIME
+◆ AltheaVT: that's so clever. it's a rhythm desync
+◆ xolalotl: thea shhh we're watching
+◆ xolalotl: hi ice!!!!! you did it!!!!!!
+◆ Maigo: maigotron here
+◆ Maigo: nice
 ]
 
 He laughed out loud at *maigotron here*. He couldn't help it. He'd never once heard Maigo call himself that.
 
 [ Chat · 5,600 watching
-KeiKatamori: hi ice
-KeiKatamori: congrats. that singing thing. i'm going to be thinking about it for a week
-Inaxho: ice
-Inaxho: well done
-Winter: drew made me watch this
-Winter: im glad he did
-Tiger: BROOOOO
-Tiger: YOU DID IT
-Tiger: i fell in a canal again today by the way
-HakoP: everything will work out, i said, and it did!!!
-HakoP: congrats ice!!!!
-somebodynewish: oh so NOW you're famous
-somebodynewish: congrats i guess. it was ok. it was amazing. whatever
+◆ KeiKatamori: hi ice
+◆ KeiKatamori: congrats. that singing thing. i'm going to be thinking about it for a week
+◆ Inaxho: ice
+◆ Inaxho: well done
+◆ Winter: drew made me watch this
+◆ Winter: im glad he did
+◆ Tiger: BROOOOO
+◆ Tiger: YOU DID IT
+◆ Tiger: i fell in a canal again today by the way
+◆ HakoP: everything will work out, i said, and it did!!!
+◆ HakoP: congrats ice!!!!
+◆ somebodynewish: oh so NOW you're famous
+◆ somebodynewish: congrats i guess. it was ok. it was amazing. whatever
 ]
 
 On the screen, in the recording, the Precentor saw them and shouted the downbeat, and the whole back half of the choir turned round, and Suzu walked down the aisle into them alone with his scythe.
 
 [ Chat · 6,900 watching
-Salty: SUZU
-Salty: SUZU WALKING INTO ALL OF THEM ALONE
-Nikorasu: SHHHHK
-Aleaka: SUZU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Suzuyunn: i'm right here
-Suzuyunn: i'm on the floor
-Suzuyunn: he can see me
-titanium_ii_fluoride: he's on a PILLOW
+◆ Salty: SUZU
+◆ Salty: SUZU WALKING INTO ALL OF THEM ALONE
+◆ Nikorasu: SHHHHK
+◆ Aleaka: SUZU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+◆ Suzuyunn: i'm right here
+◆ Suzuyunn: i'm on the floor
+◆ Suzuyunn: he can see me
+⚔ titanium_ii_fluoride: he's on a PILLOW
 ]
 
 Ice looked down at Suzu on his pillow at the edge of the frame. Suzu looked back up at him and typed on his phone without looking at it, *i'm on the floor*, and then looked back at the screen, at himself in a drowned church holding a whole choir back with a farmer's scythe. Something in his face, just for a moment, wasn't half-closed at all.
@@ -232,15 +232,15 @@ The first was from a stream he'd turned notifications on for himself, a week ago
 [ Hyvred is raiding with 1,847 viewers! ]
 
 [ Chat · 8,840 watching
-Hyvred: ICE
-Hyvred: I'M RAIDING YOU
-Hyvred: MY CHAT HAS BEEN WATCHING YOUR VOD IN A WATCH PARTY FOR THE LAST HOUR
-Hyvred: WE ALL WANTED TO BE HERE FOR THE CHOIRMASTER
-Hyvred: no flashlight!!!!!!!!
-Bee: i'm here
-Bee: hyv made me
-Bee: i still don't know who you are
-Bee: the bell girl is good
+◆ Hyvred: ICE
+◆ Hyvred: I'M RAIDING YOU
+◆ Hyvred: MY CHAT HAS BEEN WATCHING YOUR VOD IN A WATCH PARTY FOR THE LAST HOUR
+◆ Hyvred: WE ALL WANTED TO BE HERE FOR THE CHOIRMASTER
+◆ Hyvred: no flashlight!!!!!!!!
+◆ Bee: i'm here
+◆ Bee: hyv made me
+◆ Bee: i still don't know who you are
+◆ Bee: the bell girl is good
 ]
 
 Then, a few minutes after, a name he hadn't expected at all.
@@ -248,28 +248,28 @@ Then, a few minutes after, a name he hadn't expected at all.
 [ Drew is raiding with 412 viewers! ]
 
 [ Chat · 9,630 watching
-Drew: yo ice
-Drew: brought some people
-Drew: huh. cold.
-Drew: (that's a joke about my town. it's snowing. good job man)
+◆ Drew: yo ice
+◆ Drew: brought some people
+◆ Drew: huh. cold.
+◆ Drew: (that's a joke about my town. it's snowing. good job man)
 ]
 
 And one more, that made him put his hand over his mouth.
 
 [ Chat · 9,870 watching
-satayboy: dec
-satayboy: that was insane
-satayboy: first time i've typed in your chat in like two years
-satayboy: had to
-Resent: yeah
-Resent: insane
-Mango: DECLAN
-Mango: DECLAN WHAT
-Pingu: 36000 hours of idle games and i have never felt like this
-Pingu: congrats dec
-theidiot: dec you absolute menace
-theidiot: congrats
-Serenity: congrats. well deserved. i assumed it would fail and it didn't
+⚔ satayboy: dec
+⚔ satayboy: that was insane
+⚔ satayboy: first time i've typed in your chat in like two years
+⚔ satayboy: had to
+◆ Resent: yeah
+◆ Resent: insane
+◆ Mango: DECLAN
+◆ Mango: DECLAN WHAT
+◆ Pingu: 36000 hours of idle games and i have never felt like this
+◆ Pingu: congrats dec
+◆ theidiot: dec you absolute menace
+◆ theidiot: congrats
+◆ Serenity: congrats. well deserved. i assumed it would fail and it didn't
 ]
 
 The poly class. The whole of it, all at once, in his chat, the way it hadn't been since poly. Jun Liang, who'd been his mod back when he streamed every week and had drifted when Ice did, typing for the first time in two years. Ryan, who'd never typed anything in nine years, typing *yeah*.
@@ -277,7 +277,7 @@ The poly class. The whole of it, all at once, in his chat, the way it hadn't bee
 "That's my class," he said to the webcam, and didn't know what else to say, and didn't try.
 
 [ Chat · 10,210 watching
-itswendy: :)
+◆ itswendy: :)
 ]
 
 He saw that one too. He was watching for it, without knowing he had been. Wendy, who never said anything in anyone's chat and was always there. A colon and a bracket.
@@ -355,12 +355,12 @@ He didn't say it out loud. He didn't need to. He just sat at the folding table a
 [ Chat · 11,412 watching
 lowkeyfrog: he said trust
 tehpeng: he said trust
-titanium_ii_fluoride: !trust
+⚔ titanium_ii_fluoride: !trust
 Nightbot: IT'S OVER
-Salty: IT'S OVER
-Nikorasu: it's so over
+◆ Salty: IT'S OVER
+◆ Nikorasu: it's so over
 mangoes4ever: it's so over
-Aleaka: IT'S OVERRRRRR
+◆ Aleaka: IT'S OVERRRRRR
 dl_learnsforms: it's over (it's just beginning)
 ]
 

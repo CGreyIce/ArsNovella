@@ -39,9 +39,9 @@ Ice read for a long time. Then he got up, and made coffee, and stood at the kitc
 tehpeng: MORNING
 tehpeng: WHY IS IT SO BUSY
 lowkeyfrog: the clip went viral on the forum lol
-titanium_ii_fluoride: hello new people :) rules are pinned. be nice. if he says trust, it's over. if he goes dark, type !dark. he will not tell you what he found. don't ask
+⚔ titanium_ii_fluoride: hello new people :) rules are pinned. be nice. if he says trust, it's over. if he goes dark, type !dark. he will not tell you what he found. don't ask
 mangoes4ever: and herbalism was right
-Salty: and herbalism was right
+◆ Salty: and herbalism was right
 dl_learnsforms: hi! i made the clip, hope that's ok
 nightowl_kr: hi from korea. watching for the feet
 ]
@@ -69,8 +69,8 @@ dl_learnsforms: THAT'S the clip
 dl_learnsforms: did everyone see the tilt
 nightowl_kr: im going to try this tonight
 kittycatsoup: i actually understood that
-Salty: ice is a teacher now
-Nikorasu: professor ice
+◆ Salty: ice is a teacher now
+◆ Nikorasu: professor ice
 ]
 
 ***
@@ -80,10 +80,10 @@ They came in the afternoon. His friends, the ones he hadn't expected.
 The fen was at its middle night by then, the three of them inside the ring, and the stream had been dark for an hour while they picked. He'd brought it back on when they came out at dawn, wading toward the edge of the old fen to fight. That was when he saw the names in the chat panel, and had to look twice.
 
 [ Chat · 78 watching
-AltheaVT: hi ice :)
-xolalotl: hiii
-xolalotl: we're on a call watching together
-AltheaVT: we saw the clip
+◆ AltheaVT: hi ice :)
+◆ xolalotl: hiii
+◆ xolalotl: we're on a call watching together
+◆ AltheaVT: we saw the clip
 ]
 
 He nearly stopped walking.
@@ -95,25 +95,25 @@ And here they were.
 "Thea," he said, and found he was smiling. "Xola. Hi. It's—hi. It's been a while."
 
 [ Chat · 80 watching
-AltheaVT: it has
-AltheaVT: uni is killing me. this is my break
-xolalotl: same. assignments forever
-xolalotl: the moon flowers!!!! we watched the vod of the first night
-xolalotl: they're so pretty i actually cried
+◆ AltheaVT: it has
+◆ AltheaVT: uni is killing me. this is my break
+◆ xolalotl: same. assignments forever
+◆ xolalotl: the moon flowers!!!! we watched the vod of the first night
+◆ xolalotl: they're so pretty i actually cried
 ]
 
 "Moonbells," said Ice. "They're called moonbells. You have to pick them open."
 
 [ Chat · 81 watching
-AltheaVT: question
-AltheaVT: is the form grade computed per-frame or over the whole movement
-AltheaVT: because if it's whole-movement it should weight the start and the end differently
-dumbo: OVER THE WHOLE MOVEMENT
-dumbo: i have data
-dumbo: ive been logging his grades for 6 days
-AltheaVT: oh hi chris
-AltheaVT: send me the data
-dumbo: sending
+◆ AltheaVT: question
+◆ AltheaVT: is the form grade computed per-frame or over the whole movement
+◆ AltheaVT: because if it's whole-movement it should weight the start and the end differently
+◆ dumbo: OVER THE WHOLE MOVEMENT
+◆ dumbo: i have data
+◆ dumbo: ive been logging his grades for 6 days
+◆ AltheaVT: oh hi chris
+◆ AltheaVT: send me the data
+◆ dumbo: sending
 ]
 
 "Oh no," said Ice. "Oh no, they've met."
@@ -121,10 +121,10 @@ dumbo: sending
 He didn't know Chris knew Thea. Chris didn't know Thea. They'd just met, in his chat, at four o'clock on a Sunday afternoon, over a spreadsheet. He could see the next twenty minutes of chat from here, and they were going to be numbers.
 
 [ Chat · 82 watching
-xolalotl: thea no
-xolalotl: thea this is my break too
-AltheaVT: it'll only take a minute
-xolalotl: it will NOT take a minute
+◆ xolalotl: thea no
+◆ xolalotl: thea this is my break too
+◆ AltheaVT: it'll only take a minute
+◆ xolalotl: it will NOT take a minute
 ]
 
 He laughed out loud in the middle of the fen. Behind him, Deston said "What?" and Ice said "Nothing, nothing, Thea's here," and Deston said "Oh! Hi, Thea," to the air, which Thea could hear a minute later, and which made her type *HI DESTON* in capitals. Xav, beside him, rolled his eyes very slightly and said nothing, which was how Xav said hello.
@@ -132,15 +132,15 @@ He laughed out loud in the middle of the fen. Behind him, Deston said "What?" an
 Later, Maigo turned up.
 
 [ Chat · 84 watching
-Maigo: yo
+◆ Maigo: yo
 ]
 
 "*Maigotron!*"
 
 [ Chat · 84 watching
-Maigo: yeah
-Maigo: watched the clip
-Maigo: nice feet
+◆ Maigo: yeah
+◆ Maigo: watched the clip
+◆ Maigo: nice feet
 ]
 
 That was a whole paragraph, from Maigo. Ice grinned at the reeds.
@@ -148,10 +148,10 @@ That was a whole paragraph, from Maigo. Ice grinned at the reeds.
 Xyro turned up a little after that. That made sense: Tif had clearly been making him watch all week.
 
 [ Chat · 85 watching
-xyrolizea: yo ice
-xyrolizea: tif's had your stream on all week. had to see what the fuss was about
-xyrolizea: the fuss is a swamp
-titanium_ii_fluoride: it's a GOOD swamp
+◆ xyrolizea: yo ice
+◆ xyrolizea: tif's had your stream on all week. had to see what the fuss was about
+◆ xyrolizea: the fuss is a swamp
+⚔ titanium_ii_fluoride: it's a GOOD swamp
 ]
 
 "It's a good swamp, Xyro," said Ice. "Listen to Tif."
@@ -159,11 +159,11 @@ titanium_ii_fluoride: it's a GOOD swamp
 And then, a little later still, Tiger, who'd never been in his chat before in his life, as far as Ice knew.
 
 [ Chat · 86 watching
-Tiger: yo this is sick
-Tiger: drew and i are thinking about getting pods
-Tiger: is the swamp bad or is it good bad
-Salty: its good bad
-Nikorasu: herbalism was right
+◆ Tiger: yo this is sick
+◆ Tiger: drew and i are thinking about getting pods
+◆ Tiger: is the swamp bad or is it good bad
+◆ Salty: its good bad
+◆ Nikorasu: herbalism was right
 ]
 
 ***
@@ -193,10 +193,10 @@ They didn't look like the people of Fernwick. Everybody in Fernwick by now looke
 *CL_Field_03.*
 
 [ Chat · 88 watching
-dumbo: CL_Procurement_07
-dumbo: thats the guy who bought his silverleaf on wednesday
-dumbo: i saw the screenshot
-Salty: CL?
+◆ dumbo: CL_Procurement_07
+◆ dumbo: thats the guy who bought his silverleaf on wednesday
+◆ dumbo: i saw the screenshot
+◆ Salty: CL?
 nightowl_kr: crimson ledger
 nightowl_kr: theyre the biggest buyer on the exchange. theyre a company. a real one
 nightowl_kr: they pay people to play in shifts. well. they did. pods are fingerprint locked so now they pay a LOT of people
@@ -218,10 +218,10 @@ The one in the middle, 07, smiled at him. It was a nice smile, polished, the smi
 [ Chat · 91 watching
 kittycatsoup: TWO DOLLARS EACH
 gr8grape: that's like 20 silver a potion
-dumbo: and he makes about 15 good ones a day
-dumbo: thats 30 usd a day. 900 a month. for potions
-Salty: take it
-Nikorasu: dont take it
+◆ dumbo: and he makes about 15 good ones a day
+◆ dumbo: thats 30 usd a day. 900 a month. for potions
+◆ Salty: take it
+◆ Nikorasu: dont take it
 ]
 
 He looked at the number for a while.
@@ -250,13 +250,13 @@ He blinked.
 
 [ Chat · 93 watching
 lowkeyfrog: she looked up his old stream titles??
-Salty: corporate
-Salty: they did RESEARCH on him
-dumbo: they did research on a 40 viewer streamer
-dumbo: 90 now
-dumbo: because hes the only person in elsewhere making good potions
-YoJareddo: "everyone sells to us eventually" is such a villain line
-YoJareddo: love that for us
+◆ Salty: corporate
+◆ Salty: they did RESEARCH on him
+◆ dumbo: they did research on a 40 viewer streamer
+◆ dumbo: 90 now
+◆ dumbo: because hes the only person in elsewhere making good potions
+◆ YoJareddo: "everyone sells to us eventually" is such a villain line
+◆ YoJareddo: love that for us
 ]
 
 ***
@@ -288,11 +288,11 @@ They'd been watching his POV all afternoon, a minute behind, and walking where h
 "Chat," he said aloud. "I'm being followed."
 
 [ Chat · 95 watching
-Salty: WHAT
+◆ Salty: WHAT
 nightowl_kr: stream snipers
 dl_learnsforms: the crimson ledger guys??
 kittycatsoup: they're WATCHING THE STREAM TO FIND HIM
-Aleaka: that's so rude!!!
+◆ Aleaka: that's so rude!!!
 ]
 
 "It's a little rude," Ice agreed. He was still walking, still casual, toward the edge of the old fen, away from the stones. *Away* from the stones. "But it's fine. I know where we are and they don't."
@@ -341,18 +341,18 @@ Xav was laughing. Not out loud; Xav almost never laughed out loud. But his shoul
 "I gave them something to watch."
 
 [ Chat · offline
-Salty: what happened
-Salty: WHAT HAPPENED
-dumbo: CL_Field_03 fell. its on the public death log
-dumbo: in the old fen
-dumbo: 2 minutes after he went dark
+◆ Salty: what happened
+◆ Salty: WHAT HAPPENED
+◆ dumbo: CL_Field_03 fell. its on the public death log
+◆ dumbo: in the old fen
+◆ dumbo: 2 minutes after he went dark
 lowkeyfrog: ICE WENT DARK
 nightowl_kr: he led them to the swamp monster
-YoJareddo: he led them to the swamp monster lmaoooo
-Aleaka: that's so mean
-Aleaka: i love it
-AltheaVT: that was really clever actually
-xolalotl: thea stop complimenting him he'll get a big head
+◆ YoJareddo: he led them to the swamp monster lmaoooo
+◆ Aleaka: that's so mean
+◆ Aleaka: i love it
+◆ AltheaVT: that was really clever actually
+◆ xolalotl: thea stop complimenting him he'll get a big head
 ]
 
 ***

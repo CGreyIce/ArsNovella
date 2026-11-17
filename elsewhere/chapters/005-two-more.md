@@ -27,33 +27,33 @@ His legs felt fine this morning. His back didn't. Twelve hours in an egg had lef
 At seven fifty he went live.
 
 [ Chat · 26 watching
-titanium_ii_fluoride: morning :) he's back. hide your herbs
+⚔ titanium_ii_fluoride: morning :) he's back. hide your herbs
 tehpeng: ICE WENT DARK
 lowkeyfrog: ice went dark
 mangoes4ever: ICE WENT DARK
-Salty: what did you find
-Nikorasu: good morning
-Aleaka: good morning!!! i watched the whole vod. ALL of it. the moon flowers!!!
-Aleaka: what did you find
+◆ Salty: what did you find
+◆ Nikorasu: good morning
+◆ Aleaka: good morning!!! i watched the whole vod. ALL of it. the moon flowers!!!
+◆ Aleaka: what did you find
 ]
 
 "Good morning," said Ice. "No. Today's a special day. Today I've got guests."
 
 [ Chat · 27 watching
-Salty: who
+◆ Salty: who
 kittycatsoup: guests?
-dumbo: 2 calls sent last night per his card. kai and sketch?
-Salty: who are kai and sketch
-Baer: dest and xav
-Baer: they bought it
-Salty: THEY BOUGHT IT??
+◆ dumbo: 2 calls sent last night per his card. kai and sketch?
+◆ Salty: who are kai and sketch
+◆ Baer: dest and xav
+◆ Baer: they bought it
+◆ Salty: THEY BOUGHT IT??
 ]
 
 "They bought it," said Ice. "Gabe, stop leaking my content."
 
 [ Chat · 27 watching
-Baer: its not a leak if theyre in the group chat
-Baer: they wouldnt shut up about it
+◆ Baer: its not a leak if theyre in the group chat
+◆ Baer: they wouldnt shut up about it
 ]
 
 At eight o'clock exactly, he lay down in the gel, pressed his finger to the glass, and closed his eyes, and smelled rain.
@@ -131,12 +131,12 @@ Deston let go of him and held him at arm's length and looked at him and laughed,
 "It smells like *frogs*." Deston sounded delighted. "We paid two and a half thousand dollars to smell frogs."
 
 [ Chat · 31 watching
-Salty: DESTON
-Hanarisu: he's so tall!!!
-Aleaka: AW
-Aleaka: they're hugging
+◆ Salty: DESTON
+◆ Hanarisu: he's so tall!!!
+◆ Aleaka: AW
+◆ Aleaka: they're hugging
 mangoes4ever: im not crying youre crying
-Baer: deston said youre so short lmaooo
+◆ Baer: deston said youre so short lmaooo
 ]
 
 Xav came through a minute later.
@@ -234,11 +234,11 @@ He did it again. Fourteen. He asked Hollis where his weight should be at the end
 "That's where you always went," said Ice.
 
 [ Chat · 34 watching
-YoJareddo: xav is cracked
-Nikorasu: 31 in 15 minutes. took ice 40 minutes
-Salty: ice is getting cooked by his own friend
-dumbo: xav asks the same questions i do
-dumbo: i like xav
+◆ YoJareddo: xav is cracked
+◆ Nikorasu: 31 in 15 minutes. took ice 40 minutes
+◆ Salty: ice is getting cooked by his own friend
+◆ dumbo: xav asks the same questions i do
+◆ dumbo: i like xav
 ]
 
 "Chat says you're cracked," Ice told him.
@@ -270,11 +270,11 @@ Read the line aloud, with your hand upon the spine.
 For a short while, those you are bound to keep time with you. ]
 
 [ Chat · 35 watching
-dumbo: THE BOOK DOES SOMETHING
-dumbo: 300 reply thread on the book and nobody knew
-Salty: deston found it in 90 minutes
-Aleaka: what does keep time with you mean??
-Nikorasu: buff probably. form timing?
+◆ dumbo: THE BOOK DOES SOMETHING
+◆ dumbo: 300 reply thread on the book and nobody knew
+◆ Salty: deston found it in 90 minutes
+◆ Aleaka: what does keep time with you mean??
+◆ Nikorasu: buff probably. form timing?
 ]
 
 "What's it do?" asked Xav.
@@ -341,14 +341,14 @@ Marta came out of her door halfway through and looked at him for a long moment, 
 +5 silver 40 copper ]
 
 [ Chat · 38 watching
-dumbo: 5s 40c. thats the first real income ive seen on any stream
-dumbo: everyone else is selling rat pelts for 1c
-Salty: ok herbalism was right twice
+◆ dumbo: 5s 40c. thats the first real income ive seen on any stream
+◆ dumbo: everyone else is selling rat pelts for 1c
+◆ Salty: ok herbalism was right twice
 kittycatsoup: how much is 5 silver in real money
-dumbo: 1 gold = 10 usd. 1 silver = 10 cents
-dumbo: so about 54 cents
+◆ dumbo: 1 gold = 10 usd. 1 silver = 10 cents
+◆ dumbo: so about 54 cents
 kittycatsoup: LMAO
-Salty: 54 cents. hes rich
+◆ Salty: 54 cents. hes rich
 ]
 
 "Fifty-four cents," said Ice to the fen, with enormous dignity. "Day two. Write it down."
@@ -370,14 +370,14 @@ Ice looked at them both. Then he looked up at the sun. It was past its height, g
 "I'll show you," he said. "We have to go now, though. It's a long walk, and we need to be there before dark." He paused. "And I'm going dark. For a while. It's not mine to show. I promised somebody."
 
 [ Chat · 39 watching
-Salty: NO
-Salty: NO NO NO
+◆ Salty: NO
+◆ Salty: NO NO NO
 lowkeyfrog: ICE WENT DARK (2)
-Aleaka: noooo i want to see!!!
-YoJareddo: he's taking them to the thing
+◆ Aleaka: noooo i want to see!!!
+◆ YoJareddo: he's taking them to the thing
 mangoes4ever: the thing!!!
-dumbo: hes taking them to the 9th heron
-dumbo: i knew it
+◆ dumbo: hes taking them to the 9th heron
+◆ dumbo: i knew it
 ]
 
 "Sorry, chat," he said, and meant it. "Back in a few hours. Talk among yourselves."
