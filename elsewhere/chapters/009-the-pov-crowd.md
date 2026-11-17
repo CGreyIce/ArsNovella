@@ -246,17 +246,44 @@ A Good draught wasn't a flower. But it was close enough.
 
 He blinked.
 
-"It was in your stream title in 2023," she said, and smiled again, and the three of them walked away down the boardwalk together, sashes swinging.
+"It was in your stream title in 2023," she said, and smiled again, and turned to go.
+
+"Then you should've done more research," said Ice.
+
+She stopped.
+
+He hadn't raised his voice. He didn't, much. He said it the way he'd have told her the time, standing by his crate with a draught in his hand and ninety people watching through his eyes.
+
+"If you had," he said, "you'd know that doesn't work on me. Threats. Or not-threats." He shrugged. "World War Bee. 2016. And the second one, 2020 into '21. I had the most recorded kills in both. I flew solo. Merc."
+
+07 looked at him. For the first time, the smile didn't seem to know what to do.
+
+She hadn't known. He could see it. Somebody at Crimson Ledger had typed his name into a search bar, found an old stream title with *EVE* in it, and written it on a card: *played EVE, understands markets*. She'd read the card and called it a day. Nobody had told her what he'd actually done there.
+
+Or anywhere else. Nobody had told her that in almost every MMO he'd ever played, he'd ended up a grinder and a trader, a man with spreadsheets and patience. But only after he'd made his name the other way first.
+
+In EVE, in a spaceship, alone, for hire, in two of the biggest wars the game had ever had.
+
+In SimpleMMO, he'd made a fortune playing the market. Before that he'd been the most feared player-killer on the server. He'd started a guild on his own and declared war on every other guild in the game at once, and he'd killed so many people that the ones who loved a fight started turning up to join him. Twenty-odd players had ended up in the top fifty of five thousand guilds, most of them a hundred strong.
+
+In Elder Scrolls Online he'd mostly farmed herbs. Except on the nights he went into the war zone. Then he'd stun and root and lock down twenty people at once, on his own, over and over, until they gave up and went home.
+
+He didn't say any of that. He didn't need to.
+
+"Good to know," said 07, after a moment. The smile came back, a little thinner. Then the three of them walked away down the boardwalk together, sashes swinging, slightly faster than they'd come.
 
 [ Chat · 93 watching
 lowkeyfrog: she looked up his old stream titles??
-◆ Salty: corporate
-◆ Salty: they did RESEARCH on him
-◆ dumbo: they did research on a 40 viewer streamer
-◆ dumbo: 90 now
-◆ dumbo: because hes the only person in elsewhere making good potions
-◆ YoJareddo: "everyone sells to us eventually" is such a villain line
+◆ dumbo: and didn't read past the title lmao
+◆ dumbo: looking it up
+◆ dumbo: ...he's not lying. top of the killboards. both wars
+◆ Salty: he's not joking. he was a menace
+◆ Salty: they did research on him and still got it wrong
+◆ Nikorasu: the potion guy is a war criminal
+◆ Nikorasu: (affectionate)
+◆ YoJareddo: "you should've done more research" is such a hero line
 ◆ YoJareddo: love that for us
+tehpeng: four years i've watched this man pick herbs. i forgot
 ]
 
 ***
