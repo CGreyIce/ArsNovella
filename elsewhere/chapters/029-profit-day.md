@@ -190,6 +190,94 @@ Vivian's eyebrows went up a millimetre.
 
 "Then they're not income," said Vivian, "and they're not the company's, and they're not my problem." She wrote something. "Good. Please keep it that way until your pass comes through. I don't want to explain eighty-one lights to the Immigration Department."
 
+She looked at him a moment longer over her glasses.
+
+"Mr Suzu. On the evidence of the last four days, what you make in that game is going to be more than what this company pays you. Possibly a great deal more."
+
+"Yes," said Suzu.
+
+"You've thought about it."
+
+"On the bus. The first day." He looked at the photograph of her father again. "The salary's for living. And for home. It's more than enough for both. What the game makes stays in the game."
+
+"All of it?"
+
+"Most of it. Things I need." A pause. "Sometimes things I want."
+
+Vivian considered this for a long moment, the way she considered a column of figures that had added up correctly on the first try.
+
+"That," she said, "is the most sensible financial plan anybody has described to me in this office this year." She made a small mark in the margin. "When the pass comes through, we'll declare the game income properly. It'll be tidy." She looked at Ice. "Mr Declan, you're paying a man five thousand ringgit a month to be your cover story."
+
+"He's not a cover story."
+
+"He's a very good one," said Vivian. And Suzu, for once, laughed out loud.
+
+Ice didn't laugh. He was looking at the page in front of him, at the line that said *profit before tax*, and thinking about a man holding the whole back half of a drowned church on his own with a scythe.
+
+"Can I give him shares?" he said.
+
+The room went quiet. Down in the kopitiam, somebody dropped a spoon.
+
+Suzu turned his head and looked at him.
+
+"In the company," said Vivian.
+
+"In the company."
+
+Suzu didn't say anything. He didn't say yes, and he didn't say no. He sat very still in the next chair with his hands in his lap and looked at Ice for a long moment with his half-shut eyes. Then he looked back up at the photograph of Vivian's father on the wall, as if nothing in particular had been said.
+
+Ice had known him a long time. He knew that stillness. It was the one Suzu did when he wanted something very much and was never, ever going to be the one to say so.
+
+Vivian put her pen down. She did it carefully, square to the edge of the papers, the way she did when something was about to need her full attention.
+
+"You can," she said. "You're the director and the only shareholder. You can allot him new shares, or transfer him some of yours. There's a form. There's always a form. A return of allotment, within fourteen days, which I'd do in two. Stamp duty, if it's a transfer." She took her glasses off. "But."
+
+"But."
+
+"Mr Suzu is Singaporean. The day he holds a single share, this company stops being one hundred per cent Malaysian-owned. Everything I filed with the Expatriate Services Division, I filed for a one-hundred-per-cent Malaysian company, at two hundred and fifty thousand ringgit paid up. If he holds thirty per cent or more, they'll treat you as a joint venture, and the paid-up capital has to go to three hundred and fifty thousand. Below thirty, I'd want it confirmed in writing by the division before I filed anything at all."
+
+"I can put in another hundred thousand."
+
+"I know you can, Mr Declan. I've read your bank statements." She didn't smile. "That isn't the problem. The problem is that his pass is being processed right now, on the basis of a company that looks one way. I will not change what the company looks like while they are looking at it."
+
+"So when?"
+
+"The day the pass is approved. Not one day before. Then we do it properly, I write to the division, and nobody is surprised." She picked up her pen again. "How many?"
+
+Ice opened his mouth.
+
+"Enough," he said.
+
+"That isn't a number."
+
+Ice looked at Suzu. Suzu was looking at the management accounts on the desk now. At the line that said *profit before tax*, the way he'd looked at the forty lights in his jar. He didn't say a number. He didn't say anything at all.
+
+"Mr Suzu?" said Vivian.
+
+"Whatever he says," said Suzu.
+
+Then, after a moment, very quietly, still looking at the page, as if it had got out on its own:
+
+"Not zero."
+
+Ice laughed. He couldn't help it. Suzu didn't look at him, but the corner of his mouth went up about a millimetre, and stayed there.
+
+Vivian looked from one of them to the other. Then she took a fresh card from the drawer and wrote on it in her small neat capitals, and clipped it to the front of the management accounts.
+
+*SHARES (MR SUZU) — ON APPROVAL OF PASS. NUMBER TO BE AGREED. (MR SUZU: "NOT ZERO.")*
+
+"You have until his pass comes through," she said, "to agree on a number. Both of you." She looked at Ice over the top of her glasses, which she'd put back on. "And Mr Declan."
+
+"Yes?"
+
+"You'll want to do this again."
+
+It wasn't a question. Ice thought about a white egg upstairs at the office, by the window, that wasn't anybody's yet. He thought about a man in Melbourne who'd watched a drowned church three times on his phone.
+
+"Yes," he said.
+
+"One at a time," said Vivian.
+
 "Any news?" said Ice. "On the pass?"
 
 "None. Still processing. Some weeks." She looked at Suzu. "I'll tell you the moment I hear. You first."

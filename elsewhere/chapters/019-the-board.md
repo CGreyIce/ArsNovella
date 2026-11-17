@@ -211,7 +211,15 @@ Xav did. Xav waited until the crowd had thinned and then stood at the foot of th
 
 "Like the sashes."
 
-"Worse than the sashes. The sashes wanted your potions. Nightjar want your day." He looked back up at the stone. "Look at the rest, though."
+"Worse than the sashes. The sashes wanted your potions. Nightjar want your day."
+
+"Let them try," said Ice.
+
+Xav glanced at him. "We're not hunting them."
+
+"No. But if they come for us."
+
+"Then they'll find out what you did in EVE," said Xav, and almost smiled, and looked back up at the stone. "Look at the rest, though."
 
 Ice looked.
 

@@ -402,6 +402,8 @@ Xav came up out of the reeds on the left side of the channel, waist-deep, with b
 
 And Suzu went off the other side of the boardwalk.
 
+He'd spent years near the top of every ranked ladder he'd ever played, and he'd never once gone where a fight expected him to.
+
 Ice didn't see him go. He just felt the boardwalk lighten as Suzu stepped off it into the channel on the right, chest-deep, in the black water. He came up on the flank where the woman with the spear and the thin man with the staff were standing side by side on the planks, waiting their turn. Suzu's scythe came round low and level over the water. It cut high. Aldo's scythe always cut a bit high.
 
 *Shhhhk.*
@@ -443,6 +445,38 @@ They went back into the dark the way they'd come, the four of them, the big man 
 ]
 
 He texted her.
+
+***
+
+Kotori was still on her post.
+
+She'd been on it since the fight, with her feet together and her staff held out in front of her, looking at the dark where Nightjar had gone. She hadn't moved. When Ice came to the edge of the boardwalk nearest her, she looked at him across the black water, and her round face was very white.
+
+"They were people," she said.
+
+"Yes."
+
+"I healed you while they were hitting you. Sorry. That's—I know that's the job." Her voice wobbled. "But they were *people*. And they were *trying*. The one with the blades was trying so hard, and I was keeping you up so she couldn't, and I—" She stopped. "Sorry. I don't know what I'm saying."
+
+Suzu came up out of the channel beside the boardwalk, dripping, with Aldo's scythe over his shoulder. He hauled himself up onto the planks and sat there, wet to the chest, and looked at her.
+
+"They were trying to take Rafi's day," he said. "And forty other people's."
+
+"I know."
+
+"You stood on a post where none of them could reach you, and you could see all of us. That's what you do in a fight with people." He wrung out his hair. "You did it. Nobody told you. You just did it."
+
+"It's harder than most people's first one," said Xav, from behind them. "Most people's first one, they stand somewhere stupid and panic. You didn't."
+
+Kotori looked from one to the other of them.
+
+"Was that my first one?"
+
+"That was your first one."
+
+"Oh." She looked down at the bell on her staff. "Sorry. I mean—" A long breath. "Okay."
+
+She jumped back from the post onto the boardwalk, which was too far, and landed perfectly, and walked back to town with the rest of them without saying anything else. But at the end of the north walk, under the lantern, she said, very quietly, to nobody in particular: "Next time I'll stand there again."
 
 ***
 

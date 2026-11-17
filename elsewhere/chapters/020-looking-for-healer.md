@@ -259,7 +259,23 @@ She looked at the window for a long time. Ice watched her read it twice.
 
 "We'd be worried if you stopped," said Ice.
 
-She laughed again, a beat late. Then she reached out and touched the window, and the bell on her staff rang.
+She laughed again, a beat late. Then she stopped laughing.
+
+"Do you fight—" She hesitated. "Sorry. Do you fight *people*? Other players? I saw on the forum. The ones who wait outside towns." Her hands tightened on the staff. "I don't think I could. Hit a person. Even in here. Sorry."
+
+"We don't start it," said Ice. "But if somebody comes for us, we don't run."
+
+"Oh," said Kotori, very small.
+
+"You wouldn't have to hit anyone," said Xav. "You'd have to stand somewhere they can't reach you, and keep us up. You've been doing that all day."
+
+"And we'll teach you the rest," said Deston. "Slowly. When you want to."
+
+Kotori looked at the three of them for a long moment, over the top of her staff.
+
+"Okay," she said. "Slowly."
+
+Then she reached out and touched the window, and the bell on her staff rang.
 
 [ Party · Moonlight Harvest
 Ice (leader) · Kai · Sketch · Suzuyunn · Kotori ]

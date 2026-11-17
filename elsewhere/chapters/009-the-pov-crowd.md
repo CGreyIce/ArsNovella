@@ -324,6 +324,8 @@ kittycatsoup: they're WATCHING THE STREAM TO FIND HIM
 
 "It's a little rude," Ice agreed. He was still walking, still casual, toward the edge of the old fen, away from the stones. *Away* from the stones. "But it's fine. I know where we are and they don't."
 
+He thought about turning round. Three of them in the reeds, two Procurement and one Field. He'd have taken them. Xav behind whatever was looking at him, Deston on the count: it would have been short, and loud, and very satisfying. He'd done it a thousand times in a dozen games, to a lot better than three people in sashes. But a fight on stream was a clip, and a clip had a place in it. Everyone who watched it would know exactly which bit of the fen the swamp guy fought in. He didn't want them in a fight. He wanted them somewhere else.
+
 [ Party · Moonlight Harvest
 Ice: going the long way
 Ice: follow me
@@ -389,6 +391,14 @@ They had a meeting about it that night, the three of them, sitting in a row on S
 "The delay's not enough," said Xav. "Sixty seconds is fine for a door. It's useless for being followed. They'll do it again, and next time they'll bring more."
 
 "I know."
+
+"And if they bring swords next time," said Deston, "instead of notebooks?"
+
+"Then we use ours," said Ice.
+
+He said it the way he'd have said the time. Xav didn't even look up. Deston was quiet for a moment, and then nodded, slowly. They'd all done it before. Not like Ice; nobody did it like Ice. But Deston had spent years in the war zones of another game, and Xav had followed Ice into every fight he'd ever started since poly and come out of most of them.
+
+"We don't start it," said Ice. "We just don't run from it."
 
 "Go dark before you leave town," said Deston. "Every time. Before the north walk. Then nobody sees which way you go."
 

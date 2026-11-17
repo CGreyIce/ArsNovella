@@ -365,7 +365,11 @@ She asked if the room was nice. He looked round it: the fan, the tight corners, 
 
 "It's nice," he said. "There's a fan."
 
-When she'd gone, he sat there for a minute with the phone in his hand. Five thousand ringgit a month, when the pass came through. He'd already worked out how much of it would go home. Most of it. That had been the first sum he'd done on the bus, before the one about what time it was in Elsewhere.
+When she'd gone, he sat there for a minute with the phone in his hand. Five thousand ringgit a month, when the pass came through. That had been the first sum he'd done on the bus, before the one about what time it was in Elsewhere. The room was free; Vivian had written that in herself. Food in Malacca was cheap. Five thousand was more than he'd ever need here, by a long way. It was enough for him and enough for home, every month, with some left over.
+
+But the salary wasn't the point. He'd worked that out on the bus too. The pass needed a salary, and the salary needed a job. So there was a job, on four neat pages, and a number on the last one for the Immigration Department to look at. It was a smoke bomb. Something solid for everyone to watch while the real thing happened behind it.
+
+The real thing was the game. If he was any good, and he was going to be good, the game would make more than five thousand a month. Ice hadn't thought about that yet. Ice was paying him out of his own pocket and worrying about it. Suzu had already decided what he'd do with whatever the game made. Things he needed, he'd buy. Things he wanted, sometimes. Everything else would go straight back into the game.
 
 ***
 
