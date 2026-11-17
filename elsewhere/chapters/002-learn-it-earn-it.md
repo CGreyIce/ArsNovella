@@ -115,7 +115,7 @@ Grade: 9%. You turned it into your own head. ]
 lowkeyfrog: the game roasting him too now
 ]
 
-"I'm fine," he said, a minute ahead of them, still holding his ear. It *stung*, properly stung, like being flicked hard by somebody who meant it. He was beginning to see why the company had set it to twenty. "I'm fine, Hana. Hollis, again."
+"I'm fine," he said, a minute ahead of them, still holding his ear. It *stung*, properly stung, like being flicked hard by somebody who meant it. He was beginning to see why the company had set it to twenty. "I'm fine, Alice. Hollis, again."
 
 Hollis hit him again. And again. Each time a little differently: high, then low, then straight at the middle, then a feint that wasn't one. Ice got the slope wrong fifteen ways. Too flat. Too steep. Too late, so the blow caught the rim. Too early, so he'd committed the angle before he knew where it was coming from. Each time the window told him, and each time it stung somewhere new. His shoulder, his ear, the knuckles of his shield hand once, which made him say something his mother wouldn't have liked.
 

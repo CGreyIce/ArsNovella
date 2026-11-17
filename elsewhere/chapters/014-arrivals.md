@@ -43,7 +43,7 @@ She typed.
 
 A minute later, on the walkway in the swamp, Ice looked up, at nothing, at her.
 
-"Morning, Hana," he said. He sounded pleased. He always did, when she turned up. He'd sounded pleased when she turned up on his stream when she was nineteen and just starting out, and he'd sounded pleased every single time since, and she'd never once told him how much that had helped.
+"Morning, Alice," he said. He was the only one who called her that, him and Jared. He sounded pleased. He always did, when she turned up. He'd sounded pleased when she turned up on his stream when she was nineteen and just starting out, and he'd sounded pleased every single time since, and she'd never once told him how much that had helped.
 
 [ Chat · 120 watching
 ◆ Hanarisu: i'm at the airport~
@@ -65,7 +65,7 @@ A minute later, on the walkway in the swamp, Ice looked up, at nothing, at her.
 
 On the screen, a minute later, Ice laughed out loud in his swamp, a big surprised laugh.
 
-"Oh," he said. "*Oh.* Hana. Okay. Go. Go, go. Put your phone away. Tell him hi from me too."
+"Oh," he said. "*Oh.* Alice. Okay. Go. Go, go. Put your phone away. Tell him hi from me too."
 
 She smiled at her phone, and didn't put it away. She left the stream running on her knee with the sound turned down, his voice saying *back foot* to a hundred people. It was company. It had been company for a long time.
 

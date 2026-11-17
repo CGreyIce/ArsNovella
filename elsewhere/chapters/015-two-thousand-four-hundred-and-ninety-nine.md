@@ -133,7 +133,7 @@ Hana couldn't say anything at all.
 
 They called Jared from the table, because it was Sunday morning in America and he'd want to know. He picked up on the fourth ring, from somewhere that looked like a kitchen, in a hoodie, holding a mug, blinking.
 
-"Y'all are at a hawker centre," he said. "Without me."
+"Alice," he said. "Y'all are at a hawker centre. Without me."
 
 "We're at Lau Pa Sat," said Hana. "We got fifty sticks."
 

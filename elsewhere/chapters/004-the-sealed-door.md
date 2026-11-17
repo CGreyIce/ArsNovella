@@ -38,7 +38,7 @@ It was the quietest stream he'd ever done. The fights had gone and taken the tra
 
 He liked it more than he'd expected to.
 
-They talked. Not about the game, after a while. Mangoes had an exam tomorrow and was ignoring it. Teh Peng's cat had sat on his keyboard and typed *;;;;;;;;;;;* into chat, and then come back an hour later and done it again. Hana went for lunch and came back and said she'd had chicken rice and that she wished she could have brought him some, and then described it in so much loving detail that Salty asked her to stop. Salty and Niko got into an argument about whether the moonbells made a noise in game or whether it was just in Ice's head, which ended with Niko saying *it was in all of our heads, Salty, we heard it on stream* and Salty saying *exactly, that's what I mean*.
+They talked. Not about the game, after a while. Mangoes had an exam tomorrow and was ignoring it. Teh Peng's cat had sat on his keyboard and typed *;;;;;;;;;;;* into chat, and then come back an hour later and done it again. Alice went for lunch and came back and said she'd had chicken rice and that she wished she could have brought him some, and then described it in so much loving detail that Salty asked her to stop. Salty and Niko got into an argument about whether the moonbells made a noise in game or whether it was just in Ice's head, which ended with Niko saying *it was in all of our heads, Salty, we heard it on stream* and Salty saying *exactly, that's what I mean*.
 
 At a little past two in the morning, her time, Aleaka finally went to bed.
 

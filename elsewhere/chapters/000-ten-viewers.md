@@ -207,12 +207,14 @@ By half past seven, the number in the corner said fourteen.
 ◆ YoJareddo: yo
 ◆ YoJareddo: you really did it huh
 ◆ Aleaka: HANA
-◆ Aleaka: JARED
+◆ Aleaka: JARRED
 ]
 
-Hana and Jared, both together, the way they always seemed to arrive. Hana hadn't streamed in a while. She'd said she was taking a break, and that something big was happening soon that she'd tell everyone about when it happened. She still turned up in his chat, though, the way she always had, with a tilde on the end of good morning.
+Alice and Jared, both together, the way they always seemed to arrive. Everyone else called her Hana. He never had, not once. To him she'd been Alice since the first night he'd turned up in her chat, and Jared was the only other person who called her that. Leaka, who did things her own way, called Jared by his real name, Jarred, and always had.
 
-"It's not a coffin, Hana. Jared. My man. It's seven at night where you are, isn't it?"
+Alice hadn't streamed in a while. She'd said she was taking a break, and that something big was happening soon that she'd tell everyone about when it happened. She still turned up in his chat, though, the way she always had, with a tilde on the end of good morning.
+
+"It's not a coffin, Alice. Jared. My man. It's seven at night where you are, isn't it?"
 
 [ Chat · 17 watching
 ◆ YoJareddo: sunday night. perfect time to watch a man lie in a box

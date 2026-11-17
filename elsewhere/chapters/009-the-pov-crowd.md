@@ -88,7 +88,7 @@ The fen was at its middle night by then, the three of them inside the ring, and 
 
 He nearly stopped walking.
 
-Thea. And Xola. He hadn't seen either of them in his chat in a long time. Months. He'd watched their streams for years. He'd raided them and gifted subs and been the voice in their chats at three in the morning, the way he had with everyone. And then, for his own reasons, he'd gone quieter for a while, the way people do. They'd both gone quiet too. University, Hana had said once. Burnout. Neither of them had streamed for a long time.
+Thea. And Xola. He hadn't seen either of them in his chat in a long time. Months. He'd watched their streams for years. He'd raided them and gifted subs and been the voice in their chats at three in the morning, the way he had with everyone. And then, for his own reasons, he'd gone quieter for a while, the way people do. They'd both gone quiet too. University, Alice had said once. Burnout. Neither of them had streamed for a long time.
 
 And here they were.
 
