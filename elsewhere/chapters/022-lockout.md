@@ -19,7 +19,7 @@ His arm still ached. It wasn't real, and his arm didn't know that. His face was 
 
 "I know."
 
-"I'll be fourteenth by the time I get back in. Fifteenth. Something."
+"I'll be twelfth by the time I get back in. Thirteenth. Something."
 
 "I know."
 
@@ -51,7 +51,7 @@ He hadn't meant to tell him everything. He'd meant to say something easy, about 
 
 So he told him.
 
-He told him about the stone. How it had felt on Sunday, seeing his own name in silver, *7 · Ice*, and what the number meant, really. A hundred and sixty people came to his stream now because he was the POV guy, the back-foot guy, the one on the stone. If he wasn't on the stone, he was just a man in a swamp again, with ten viewers. That had been fine for four years. He didn't know if it would be fine now.
+He told him about the stone. How it had felt on Sunday, seeing his own name in silver, *6 · Ice*, and what the number meant, really. A hundred and sixty people came to his stream now because he was the POV guy, the back-foot guy, the one on the stone. If he wasn't on the stone, he was just a man in a swamp again, with ten viewers. That had been fine for four years. He didn't know if it would be fine now.
 
 He told him about the workshop. About Vivian Ong and the best-filed phase in Malacca. About profit day in two weeks, when she'd add up the first month and look at him over her glasses. He'd promised her it was the next big thing. He'd said *trust*, out loud, to a woman who visibly didn't, and he'd put two hundred and fifty thousand ringgit into a company that had made fifty-two ringgit from a leaf.
 
@@ -95,9 +95,9 @@ Ice laughed. He couldn't help it. It came out of him like air out of a tyre.
 
 "You're not slow," said Suzu.
 
-"I'm fourteenth."
+"I'm twelfth."
 
-"You're fourteenth in the world," said Suzu, "out of three million people, after seventeen days, in a game you found the first door in, on the first morning, by yourself. With a sword you learned to hold from an old man with three fingers." He shrugged. "And you hired your friend so he could come and play it too." He looked at his teh tarik. "You don't have to be first. You already were."
+"You're twelfth in Brackenford," said Suzu, "out of nearly three thousand people, after seventeen days, in a game you found the first door in, on the first morning, by yourself. With a sword you learned to hold from an old man with three fingers." He shrugged. "And you hired your friend so he could come and play it too." He looked at his teh tarik. "You don't have to be first. You already were."
 
 Ice didn't say anything.
 
@@ -280,7 +280,7 @@ Ice looked at the six silverleaf in his hands for a long time.
 Then he laughed. He couldn't help it. It was a big helpless laugh, the kind he hadn't done since Sunday, and it went out across the bridge and made three strangers turn round. A second later, Kotori laughed too, a beat behind, the way she always did, and the bell on her staff rang.
 
 [ Ice · Lv 11 (30%) · Holdfast · Brackenford · Day 18
-The Tally: 15 · Silverleaf (Good) ×6: returned, washed up on Kotori's rock
+The Tally: 13 · Silverleaf (Good) ×6: returned, washed up on Kotori's rock
 Suzuyunn: Lv 10, Class: Harvester, walking to Brackenford
 ]
 

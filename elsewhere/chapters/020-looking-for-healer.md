@@ -39,7 +39,7 @@ There was a notice down in the bottom corner, half covered by a newer one. It sa
 ◆ Salty: the healer shortage is real
 ◆ YoJareddo: rip
 ⚔ titanium_ii_fluoride: post one anyway
-⚔ titanium_ii_fluoride: you're 7th in the world. someone will come
+⚔ titanium_ii_fluoride: you're 6th in brackenford. someone will come
 ⚔ titanium_ii_fluoride: probably a weirdo but someone
 ]
 
@@ -132,7 +132,7 @@ Deston started laughing. He couldn't help it, Ice could see. It wasn't at her, i
 
 "Hi," said Ice. "I'm Ice. This is Kai, and Sketch."
 
-"Hi," said Kotori, from behind the staff. Then she lowered it, and looked at him properly for the first time, and her face changed. "Oh. Are you—are you the one on the stone? Ice. Number seven?"
+"Hi," said Kotori, from behind the staff. Then she lowered it, and looked at him properly for the first time, and her face changed. "Oh. Are you—are you the one on the stone? Ice. Number six?"
 
 "Yeah."
 

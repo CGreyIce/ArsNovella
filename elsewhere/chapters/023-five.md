@@ -19,7 +19,7 @@ Ice had been sitting next to Suzu's pod in the back room in Melaka Raya three da
 
 "Hi," said Ice.
 
-"Hi," said Suzu. The corner of his mouth went up about a millimetre. "You're fifteenth."
+"Hi," said Suzu. The corner of his mouth went up about a millimetre. "You're thirteenth."
 
 "I know."
 
@@ -289,7 +289,7 @@ Deston cheered so loudly the mudwolves in the next pool came up to look.
 
 They stood together that night at the foot of the needle in the square, the five of them, in the lamplight, and looked up.
 
-Ice was ninth again. He looked at it once, and then he looked at the other four, and found he didn't care very much where he was on the stone.
+Ice was seventh again. He looked at it once, and then he looked at the other four, and found he didn't care very much where he was on the stone.
 
 "Thursday," said Xav.
 

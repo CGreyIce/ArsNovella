@@ -17,7 +17,7 @@ A guild is twenty who answer to one name.
 Twenty founding names, each of level fifteen or more, signed by hand in one Hall, within thirty days of the first.
 Five hundred gold, paid with the first name. Kept, if the thirtieth day ends short.
 The first name is the founder's. The founder may belong to no named party or company.
-A guild has no limit. A guild has a banner, a room in its Hall, and a place on the Tally. ]
+A guild has no limit. A guild has a banner, a room in its Hall, and a place on its town's Tally. ]
 
 He read it three times, the way he read everything. Then he looked up.
 

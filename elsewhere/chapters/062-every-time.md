@@ -226,9 +226,9 @@ Kei was in the Hall of Roads when it happened, at the counter, buying a map he d
 [ The first banner in Elsewhere has been raised.
 CRIMSON LEDGER · the Hall at Saltmarket · 20 founding names · Day 66 ]
 
-[ The Tally: Guilds (1) ]
-
 He looked at it for a long time.
+
+Somewhere far away, on the needle in Saltmarket's market square, there would be a new column now, one that had never been there before. *Guilds.* With one name in it.
 
 Twenty names in one day. They'd started it that morning, and they'd finished it the same afternoon. Twenty accounts at fifteen or over, all in one Hall, all signed by hand. Every one of them had a red sash and a number instead of a name. The first guild in the world. A company that had hired people to play all day, and paid them, and never once asked any of them who they were.
 

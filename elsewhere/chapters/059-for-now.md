@@ -155,7 +155,7 @@ Nightbot: Ice has checked the Tally 9 times since the world first.
 ◆ Hanarisu: welcome back to the stone
 ]
 
-[ The Tally · Top 100 by level
+[ The Tally · Brackenford · Top 100 by level
 1 · Kestrel · VANTA · Lv 26
 2 · sori · Lv 26
 3 · CL_Field_01 · Crimson Ledger · Lv 26
@@ -221,7 +221,7 @@ Seventh, he thought. For now.
 He closed the window.
 
 [ Ice · Lv 23 · Undertow · Fernwick · Day 62
-Peak viewers 29,880 · The Tally: #7 (Leveti #5: "For now")
+Peak viewers 29,880 · Brackenford's Tally: #7 (Leveti #5: "For now")
 Moonlight Harvest (6): Baer Lv 11 → 17 in six days · "stood in" ×9
 Kotori: 5% (signed in her head; in black on Monday)
 !stone (9): relapse

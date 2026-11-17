@@ -28,7 +28,7 @@ He typed: *proud of you.* Then he typed: *see you tonight. bring snacks.* Then h
 
 ***
 
-He was eighth on the Tally that morning. He'd been seventh on Sunday.
+He was seventh on the Tally that morning. He'd been sixth on Sunday.
 
 He tried not to look. He'd told himself he wouldn't. On Sunday he'd stood at the foot of the needle with Deston shaking him by the neck, and it had felt like the best thing that had ever happened to him in a game, and he'd decided then and there that he wasn't going to be the kind of player who checked it every hour.
 
@@ -36,9 +36,9 @@ He checked it every hour.
 
 The thing about the Tally was that it moved. Everything on it moved. Every person on it was out in the world right now, as he was, fighting something, and getting a little bit further along their bar. It didn't wait for you. When you logged out to sleep, the names above you didn't. When you logged out for lunch, the names below you came up behind you a step at a time and passed you on the stairs.
 
-On Monday night, CL_Field_05 had passed him. On Tuesday morning, Mirae from VANTA had.
+On Monday night, CL_Field_05 had passed him.
 
-Eighth. Then, by the afternoon, when he walked through the square with Xav and Kotori on the way to the weir, *ninth*. A name he'd never heard of, *Oduya*, had come up from twelfth overnight and gone past all of them.
+Seventh. Then, by the afternoon, when he walked through the square with Xav and Kotori on the way to the weir, *eighth*. A name he'd read once and never thought about since, *Oduya*, had come up from tenth overnight and gone past both of them.
 
 "Don't," said Xav, beside him, without looking.
 
@@ -90,9 +90,9 @@ Deston came in at nine that night with snacks. Real snacks. He'd bought them on 
 
 He played until the window threw him out. He'd never played without a timetable before, he said. He didn't know what to do with his hands. He sang the whole time, both lines, *Let the MANY move as ONE*, and *What one BEARS, two can CARRY*, louder and louder, until Kotori started humming along on her rock in the river. She was always a beat behind, and it somehow made it better.
 
-They got Deston to level eleven at about half past ten, and the whole party cheered, and Deston said "*Eleven*," with great tenderness. Then he went to look at the stone, came back, and said he was fourteenth.
+They got Deston to level eleven at about half past ten, and the whole party cheered, and Deston said "*Eleven*," with great tenderness. Then he went to look at the stone, came back, and said he was twelfth.
 
-Ice was eleventh.
+Ice was ninth.
 
 ***
 
@@ -102,7 +102,7 @@ He lay in bed in the flat in Malacca with the fan going round and Suzu asleep do
 
 It stood for the stream. A hundred and sixty people came because he was the POV guy, the back-foot guy, the one on the stone. If he wasn't on the stone, he was just a man in a swamp again.
 
-It stood for the workshop. In two weeks Vivian would add up the first month, and he'd promised her it was the next big thing. A man who was eleventh and falling didn't feel like the next big thing.
+It stood for the workshop. In two weeks Vivian would add up the first month, and he'd promised her it was the next big thing. A man who was ninth and falling didn't feel like the next big thing.
 
 And it stood for the door. It stood for the door more than anything.
 
@@ -114,9 +114,9 @@ He lay there doing sums until two in the morning. All of them came out the same 
 
 ***
 
-On Wednesday morning he was twelfth.
+On Wednesday morning he was tenth.
 
-He looked at it once, on the way through the square at dawn. He didn't let Xav see. Twelfth, and level twelve, with about sixty per cent of the bar. If he could get to thirteen by tonight, he'd be back in the top ten by tomorrow. And if he could get to fifteen by—
+He looked at it once, on the way through the square at dawn. He didn't let Xav see. Tenth, and level twelve, with about sixty per cent of the bar. One more place and he'd be out of the top ten. If he could get to thirteen by tonight, he'd be back where he'd been on Sunday by tomorrow. And if he could get to fifteen by—
 
 "Where are we going?" said Kotori, beside him.
 
@@ -181,7 +181,7 @@ The Warden sat in the deep water below the stones, very still, a grey hump with 
 
 He did the sums.
 
-He was level twelve, eighty-five per cent. The Warden was fifteen. Three levels above him: the above-level bonus would be enormous, nearly double. One kill would be nearly a whole level. One kill would put him back in the top ten tonight. One kill, and tomorrow he'd be thirteen, and he'd be two levels from the door instead of three.
+He was level twelve, eighty-five per cent. The Warden was fifteen. Three levels above him: the above-level bonus would be enormous, nearly double. One kill would be nearly a whole level. One kill would put him back up the stone tonight. One kill, and tomorrow he'd be thirteen, and he'd be two levels from the door instead of three.
 
 He had Anchor. He had the narrow stones. He had six Good draughts in his pack. He'd fought a bog lurker three levels up at level two, alone, on day one. He'd fought it in waist-deep water in the dark and won, with nine per cent left, because it turned left slowly and he'd seen it.
 
@@ -280,7 +280,7 @@ You will return in 24 hours. ]
 [ Lost: 55% of a level. Lv 12 (85%) → Lv 11 (30%)
 Dropped where you fell: Silverleaf (Good) ×6 ]
 
-[ The Tally: 12 → 14 ]
+[ The Tally: 10 → 12 ]
 
 ***
 
@@ -332,6 +332,6 @@ He heard Suzu sit up in the gel, slowly. He heard him not say anything for a lon
 
 [ Ice · Lv 11 (30%) · Holdfast · Brackenford · Day 17
 Fell: the old ford, at night, to two Ford Wardens (Lv 15 and Lv 14)
-Lost: 55% of a level · Silverleaf (Good) ×6 · the top ten (12 → 14)
+Lost: 55% of a level · Silverleaf (Good) ×6 · the top ten (10 → 12)
 Locked out: 24 hours
 ]

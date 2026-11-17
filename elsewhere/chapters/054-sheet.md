@@ -13,7 +13,7 @@ He counted them on the ferry. He sat in the window seat on the seven o'clock boa
 *Ice — level times vs. other streamers.*
 *Above-level bonus — observed multipliers.*
 *Outnumbered bonus — ×1.5 confirmed (Ice, day 1).*
-*Tally — top 100, daily snapshot.*
+*Tallies — every town's top 100 I can find, daily snapshot.*
 *VANTA — wipes (Drowned Choir).*
 *Crimson Ledger — known accounts (412).*
 *Nightjar — known members, kills, locations.*
