@@ -81,11 +81,11 @@ They talked at the counter. Ama Corrie stood behind it with her arms folded, lis
 
 "Congratulations," said Kei. "First."
 
-"We bought eighteen rooms," said the steward. "This spring. With gold. Because we'd been told, early, quietly, by people who tell us things, that there'd be something under them one day." She looked at the stair to the eye, where the hatch was. "We built for it for six months. Three tens. Two wiped. We went back in. We were first."
+"We bought eighteen rooms," said the steward. "This spring. With gold. Because we'd been told, early, quietly, by people who tell us things, that there'd be something under them one day." He looked at the stair to the eye, where the hatch was. "We built for it for six months. Three tens. Two wiped. We went back in. We were first."
 
 "I know. Good for you."
 
-"He said that," said the steward. "On his stream. *Good for them.* The swamp one." He looked at Kei. "I watched it. I watch it more than I'd tell anyone at my company." He was quiet for a moment. "We were first because we bought it. You were second because you walked eight days to ask one man, and he said yes before you'd finished, and you didn't even need the hall. It's a different kind of second." She paused. "I'm not sure it's second."
+"He said that," said the steward. "On his stream. *Good for them.* The swamp one." He looked at Kei. "I watched it. I watch it more than I'd tell anyone at my company." He was quiet for a moment. "We were first because we bought it. You were second because you walked eight days to ask one man, and he said yes before you'd finished, and you didn't even need the hall. It's a different kind of second." He paused. "I'm not sure it's second."
 
 Kei didn't know what to say. So he said, "Hm."
 
@@ -125,7 +125,7 @@ On Sunday afternoon, for the first time, there were forty-nine people at the lon
 
 Kei had never had a meeting with forty-nine people. He'd had calls. Thirteen, sixteen, thirty-two. A call was easy. You talked and people unmuted and said *here*. A table was different. A table had faces, and elbows, and Jun Liang.
 
-He stood at the head of it, under the banner with the old gold star at its top edge, and looked down it. Thirty-two who'd been here since spring. Riverbank, eight, halfway down, mixed in already, Azac between Tiger and Salty, Malcolm between Higu and Maigo. Moonlight Harvest, nine, at the far end by the wall, in the chairs Ama Corrie had set out in March. Declan in the first one, with his hands flat on the table.
+He stood at the head of it, under the banner with the old gold star at its top edge, and looked down it. Thirty-two who'd been here since spring. Riverbank, eight, halfway down, mixed in already, Azac between Tiger and Salty, Malcolm between Higu and Maigo. Moonlight Harvest, nine, at the far end by the wall, in the chairs Ama Corrie had set out in March. Ice in the first one, with his hands flat on the table.
 
 "I don't know how to do this," said Kei.
 
@@ -147,17 +147,17 @@ Nobody said anything.
 
 The whole table laughed. All forty-nine of them, at once, so loudly the dome carried it all the way round and back. Kei stood there with his finger on the gold dot and didn't understand why. Then he did. He went red, and laughed too. *Not yet.* He'd heard it so many times in six months that it had worn a groove in him. Now it was coming out of his own mouth, to the man who'd said it to him.
 
-At the far end of the table, Declan was laughing too. Properly. With his head down on his hands.
+At the far end of the table, Ice was laughing too. Properly. With his head down on his hands.
 
-"It's a good line," said Declan, when he could. "You can have it."
+"It's a good line," said Ice, when he could. "You can have it."
 
 "I don't want it."
 
-"You've got it now," said Declan. "It's yours. I'll say *yes before you finish* instead." He looked up. "When it's time. When you ask. I'll go first."
+"You've got it now," said Ice. "It's yours. I'll say *yes before you finish* instead." He looked up. "When it's time. When you ask. I'll go first."
 
 "I know you will," said Kei.
 
-"Somebody has to face out," said Declan. Then he looked down the table, at forty-nine people. At Suzu beside him, and Xav halfway down, and Hyvred, who was very carefully looking at the ceiling. "But not always me," he said. "Not any more. There's enough of us now to take turns."
+"Somebody has to face out," said Ice. Then he looked down the table, at forty-nine people. At Suzu beside him, and Xav halfway down, and Hyvred, who was very carefully looking at the ceiling. "But not always me," he said. "Not any more. There's enough of us now to take turns."
 
 ***
 
@@ -220,7 +220,7 @@ Nightbot: Pieces: 3
 ◆ Hyvred: i'm still hitting you
 ]
 
-Kei saw it on Declan's stream on Tuesday, on his phone, on the steps. He watched Declan, on the stream, sitting in his chair at the end of the long table in the banner room. He read it, and didn't say anything at all, the way she'd told him not to. He just smiled at the edge of his eye for a long time.
+Kei saw it on Ice's stream on Tuesday, on his phone, on the steps. He watched Ice, on the stream, sitting in his chair at the end of the long table in the banner room. He read it, and didn't say anything at all, the way she'd told him not to. He just smiled at the edge of his eye for a long time.
 
 Then he said, very quietly, to nobody, "Okay."
 
