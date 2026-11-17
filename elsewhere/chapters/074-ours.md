@@ -141,7 +141,7 @@ dumbo: i've got a sheet to finish
 
 He didn't go to sleep. He sat by the window with the dark sea going past and finished the sheet. Then he added one line to the tab with no name, the one for the things that had happened.
 
-*Day 92. Higu showed us the ceiling. The ninth star's on it. I didn't say. Ice said thank you.*
+*Day 93. Higu showed us the ceiling. The ninth star's on it. I didn't say. Ice said thank you.*
 
 Then he closed it and looked at the water until Batam.
 
