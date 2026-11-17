@@ -174,7 +174,7 @@ Somebody who sings could bring them up. ]
 
 Xav logged in at ten past with a piece of paper in his hand. It wasn't a real piece of paper. It was a note he'd written in the game's notebook and pulled out into the air, a page of tight small writing in two columns. He was already reading it as he arrived.
 
-Kotori arrived at a quarter past, out of breath, although you couldn't be out of breath from logging in. "Sorry! Sorry. My dad wanted to talk about the video. He's watched it twice. He keeps pausing it. Sorry." She sat down on the edge of the ring with her staff across her knees. Her new silver bell rang once, softly. "Hi."
+Kotori arrived at a quarter past, out of breath, although you couldn't be out of breath from logging in. "Sorry! My dad wanted to talk about the video. He's watched it twice. He keeps pausing it." She sat down on the edge of the ring with her staff across her knees. Her new silver bell rang once, softly. "Hi."
 
 "Hi," said Ice. "We're waiting for Suzu."
 
@@ -198,7 +198,7 @@ The haul was in the party chest. That was a thing the game did for parties of fi
 
 "Yes," said Deston.
 
-"Yes!" said Kotori. "Sorry. Yes."
+"Yes!" said Kotori. "Yes."
 
 "Obviously," said Suzu, from the bus.
 
@@ -330,7 +330,7 @@ Then, very quietly, to herself:
 
 Nobody said anything. Deston turned a page on his rock. Ice looked at the moonbells.
 
-"Sorry," said Kotori, louder. "That's—sorry, that's so much money. That's more money than I've ever had. I'm not—I'm really happy. Sorry. I'm happy."
+"Sorry," said Kotori, louder. "That's—that's so much money. That's more money than I've ever had. I'm not—I'm really happy. I mean thank you. I'm happy."
 
 "We know," said Ice.
 

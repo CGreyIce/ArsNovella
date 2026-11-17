@@ -415,17 +415,17 @@ Then he sat in the back room with the laptop closed, and the eggs humming, and S
 Four thousand, one hundred and eighteen notifications. He didn't open most of them. He opened four.
 
 [ Messages · Kotori
-Kotori: hi! sorry. i know it's late
+Kotori: hi! i know it's late
 Kotori: i watched it. all of it. i didn't know i looked like that on the pillars
 Kotori: i've been thinking all day
 Kotori: is it okay if i keep playing with you? like seriously? not just for fun?
 Kotori: i want to pay my dad back for the pod. and then i want to see what else
-Kotori: sorry. is that weird
+Kotori: is that weird
 Ice: it's not weird
 Ice: you're in moonlight harvest. you're not going anywhere
 Kotori: ok
 Kotori: ok!!
-Kotori: sorry. good night!
+Kotori: thank you (not sorry). good night!
 ]
 
 [ Messages · CL_Procurement_07

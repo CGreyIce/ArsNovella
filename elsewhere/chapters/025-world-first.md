@@ -44,7 +44,7 @@ Suzu, silver hair loose, Aldo's scythe across his knees, nine small jars on his 
 
 Kotori, last, sitting up on the stone with her staff held in both hands and her round eyes very wide, who said, before anybody else could say anything:
 
-"Sorry. I'm really nervous. Is that okay?"
+"Sor—" She stopped, and went pink, and started again. "I'm really nervous. Is that okay?"
 
 "Yeah," said Ice. "Me too."
 
@@ -347,7 +347,7 @@ It was Kotori who found the numbers.
 
 She'd sat down on the edge of the chest with the Choir's Bell in her hands. It was silver, and a little bigger than her old brass one, and it rang very softly when she breathed on it. And she'd opened her Exchange window, the way she had in the ring last night with the one bit of silver, and Ice saw her face change.
 
-"Sorry," she said, very quietly. "Sorry. I just—I looked."
+"Sorry," she said, very quietly. "I just—I looked."
 
 "What did you look at?"
 

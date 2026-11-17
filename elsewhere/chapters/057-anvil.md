@@ -33,7 +33,7 @@ Gabe thought about that.
 
 He said it the way he said everything, mildly, leaning on the scythe with his eyes half shut, as if it were the weather. Kotori, on the end of the eel man's jetty, nodded very fast.
 
-"He doesn't die," she said. "Sorry. I mean, he doesn't. I'll be on a post."
+"He doesn't die," she said. "I mean it. He doesn't. I'll be on a post."
 
 "And the other side of it," said Ice, "is the bonus."
 
@@ -88,7 +88,7 @@ Temper: each blow you take heats the hammer. The next swing staggers. ]
 
 Gabe looked at Kotori on the end of the jetty, small and blue with her white staff and her bell. Kotori looked back at him, and went pink.
 
-"Sorry," she said. "You don't have to."
+"You don't have to," she said.
 
 "It literally says I have to," said Gabe. "It's my class."
 
@@ -251,9 +251,9 @@ She came slowly. She stood in the shallows beside him, with her staff and her be
 
 He said it simply, lying in the water, the way he'd said *the hammer* at the bus station. As if it were the obvious thing, the thing anybody would do. Kotori looked at him for a long moment. Then her face did the thing Ice had seen it do at the mamak, over a roti canai, and she sat down in the water beside him, robe and all.
 
-"Sorry," she said. "I mean—thank you. Sorry."
+"Sor—" She stopped herself, the way she mostly could now. "Thank you."
 
-"Don't be sorry," said Gabe. "Be on your post." He sat up and shook the water out of his hair like a dog. "And next time, see the fish."
+"Don't be sorry," said Gabe anyway. "Be on your post." He sat up and shook the water out of his hair like a dog. "And next time, see the fish."
 
 "I'll see the fish," said Kotori.
 

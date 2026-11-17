@@ -20,7 +20,7 @@ By the next afternoon, people were asking to buy it.
 
 ***
 
-"Sorry," said Kotori, the first time somebody asked. "Sorry, it's not very good. It tastes like—"
+"Sorry," said Kotori, the first time somebody asked. Then she heard herself, and thought of Ice in the ring the night before the church. *Mostly it means thank you.* She started again. "It's not very good. It tastes like—"
 
 "Cabbage," said the girl from Manila, who'd walked all the way to Fernwick to ask in person. "I know. That's why I want it."
 
@@ -70,12 +70,12 @@ She didn't stream. She never had. But she read every one of them, at night, with
 
 [ Messages · Ice
 Ice: how many
-Kotori: 211!! sorry. 211
+Kotori: 211!! 211
 Ice: 139 to go
 Kotori: how do you know my number
 Ice: you said it on the landing. to the eel man. he told marta. marta told me
 Kotori: oh no
-Kotori: sorry
+Kotori: (not sorry)
 ]
 
 ***

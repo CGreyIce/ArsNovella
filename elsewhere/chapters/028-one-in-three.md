@@ -309,7 +309,7 @@ He was out of the door before the fifth window had closed.
 Ice: north walk. nightjar. now
 Kai: coming
 Sketch: 2 min
-Kotori: coming!! sorry
+Kotori: coming!!
 Suzuyunn: here ]
 
 Suzu was there first. He'd come back on the nine o'clock bus on Sunday night and gone straight into the egg, and he was always closest to wherever there was going to be trouble. Ice found him at the start of the north walk with Aldo's scythe already off his shoulder. He was looking out along the boardwalk into the dark with his pale half-closed eyes.

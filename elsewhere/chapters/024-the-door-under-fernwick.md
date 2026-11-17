@@ -352,6 +352,40 @@ Kotori looked at it.
 
 "Sixty-two dollars," she said, very quietly. "US. That's—" She stopped. She turned it over in her small hand. "That's a lot. For one bit. From one—" She stopped again. "Sorry," she said, and put it away, and didn't say anything else for a long time.
 
+"That's six," said Xav eventually, without looking up from his scrap of paper. "Since the steps. I've been counting." He said it the way he'd said *that's four sorrys* at the weir on the first day. Not unkindly. Just a fact, written down.
+
+Kotori went red. "Sor—" She stopped, and put her hand over her mouth.
+
+Nobody laughed. Ice looked at her across the warm water. A small girl in a blue robe with her staff across her knees and her hand over her mouth, in a ring of stones in a fen, the night before the hardest thing any of them had ever tried. He thought about how to say it properly.
+
+"Kotori," he said. "You don't have to."
+
+She looked at him over her hand.
+
+"Say sorry," said Ice. "Not to us. Not for looking up what a bit of silver's worth. Not for ringing your bell, or being nervous, or logging out for dinner. You stood at the side of a drowned church today and kept all five of us standing. You haven't done one thing to be sorry for. Not since the weir."
+
+"We like you," said Deston, from his flat stone. "That's not a thing you have to apologise for."
+
+"It's fine," said Suzu, against the ninth heron, with his eyes half shut. A pause. "It's fine here."
+
+Kotori took her hand away from her mouth. She looked round the ring at the four of them, very red, with her round eyes very bright.
+
+"I don't know how to stop," she said, very small. "It just comes out. Like breathing."
+
+"Then don't stop," said Ice. "Not if it comes out. Just know you don't have to. And when it does, we'll know what it means."
+
+"What does it mean?"
+
+Ice thought about it. He'd been hearing it for nine days, on rocks and posts and bridges, every time she healed somebody before they'd finished getting hurt.
+
+"Mostly it means *thank you*," he said. "Or *I'm here*."
+
+Kotori looked at him for a long time. Then she looked down at the bell on her staff, and touched it with one finger so that it didn't ring.
+
+"Okay," she said. And then, carefully, the way you'd try out a word in a language you were learning: "Thank you."
+
+"Good," said Suzu.
+
 [ Party Log · Moonlight Harvest · The Drowned Choir · Day 25
 Ice Lv 15 · Kai Lv 15 · Sketch Lv 15 · Suzuyunn Lv 15 · Kotori Lv 15
 Scouted: the nave, the Precentor (Lv 17), the screen; beyond it, something with a baton

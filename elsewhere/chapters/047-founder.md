@@ -21,7 +21,7 @@ And Sheng Yang, tall and easy, beside Ice, with the long sword on his back.
 
 "I am."
 
-"Sorry. I didn't mean—sorry. You're very good. At the stone. You didn't move at all." She went pink. "Nobody else didn't move."
+"I didn't mean—sorry. You're very good. At the stone. You didn't move at all." She went pink. "Nobody else didn't move."
 
 "Neither did you," said Sheng Yang. "On your rock. I watched you all afternoon from the trees. You healed sixty people coming out of a river before they'd finished coughing, and you never once stood anywhere a mudwolf could reach." He said it in the same clear calm voice he said everything. "That's harder than the stone."
 
@@ -232,7 +232,7 @@ Sheng Yang smiled, slow and easy and completely confident, in the moonlight.
 
 "For now," he said.
 
-On her stone, Kotori made a small delighted noise and then said "sorry." On his, Deston laughed out loud. Against the ninth heron, without opening his eyes, Suzu said, "Good."
+On her stone, Kotori made a small delighted noise and then, for once, didn't say sorry. On his, Deston laughed out loud. Against the ninth heron, without opening his eyes, Suzu said, "Good."
 
 ***
 

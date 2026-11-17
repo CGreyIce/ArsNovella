@@ -237,7 +237,7 @@ Kotori went pinker and looked at the moonbells.
 
 Kotori looked at him across the warm water. Then at Suzu, and Deston, and Sheng Yang. Then back at the moonbells. The bell on her staff rang once, very softly, because her hands had started to shake.
 
-"I have to ask my parents," she said. "Sorry. I have to. They'll say—I don't know what they'll say. My dad will say *what about your degree*. My mom will ask if you're nice." She looked up. "I'll tell her you're nice."
+"I have to ask my parents," she said. "I have to. They'll say—I don't know what they'll say. My dad will say *what about your degree*. My mom will ask if you're nice." She looked up. "I'll tell her you're nice."
 
 "Tell her the truth," said Sheng Yang.
 

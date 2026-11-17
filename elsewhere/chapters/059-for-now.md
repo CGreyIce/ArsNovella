@@ -9,7 +9,7 @@ Kotori thought she was being fired.
 
 Ice could see it from the first second the call connected. She was at the kitchen table in the flat on the fourteenth floor, in Singapore, in a pale blue T-shirt, with her hands flat on the table in front of her and her glasses on. Her face was the colour of paper. Behind her, slightly out of focus, her mother was standing at the kitchen counter pretending to wipe it. Her father was sitting beside her with his reading glasses on and a pen behind his ear, looking at the camera like a man looking at a machine he intended to understand.
 
-"Hi," said Kotori. "Sorry. Hi. Good morning. Sorry."
+"Hi," said Kotori. "Sorry. Hi. Good morning."
 
 "Good morning, Miss Hayashi," said Vivian. "Mr Hayashi. Mrs Hayashi."
 
@@ -19,7 +19,7 @@ Kotori's mother waved with the cloth.
 
 "You haven't done anything wrong," said Vivian.
 
-"Oh," said Kotori. "Okay. Sorry."
+"Oh," said Kotori. "Okay."
 
 "It isn't about your contract," said Vivian. "I said that so you'd come." She folded her hands on the teak desk. "It's about the company. Mr Declan would like to give you five per cent of it."
 
@@ -41,7 +41,7 @@ Kotori looked at Ice.
 
 She cried.
 
-She didn't make a sound about it. She sat at the kitchen table with her hands flat in front of her and her face crumpled up, and tears came out from under her glasses, and she said "Sorry" about nine times. Her mother came round from the counter with the cloth still in her hand and put her arms round her from behind. Ice looked at the orchid on the windowsill until it was over. So did Vivian.
+She didn't make a sound about it. She sat at the kitchen table with her hands flat in front of her and her face crumpled up, and tears came out from under her glasses, and she said "Sorry" twice, out of an old habit she'd nearly lost, and then caught herself and said "thank you" instead. Her mother came round from the counter with the cloth still in her hand and put her arms round her from behind. Ice looked at the orchid on the windowsill until it was over. So did Vivian.
 
 Her father didn't move. He'd taken the pen from behind his ear and was holding it, and he was looking at Ice through the screen. It was a level, careful look, the look of an engineer who'd been handed a drawing and been told it would stand up.
 
@@ -103,7 +103,7 @@ Kotori laughed, wetly, into her mother's arm. "That's what you said last time."
 
 Kotori looked at the screen. At Ice in the chair beside the orchid, and Vivian with her glasses on, and the photograph of Vivian's father on the wall behind them, in the slatted light.
 
-"Yes," she said. "Sorry. Yes. They're still nice."
+"Yes," she said. "Yes. They're still nice."
 
 ***
 
@@ -197,7 +197,7 @@ Kotori wasn't looking at the Tally. She was sitting at the very end of the plank
 
 She caught him looking. She went pink.
 
-"I signed it in my head," she said. "Already. Sorry. I know it's Monday. I just signed it in my head."
+"I signed it in my head," she said. "Already. I know it's Monday. I just signed it in my head."
 
 "In black?" said Ice.
 

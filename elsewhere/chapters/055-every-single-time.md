@@ -73,7 +73,7 @@ Suzu didn't hug her. Suzu didn't hug people. He stood in front of her for a mome
 
 "Kotori," he said.
 
-"*Suzu*." She looked up at him, a long way up. "You're so tall in real life too. Sorry. I didn't think you'd be—sorry."
+"*Suzu*." She looked up at him, a long way up. "You're so tall in real life too. I didn't think you'd be—sorry."
 
 "Everybody says that," said Suzu. The corner of his mouth went up. "You held the back of the church with me. On your rock."
 
@@ -85,13 +85,13 @@ He'd thought about what he'd say. All the way to the bus station, in the car. So
 
 "Hi," he said.
 
-"Hi," said Kotori. "Sorry. I'm—sorry. This is so weird. You sound exactly the same."
+"Hi," said Kotori. "Sorry. I'm—this is so weird. You sound exactly the same."
 
 "So do you."
 
-"I say sorry a lot."
+"I'm saying sorry a lot," she said. "I'd nearly stopped. In there. It's all come back, out here."
 
-"We noticed," said Ice, and she laughed, a beat late, exactly the way she did in the game, and then she hugged him too.
+"It's a bus station," said Ice. "It's allowed." And she laughed, a beat late, exactly the way she did in the game, and then she hugged him too.
 
 ***
 
@@ -107,11 +107,11 @@ It was the one on the corner by the shoplot, the one Ice and Suzu had sat in on 
 
 She trusted him. The roti came, flaky and hot, with a little bowl of dhal. She tore a piece off the way Gabe showed her and dipped it and ate it, and her face did something Ice hadn't seen it do before.
 
-"*Oh*," she said, with her mouth full. "Sorry. *Oh.*"
+"*Oh*," she said, with her mouth full. "*Oh.*"
 
 "Right?" said Gabe.
 
-"It's so good. Sorry. It's so good." She tore off another piece. "This is what you eat? After? Every time?"
+"It's so good. It's so good." She tore off another piece. "This is what you eat? After? Every time?"
 
 "Not every time," said Suzu. "Sometimes it's chicken rice balls. At the place by the river." He considered. "Gabe has the big one."
 
@@ -137,7 +137,7 @@ She was at the teak desk when they came up the narrow stairs, with the orchid ba
 
 "Sit down, please." There were four chairs now. Vivian had borrowed two. "You're American."
 
-"Yes. Sorry. From California. I live in Singapore. My dad's work."
+"Yes. From California. I live in Singapore. My dad's work."
 
 "And you'll work remotely. From Singapore. For a Malaysian company." Vivian turned a page. "That, Miss Hayashi, is the simplest thing anybody has asked me to do this month. You don't need a pass. You'll be a contractor, the same as Mr Deston and Miss Lim. You'll invoice monthly. Part time, around your studies." She looked up. "You may visit Malacca whenever you like. You may eat whatever you like. While you're here, you may not *work*. That's a different pass, and I'm not doing another pass this month."
 
@@ -239,7 +239,7 @@ She stood in the doorway of the back room and looked at the two white eggs side 
 
 She sat down on the floor of the front room, between the egg and the window, with her back against the wall and the lights of Melaka Raya coming in through the blinds. After a moment, Gabe sat down on one side of her, and Suzu on the other. Ice sat down beside Suzu. The four of them sat on the floor of an empty room in a shoplot in Malacca on a Saturday evening, with one white egg humming beside them, not saying anything.
 
-"Sorry," said Kotori, after a long time. "This is the best day."
+"This is the best day," said Kotori, after a long time.
 
 ***
 
@@ -255,7 +255,7 @@ At the barrier, she turned round and looked at the three of them, standing in a 
 
 She went up the steps of the bus. Halfway up, she turned round again.
 
-"Sorry," she said. "I mean—thank you. Sorry. Thank you."
+"Sorry," she said. "I mean—thank you. Thank you."
 
 The bus pulled out. They stood there until it was gone round the corner.
 

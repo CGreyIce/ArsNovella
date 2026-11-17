@@ -234,10 +234,9 @@ Xav: and i didn't draw it. you did
 
 [ Messages · Kotori
 Kotori: GOOD MORNING
-Kotori: sorry
-Kotori: sorry i had nothing left at the end. i'm so sorry
-Kotori: you didn't need it!! you didn't need anything!!! sorry
-Kotori: i'm going to sleep for a week. sorry. good morning!!
+Kotori: sorry i had nothing left at the end
+Kotori: you didn't need it!! you didn't need anything!!!
+Kotori: i'm going to sleep for a week. good morning!!
 ]
 
 [ Messages · Deston

@@ -244,7 +244,7 @@ Xav did it. Ice stood a little to one side and let him. Deston was there, sittin
 
 Kotori listened to all of it with her staff held in both hands. She didn't interrupt. When Xav had finished she stood there for a moment, looking at him, with the bell on her staff very still for once.
 
-"Sorry," she said. "Sorry. I'm not—sorry. I'm just—"
+"Sorry," she said. "I'm not—I'm just—"
 
 Then she cried.
 
@@ -262,13 +262,13 @@ Xav didn't say anything to that.
 
 Kotori looked at him for a long moment with her wet round face. Then she turned round and went into Marta's, without saying anything. Marta's door banged behind her. A minute later it opened again, and she came out holding a small clay cup with steam coming off it, in both hands, carefully, the way you'd carry a bird.
 
-"It's tea," she said. "I made it. Brewing's my production skill. It's not very good. It's a bit cabbagey. Sorry." She held it out to Xav. "It's for luck. You have to drink all of it."
+"It's tea," she said. "I made it. Brewing's my production skill. It's not very good. It's a bit cabbagey." She held it out to Xav. "It's for luck. You have to drink all of it."
 
 Xav took it. He looked at it. Then he drank all of it, standing on the Landing in front of eleven thousand people, without stopping.
 
 "That's terrible," he said.
 
-"I know," said Kotori. "Sorry."
+"I know," said Kotori. She didn't say sorry. Ice noticed.
 
 [ Chat · 10,912 watching
 ◆ Aleaka: i'm crying
