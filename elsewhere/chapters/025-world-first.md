@@ -16,7 +16,7 @@ Chris: ice it's friday. it's now or it's them
 
 He read it at seven in the morning, standing in the kitchen in Malacca with a mug of coffee he hadn't drunk, and then read it again.
 
-Suzu came down the stairs behind him in a T-shirt, with his hair still wet from the shower, and stopped at the bottom and looked at Ice's face.
+Suzu came along the corridor behind him in a T-shirt, with his hair still wet from the shower, and stopped at the bottom and looked at Ice's face.
 
 "Vanta," said Suzu.
 

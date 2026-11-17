@@ -63,7 +63,7 @@ He wasn't going to be at the front. But he was going to be next to the man who w
 YoJareddo: FIFTY??
 Hanarisu: suzu no!!
 Salty: why is everyone in this friend group like this
-Ice: suzu
+CGreyIce: suzu
 ]
 
 "Ice is on fifty," said Suzu, to his chat, and to the one name in it that had typed his.
@@ -87,8 +87,8 @@ He took the staff. It was the closest thing on the rack: long, two hands, the ri
 [ Chat (Suzuyunn) · 121 watching
 Nikorasu: lmao
 Aleaka: the STICK
-Ice: someone in that world cuts grass
-Ice: you said it
+CGreyIce: someone in that world cuts grass
+CGreyIce: you said it
 ]
 
 "I said it," Suzu agreed. He went to the door.
@@ -125,7 +125,7 @@ Salty: SCYTHES
 Salty: SUZU SCYTHES
 Aleaka: SOMEONE IN THAT WORLD CUTS GRASS!!!!
 lowkeyfrog: he called it
-Ice: told you
+CGreyIce: told you
 ]
 
 Suzu stood at the top of the hill with his stick in his hand and watched the line of mowers for a long time without saying anything at all.
@@ -225,7 +225,7 @@ Wenna had stopped her own mowing to watch. She looked at the swathe. She looked 
 "From a friend," said Suzu. "Who's in a swamp."
 
 [ Chat (Suzuyunn) · 104 watching
-Ice: back foot
+CGreyIce: back foot
 Suzuyunn: i know
 dl_learnsforms: HE DID THE BACK FOOT
 dl_learnsforms: 41% on the 4th try
@@ -283,8 +283,8 @@ It faded out in his palm, slowly, like a coal going grey.
 Hanarisu: oh that's so pretty
 Aleaka: a little light!!!
 lowkeyfrog: whats that? ice's rats never did that
-Ice: thats new
-Ice: suzu what is that
+CGreyIce: thats new
+CGreyIce: suzu what is that
 ]
 
 "I don't know," he said. "Something that comes out of them when they go." He looked at his empty hand. "I want to know where it goes."
@@ -325,13 +325,13 @@ Then he picked up his pillow, and touched Ice on the shoulder, and Ice woke up a
 
 They drove home through empty streets. Ice didn't say much and neither did he.
 
-The house was bigger than he'd thought. Two storeys, quiet, with a garage full of boxes and a kitchen with a printed certificate on the fridge under a magnet shaped like a durian. He stood and looked at it.
+The flat was bigger than he'd thought. It was two flats, Ice explained in the lift, his and his parents' next door, with the wall between them opened up, so it was one long home with two front doors. His parents' side was dark; they'd gone to bed hours ago. Ice's side was quiet, with a storeroom full of boxes and a kitchen with a printed certificate on the fridge under a magnet shaped like a durian. He stood and looked at it.
 
 "It's the company," said Ice, a little embarrassed.
 
 "I know," said Suzu. "You told chat."
 
-Ice showed him up the stairs, and along a short landing, and opened a door, and stood back.
+Ice showed him along the corridor to the end of his side, and opened a door, and stood back.
 
 The room was plain. A bed, a desk, a wardrobe, a window with the blind half down. The ceiling fan was turning, slowly, already on. There was nobody in the room. Somebody had turned it on before they'd gone out, at four in the afternoon, so that it would be going when they got back. The bed was made with clean new sheets, with the corners folded under properly, tight, the way people only did them when they were trying. On the pillow end of the bed there were three new pillows in a row, still a bit stiff from the packet.
 
@@ -351,9 +351,9 @@ He went in and put his own pillow down on top of the three new ones, in the midd
 
 "Night."
 
-He heard Ice go along the landing. He heard a door close, softly, down the hall.
+He heard Ice go back along the corridor. He heard a door close, softly, down the hall.
 
-He sat on the edge of the bed with the fan going round above him, and listened to the quiet of the house. A different quiet from the one he was used to. Bigger, and slower, and with a dog barking somewhere a long way off. He sat there for a long time, not thinking about anything in particular. Then he lay down on top of all four pillows with his shoes still on, and was asleep before he'd decided to be.
+He sat on the edge of the bed with the fan going round above him, and listened to the quiet of the flat. A different quiet from the one he was used to. Bigger, and slower, with the lift humming somewhere in the building and a dog barking a long way off. He sat there for a long time, not thinking about anything in particular. Then he lay down on top of all four pillows with his shoes still on, and was asleep before he'd decided to be.
 
 ***
 
@@ -425,7 +425,7 @@ Aleaka: SUZU GOT HIS SCYTHE!!!!!!!!!
 Nikorasu: "it cuts a bit high"
 Nikorasu: im not crying
 YoJareddo: 10 days of "i wanted a scythe they gave me a stick" and he did it in 2
-Ice: told you someone cuts grass
+CGreyIce: told you someone cuts grass
 Suzuyunn: you did
 ]
 
@@ -446,9 +446,9 @@ He had the jar out before they could fade.
 [ Chat (Suzuyunn) · 61 watching
 dl_learnsforms: the scythe CATCHES them??
 dl_learnsforms: thats new
-Ice: suzu
-Ice: thats new
-Ice: nobody's seen that
+CGreyIce: suzu
+CGreyIce: thats new
+CGreyIce: nobody's seen that
 Suzuyunn: i know
 ]
 
@@ -483,7 +483,7 @@ Salty: suzu is scary
 Nikorasu: suzu has always been scary
 lowkeyfrog: snake energy
 Aleaka: good dog. good dog. GOOD DOG
-Ice: suzu
+CGreyIce: suzu
 Suzuyunn: he started it
 ]
 

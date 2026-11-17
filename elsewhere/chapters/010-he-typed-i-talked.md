@@ -155,7 +155,7 @@ Two pods. Side by side, along the long wall, with a gap between them for a perso
 
 He'd ordered them on Saturday night, from the same shop that had sold him his own, two of the newest model. The delivery date said Wednesday. That was two thousand, four hundred and ninety-nine dollars, twice. He'd done the sum once this time, not four times, and pressed the button.
 
-He stood in the empty back room with the tape measure and thought about the room upstairs at his house. It had been a guest room for two years and never had a guest. He'd cleared it out yesterday: the boxes from the spare room that he'd moved into the hall, and then into the guest room, had gone into the garage. He'd bought sheets. He'd stood in the doorway of the empty room and thought about the ceiling fan, and about doors closing that weren't his.
+He stood in the empty back room with the tape measure and thought about the third bedroom at the flat. It had been a guest room for two years and never had a guest. He'd cleared it out yesterday: the boxes that had drifted into it had gone into the little storeroom by the kitchen. He'd bought sheets. He'd stood in the doorway of the empty room and thought about the ceiling fan, and about a door on his side of the wall closing that wasn't his.
 
 "Soon," he said, out loud, to the white tiles, and his voice came back off them too loud.
 
@@ -177,7 +177,7 @@ He said goodnight to chat at a little after eight, sitting on the end of Sedge's
 [ Chat · 112 watching
 tehpeng: gn
 mangoes4ever: goodnight!!
-◆ Aleaka: gn!!!! 112 viewers ice!!!! 112!!!
+◆ Aleaka: gn!!!! 112 viewers cgi!!!! 112!!!
 ◆ Salty: gn
 ◆ Suzuyunn: gn
 ]
@@ -209,7 +209,7 @@ Ice: i made a company. moonlight harvest workshop sdn bhd. it's real, it has a c
 Ice: theres an office in melaka raya. two pods in the back. one's yours. theyre coming wednesday
 Ice: you play elsewhere for the workshop. full time. we sell what we make. draughts, herbs, materials, whatever we find. through the exchange
 Ice: 5000 ringgit a month basic. that's the minimum for the employment pass. my secretary's doing the pass. it takes a few weeks. you come on a visit pass first and we do the paperwork while you're here
-Ice: theres a room in my house. it has sheets. i bought sheets
+Ice: theres a room at my place. it has sheets. i bought sheets
 Ice: you dont pay rent
 ]
 
@@ -321,7 +321,7 @@ She replied at nine forty-nine.
 
 *P.S. Congratulations, Mr Declan.*
 
-He looked at the P.S. for a long time. Then he went upstairs and made the bed in the guest room with the new sheets. He didn't need to yet, it was three days early. He did it anyway, very carefully, with the corners folded in properly. Then he turned the ceiling fan on, so the room would be used to it.
+He looked at the P.S. for a long time. Then he went down the corridor and made the bed in the guest room with the new sheets. He didn't need to yet, it was three days early. He did it anyway, very carefully, with the corners folded in properly. Then he turned the ceiling fan on, so the room would be used to it.
 
 [ Ice · Lv 9 · Fernwick · Day 8
 Gold 0g 91s 60c (≈ US$9.16) · Exchange wallet US$12.60 · Peak viewers 112

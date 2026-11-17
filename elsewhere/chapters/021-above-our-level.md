@@ -98,7 +98,7 @@ Ice was eleventh.
 
 He didn't sleep well.
 
-He lay in bed in the house in Malacca with the fan going round and Suzu asleep down the hall, and thought about the needle. It wasn't really the needle. He knew that. It was what the needle stood for.
+He lay in bed in the flat in Malacca with the fan going round and Suzu asleep down the hall, and thought about the needle. It wasn't really the needle. He knew that. It was what the needle stood for.
 
 It stood for the stream. A hundred and sixty people came because he was the POV guy, the back-foot guy, the one on the stone. If he wasn't on the stone, he was just a man in a swamp again.
 
@@ -289,8 +289,8 @@ On the laptop on the folding table, where he couldn't see it, chat was still goi
 [ Chat · 171 watching
 ◆ Salty: no
 ◆ Salty: NO
-◆ Aleaka: ICE???
-◆ Aleaka: ice no
+◆ Aleaka: CGI???
+◆ Aleaka: icey boi no
 lowkeyfrog: he fell
 mangoes4ever: the second one. there was a SECOND ONE
 ◆ dumbo: night spawn. it said "the river is awake"

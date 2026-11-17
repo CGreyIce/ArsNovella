@@ -36,7 +36,7 @@ Then he got it. The delay. He was a minute ahead of them. They were still watchi
 [ Chat · 21 watching
 tehpeng: hes gone
 lowkeyfrog: screen is black
-◆ Aleaka: ICE?
+◆ Aleaka: CGI?
 ◆ Salty: rip
 ◆ dumbo: 07:59:58 black. 08:00:01 still black
 ]
@@ -80,7 +80,7 @@ Nothing happened. Of course nothing happened; nothing had touched him. He looked
 [ Chat · 21 watching
 ◆ Hanarisu: oh!! there's a room
 ◆ Aleaka: IT'S RAINING
-◆ Aleaka: ice there's rain on the window that's so nice
+◆ Aleaka: cgi there's rain on the window that's so nice
 kittycatsoup: wait he can talk? like his real voice?
 ]
 

@@ -147,7 +147,7 @@ Xav was living in a room in Japan the size of a pod and a half. His lecture this
 
 "I won't burn my flat down. Probably."
 
-And Ice talked about Malacca. The house, which was too big for one person, he admitted, now he said it out loud. The way he could go three days without speaking to anyone who wasn't on a stream or a call. How quiet it got at night, out there, compared to Singapore. How he'd moved for the space, and the quiet, and because he could, and he didn't regret it, and also, some evenings, he'd sit on the stairs and listen to the ceiling fan and think that it might be nice to hear someone else's door close.
+And Ice talked about Malacca. The flat, which was two flats with the wall knocked through, his and his parents', so it was one long home with two front doors. How quiet it got at night, compared to Singapore. How he could go three days without speaking to anyone his own age who wasn't on a stream or a call. How he didn't regret any of it, and also, some evenings, after his parents had gone to bed on their side, he'd sit up in the dark on his and listen to the ceiling fan and think that it might be nice to have someone down his end of the corridor. Someone who'd still be up.
 
 He hadn't meant to say any of that. It was the moon, maybe. Or the warm water. Or the way none of them were really in the same place and all of them were, right now, sitting on the same stone.
 
@@ -346,7 +346,7 @@ A minute later, chat saw exactly what he'd seen, from exactly where he'd been st
 ◆ dumbo: FIRST TRAVELLER IN ELSEWHERE
 ◆ Salty: ok
 ◆ Salty: herbalism was right three times
-◆ Aleaka: ICE!!!!!!
+◆ Aleaka: CGI!!!!!!
 ◆ Aleaka: FIRST IN THE WORLD AT MAKING POTIONS
 ◆ Hanarisu: congratulations!!!!!
 mangoes4ever: i was here

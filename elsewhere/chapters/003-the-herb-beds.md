@@ -334,7 +334,7 @@ He didn't get up. He sat very still on his stone inside the ring, with his sword
 kittycatsoup: did anyone else see that
 kittycatsoup: EYES
 ◆ Salty: that was eyes
-◆ Aleaka: ICE THAT WAS EYES
+◆ Aleaka: CGI THAT WAS EYES
 ◆ Nikorasu: big eyes
 ◆ YoJareddo: nah im good, im good, im just gonna watch from here
 ]

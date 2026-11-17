@@ -232,8 +232,8 @@ On the stream, on the ridge, in the rain, Suzu stood very still with his scythe 
 Ice typed.
 
 [ Chat (Suzuyunn) · 64 watching
-Ice: i see it
-Ice: of course it is
+CGreyIce: i see it
+CGreyIce: of course it is
 ]
 
 [ Party · Moonlight Harvest

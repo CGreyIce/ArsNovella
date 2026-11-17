@@ -178,7 +178,7 @@ He told them in party chat while they were sitting on Sedge's steps, logged in b
 
 [ Party · Moonlight Harvest
 Ice: found one
-Ice: melaka raya. 10 min from the house
+Ice: melaka raya. 10 min from home
 Ice: back room fits two pods
 Sketch: Two?
 Ice: two
@@ -296,7 +296,7 @@ Ice: i know
 Ice: soon
 ]
 
-He lay there with the phone on his chest in the dark, and the pod at the end of the bed humming quietly to itself. He thought about Dec, alone in a house in Malacca too big for one person, sitting on the stairs some evenings listening to the ceiling fan. He thought about *two*.
+He lay there with the phone on his chest in the dark, and the pod at the end of the bed humming quietly to itself. He thought about Dec in Malacca, sitting up in the dark on his side of the opened wall after everyone else had gone to bed, listening to the ceiling fan. He thought about *two*.
 
 Then he picked up the flashcards again, because he had a timetable, and the timetable didn't know about any of it.
 

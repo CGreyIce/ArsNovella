@@ -61,7 +61,7 @@ All five in Brackenford ]
 
 ***
 
-He'd thought they'd go straight back to the ford. He'd thought about nothing else for two days. He'd lain awake in the house in Malacca, with Suzu asleep at the other end of the landing and the fan going round, and played it in his head. Every strike. The second stone with the water over it. The small one, standing up behind him in the dark.
+He'd thought they'd go straight back to the ford. He'd thought about nothing else for two days. He'd lain awake in the flat in Malacca, with Suzu asleep at the other end of the corridor and the fan going round, and played it in his head. Every strike. The second stone with the water over it. The small one, standing up behind him in the dark.
 
 Xav made them wait until noon.
 

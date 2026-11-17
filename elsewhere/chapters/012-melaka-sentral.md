@@ -87,7 +87,7 @@ Vivian took her finger off the shell and looked at him. For half a second her fa
 
 They went over it at the little table, in the chairs he'd known he'd need.
 
-It was four pages. He'd expected more. Vivian said the good ones were short, and he believed her. She'd written it the way she wrote everything, in plain sentences with the edges filed off. He read every line while she watched him read, and found that he understood all of it, which was not something he'd been able to say about any contract he'd signed in his life, including the one for the house.
+It was four pages. He'd expected more. Vivian said the good ones were short, and he believed her. She'd written it the way she wrote everything, in plain sentences with the edges filed off. He read every line while she watched him read, and found that he understood all of it, which was not something he'd been able to say about any contract he'd signed in his life, including the one for the flat.
 
 *Position:* Game Operations Executive. He laughed out loud at that. Vivian didn't.
 
@@ -267,7 +267,7 @@ A thin line of light went across the glass, once, the way a scanner reads a page
 
 ***
 
-He wasn't going to play tonight. That had been the plan. Long journey, new house, dinner, sleep, start fresh tomorrow at dawn, the way Ice had. That was what Ice had said in the car and Suzu had agreed with.
+He wasn't going to play tonight. That had been the plan. Long journey, new place, dinner, sleep, start fresh tomorrow at dawn, the way Ice had. That was what Ice had said in the car and Suzu had agreed with.
 
 Suzu lay in the gel with the lid up and his finger still on the glass and looked at the ceiling.
 
@@ -336,7 +336,7 @@ He thought about it for a second. Ten days ago, on a Monday morning, a name had 
 He typed.
 
 [ Chat (Suzuyunn) · 136 watching
-Ice: hi
+CGreyIce: hi
 ]
 
 In the room of pale wood, Suzu read it. He didn't say anything for a second. Then he looked down at his hands again, and flexed them, the way Ice had, the way everyone did.
@@ -348,5 +348,5 @@ He typed, and Suzu talked.
 [ Moonlight Harvest Workshop Sdn. Bhd. · Day 11
 Staff: 2 (1 pending Employment Pass) · Contract signed (starts on approval)
 Equipment: 3 units (Ice · Suzu · spare, upstairs) · Revenue to date: RM 52.92
-Raid: Ice → Suzuyunn (112)
+Raid: CGreyIce → Suzuyunn (112)
 ]

@@ -248,8 +248,8 @@ His calf hurt. His ankle hurt. There was a dull throb in the knuckles of his shi
 "Nine," he said.
 
 [ Chat · 24 watching
-◆ Aleaka: ICE
-◆ Aleaka: ICE YOU HAD NINE HEALTH
+◆ Aleaka: CGI
+◆ Aleaka: CGI YOU HAD NINE HEALTH
 ◆ Baer: dec
 ◆ Salty: you almost died on launch day
 ◆ Hanarisu: my heart!!

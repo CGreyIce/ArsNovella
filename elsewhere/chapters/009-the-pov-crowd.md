@@ -9,9 +9,9 @@ The clip went up on Saturday night, while he was asleep.
 
 He found out the way he found out everything now, lying in bed at half past six on Sunday with his phone over his face. There were three notifications he didn't understand and a number on his channel page that had to be wrong.
 
-He'd had a hundred and forty followers on Monday morning. Four years of streaming five or six times a month to ten people had got him a hundred and forty. That was fine. He'd never needed more.
+He'd had eleven hundred and three followers on Monday morning. Four years of streaming five or six times a month to ten people had got him eleven hundred, most of them from raids: people who'd followed once on their way through somebody else's evening and never come back. That was fine. He'd never needed more.
 
-It said six hundred and twelve.
+It said one thousand, six hundred and eighty-eight.
 
 He sat up.
 
@@ -132,15 +132,15 @@ He laughed out loud in the middle of the fen. Behind him, Deston said "What?" an
 Later, Maigo turned up.
 
 [ Chat · 84 watching
-◆ Maigo: yo
+◆ ItzMaigo: yo
 ]
 
 "*Maigotron!*"
 
 [ Chat · 84 watching
-◆ Maigo: yeah
-◆ Maigo: watched the clip
-◆ Maigo: nice feet
+◆ ItzMaigo: yeah
+◆ ItzMaigo: watched the clip
+◆ ItzMaigo: nice feet
 ]
 
 That was a whole paragraph, from Maigo. Ice grinned at the reeds.
@@ -159,9 +159,9 @@ Xyro turned up a little after that. That made sense: Tif had clearly been making
 And then, a little later still, Tiger, who'd never been in his chat before in his life, as far as Ice knew.
 
 [ Chat · 86 watching
-◆ Tiger: yo this is sick
-◆ Tiger: drew and i are thinking about getting pods
-◆ Tiger: is the swamp bad or is it good bad
+◆ tigeraxd: yo this is sick
+◆ tigeraxd: drew and i are thinking about getting pods
+◆ tigeraxd: is the swamp bad or is it good bad
 ◆ Salty: its good bad
 ◆ Nikorasu: herbalism was right
 ]
@@ -390,7 +390,7 @@ Ice thought about a name in his chat that had never typed a word. *Suzuyunn.* He
 "The keys are on Tuesday," he said.
 
 [ Ice · Lv 8 · Fernwick · Day 7
-Gold 0g 74s 20c (≈ US$7.42) · Exchange wallet US$12.60 · Peak viewers 95 · Followers 612 → 1,040
+Gold 0g 74s 20c (≈ US$7.42) · Exchange wallet US$12.60 · Peak viewers 95 · Followers 1,688 → 2,116
 New: Falling Cut (Intermediate, 64%) · Guard I: Turned Block (51%) · Hired: Rafi (fenwort picker, 2c a plant)
 Declined: Crimson Ledger, US$2 per Good draught · Went dark: 3
 ]

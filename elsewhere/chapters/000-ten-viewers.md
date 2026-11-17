@@ -11,11 +11,13 @@ Salty had seen one photo and said a fridge, lying on its back. Niko had said a c
 
 Ice stood in the doorway with a mug of coffee going cold in his hand and thought it looked like a very expensive egg.
 
+The flat was two flats, really. His, and his parents' next door, on the same floor, with the wall between them opened up so the two were one long home with two front doors. The spare room was at the far end of his half. On the other side of the opening it was quiet; his parents were used to him being up at strange hours, and to strange things being delivered.
+
 It filled most of the room. It was white, with soft corners and a long smoked-glass lid, and it sat on a low base that hummed so quietly you only heard it when the ceiling fan was off. Inside was a bed of grey gel that warmed when you touched it and forgot your handprint a second later. By the head end, set into the shell, was a small glass square with a fingerprint printed on it in thin grey lines, the way a hotel lift shows you where the button is. Along the side, in letters so thin they were barely there, it said ELSEWHERE.
 
-It had cost two thousand, four hundred and ninety-nine US dollars, which was a little over ten thousand ringgit, which was more than he'd ever spent on anything that wasn't the house.
+It had cost two thousand, four hundred and ninety-nine US dollars, which was a little over ten thousand ringgit, which was more than he'd ever spent on anything that wasn't the flat.
 
-He'd done the maths four times on Friday when the delivery men carried it up the stairs, and twice more on Saturday, and once in bed last night, as if the number might change if he caught it by surprise. It didn't. It was fine. It was more than fine. Years ago, at the right time, he'd been lucky with a market most people didn't understand, and then he'd been sensible with the luck, which was rarer. There was enough in the bank to keep this house and keep him in it for a good few years without a job.
+He'd done the maths four times on Friday when the delivery men wheeled it out of the service lift and down the corridor, and twice more on Saturday, and once in bed last night, as if the number might change if he caught it by surprise. It didn't. It was fine. It was more than fine. Years ago, at the right time, he'd been lucky with a market most people didn't understand, and then he'd been sensible with the luck, which was rarer. There was enough in the bank to keep this place and keep him in it for a good few years without a job.
 
 A good few years was not forever. He knew that. He thought about it sometimes, late at night, in the same part of his brain where he kept the electricity bill.
 
@@ -81,11 +83,13 @@ He did know these people. That was the funny part about ten viewers. The streame
 That was fine. He wasn't doing it to be big. He liked the company.
 
 [ Chat · 10 watching
-◆ Aleaka: ICE
-◆ Aleaka: ICE I'M HERE
+◆ Aleaka: CGI
+◆ Aleaka: CGI I'M HERE
 ◆ Aleaka: it's midnight here. i want that on the record. i am here at midnight
 ◆ Salty: she's here at midnight
 ]
+
+Aleaka had never once called him Ice. Not in four years. He was CGI, after the channel, CGreyIce, and on a good day he was icey boi. He'd stopped trying to change it in the first month.
 
 "Leaka! Go to bed."
 
@@ -101,7 +105,7 @@ That was fine. He wasn't doing it to be big. He liked the company.
 ◆ Salty: two thousand four hundred and ninety nine us dollars
 ◆ Nikorasu: plus shipping
 ◆ Aleaka: that's that's a car
-◆ Aleaka: that's a small car ice
+◆ Aleaka: that's a small car cgi
 ]
 
 "It's not a car. A car doesn't take you anywhere." He picked up the mug, remembered it was cold, and put it down again. "Okay, listen. This is a sensible purchase, trust. I've been playing MMOs since I was a child. I have been waiting my entire life for somebody to make one you could actually stand inside. I'm not going to *not* be there on day one."

@@ -26,7 +26,7 @@ It was correct.
 
 The pods came on Wednesday at nine.
 
-The same two men who'd carried his own up the stairs at home ten days ago carried these through the roller shutter in Melaka Raya. They recognised him. One of them said, "Again, boss?" and Ice said, "Again," and the man laughed and said that they'd delivered forty this week in Malacca alone, and that half of the people they'd delivered to were "your age, boss, with the hair".
+The same two men who'd brought his own up in the lift at home ten days ago carried these through the roller shutter in Melaka Raya. They recognised him. One of them said, "Again, boss?" and Ice said, "Again," and the man laughed and said that they'd delivered forty this week in Malacca alone, and that half of the people they'd delivered to were "your age, boss, with the hair".
 
 They put them in the back room along the long wall, side by side, with a gap between for a person. He'd measured it right. There was room for a little table, and he'd bought a kettle on the way. It sat on the floor in its box, because he hadn't bought the table yet.
 
@@ -203,7 +203,7 @@ mangoes4ever: HE MADE US MISS THE LEVEL UP
 dl_learnsforms: "you did not flinch"
 dl_learnsforms: oh
 ◆ Aleaka: you did not flinch
-◆ Aleaka: im actually crying ice
+◆ Aleaka: im actually crying icey boi
 ◆ Hanarisu: it suits you so much
 ◆ YoJareddo: "where a holdfast stands a line exists" GOES HARD
 ◆ Suzuyunn: holdfast
@@ -310,12 +310,12 @@ He lay in the dark of the spare room for a long time after, in the egg, with the
 
 *Where a Holdfast stands, a line exists.*
 
-Tomorrow at four, a bus from Singapore would pull into Melaka Sentral with Suzu on it. Suzu with a passport, and a pillow, and a contract he hadn't signed yet. Up the road, in the guest room, the bed was made with the corners folded in and the fan was going, so the room would be used to it.
+Tomorrow at four, a bus from Singapore would pull into Melaka Sentral with Suzu on it. Suzu with a passport, and a pillow, and a contract he hadn't signed yet. Down the corridor, in the guest room, the bed was made with the corners folded in and the fan was going, so the room would be used to it.
 
-He got up eventually and went downstairs and drank a glass of water at the kitchen counter, standing, in the dark. He touched the certificate under the durian magnet on his way past, and went to bed.
+He got up eventually and went to the kitchen and drank a glass of water at the counter, standing, in the dark. He touched the certificate under the durian magnet on his way past, and went to bed.
 
 [ Ice · Lv 10 · Holdfast · Fernwick · Day 10
-Gold 1g 4s 20c (≈ US$10.42) · Peak viewers 131 · Followers 1,040 → 1,890
+Gold 1g 4s 20c (≈ US$10.42) · Peak viewers 131 · Followers 2,116 → 2,966
 New: Class: Holdfast (+2 VIT, +1 STR per level) · Anchor · first gold coin
 Company account: RM 250,052.92 · Pods at the office: 2 (unregistered)
 ]

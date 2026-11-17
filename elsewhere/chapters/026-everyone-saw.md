@@ -127,7 +127,7 @@ He'd thought he was ready for it.
 ◆ Salty: WORLD FIRST
 ◆ Salty: WORLD FIRST WORLD FIRST
 ◆ Nikorasu: first voices
-◆ Aleaka: ICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+◆ Aleaka: CGI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ◆ Aleaka: I'M AWAKE IT'S 1PM HERE I'VE BEEN AWAKE SINCE THE WINDOW
 ◆ dumbo: 2140 at 8:55
 ◆ dumbo: i'm logging this
@@ -186,8 +186,8 @@ And then the names started.
 ◆ AltheaVT: that's so clever. it's a rhythm desync
 ◆ xolalotl: thea shhh we're watching
 ◆ xolalotl: hi ice!!!!! you did it!!!!!!
-◆ Maigo: maigotron here
-◆ Maigo: nice
+◆ ItzMaigo: maigotron here
+◆ ItzMaigo: nice
 ]
 
 He laughed out loud at *maigotron here*. He couldn't help it. He'd never once heard Maigo call himself that.
@@ -197,11 +197,11 @@ He laughed out loud at *maigotron here*. He couldn't help it. He'd never once he
 ◆ KeiKatamori: congrats. that singing thing. i'm going to be thinking about it for a week
 ◆ Inaxho: ice
 ◆ Inaxho: well done
-◆ Winter: drew made me watch this
-◆ Winter: im glad he did
-◆ Tiger: BROOOOO
-◆ Tiger: YOU DID IT
-◆ Tiger: i fell in a canal again today by the way
+◆ itswinter__: drew made me watch this
+◆ itswinter__: im glad he did
+◆ tigeraxd: BROOOOO
+◆ tigeraxd: YOU DID IT
+◆ tigeraxd: i fell in a canal again today by the way
 ◆ HakoP: everything will work out, i said, and it did!!!
 ◆ HakoP: congrats ice!!!!
 ◆ somebodynewish: oh so NOW you're famous
@@ -237,21 +237,21 @@ The first was from a stream he'd turned notifications on for himself, a week ago
 ◆ Hyvred: MY CHAT HAS BEEN WATCHING YOUR VOD IN A WATCH PARTY FOR THE LAST HOUR
 ◆ Hyvred: WE ALL WANTED TO BE HERE FOR THE CHOIRMASTER
 ◆ Hyvred: no flashlight!!!!!!!!
-◆ Bee: i'm here
-◆ Bee: hyv made me
-◆ Bee: i still don't know who you are
-◆ Bee: the bell girl is good
+◆ tinibee: i'm here
+◆ tinibee: hyv made me
+◆ tinibee: i still don't know who you are
+◆ tinibee: the bell girl is good
 ]
 
 Then, a few minutes after, a name he hadn't expected at all.
 
-[ Drew is raiding with 412 viewers! ]
+[ 88EXP is raiding with 412 viewers! ]
 
 [ Chat · 9,630 watching
-◆ Drew: yo ice
-◆ Drew: brought some people
-◆ Drew: huh. cold.
-◆ Drew: (that's a joke about my town. it's snowing. good job man)
+◆ 88EXP: yo ice
+◆ 88EXP: brought some people
+◆ 88EXP: huh. cold.
+◆ 88EXP: (that's a joke about my town. it's snowing. good job man)
 ]
 
 And one more, that made him put his hand over his mouth.
@@ -344,7 +344,7 @@ That was what he did. He'd done it every stream for four years, even when there 
 
 *AltheaVT. xolalotl.* He'd been in their chats for years. He'd gifted them subs and raided them and been the voice at three in the morning, before, for his own reasons, he'd gone quieter for a while.
 
-*Aleaka.* *Drew.* *Hyvred.* *KeiKatamori.* *Winter.* *Inaxho.* *Maigo.* *Tiger.* Every one of them, he'd sat in their chat. Every one of them, at some point, he'd been the funny guy in the corner typing something to make them laugh. He'd raided them all. He'd been in everyone's chat.
+*Aleaka.* *88EXP.* *Hyvred.* *KeiKatamori.* *itswinter__.* *Inaxho.* *ItzMaigo.* *tigeraxd.* Every one of them, he'd sat in their chat. Every one of them, at some point, he'd been the funny guy in the corner typing something to make them laugh. He'd raided them all. He'd been in everyone's chat.
 
 And now they were in his.
 
@@ -429,7 +429,7 @@ He sat there a while longer. Then he got up and turned off the light, and stood 
 Upstairs, by the window, alone, a third.
 
 [ Ice · Lv 17 · Holdfast · Day 26
-Peak viewers 11,412 (Day 1: 10) · Followers 2,640 → 86,300
+Peak viewers 11,412 (Day 1: 10) · Followers 3,716 → 86,300
 The Drowned Choir (POV): uploaded 9:00 pm · 4h 51m
 World First · First Voices · Moonlight Harvest (5)
 Gabe: "i want in." · The sixteenth stands.

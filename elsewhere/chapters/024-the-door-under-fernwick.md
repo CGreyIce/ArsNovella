@@ -98,7 +98,7 @@ Nightbot: ICE WENT DARK (dark count: 31)
 ◆ Nikorasu: he's going to the thing
 lowkeyfrog: five of them. he's taking all five to the thing
 ◆ dumbo: the 9th heron. it's the 9th heron. it's been the 9th heron since day 1
-◆ Aleaka: ICE WHAT IS THE THING
+◆ Aleaka: CGI WHAT IS THE THING
 ◆ YoJareddo: say less
 ]
 

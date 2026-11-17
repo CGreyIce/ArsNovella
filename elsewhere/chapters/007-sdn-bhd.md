@@ -278,7 +278,7 @@ The auntie looked deeply unconvinced, nodded anyway, and went back to her counte
 
 ***
 
-He looked at shoplots that afternoon. Online, at least, on his phone at the kopitiam table, scrolling slowly. There were a lot of them, all over Malacca, little two-storey units in rows in the newer parts of town, ground floor and upstairs, for rent at prices that seemed fine. He booked three viewings for Friday. One was in Melaka Raya, a ten-minute drive from the house. He looked at the photos of it for a long time: an empty ground floor with white tiles and a roller shutter, and a back room with a high window, and an upstairs with two more rooms and a little bathroom.
+He looked at shoplots that afternoon. Online, at least, on his phone at the kopitiam table, scrolling slowly. There were a lot of them, all over Malacca, little two-storey units in rows in the newer parts of town, ground floor and upstairs, for rent at prices that seemed fine. He booked three viewings for Friday. One was in Melaka Raya, a ten-minute drive from home. He looked at the photos of it for a long time: an empty ground floor with white tiles and a roller shutter, and a back room with a high window, and an upstairs with two more rooms and a little bathroom.
 
 The back room would take two pods.
 

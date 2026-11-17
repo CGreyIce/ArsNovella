@@ -45,7 +45,7 @@ At a little past two in the morning, her time, Aleaka finally went to bed.
 [ Chat · 16 watching
 ◆ Aleaka: ok i'm going. i'm going to go. i'm really going
 ◆ Aleaka: goodnight!!! don't die!!! i'll watch the vod
-◆ Aleaka: ice you have to promise not to die while i'm asleep
+◆ Aleaka: icey boi you have to promise not to die while i'm asleep
 ]
 
 "I promise," he said, a minute too early, as usual. "Go to sleep, Leaka."

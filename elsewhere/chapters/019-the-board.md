@@ -103,7 +103,7 @@ There were more people in Brackenford than Ice had seen in one place in the whol
 [ Chat · 156 watching
 ◆ Salty: WOW
 dl_learnsforms: its so BIG
-◆ Aleaka: ice it's beautiful!!! the bridges!!!
+◆ Aleaka: cgi it's beautiful!!! the bridges!!!
 ◆ dumbo: 2847 travellers. fernwick had 64 on day 1
 ◆ dumbo: this must be the hub for a lot of beginner towns
 ⚔ titanium_ii_fluoride: he's going to stand there with his mouth open for five minutes
@@ -168,7 +168,7 @@ Nobody said anything for a long time.
 [ Chat · 163 watching
 ◆ Salty: SEVEN
 ◆ Salty: SEVENTH IN THE WORLD
-◆ Aleaka: ICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+◆ Aleaka: CGI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ◆ Nikorasu: top 10. called it
 ◆ dumbo: 7th of ~3 million
 ◆ dumbo: and xav 11th and dest 13th
@@ -254,7 +254,7 @@ Ice: always
 ]
 
 [ Ice · Lv 11 · Holdfast · Brackenford · Day 14
-Gold 2g 31s 60c (≈ US$23) · Peak viewers 163 · Followers 2,640
+Gold 2g 31s 60c (≈ US$23) · Peak viewers 163 · Followers 3,716
 The Tally: #7 in the world · Sketch #11 · Kai #13
 Rivals on the Tally: VANTA (Kestrel #1), Crimson Ledger (×5 in the top 15), Nightjar (Ash #10)
 ]
