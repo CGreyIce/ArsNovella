@@ -46,7 +46,7 @@ It would do. It was precise. It was hers.
 
 [ Your likeness. ]
 
-There was a mirror. She looked into it and saw herself, which was what she had expected. A woman in her middle years in a plain white blouse, hair pinned up, no glasses. It was strange to see her own face without glasses. It was clearer than she was used to. She did not change anything. There was nothing she could see that needed changing.
+There was a mirror. She looked into it and saw herself, which was what she had expected. A woman of thirty in a plain white blouse, hair pinned up, no glasses. It was strange to see her own face without glasses. It was clearer than she was used to. She did not change anything. There was nothing she could see that needed changing.
 
 [ Bring one thing with you. ]
 
