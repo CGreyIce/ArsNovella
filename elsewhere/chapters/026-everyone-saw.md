@@ -294,13 +294,55 @@ He'd been there. He'd lived it. He'd been on one knee on the floor of the drowne
 
 It looked like this.
 
-It looked like the shield filling the whole frame, the slope of it, and the white baton pressing on it. The edge of the picture going dark and grey at the corners, the way the game showed you were nearly gone. A long, low, continuous silver sound from the left, a bell rung so fast it had become one note. A man's voice behind, singing, catching on a word, going on. A key change, up a whole step, everything getting brighter all at once. And then the frame *rising*. Off the knee, up out of the Anchor, the whole world tilting a fraction as his weight went back and round, before the blade came down.
+It looked like the shield filling the whole frame, the slope of it, and the white baton pressing on it. The edge of the picture going dark and grey at the corners, the way the game showed you were nearly gone. A long, low, continuous silver sound from the left, a bell rung so fast it had become one note. A man's voice behind, singing, catching on a word, going on. A key change, up a whole step, everything getting brighter all at once. The frame not rising. Waiting, on the knee, under the baton, while a pair of daggers came out of nowhere behind the thing and a long dark blade went round at knee height. A little red number over the Choirmaster: four per cent. The choir going up for the home note.
 
-[ Falling Cut · Grade 88% ]
+And then, on the home note, the frame *rising*. Off the knee, up out of the Anchor, the whole world tilting a fraction as his weight went back and round, before the blade came down.
 
-And somebody in chat, he never found out who, among ten thousand people, typed:
+[ Falling Cut · Grade 103%
+Beyond Form: the form, done better than it was taught.
+183 damage ]
+
+For one second, chat didn't move at all.
 
 [ Chat · 11,040 watching
+dl_learnsforms: wait
+dl_learnsforms: 103
+]
+
+Then it went insane.
+
+[ Chat · 11,212 watching
+gr8grape: ONE HUNDRED AND THREE
+kittycatsoup: OVER A HUNDRED???
+◆ dumbo: 103%. that's only the third time anyone's posted a grade over 100. ever
+◆ dumbo: and the first one on a boss. and it's the LAST HIT
+nightowl_kr: "beyond form" WHAT IS BEYOND FORM
+◆ Aleaka: CGI WHAT
+◆ Aleaka: CGI WHAT DID YOU DO
+◆ Nikorasu: 183
+◆ Nikorasu: one hundred and eighty three
+◆ Hanarisu: milli just stood up off the sofa
+◆ Baer: I'M ON THE WORK TOILET AND I SCREAMED
+◆ YoJareddo: THE LAST HIT. HE GOT THE LAST HIT
+⚔ titanium_ii_fluoride: ok that was cool
+⚔ titanium_ii_fluoride: nobody tell him i said that
+kopiCdude: 103 103 103 103
+tehpeng: i've been here four years. FOUR YEARS. 103
+]
+
+He sat on the floor of the back room in Melaka Raya with his laptop on his knees and watched it go past, faster than he could read. He hadn't known. He'd been looking at the baton. He'd never once, in the drowned church or after it, looked at the number.
+
+Suzu, on his pillow, glanced sideways at him.
+
+"You didn't know," said Suzu.
+
+"I didn't know."
+
+"Hm," said Suzu, and the corner of his mouth went up about a millimetre.
+
+And then Dee, of course it was Dee, typed:
+
+[ Chat · 11,302 watching
 dl_learnsforms: BACK FOOT
 ]
 

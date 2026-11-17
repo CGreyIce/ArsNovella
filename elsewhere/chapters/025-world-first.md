@@ -237,23 +237,38 @@ It hit the slope, and it was everything, all three hundred years of it. It drove
 
 He didn't make a sound.
 
-Then he set his back foot. Inside the movement, not before it, the way he'd taught a hundred and sixty people on a walkway in a swamp. And he stood up out of the Anchor into the Falling Cut, the whole of him arriving at once, and breathed out.
+Then he set his back foot. Inside the movement, not before it, the way he'd taught a hundred and sixty people on a walkway in a swamp.
 
-[ Falling Cut · Grade 88% · 52 damage ]
+He didn't stand up. Not yet. He stayed on his knee under the baton, with the cold going into him, and waited for the count.
 
-And Xav was behind it, exactly a second later, because Deston was counting.
+Xav was behind it, exactly a second later, because Deston was counting. Both daggers, one high, one low.
 
 And Suzu's row went round at knee height, into the back of the ink-black cope, cutting a bit high.
 
 And the bell rang.
 
-And the choir reached the end of the fourth verse, went up for the last time toward the home note, and found it. The resolution, the one they'd been reaching for since before anybody could remember, after three hundred years of being pulled back to the start. The whole church rang with it, one great held chord. The Choirmaster stood in the middle of it with its baton raised and nobody left to conduct.
+The Choirmaster staggered. Its long howl broke in the middle, like a voice cracking. For the first time in three hundred years, the baton wavered over his head.
 
-The baton cracked.
+[ The Choirmaster · 4% ]
 
-A small dry sound in the middle of all that music, like a stick breaking underfoot. A line ran down the white bone from end to end. The Choirmaster looked at it, if a thing with no face could look. Then it came apart: cope and hands and baton and all, into pale mist that went up through the green water like smoke from a snuffed candle.
+And the choir reached the end of the fourth verse, went up for the last time toward the home note, and found it. The resolution, the one they'd been reaching for since before anybody could remember, after three hundred years of being pulled back to the start. The whole church rang with it, one great held chord.
 
-[ The Choirmaster · defeated ]
+On the home note, he stood up.
+
+Out of the Anchor, off his knee, up out of the water, into the Falling Cut. The whole of him arrived at once. Back foot. Hip. Shoulder. The blade, and the breath going out of him on the cut, the way Suzu had told him to in chat weeks ago. He didn't think about any of it. There wasn't room to think. It was the cut he'd done ten thousand times, on rats and leeches and Wardens and a straw dummy in Hollis's yard. And for once, for one cut, everything was exactly where it went.
+
+[ Falling Cut · Grade 103%
+Beyond Form: the form, done better than it was taught.
+183 damage ]
+
+He'd never seen a grade over a hundred. He'd only heard of it, in whispers on the forum: two or three times in the whole world, on nothing that mattered. He didn't see this one either. He was looking at the baton.
+
+It cracked.
+
+A small dry sound in the middle of all that music, like a stick breaking underfoot. A line ran down the white bone from end to end, from where his blade had gone in. The Choirmaster looked at it, if a thing with no face could look. Then it came apart, cope and hands and baton and all, into pale mist that went up through the green water like smoke from a snuffed candle.
+
+[ The Choirmaster · defeated
+Final blow: Ice ]
 
 ***
 
