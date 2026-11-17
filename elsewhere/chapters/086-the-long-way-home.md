@@ -113,7 +113,73 @@ Suzu was very still.
 
 ***
 
-They went to the ring that night, at moonrise. Dark.
+He found Rafi on Sedge's steps at the second dusk, where he always was, with the black sword across his knees and his boots over the channel.
+
+It was the Chorister's Blade, from the first room of the drowned church. Ice had carried it out at the bottom of his pack through the world first, because a boy on a set of steps had said *bring me back a big sword, boss*, and meant it. It had been far too big for him in December. It wasn't now. Rafi had held these steps on the longest night with it, after Bram fell, until the dawn came.
+
+Ice sat down beside him.
+
+"You asked if we're staying," he said.
+
+"You said yes." Rafi grinned. "You said *we're staying*."
+
+"We're staying," said Ice. He looked at the black water in the channel for a while. "You're not."
+
+The grin went. Rafi looked at him, very fast, the way he'd looked at him on the first morning, when Ice had walked onto Sedge's steps covered in fen mud with a sack of silverleaf.
+
+"Boss?"
+
+"Bram and Joy went to the round town," said Ice. "They're in the guild. Kei's guild. Constellation. The one with the dots." He kept looking at the water. "It's twenty people now. It's going to be a lot more than twenty. It's going to be the thing everybody wants to be in, one day. And it should have people in it who held a set of steps all night when nobody asked them to."
+
+"But the steps," said Rafi. "Sedge. The rafts. You pay me to—"
+
+"I'll pick for Sedge," said Ice. "I picked for her before you did."
+
+Rafi didn't say anything for a long time. He looked down at the sword on his knees.
+
+"You're not coming," he said. "To the guild."
+
+"Not yet."
+
+"But you'll come."
+
+"One day," said Ice. "Go and join them first. I'll see you there one day."
+
+Rafi turned the black sword over on his knees, slowly. The blade still kept time a little, the way it always had, a faint hum under the hand. Like a choir a long way off.
+
+"You brought me a big sword," he said. "From the church. I said *bring me back a big sword, boss*, and you did."
+
+"I did."
+
+"So I should go somewhere with it," said Rafi slowly, working it out. "Somewhere bigger than a step."
+
+"That's the idea."
+
+From the doorway at the top of the steps, Sedge took her pipe out of her mouth.
+
+"Go on, boy," she said. "The steps'll keep. I kept them eleven years with nobody on them." She put the pipe back. "Write to me. The swamp guy'll read it out."
+
+Rafi looked up at her. Then at Ice. And then he grinned again, the old grin, the one from the first morning, so wide it looked painful.
+
+"Do I have to stop calling you boss?"
+
+"You can call me whatever you want," said Ice. "I'm not your boss in there. Kei is."
+
+"Kei's not a boss. Kei's got a *map*."
+
+"That's worse," said Ice.
+
+Rafi laughed. Then he stood up, with the black sword in his hand, and looked north up the north walk, the way Ice had looked north from behind the ninth heron. Then south, down the causeway, toward the river road and the plain road and a round town where seven roads met.
+
+"I'll tell them the swamp guy sent me," he said.
+
+"Don't," said Ice. "Tell them you walked."
+
+He left at dawn. Ice watched him go from the end of the causeway bridge, where he'd waited for Gabe in January. A boy with a black sword on his back, going away across the fen toward the fields in the first light, not looking back. Like all of them.
+
+***
+
+They went to the ring that night, at moonrise, before he left. Dark.
 
 [ Chat · 22,410 watching
 ⚔ titanium_ii_fluoride: !dark
@@ -159,5 +225,6 @@ Ice laughed.
 !dark (95) · Home: Fernwick (Rafi: "Are you *staying*?")
 Gabe: going to get Dest's lot (Rachael Monday, Calvin Wednesday, Dennis at the café)
 Sedge: "They're going home… where the herons look… That's where they go to finish."
+Rafi: south, to the round town ("Go and join them first. I'll see you there one day.")
 The jar: 81 lights, north · The ninth heron: looking north
 ]
