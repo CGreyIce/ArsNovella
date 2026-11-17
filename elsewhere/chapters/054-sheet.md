@@ -147,7 +147,7 @@ Newish was in a town by a lake, at two in the morning her time, ragebaiting all 
 
 And Winter was somewhere cold.
 
-She was the furthest north of any of them, Chris worked out later: a fishing village on a grey sea, under snow, with long black boats pulled up on the shingle and nets drying on frames. A girl called Winter in a town in the winter. Ice would have made the joke. Ice *did* make the joke, on the poly chat, ten minutes after she told them. Winter told him to shut up, flatly, and then laughed when she thought nobody could hear.
+She was the furthest north of any of them, Chris worked out later: a fishing village on a grey sea, under snow, with long black boats pulled up on the shingle and nets drying on frames. A girl called Winter in a town in the winter. Ice would have made the joke. Ice *did* make the joke, in a message to Chris ten minutes after she told them, and Chris read it out. Winter said *tell him to shut up*, flatly, and then laughed when she thought nobody could hear.
 
 She'd built herself as her model. Two short black horns curving back from her head. Silver-white hair so long it went past her waist. One eye pale blue and one eye pink, calm and half-lidded. She'd taken a harpoon off the rack, of all things. She said she wanted to throw something heavy at something far away. Then she'd taken Fishing and Fletching, because the sea was there, and because she wanted to make her own.
 
