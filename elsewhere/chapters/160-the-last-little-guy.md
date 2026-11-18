@@ -14,7 +14,7 @@ It didn't help.
 ◆ Hanarisu: ICE WHAT
 ]
 
-"*Hana*," said Milli, in the corner of the screen. She was in her kitchen in the Netherlands with the evening light behind her. She had a mug in both hands, and she hadn't drunk from it in ten minutes. "Hana, did you know?"
+"*Hana*," said Milli, in the corner of the screen. He was in his kitchen in the Netherlands with the evening light behind him. He had a mug in both hands, and he hadn't drunk from it in ten minutes. "Hana, did you know?"
 
 "*No!*"
 
@@ -28,7 +28,7 @@ Hana looked at her messages. Jared was at work, in a cupboard probably. He'd sen
 
 "I don't *know*, Milli."
 
-They watched the rest of it in silence. Not real silence. Hana kept making small sounds, and Milli kept saying *oh* under her breath. On the screen a small woman in plain black went down on one knee and drew to full and held. And the man Hana had known for years walked straight down the line of her arrow, and then wasn't there. And then it was over, and the number in the corner said two hundred thousand, and Hana put her phone face down on the duvet and lay there looking at the ceiling.
+They watched the rest of it in silence. Not real silence. Hana kept making small sounds, and Milli kept saying *oh* under his breath. On the screen a small woman in plain black went down on one knee and drew to full and held. And the man Hana had known for years walked straight down the line of her arrow, and then wasn't there. And then it was over, and the number in the corner said two hundred thousand, and Hana put her phone face down on the duvet and lay there looking at the ceiling.
 
 "Hana," said Milli's voice, small and tinny, from under the phone.
 
@@ -38,7 +38,7 @@ They watched the rest of it in silence. Not real silence. Hana kept making small
 
 Hana turned the phone back over.
 
-Milli was looking at her from the kitchen, eleven thousand kilometres away. Calm, the way Milli was calm. Her hair was falling out of its clip, and the mug was still full.
+Milli was looking at her from the kitchen, eleven thousand kilometres away. Calm, the way Milli was calm. The mug was still full.
 
 "Everybody," said Milli. "At that Hall. In that town. Did you see the crowd? Everybody we know. Thea's lot are in now, they went last month. Ice is there. Hyv. Gabe. Xav's lot. Kei. Higu. Everybody." She turned the mug round in her hands. "Except us. And Leaka and Curse."
 
@@ -70,7 +70,7 @@ So she'd learned how. All spring and all summer. Excavation, one careful skill a
 
 Some of them had hats. Some had cloaks. Some carried packs. One carried another one on his back, which had made her cry on stream for ten minutes. They walked in a line, one behind the other, all in the same direction, deeper and deeper into the tunnel, into the dark. Every one of them held a little light up in front of them. A lantern, or a torch, or a candle in a cupped hand.
 
-She'd counted them. Three hundred and eleven, by July. Three hundred and forty by the middle of August. And every night Milli sat on the ledge outside the tunnel mouth with her knees up and asked if it was closer.
+She'd counted them. Three hundred and eleven, by July. Three hundred and forty by the middle of August. And every night Milli sat on the ledge outside the tunnel mouth with his knees up and asked if it was closer.
 
 *Is it closer?* That was a thing they'd said since the beginning. Since the eighth night, on the ledge, when Milli had said it about everything. About each other. About Singapore and the Netherlands. *It feels closer in here. Two feet every night. And eleven thousand every morning.*
 
@@ -193,7 +193,7 @@ Hana laughed. She laughed and cried at once, with the gold star in her hand, on 
 
 "It's after the wall," said Hana.
 
-Milli leaned her head on Hana's shoulder.
+Milli leaned his head on Hana's shoulder.
 
 "Then we go," said Milli.
 
@@ -205,7 +205,7 @@ Hana looked down at the star. Then at the sea quarry, where she'd woken up on a 
 
 "I didn't mean to be the last. I just wanted to finish the wall."
 
-"I know," said Milli. "You finished it." She took Hana's hand, the one without the star in it. "You're not the last. You're the ones who finished something first. That's different."
+"I know," said Milli. "You finished it." He took Hana's hand, the one without the star in it. "You're not the last. You're the ones who finished something first. That's different."
 
 Jared came out of the tunnel mouth behind them with the lantern and a beam over his shoulder. He'd taken it down from the last stretch, because he said he wasn't leaving a beam where nobody'd need it. He looked at the two of them on the ledge.
 
@@ -265,7 +265,7 @@ Hana showed him the star. He looked at it a long time.
 
 "Huh," said the harbourmaster. "Well. Somebody knew." He put his hat back on the stone hand. "Go on, then. Mind the stairs."
 
-They went up the wooden stairs out of the sea quarry for the last time. Hana first, with her pick. Then Milli with her knife and her skinning roll. Then Jared at the back with the lantern and the last beam over his shoulder, which he wouldn't leave behind.
+They went up the wooden stairs out of the sea quarry for the last time. Hana first, with her pick. Then Milli with his knife and his skinning roll. Then Jared at the back with the lantern and the last beam over his shoulder, which he wouldn't leave behind.
 
 The road went north and west along the cliffs, then turned inland up a river valley toward the Riverlands. Four days to Merrowgate, the map said. Then another six to the round town.
 
@@ -277,7 +277,7 @@ On the second night, by a fire on the river bank, Milli said, "When we do it."
 
 Hana looked up. Jared, on the other side of the fire, very carefully became extremely interested in his boots.
 
-They'd been saying *when we do it* for a long time. Since before the game. Since the first time Milli got on a plane to Singapore and they met at the airport, and Hana jumped on her back. They'd been saying it out there, in the real world, on calls, at eleven thousand kilometres. One day. When it was time. When the eleven thousand was zero.
+They'd been saying *when we do it* for a long time. Since before the game. Since the first time Milli got on a plane to Singapore and they met at the airport, and Hana jumped on his back. They'd been saying it out there, in the real world, on calls, at eleven thousand kilometres. One day. When it was time. When the eleven thousand was zero.
 
 "When we do it," said Milli, "I want it to be somewhere with a view."
 
@@ -285,11 +285,11 @@ Hana thought about it.
 
 "In here?" she said. "Or out there?"
 
-Milli smiled. She looked at the fire, and the river going past black in the dark, and the stars over the Riverlands. More of them than there'd ever been over Singapore or the Netherlands.
+Milli smiled. He looked at the fire, and the river going past black in the dark, and the stars over the Riverlands. More of them than there'd ever been over Singapore or the Netherlands.
 
 "Out there," said Milli. "In here we already are."
 
-Hana didn't say anything for a while. She put her hand out on the grass between them, flat, and Milli put hers on top of it.
+Hana didn't say anything for a while. She put her hand out on the grass between them, flat, and Milli put his on top of it.
 
 "Y'all are disgusting," said Jared, from the other side of the fire, to his boots.
 

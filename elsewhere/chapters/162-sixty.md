@@ -149,7 +149,7 @@ She looked at the page. Fifty-five names. She could read some of them upside dow
 
 She signed. *Hanarisu*. In black ink, because it was Ama Corrie's pen. The ordinary size.
 
-Then she held the pen out to Milli. And Milli, instead of signing on the next line down, leaned over the counter and signed on the line directly under Hana's. So close the tails of her letters touched the tops of Hana's. *Millianna.*
+Then she held the pen out to Milli. And Milli, instead of signing on the next line down, leaned over the counter and signed on the line directly under Hana's. So close the tails of his letters touched the tops of Hana's. *Millianna.*
 
 Ama Corrie looked at the two names for a long time.
 
@@ -246,7 +246,7 @@ Ice didn't say anything. But after a moment he took his feet down off the rung o
 
 ***
 
-That evening, by the window, Milli sat in her chair next to Hana's. Somebody had set out five more chairs at the end of the long table, past Thea's six. Nobody had seen her do it. Nobody needed to ask who.
+That evening, by the window, Milli sat in his chair next to Hana's. Somebody had set out five more chairs at the end of the long table, past Thea's six. Nobody had seen her do it. Nobody needed to ask who.
 
 The sun was going down over the west road. The silver lines would come out soon on the ceiling of the dome. Somebody had told Hana they came out at moonrise, every single night, and she meant to stay up and watch.
 
@@ -256,7 +256,7 @@ Hana looked at her. At the window, and the long table, and the room full of ever
 
 "It's here," said Hana.
 
-Milli smiled. She put her hand flat on the arm of her chair, and Hana put hers on top of it.
+Milli smiled. He put his hand flat on the arm of his chair, and Hana put hers on top of it.
 
 Two feet. And eleven thousand every morning, out there.
 
