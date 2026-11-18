@@ -14,6 +14,12 @@
 
 ***Live from Elsewhere*** lives in `elsewhere/` and builds to `docs/elsewhere/`. It's hidden one level deeper: on the Voyager page the **Slow reveal** tag opens a sign-in box (checked against a SHA-256 hash in `reader.js`, so the login isn't in the source), and the Elsewhere page's **LitRPG** tag links back to Voyager. Its progress and comments are separate (`arsnovella.progress.elsewhere`, `elsewhere_comments`). Add its chapters under `elsewhere/chapters/`. Set `ARS_ELSEWHERE=0` to build without it.
 
+## The sealed shelf (private)
+
+The BPL novel is encrypted, not just hidden. Its chapters live outside this repo in `bpl-novel/chapters/` (same front matter as above). `python bpl-novel/tools/seal.py` encrypts them with AES-GCM (key from the passphrase in `bpl-novel/local/passphrase.txt` via PBKDF2-SHA256, 600,000 rounds) into `sealed/`, which holds only ciphertext plus the public salt. `build.py` turns `sealed/` into `docs/summit/`: a lock page where `src/shelf.js` decrypts the book in the browser. The passphrase never leaves the browser; "Remember on this device" keeps the derived key, and **Lock** forgets it.
+
+The door is the Fisherman page's **by CGreyIce** byline. Never copy plain chapters, the bible or the passphrase into this repo. To add a chapter: write it in `bpl-novel/chapters/`, run `seal.py`, then `python build.py`, commit and push. To change the passphrase: edit the file and run `seal.py` again (it re-encrypts everything under a new salt).
+
 ## Reader features
 
 - Reader settings (saved in the browser): theme (Dark, Light, Sepia, Lake, or custom colours), font, size, line and paragraph spacing, text width.

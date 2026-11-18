@@ -9,6 +9,11 @@ A third novel, Live from Elsewhere (elsewhere/ -> docs/elsewhere/), is hidden on
 deeper: Voyager's "Slow reveal" tag opens a sign-in box (checked by hash in reader.js),
 and Elsewhere's "LitRPG" tag links back. Set ARS_ELSEWHERE=0 to build without it.
 
+A fourth, private shelf is sealed: sealed/ holds only AES-GCM ciphertext (made outside this
+repo by bpl-novel/tools/seal.py) and builds to docs/summit/, a lock page that decrypts in the
+browser with a passphrase. The Fisherman page's "by CGreyIce" byline is the door.
+ARS_SEALED=<dir> builds from another sealed folder (for testing).
+
 Usage: python build.py
        ARS_OUT=<dir> python build.py   (build somewhere other than docs/)
 
@@ -37,6 +42,8 @@ SRC = ROOT / "src"
 SITE = "https://cgreyice.github.io/ArsNovella/"
 OUT = Path(os.environ["ARS_OUT"]) if os.environ.get("ARS_OUT") else ROOT / "docs"
 ELSEWHERE_ON = os.environ.get("ARS_ELSEWHERE", "1") == "1"
+SEALED = Path(os.environ["ARS_SEALED"]) if os.environ.get("ARS_SEALED") else ROOT / "sealed"
+SUMMIT_ON = (SEALED / "shelf.json").exists()
 FONTS = ("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400"
          "&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap")
 WPM = 230
@@ -413,7 +420,7 @@ def series_page(novel, chapters, cfg):
       <p class="eyebrow">{esc(novel["short_title"])}</p>
       <h1>{esc(novel["title"])}</h1>
       <p class="tagline">{esc(novel["tagline"])}</p>
-      <p class="byline">by {esc(novel["author"])}</p>
+      <p class="byline">by {f'<a class="quiet" href="{esc(cfg["door"])}">{esc(novel["author"])}</a>' if cfg.get("door") else esc(novel["author"])}</p>
       <ul class="chips"><li>{esc(novel["status"])}</li><li>{len(chapters)} chapter{"s" if len(chapters) != 1 else ""}</li><li>{total_words:,} words</li></ul>
       <div class="cta">
         {cta}
@@ -494,6 +501,44 @@ ELSEWHERE = {"key": "elsewhere", "dir": ROOT / "elsewhere", "out": "elsewhere/",
 if ELSEWHERE_ON:
     VOYAGER["tag_links"]["Slow reveal"] = ("signin", "../elsewhere/")
 NOVELS = (FISHERMAN, VOYAGER, ELSEWHERE) if ELSEWHERE_ON else (FISHERMAN, VOYAGER)
+SUMMIT = {"key": "summit", "comments": ""}
+if SUMMIT_ON:
+    FISHERMAN["door"] = "summit/"
+
+
+def summit_page():
+    """The sealed shelf: a lock screen, then shelf.js decrypts the list and chapters in place.
+    Nothing readable is in the page itself, not even the book's title."""
+    lock = icon("close")
+    return head("ArsNovella", "", "", '<meta name="robots" content="noindex, nofollow">\n'
+                '<script src="assets/shelf.js" defer></script>\n', SUMMIT) + f"""<body class="summit">
+<header class="topbar">
+  <a class="brand" href="#/">{icon("book")}<span data-brand>ArsNovella</span></a>
+  <div class="tools">
+    <a class="tool" href="#/" data-list-btn hidden>{icon("list")}<span>Chapters</span></a>
+    <button type="button" class="tool" data-open-settings title="Reader settings">{icon("settings")}<span>Settings</span></button>
+    <button type="button" class="tool" data-lock hidden title="Lock and forget the key on this device">{lock}<span>Lock</span></button>
+  </div>
+  <div class="progress" aria-hidden="true"><div class="progress-bar"></div></div>
+</header>
+<main class="wrap summit-wrap">
+  <section class="lock-screen" data-lockview>
+    <h1>Locked</h1>
+    <p class="meta">Type the passphrase to open it.</p>
+    <form class="code-form" data-lock-form autocomplete="off" novalidate>
+      <label><span class="sr">Passphrase</span><input name="pass" type="password" maxlength="200" placeholder="Passphrase" autocomplete="current-password" autocapitalize="off" autocorrect="off" spellcheck="false"></label>
+      <button type="submit" class="btn primary">Unlock</button>
+    </form>
+    <label class="remember"><input type="checkbox" checked data-remember> Remember on this device</label>
+    <p class="code-msg" data-lock-msg aria-live="polite"></p>
+  </section>
+  <section data-listview hidden></section>
+  <section data-readview hidden></section>
+</main>
+{settings_drawer()}
+</body>
+</html>
+"""
 
 
 def load_chapters(folder):
@@ -532,6 +577,19 @@ def main():
             write(f'{out}read/{c["n"]}/index.html', chapter_page(novel, chapters, i, cfg))
         print(f"{novel['short_title']}: {len(chapters)} chapter(s), "
               f"{sum(c['words'] for c in chapters):,} words -> {OUT / out}")
+    if SUMMIT_ON:
+        for f in ("reader.css", "reader.js", "shelf.js"):
+            write(f"summit/assets/{f}", (SRC / f).read_text(encoding="utf-8"))
+        write("summit/index.html", summit_page())
+        n = 0
+        for p in sorted(SEALED.rglob("*")):
+            if p.is_file() and (p.suffix == ".enc" or p.name == "shelf.json"):
+                dst = OUT / "summit" / "data" / p.relative_to(SEALED)
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                dst.write_bytes(p.read_bytes())
+                written.add(dst.resolve())
+                n += p.suffix == ".enc"
+        print(f"Sealed shelf: {n} encrypted file(s) -> {OUT / 'summit'}")
     for p in OUT.rglob("*"):
         if p.is_file() and p.resolve() not in written:
             p.unlink()

@@ -196,3 +196,15 @@ kbd { padding: 1px 6px; border: 1px solid var(--border); border-bottom-width: 2p
 .c-text { margin: 4px 0 0; white-space: pre-wrap; overflow-wrap: anywhere; line-height: 1.55; }
 .c-empty { margin: 14px 0 0; color: var(--muted); }
 .c-empty[hidden] { display: none; }
+
+/* ---------- sealed shelf (summit/) ---------- */
+body.summit [hidden] { display: none !important; }
+.byline a.quiet { color: inherit; text-decoration: none; }
+.summit-wrap { max-width: 980px; margin: 0 auto; padding-top: 32px; }
+body.reader .summit-wrap { max-width: none; padding-top: 0; }
+.lock-screen { max-width: 420px; margin: 14vh auto 0; display: grid; gap: 12px; justify-items: center; text-align: center; }
+.lock-screen h1 { margin: 0; font-size: 28px; }
+.lock-screen .code-form { justify-content: center; }
+.lock-screen .code-form input { width: min(260px, 70vw); }
+.remember { display: inline-flex; gap: 8px; align-items: center; font-size: 14px; color: var(--muted); cursor: pointer; }
+.summit-head h1 { margin: 0 0 4px; font-size: clamp(24px, 4vw, 34px); line-height: 1.15; text-wrap: balance; }

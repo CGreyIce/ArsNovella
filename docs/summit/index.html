@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en" data-novel="summit">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ArsNovella</title>
+<meta name="description" content="">
+<meta property="og:title" content="ArsNovella">
+<meta property="og:description" content="">
+<meta property="og:type" content="book">
+<meta name="theme-color" content="#15181d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="assets/reader.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2315181d'/%3E%3Ccircle cx='42' cy='22' r='9' fill='%23e9eef2'/%3E%3Cpath d='M10 44h44' stroke='%237cc4e8' stroke-width='4' stroke-linecap='round'/%3E%3Cpath d='M16 52h32' stroke='%237cc4e8' stroke-width='3' stroke-linecap='round' opacity='.6'/%3E%3C/svg%3E">
+<meta name="robots" content="noindex, nofollow">
+<script src="assets/shelf.js" defer></script>
+<script src="assets/reader.js"></script>
+</head>
+<body class="summit">
+<header class="topbar">
+  <a class="brand" href="#/"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span data-brand>ArsNovella</span></a>
+  <div class="tools">
+    <a class="tool" href="#/" data-list-btn hidden><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg><span>Chapters</span></a>
+    <button type="button" class="tool" data-open-settings title="Reader settings"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/></svg><span>Settings</span></button>
+    <button type="button" class="tool" data-lock hidden title="Lock and forget the key on this device"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg><span>Lock</span></button>
+  </div>
+  <div class="progress" aria-hidden="true"><div class="progress-bar"></div></div>
+</header>
+<main class="wrap summit-wrap">
+  <section class="lock-screen" data-lockview>
+    <h1>Locked</h1>
+    <p class="meta">Type the passphrase to open it.</p>
+    <form class="code-form" data-lock-form autocomplete="off" novalidate>
+      <label><span class="sr">Passphrase</span><input name="pass" type="password" maxlength="200" placeholder="Passphrase" autocomplete="current-password" autocapitalize="off" autocorrect="off" spellcheck="false"></label>
+      <button type="submit" class="btn primary">Unlock</button>
+    </form>
+    <label class="remember"><input type="checkbox" checked data-remember> Remember on this device</label>
+    <p class="code-msg" data-lock-msg aria-live="polite"></p>
+  </section>
+  <section data-listview hidden></section>
+  <section data-readview hidden></section>
+</main>
+<div class="scrim" data-close hidden></div>
+<aside class="drawer" id="settings" aria-label="Reader settings" aria-hidden="true">
+  <div class="drawer-head"><h2>Reader settings</h2><button type="button" class="icon-btn" data-close aria-label="Close settings"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>
+  <div class="drawer-body">
+    <section><h3>Theme</h3><div class="seg" data-setting="theme" role="group"><button type="button" data-value="dark">Dark</button><button type="button" data-value="light">Light</button><button type="button" data-value="sepia">Sepia</button><button type="button" data-value="lake">Lake</button></div>
+      <div class="colors"><label>Background <input type="color" data-setting="bg"></label><label>Text <input type="color" data-setting="fg"></label><button type="button" class="link" data-clear-colors>Use theme colours</button></div>
+    </section>
+    <section><h3>Font</h3><div class="seg" data-setting="font" role="group"><button type="button" data-value="sans">Default</button><button type="button" data-value="georgia">Georgia</button><button type="button" data-value="lora">Lora</button><button type="button" data-value="legible">Hyperlegible</button></div></section>
+    <section>
+      <label class="row"><span class="lbl">Font size <output data-out="size"></output></span><input type="range" data-setting="size" min="12" max="32" step="1" data-unit="px"></label>
+      <label class="row"><span class="lbl">Line spacing <output data-out="lh"></output></span><input type="range" data-setting="lh" min="1.2" max="2.4" step="0.1" data-unit="×"></label>
+      <label class="row"><span class="lbl">Paragraph spacing <output data-out="ps"></output></span><input type="range" data-setting="ps" min="0" max="3" step="0.1" data-unit="em"></label>
+      <label class="row"><span class="lbl">Text width <output data-out="width"></output></span><input type="range" data-setting="width" min="40" max="100" step="1" data-unit="%"></label>
+    </section>
+    <p class="note">Chapters are plain, semantic HTML, so your browser's own reader view works too. <kbd>←</kbd> <kbd>→</kbd> change chapter.</p>
+    <button type="button" class="btn ghost" data-reset>Reset to defaults</button>
+  </div>
+</aside>
+</body>
+</html>
