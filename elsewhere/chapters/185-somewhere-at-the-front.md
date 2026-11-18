@@ -235,15 +235,15 @@ Wendy made a noise that wasn't a word.
 nightowl_kr: BEYOND FORM
 kittycatsoup: SALTY GOT BEYOND FORM
 lowkeyfrog: 104 ON A GREATSWORD
-◆ dumbo: only the second one ever posted. the first was ice's falling cut in december
-◆ dumbo: 103
-◆ dumbo: salty beat it by one
-◆ Nikorasu: right size
-◆ Nikorasu: it's the right size
-⚔ titanium_ii_fluoride: salty if you can read this in the egg you can't but you're an idiot and we love you
+tehpeng: only the second one anyone's ever posted
+tehpeng: the first was ice's falling cut. the drowned choir. 103
+mangoes4ever: salty beat it by one
+gr8grape: right size
+lowkeyfrog: it's the RIGHT SIZE
+Nightbot: Tif's in the egg. Behave. She'll know if you don't.
 ]
 
-He couldn't read it. He was in the egg. Tif told him afterward. He didn't need to read it.
+He couldn't read it. Nobody in the round town could; they were all in the egg. Tif read it out to him afterward, at the long table, in a voice that wasn't quite steady. He didn't need to read it.
 
 ***
 
@@ -291,7 +291,7 @@ The three at a run, and behind them **the dark itself, edge to edge, a wave, lea
 All night: Wendy's four arrows, Kite, Thea's Turn and Gigi's thorn, Xola glaring · **Azac: "*I'm a wall*."** RX, Ryan · Gabe's three on the fire (Gabe shouting; Rae Mending; Calvin: "*Salty, Rae. Salty.*")
 **Five o'clock: the big ones, the height of the door** · Thea went back a pace · Azac's shield white with frost · **the heron of night over the middle, leaning at the fire**
 **He stepped out, one pace, somewhere at the front** · **[ Greatblade · Full Turn · Grade 104% · *Beyond Form* ]** · it fell sideways, away from the door · **the whole wave leaned back** · [ Salty · 9% ] · Wendy had his belt · "I wasn't alone. You had my belt."
-Chat: only the second Beyond Form ever posted; Ice's Falling Cut was 103 · Niko: "right size"
+Chat (outside viewers only; everyone's in the egg): only the second Beyond Form anyone's posted; Ice's Falling Cut was 103 · "it's the RIGHT SIZE"
 5:20: "Okay." (he meant it more than he'd ever meant it)
 **6:30, John: "*The lamps. They're coming back on.*" Higu: "*Somebody's lighting them one at a time. From the north.*"** · "*Okay. Come on, then.*"
 ]
